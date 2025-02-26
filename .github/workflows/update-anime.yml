@@ -39,5 +39,5 @@ jobs:
             * 更新时间: $(date +%Y-%m-%d)
             * 更新月份: $(date +%Y-%m)
           branch: update-anime-schedule
-          base: main
+          base: master
           delete-branch: true
