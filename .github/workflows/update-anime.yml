@@ -8,6 +8,8 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
+  repository-projects: write
 
 jobs:
   update-anime:
@@ -43,5 +45,5 @@ jobs:
             * 更新时间: $(date +%Y-%m-%d)
             * 更新月份: $(date +%Y-%m)
           branch: update-anime-schedule
-          base: master
+          base: main
           delete-branch: true
