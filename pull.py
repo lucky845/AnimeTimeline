@@ -48,15 +48,17 @@ def sanitize_filename(name):
     return name
 
 
-async def get_total_pages(session: aiohttp.ClientSession, year: int, month: int) -> int:
+async def get_total_pages(session: aiohttp.ClientSession, year: int, month: Optional[int] = None) -> int:
     """
-    异步获取指定年月的总页数
+    异步获取总页数
     :param session: aiohttp会话
     :param year: 动漫年份
-    :param month: 动漫月份
+    :param month: 动漫月份（可选）
     :return: 总页数 (int)
     """
-    url = f"https://bangumi.tv/anime/browser/airtime/{year}-{month:02d}?sort=date"
+    # 根据是否提供月份构造不同的URL
+    url = f"https://bangumi.tv/anime/browser/airtime/{year}?sort=date" if month is None else \
+          f"https://bangumi.tv/anime/browser/airtime/{year}-{month:02d}?sort=date"
     retries = 3
     while retries > 0:  # 重试3次
         try:
@@ -91,7 +93,7 @@ async def get_total_pages(session: aiohttp.ClientSession, year: int, month: int)
                 await asyncio.sleep(5)
     return 0
 
-async def scrape_page(session: aiohttp.ClientSession, url: str, year: int, month: int) -> List[Dict]:
+async def scrape_page(session: aiohttp.ClientSession, url: str, year: int, month: Optional[int] = None) -> List[Dict]:
     """异步爬取单个页面的动漫信息"""
     anime_list = []
     retries = 3
@@ -172,11 +174,13 @@ async def scrape_page(session: aiohttp.ClientSession, url: str, year: int, month
     print(f"跳过页面：{url}")
     return []
 
-async def scrape_anime_info(session: aiohttp.ClientSession, year: int, month: int, total_pages: int) -> List[Dict]:
+async def scrape_anime_info(session: aiohttp.ClientSession, year: int, month: Optional[int], total_pages: int) -> List[Dict]:
     """
-    异步爬取指定年月的所有动漫信息
+    异步爬取指定年月或整年的动漫信息
     """
-    base_url = f"https://bangumi.tv/anime/browser/airtime/{year}-{month:02d}?sort=date&page="
+    # 根据是否提供月份构造不同的URL
+    base_url = f"https://bangumi.tv/anime/browser/airtime/{year}?sort=date&page=" if month is None else \
+               f"https://bangumi.tv/anime/browser/airtime/{year}-{month:02d}?sort=date&page="
     tasks = []
     
     for page in range(1, total_pages + 1):
@@ -213,16 +217,33 @@ def process_year_input(year_str):
 
 def process_month_input():
     """
-    处理月份输入
-    :return: 月份数字或None
+    处理月份输入，支持单月和月份范围
+    :return: (start_month, end_month) 元组或 (None, None)
     """
-    month = input("请输入要爬取的月份（1-12，直接回车则查询整年）：").strip()
+    month = input("请输入要爬取的月份（1-12，支持范围如1-6，直接回车则查询整年）：").strip()
     if not month:  # 直接回车
-        return None
-    if not month.isdigit() or not (1 <= int(month) <= 12):
-        print("请输入有效的月份（1-12）！")
-        exit()
-    return int(month)
+        return None, None
+    
+    if '-' in month:
+        # 处理月份范围
+        try:
+            start_month, end_month = map(int, month.split('-'))
+            if not (1 <= start_month <= 12 and 1 <= end_month <= 12):
+                print("请输入有效的月份范围（1-12）！")
+                exit()
+            if start_month > end_month:
+                start_month, end_month = end_month, start_month
+            return start_month, end_month
+        except ValueError:
+            print("请输入有效的月份范围！例如：1-6")
+            exit()
+    else:
+        # 处理单月
+        if not month.isdigit() or not (1 <= int(month) <= 12):
+            print("请输入有效的月份（1-12）！")
+            exit()
+        month = int(month)
+        return month, month
 
 def create_folder(year, month=None):
     """
@@ -371,11 +392,25 @@ async def scrape_year_month(session: aiohttp.ClientSession, year: int, month: in
 async def scrape_year(session: aiohttp.ClientSession, year: int, current_year: int, current_month: int) -> List[Dict]:
     """异步爬取指定年份的所有动漫信息"""
     print(f"\n开始处理 {year} 年的数据...")
-    end_month = current_month if year == current_year else 12
-    tasks = [scrape_year_month(session, year, m, current_year, current_month) 
-             for m in range(1, end_month + 1)]
-    results = await asyncio.gather(*tasks)
-    return [item for sublist in results for item in sublist]
+    
+    # 如果是当前年份，按月份获取数据
+    if year == current_year:
+        end_month = current_month
+        tasks = [scrape_year_month(session, year, m, current_year, current_month) 
+                 for m in range(1, end_month + 1)]
+        results = await asyncio.gather(*tasks)
+        return [item for sublist in results for item in sublist]
+    
+    # 如果是历史年份，直接获取整年数据
+    print(f"\n正在获取 {year} 年的总页数...")
+    total_pages = await get_total_pages(session, year)
+    if total_pages > 0:
+        print(f"{year} 年共有 {total_pages} 页。")
+        print("开始爬取番剧信息...")
+        anime_list = await scrape_anime_info(session, year, None, total_pages)
+        print(f"完成 {year} 年的爬取，获取 {len(anime_list)} 部番剧信息。")
+        return anime_list
+    return []
 
 async def main():
     global SEMAPHORE
@@ -395,31 +430,32 @@ async def main():
         print(f"结束年份已调整为当前年份：{current_year}")
     
     # 如果是年份范围，不需要输入月份
-    month = None if start_year != end_year else process_month_input()
+    start_month, end_month = (None, None) if start_year != end_year else process_month_input()
     
     all_anime_list = []
     
     async with aiohttp.ClientSession() as session:
-        if month is None:
+        if start_month is None:
             # 按年份范围查询，每年并发
             tasks = [scrape_year(session, year, current_year, current_month) 
                      for year in range(start_year, end_year + 1)]
             results = await asyncio.gather(*tasks)
             all_anime_list = [item for sublist in results for item in sublist]
         else:
-            # 按单年单月查询
+            # 按年月范围查询
             for year in range(start_year, end_year + 1):
-                anime_list = await scrape_year_month(session, year, month, current_year, current_month)
-                all_anime_list.extend(anime_list)
+                for month in range(start_month, end_month + 1):
+                    anime_list = await scrape_year_month(session, year, month, current_year, current_month)
+                    all_anime_list.extend(anime_list)
     
     print(f"\n所有爬取完成，共获取 {len(all_anime_list)} 部番剧信息。")
     
     # 3. 创建输出文件夹并保存文件
     for year in range(start_year, end_year + 1):
-        if month is None:
+        if start_month is None:
             # 按年份查询时，为每个月创建单独的文件夹
-            end_month = current_month if year == current_year else 12
-            for m in range(1, end_month + 1):
+            end_month_in_year = current_month if year == current_year else 12
+            for m in range(1, end_month_in_year + 1):
                 # 过滤出当前年月的动漫
                 current_month_anime = [anime for anime in all_anime_list 
                                      if anime['年'] == year and anime['月'] == m]
@@ -427,13 +463,14 @@ async def main():
                     month_folder = create_folder(year, m)
                     save_to_markdown(current_month_anime, month_folder)
         else:
-            # 按年月查询时，只创建指定月份的文件夹
-            if not (year == current_year and month > current_month):
-                current_month_anime = [anime for anime in all_anime_list 
-                                     if anime['年'] == year and anime['月'] == month]
-                if current_month_anime:
-                    month_folder = create_folder(year, month)
-                    save_to_markdown(current_month_anime, month_folder)
+            # 按年月范围查询时，创建指定月份范围的文件夹
+            for m in range(start_month, end_month + 1):
+                if not (year == current_year and m > current_month):
+                    current_month_anime = [anime for anime in all_anime_list 
+                                         if anime['年'] == year and anime['月'] == m]
+                    if current_month_anime:
+                        month_folder = create_folder(year, m)
+                        save_to_markdown(current_month_anime, month_folder)
 
 if __name__ == "__main__":
     asyncio.run(main())
