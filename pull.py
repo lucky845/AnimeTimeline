@@ -351,6 +351,32 @@ def save_to_markdown(anime_list, folder_path):
         else:
             print(f"日期 {date_key} 没有新增番剧信息")
 
+async def scrape_year_month(session: aiohttp.ClientSession, year: int, month: int, current_year: int, current_month: int) -> List[Dict]:
+    """异步爬取指定年月的动漫信息"""
+    # 检查是否超过当前月份
+    if year == current_year and month > current_month:
+        print(f"跳过 {year} 年 {month} 月，因为超过当前月份。")
+        return []
+    
+    print(f"\n正在获取 {year} 年 {month} 月的总页数...")
+    total_pages = await get_total_pages(session, year, month)
+    if total_pages > 0:
+        print(f"{year} 年 {month} 月共有 {total_pages} 页。")
+        print("开始爬取番剧信息...")
+        anime_list = await scrape_anime_info(session, year, month, total_pages)
+        print(f"完成 {year} 年 {month} 月的爬取，获取 {len(anime_list)} 部番剧信息。")
+        return anime_list
+    return []
+
+async def scrape_year(session: aiohttp.ClientSession, year: int, current_year: int, current_month: int) -> List[Dict]:
+    """异步爬取指定年份的所有动漫信息"""
+    print(f"\n开始处理 {year} 年的数据...")
+    end_month = current_month if year == current_year else 12
+    tasks = [scrape_year_month(session, year, m, current_year, current_month) 
+             for m in range(1, end_month + 1)]
+    results = await asyncio.gather(*tasks)
+    return [item for sublist in results for item in sublist]
+
 async def main():
     global SEMAPHORE
     SEMAPHORE = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
@@ -374,38 +400,17 @@ async def main():
     all_anime_list = []
     
     async with aiohttp.ClientSession() as session:
-        # 2. 遍历年份范围
-        for year in range(start_year, end_year + 1):
-            if month is None:
-                # 按年份查询
-                print(f"\n开始处理 {year} 年的数据...")
-                # 确定结束月份
-                end_month = current_month if year == current_year else 12
-                for m in range(1, end_month + 1):
-                    print(f"\n正在获取 {year} 年 {m} 月的总页数...")
-                    total_pages = await get_total_pages(session, year, m)
-                    if total_pages > 0:
-                        print(f"{year} 年 {m} 月共有 {total_pages} 页。")
-                        print("开始爬取番剧信息...")
-                        anime_list = await scrape_anime_info(session, year, m, total_pages)
-                        all_anime_list.extend(anime_list)
-                        print(f"完成 {year} 年 {m} 月的爬取，获取 {len(anime_list)} 部番剧信息。")
-                    await asyncio.sleep(random.uniform(1, 3))  # 随机延迟
-            else:
-                # 按年月查询
-                # 检查是否超过当前月份
-                if year == current_year and month > current_month:
-                    print(f"跳过 {year} 年 {month} 月，因为超过当前月份。")
-                    continue
-                
-                print(f"\n正在获取 {year} 年 {month} 月的总页数...")
-                total_pages = await get_total_pages(session, year, month)
-                if total_pages > 0:
-                    print(f"{year} 年 {month} 月共有 {total_pages} 页。")
-                    print("开始爬取番剧信息...")
-                    anime_list = await scrape_anime_info(session, year, month, total_pages)
-                    all_anime_list.extend(anime_list)
-                    print(f"完成 {year} 年 {month} 月的爬取，获取 {len(anime_list)} 部番剧信息。")
+        if month is None:
+            # 按年份范围查询，每年并发
+            tasks = [scrape_year(session, year, current_year, current_month) 
+                     for year in range(start_year, end_year + 1)]
+            results = await asyncio.gather(*tasks)
+            all_anime_list = [item for sublist in results for item in sublist]
+        else:
+            # 按单年单月查询
+            for year in range(start_year, end_year + 1):
+                anime_list = await scrape_year_month(session, year, month, current_year, current_month)
+                all_anime_list.extend(anime_list)
     
     print(f"\n所有爬取完成，共获取 {len(all_anime_list)} 部番剧信息。")
     
