@@ -19,9 +19,13 @@ EPS_PATTERN = re.compile(r'(\d+)话')
 DATE_PATTERN = re.compile(r'(\d{4})年(\d{1,2})月(\d{1,2})日')
 YEAR_MONTH_PATTERN = re.compile(r'(\d{4})-(\d{1,2})')
 
-# 并发限制
-MAX_CONCURRENT_REQUESTS = 5
+# 并发和连接池配置
+DEFAULT_MAX_CONCURRENT_REQUESTS = 5  # 默认最大并发数
+MAX_CONCURRENT_REQUESTS = None  # 用户自定义最大并发数
 SEMAPHORE = None  # 将在异步函数中初始化
+
+# 连接池配置
+CONNECTOR = None  # aiohttp 连接池
 
 # 替换非法字符的映射表
 ILLEGAL_CHAR_MAP = {
@@ -418,9 +422,34 @@ async def scrape_year(session: aiohttp.ClientSession, year: int, current_year: i
         return anime_list
     return []
 
+def get_max_concurrent_requests():
+    """
+    获取用户自定义的最大并发数
+    :return: 最大并发数
+    """
+    while True:
+        try:
+            max_threads = input(f"请输入最大并发数（直接回车使用默认值 {DEFAULT_MAX_CONCURRENT_REQUESTS}）：").strip()
+            if not max_threads:  # 使用默认值
+                return DEFAULT_MAX_CONCURRENT_REQUESTS
+            max_threads = int(max_threads)
+            if max_threads <= 0:
+                print("并发数必须大于0")
+                continue
+            return max_threads
+        except ValueError:
+            print("请输入有效的数字")
+
 async def main():
-    global SEMAPHORE
+    global SEMAPHORE, MAX_CONCURRENT_REQUESTS, CONNECTOR
+    
+    # 获取用户自定义最大并发数
+    MAX_CONCURRENT_REQUESTS = get_max_concurrent_requests()
+    print(f"使用最大并发数：{MAX_CONCURRENT_REQUESTS}")
+    
+    # 初始化信号量和连接池
     SEMAPHORE = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+    CONNECTOR = aiohttp.TCPConnector(limit=MAX_CONCURRENT_REQUESTS, force_close=False)
     
     # 1. 用户交互输入
     year_input = input("请输入要爬取的年份（支持范围，如：2000-2025）：").strip()
@@ -440,7 +469,7 @@ async def main():
     
     all_anime_list = []
     
-    async with aiohttp.ClientSession() as session:
+    async with aiohttp.ClientSession(connector=CONNECTOR) as session:
         if start_month is None:
             # 按年份范围查询，每年并发
             tasks = [scrape_year(session, year, current_year, current_month) 
