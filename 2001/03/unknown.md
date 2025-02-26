@@ -1,6 +1,0 @@
-# 番剧信息
-
-|放送日期|封面|标题|日文标题|话数|评分|评分人数|
-|---|---|---|---|---|---|---|
-|2001-03|<img src="//lain.bgm.tv/pic/cover/c/ec/30/121749_OJYrJ.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[加油！胖虎！！](https://bangumi.tv/subject/121749)|がんばれ!ジャイアン!!|1|6.8|37人评分|
-|2001-03|<img src="//lain.bgm.tv/pic/cover/c/7d/04/316374_tZ7p2.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[旨茶](https://bangumi.tv/subject/316374)|旨茶|未知|||

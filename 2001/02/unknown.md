@@ -1,6 +1,0 @@
-# 番剧信息
-
-|放送日期|封面|标题|日文标题|话数|评分|评分人数|
-|---|---|---|---|---|---|---|
-|2001-02|<img src="//lain.bgm.tv/pic/cover/c/33/2a/112363_N0064.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[小姐与流浪汉2：狗儿逃家记](https://bangumi.tv/subject/112363)|Lady and the Tramp II: Scamp's Adventure|1|5.6|19人评分|
-|2001-02|<img src="//lain.bgm.tv/pic/cover/c/fb/45/112362_5M9K2.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[暑假历险](https://bangumi.tv/subject/112362)|Recess: School's Out|1|暂无评分|少于10人评分|
