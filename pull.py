@@ -262,8 +262,8 @@ def save_to_markdown(anime_list, folder_path):
             
             # 创建Markdown表格内容
             table_content = "# 番剧信息\n\n"
-            table_content += "|标题|日文标题|话数|年|月|日|评分|评分人数|播放链接|封面|\n"
-            table_content += "|---|---|---|---|---|---|---|---|---|---|\n"
+            table_content += "|放送日期|封面|标题|日文标题|话数|评分|评分人数|\n"
+            table_content += "|---|---|---|---|---|---|---|\n"
             
             for anime in all_animes:
                 # 确保所有字段都存在，如果不存在则使用空字符串
@@ -278,8 +278,15 @@ def save_to_markdown(anime_list, folder_path):
                 play_url = anime.get('播放链接', '')
                 cover_url = anime.get('封面', '')
                 
+                # 处理日期格式
+                date_str = f"{year:04d}-{month:02d}-{day:02d}" if isinstance(day, int) else f"{year:04d}-{month:02d}"
+                
+                # 处理封面图片和标题链接
+                cover_img = f"![封面]({cover_url})" if cover_url else ''
+                title_link = f"[{title}]({play_url})" if play_url and title else title
+                
                 # 添加表格行，处理特殊字符
-                table_content += f"|{title}|{jp_title}|{episodes}|{year}|{month}|{day}|{rating}|{rating_count}|{play_url}|{cover_url}|\n"
+                table_content += f"|{date_str}|{cover_img}|{title_link}|{jp_title}|{episodes}|{rating}|{rating_count}|\n"
             
             # 保存Markdown文件
             with open(output_file, 'w', encoding='utf-8') as f:
