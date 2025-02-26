@@ -1,0 +1,8 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2000-12|<img src="//lain.bgm.tv/pic/cover/c/20/42/104934_4aghC.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[注视着你](https://bangumi.tv/subject/104934)|With You ～みつめていたい～|2|5.1|13人评分|
+|2000-12|<img src="//lain.bgm.tv/pic/cover/c/5e/e7/90015_OlL1Q.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[皮卡丘的寒假2001](https://bangumi.tv/subject/90015)|ピチューとピカチュウのふゆやすみ2001|2|6.3|32人评分|
+|2000-12|<img src="//lain.bgm.tv/pic/cover/c/8a/fc/106696_lkDOr.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[超人洛克 镜之戒](https://bangumi.tv/subject/106696)|超人ロック～ミラーリング～|1|6.0|10人评分|
+|2000-12|<img src="//lain.bgm.tv/pic/cover/c/6e/08/112542_k55i9.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[マリンとヤマト 不思議な日曜日](https://bangumi.tv/subject/112542)||1|暂无评分|少于10人评分|

@@ -1,0 +1,6 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2009-02|<img src="//lain.bgm.tv/pic/cover/c/3e/66/116170_7G7x4.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[芭比之拇指姑娘](https://bangumi.tv/subject/116170)|Barbie Presents Thumbelina|1|5.6|13人评分|
+|2009-02|<img src="//lain.bgm.tv/pic/cover/c/26/4d/131889_V8oau.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[飞出个未来大电影4：绿色狂想](https://bangumi.tv/subject/131889)|Futurama: Into the Wild Green Yonder|1|6.7|21人评分|

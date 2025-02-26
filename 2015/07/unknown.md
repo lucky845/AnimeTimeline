@@ -1,0 +1,18 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/a3/76/132165_zlLZE.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[美人鱼之海盗来袭](https://bangumi.tv/subject/132165)||1|暂无评分|少于10人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/d2/26/131622_q2fwq.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[小王子](https://bangumi.tv/subject/131622)|Le Petit Prince|1|6.6|299人评分|
+|2015-07||[京姬信息部！LITE](https://bangumi.tv/subject/234682)|コウシス！LITE|未知|||
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/c3/a5/112133_uDSsr.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[雏蜂](https://bangumi.tv/subject/112133)|雏蜂|6|4.7|460人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/f9/dc/134437_1N32F.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[奥拉星：进击圣殿](https://bangumi.tv/subject/134437)||1|4.9|17人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/d0/df/392950_KwZhg.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[MONSTER GENERATiON](https://bangumi.tv/subject/392950)||1|暂无评分|少于10人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/85/25/87390_gdlLG.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[明治东京恋伽～弦月的小夜曲～](https://bangumi.tv/subject/87390)|明治東亰恋伽 ～弦月の小夜曲～|1|5.8|49人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/be/ac/137647_OvSTg.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[诡水疑云](https://bangumi.tv/subject/137647)|诡水疑云|12|5.4|34人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/26/54/140217_QfYF1.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[择天记](https://bangumi.tv/subject/140217)|择天记|13|5.1|82人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/d4/c9/140015_PQF2s.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[Peeping Life×怪兽酒场 怪兽们的所在之处](https://bangumi.tv/subject/140015)|Peeping Life×怪獣酒場 かいじゅうたちがいるところ|10|5.5|13人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/98/b7/139207_MMm4y.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[面包超人：咪嘉和魔法神灯](https://bangumi.tv/subject/139207)|それいけ！アンパンマン ミージャと魔法のランプ|1|暂无评分|少于10人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/10/7f/137526_XpmFB.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[西游新传2：真心话大冒险](https://bangumi.tv/subject/137526)||1|||
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/67/cd/139073_Zp1H1.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[英雄别闹](https://bangumi.tv/subject/139073)||13|6.3|39人评分|
+|2015-07|<img src="//lain.bgm.tv/pic/cover/c/4b/75/139123_erXpe.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[「太可惜了」改变未来](https://bangumi.tv/subject/139123)|『もったいない』で明日は変わる|1|5.9|35人评分|

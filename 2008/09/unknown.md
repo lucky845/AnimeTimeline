@@ -1,0 +1,8 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2008-09|<img src="//lain.bgm.tv/pic/cover/c/45/54/236138_yk3LV.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[蛋糕核桃烧](https://bangumi.tv/subject/236138)|蛋糕核桃燒|6|||
+|2008-09|<img src="//lain.bgm.tv/pic/cover/c/74/b8/130958_VOLaL.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[科学小怪蛋](https://bangumi.tv/subject/130958)|Igor|1|暂无评分|少于10人评分|
+|2008-09|<img src="//lain.bgm.tv/pic/cover/c/2b/7d/111876_55Lzv.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[9.99澳元](https://bangumi.tv/subject/111876)|$9.99|1|7.2|17人评分|
+|2008-09|<img src="//lain.bgm.tv/pic/cover/c/66/b7/116159_000kz.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[芭比之钻石城堡](https://bangumi.tv/subject/116159)|Barbie & the Diamond Castle|1|6.3|21人评分|

@@ -1,0 +1,11 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2021-04|<img src="//lain.bgm.tv/pic/cover/c/a7/93/394421_fELSk.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[解离妖圣](https://bangumi.tv/subject/394421)||30|||
+|2021-04|<img src="//lain.bgm.tv/pic/cover/c/01/d8/439544_qTk5R.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[Headspace睡眠指南](https://bangumi.tv/subject/439544)|Headspace Guide to Sleep|7|||
+|2021-04|<img src="//lain.bgm.tv/pic/cover/c/62/2c/429042_ly2P5.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[被迫成为反派赘婿 动态漫](https://bangumi.tv/subject/429042)|被迫成为反派赘婿 动态漫|22|暂无评分|少于10人评分|
+|2021-04|<img src="//lain.bgm.tv/pic/cover/c/83/14/365762_dDRsd.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[小怪兽成长日记 可持续发展目标大作战](https://bangumi.tv/subject/365762)|かいじゅうステップ SDGs大作戦|15|暂无评分|少于10人评分|
+|2021-04|<img src="//lain.bgm.tv/pic/cover/c/4e/dc/398490_fczF3.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[芭比与小凯莉：消失的生日](https://bangumi.tv/subject/398490)|Barbie & Chelsea: The Lost Birthday|1|暂无评分|少于10人评分|
+|2021-04|<img src="//lain.bgm.tv/pic/cover/c/ec/e5/439375_p0ZjI.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[无尽列车 第四季](https://bangumi.tv/subject/439375)|Infinity Train Book Four: Duet|10|暂无评分|少于10人评分|
+|2021-04|<img src="//lain.bgm.tv/pic/cover/c/c4/55/349954_DI4z6.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[东京复仇者 小剧场](https://bangumi.tv/subject/349954)|ちびりべ|24|5.9|22人评分|

@@ -1,0 +1,6 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2019-05|<img src="//lain.bgm.tv/pic/cover/c/9e/98/282692_xXA3o.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[亚瑟王 骑士王的觉醒](https://bangumi.tv/subject/282692)|アーサー 騎士王の覚醒|7|6.1|15人评分|
+|2019-05|<img src="//lain.bgm.tv/pic/cover/c/74/94/293730_34IRi.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[鸟姐妹的反差生活](https://bangumi.tv/subject/293730)|Tuca & Bertie|10|暂无评分|少于10人评分|

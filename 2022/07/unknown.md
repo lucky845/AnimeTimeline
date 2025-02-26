@@ -2,4 +2,4 @@
 
 |放送日期|封面|标题|日文标题|话数|评分|评分人数|
 |---|---|---|---|---|---|---|
-|2022-07|![封面](https://lain.bgm.tv/pic/cover/c/fe/bf/505072_loEQ7.jpg)|[妖怪ウォッチ♪ コマさんからのSOS!ブラックホールへレッツゴーだニャン♪](https://bangumi.tv/subject/505072)||未知|||
+|2022-07|<img src="//lain.bgm.tv/pic/cover/c/fe/bf/505072_loEQ7.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[妖怪ウォッチ♪ コマさんからのSOS!ブラックホールへレッツゴーだニャン♪](https://bangumi.tv/subject/505072)||未知|||

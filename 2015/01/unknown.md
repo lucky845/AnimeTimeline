@@ -1,0 +1,13 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/93/8e/84705_38Ggg.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[快盗天使双胞胎 OVA](https://bangumi.tv/subject/84705)|快盗天使ツインエンジェル キュンキュン☆ときめきパラダイス!! OVA|2|6.1|32人评分|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/34/b2/130344_J08Kk.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[超神学院 第三季 神与神](https://bangumi.tv/subject/130344)|超神学院 第三季 神与神|10|6.3|185人评分|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/df/b3/132218_NdF5x.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[暴走撸啊撸](https://bangumi.tv/subject/132218)|暴走撸啊撸|12|6.4|11人评分|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/d8/3c/135214_C1tey.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[仲夏夜魔法](https://bangumi.tv/subject/135214)|STRANGE MAGIC|1|6.9|24人评分|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/d9/e5/144562_McaH0.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[今夕何夕](https://bangumi.tv/subject/144562)|World of Tomorrow|1|7.3|49人评分|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/1c/97/538836_mbCdD.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[比想象中清澈](https://bangumi.tv/subject/538836)|생각보다 맑은|未知|||
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/d5/cb/142596_vsrB4.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[王子与108煞](https://bangumi.tv/subject/142596)|108 Rois-Démons|1|暂无评分|少于10人评分|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/1c/6f/114742_2Q48G.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[闯堂兔2疯狂马戏团](https://bangumi.tv/subject/114742)||1|暂无评分|少于10人评分|
+|2015-01|<img src="//lain.bgm.tv/pic/cover/c/f4/f2/120175_ZZr66.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[龙骑侠](https://bangumi.tv/subject/120175)||1|||

@@ -1,0 +1,10 @@
+# 番剧信息
+
+|放送日期|封面|标题|日文标题|话数|评分|评分人数|
+|---|---|---|---|---|---|---|
+|2010-11||[产品用途拟人化剧场 pure skin jelly 滋润的众人](https://bangumi.tv/subject/210761)|製品用途擬人化劇場 ピュアスキンジェリー邸の潤わしき人々|15|暂无评分|少于10人评分|
+|2010-11|<img src="//lain.bgm.tv/pic/cover/c/22/02/13097_IzKk8.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[魔发奇缘](https://bangumi.tv/subject/13097)|Tangled|1|7.2|771人评分|
+|2010-11|<img src="//lain.bgm.tv/pic/cover/c/65/ef/111231_r2L64.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！](https://bangumi.tv/subject/111231)|劇場版3D あたしンち -情熱の超ちょ?能力?母大暴走！-|1|6.6|29人评分|
+|2010-11|<img src="//lain.bgm.tv/pic/cover/c/1a/ab/10070_5n5Nn.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[TRIP TREK](https://bangumi.tv/subject/10070)||12|||
+|2010-11|<img src="//lain.bgm.tv/pic/cover/c/c1/44/137522_9olaH.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[西游新传](https://bangumi.tv/subject/137522)||1|暂无评分|少于10人评分|
+|2010-11|<img src="//lain.bgm.tv/pic/cover/c/25/46/189103_n6N8N.jpg" alt="封面" style="width:150px;height:200px;object-fit:cover;">|[幸存的生命](https://bangumi.tv/subject/189103)|Přežít svůj život|1|8.1|14人评分|
