@@ -358,6 +358,12 @@ def save_to_markdown(anime_list, folder_path):
                 date_str = f"{year:04d}-{month:02d}-{day:02d}" if isinstance(day, int) else f"{year:04d}-{month:02d}"
                 
                 # 处理封面图片和标题链接，限制图片大小为150x200像素
+                # 处理封面图片URL
+                if cover_url:
+                    if cover_url.startswith('//'):
+                        cover_url = 'https:' + cover_url
+                    elif cover_url.startswith('/'):
+                        cover_url = 'https://bangumi.tv' + cover_url
                 cover_img = f"<img src=\"{cover_url}\" alt=\"封面\" style=\"width:150px;height:200px;object-fit:cover;\">" if cover_url else ''
                 title_link = f"[{title}]({play_url})" if play_url and title else title
                 
