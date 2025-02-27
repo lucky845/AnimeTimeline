@@ -33,11 +33,9 @@ jobs:
         env:
           CONCURRENT_REQUESTS: 3  # 设置并发请求数
         run: |
-          python pull.py << EOF
-          3  # 并发数
+          echo "$CONCURRENT_REQUESTS
           $(date +%Y)
-          $(date +%-m)
-          EOF
+          $(date +%-m)" | python pull.py
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
