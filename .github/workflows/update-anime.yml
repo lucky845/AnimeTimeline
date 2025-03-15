@@ -9,11 +9,6 @@ permissions:
   contents: write
   pull-requests: write
 
-env:
-  CURRENT_DATE: ${{ github.event_name == 'schedule' && format(calendar.date, 'yyyy-MM-dd') || format(now(), 'yyyy-MM-dd') }}
-  CURRENT_YEAR: ${{ format(now(), 'yyyy') }}
-  CURRENT_MONTH: ${{ format(now(), 'MM') }}
-
 jobs:
   update-anime:
     runs-on: ubuntu-latest
@@ -27,12 +22,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Generate timestamp
-        id: timestamp
-        run: echo "TS=$(date +%s)" >> $GITHUB_ENV
+      - name: Generate timestamps
+        run: |
+          echo "CURRENT_DATE=$(date '+%Y-%m-%d')" >> $GITHUB_ENV
+          echo "CURRENT_YEAR=$(date '+%Y')" >> $GITHUB_ENV
+          echo "CURRENT_MONTH=$(date '+%m')" >> $GITHUB_ENV
 
       - name: Run scraper
         env:
@@ -46,14 +40,14 @@ jobs:
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.GH_TOKEN }}
           commit-message: "chore: Auto update anime data (${{ env.CURRENT_DATE }})"
           title: "🤖 Auto Update (${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }})"
           body: |
             ### 自动更新详情
             - 更新时间: ${{ env.CURRENT_DATE }}
             - 触发方式: ${{ github.event_name || 'schedule' }}
-          branch: "auto-update/${{ env.TS }}"
+          branch: "auto-update/${{ env.CURRENT_DATE }}"
           base: main
           delete-branch: true
           labels: automated
@@ -66,6 +60,16 @@ jobs:
         with:
           script: |
             try {
+              // 添加自动审批
+              await github.rest.pulls.createReview({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
+                event: 'APPROVE'
+              })
+              console.log('✅ Pull request approved')
+
+              // 启用自动合并
               await github.rest.pulls.update({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -77,14 +81,6 @@ jobs:
               })
               console.log('✅ Auto-merge enabled')
 
-              // 添加批准评论
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: ${{ steps.create-pr.outputs.pull-request-number }},
-                body: '🤖 自动合并通过'
-              })
             } catch (error) {
-              core.error('❌ Auto-merge failed: ' + error.message)
-              core.setFailed(error.message)
+              core.setFailed(`自动合并失败: ${error.message}`)
             }
