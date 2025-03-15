@@ -277,51 +277,84 @@ class BangumiScraper:
         """解析现有Markdown文件"""
         existing_data = []
         current_year = None
+        line_count = 0
+        parsed_count = 0
 
-        with open(filename, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
+        try:
+            with open(filename, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line_count += 1
+                    line = line.strip()
 
-                # 匹配年份标题
-                if line.startswith('## '):
-                    year_match = re.match(r'## (\d+)年', line)
-                    if year_match:
-                        current_year = int(year_match.group(1))
+                    # 匹配年份标题
+                    if line.startswith('## '):
+                        year_match = re.match(r'## (\d+)年', line)
+                        if year_match:
+                            current_year = int(year_match.group(1))
 
-                # 匹配表格行
-                elif line.startswith('|') and not line.startswith(('| ---', '| 放送日期')):
-                    parts = [p.strip() for p in line.split('|')[1:-1]]
-                    if len(parts) >= 6:
-                        item = {
-                            'year': current_year,
-                            'month': 0,
-                            'day': 0,
-                            'cover': re.search(r'!$$.*?$$$(.*?)$', parts[0]).group(1) if '![]' in parts[0] else '',
-                            'title': re.search(r'$$(.*?)$$', parts[1]).group(1) if '[' in parts[1] else parts[1],
-                            'url': re.search(r'$(.*?)$', parts[1]).group(1) if '(' in parts[1] else '',
-                            'jp_title': parts[2],
-                            'episodes': parts[3],
-                            'score': parts[4],
-                            'votes': parts[5]
-                        }
+                    # 匹配表格行
+                    elif line.startswith('|') and not line.startswith(('| ---', '| 放送日期')):
+                        parts = [p.strip() for p in line.split('|')[1:-1]]
+                        if len(parts) >= 6:
+                            try:
+                                # 解析封面URL
+                                cover = ''
+                                if '![]' in parts[1]:
+                                    cover_match = re.search(
+                                        r'!\[\]\((.*?)\)', parts[1])
+                                    if cover_match:
+                                        cover = cover_match.group(1)
 
-                        # 解析日期
-                        date_str = parts[0].split(
-                            '|')[0].strip() if '|' in parts[0] else ''
-                        date_parts = date_str.split('-')
-                        try:
-                            if len(date_parts) >= 1:
-                                item['year'] = int(date_parts[0])
-                            if len(date_parts) >= 2:
-                                item['month'] = int(date_parts[1])
-                            if len(date_parts) >= 3:
-                                item['day'] = int(date_parts[2])
-                        except ValueError:
-                            pass
+                                # 解析标题和URL
+                                title = parts[2]
+                                url = ''
+                                if '[' in parts[2] and '](' in parts[2]:
+                                    title_match = re.search(r'\[(.*?)\]', parts[2])
+                                    url_match = re.search(r'\]\((.*?)\)', parts[2])
+                                    if title_match:
+                                        title = title_match.group(1)
+                                    if url_match:
+                                        url = url_match.group(1)
 
-                        existing_data.append(item)
+                                item = {
+                                    'year': current_year,
+                                    'month': 0,
+                                    'day': 0,
+                                    'cover': cover,
+                                    'title': title,
+                                    'url': url,
+                                    'jp_title': parts[3],
+                                    'episodes': parts[4],
+                                    'score': parts[5],
+                                    'votes': parts[6] if len(parts) > 6 else '0'
+                                }
+                            except Exception as e:
+                                print(f"⚠️ 解析行出错: {line[:50]}... | 错误: {str(e)}")
+                                continue
 
-        return existing_data
+                            # 解析日期
+                            date_str = parts[0].split(
+                                '|')[0].strip() if '|' in parts[0] else ''
+                            date_parts = date_str.split('-')
+                            try:
+                                if len(date_parts) >= 1:
+                                    item['year'] = int(date_parts[0])
+                                if len(date_parts) >= 2:
+                                    item['month'] = int(date_parts[1])
+                                if len(date_parts) >= 3:
+                                    item['day'] = int(date_parts[2])
+                            except ValueError:
+                                pass
+
+                            existing_data.append(item)
+                            parsed_count += 1
+
+            print(f"📊 解析统计 | 总行数: {line_count} | 解析条目: {parsed_count}")
+            return existing_data
+        except Exception as e:
+            print(f"❌ 解析文件出错: {str(e)}")
+            # 发生错误时返回空列表，确保程序可以继续运行
+            return []
 
     @staticmethod
     def merge_data(existing: List[Dict], new: List[Dict]) -> List[Dict]:
@@ -405,9 +438,18 @@ class BangumiScraper:
                 start_month, end_month = self.process_month_input(
                     month_input) if month_input else (None, None)
 
+            # 定义输出文件路径
+            output_file = "Bangumi_Anime.md"
+            # 确保文件路径是绝对路径
+            if not os.path.isabs(output_file):
+                output_file = os.path.abspath(output_file)
+
+            print(f"📝 输出文件路径: {output_file}")
+
             async with aiohttp.ClientSession(connector=self.connector) as session:
                 data = await self.scrape_time_range(session, start_year, end_year, start_month, end_month)
-                self.generate_markdown(data)
+                # 确保在自动模式下也能正确合并现有数据
+                self.generate_markdown(data, output_file)
 
     @staticmethod
     def process_year_input(input_str: str) -> Tuple[int, int]:
