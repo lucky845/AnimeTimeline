@@ -24,64 +24,28 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Get current date
-        id: date
-        run: |
-          CURRENT_YEAR=$(date +%Y)
-          CURRENT_MONTH=$(date +%-m)
-          echo "CURRENT_YEAR=$CURRENT_YEAR" >> $GITHUB_ENV
-          echo "CURRENT_MONTH=$CURRENT_MONTH" >> $GITHUB_ENV
-
-      - name: Run scraper (Auto Mode)
+      - name: Run scraper
         env:
           CONCURRENT_REQUESTS: 3
         run: |
           python pull.py auto \
-            --year ${{ env.CURRENT_YEAR }} \
-            --month ${{ env.CURRENT_MONTH }} \
-            --concurrent ${{ env.CONCURRENT_REQUESTS }}
+            --year $(date +%Y) \
+            --month $(date +%-m)
 
       - name: Create Pull Request
-        id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
-          commit-message: "chore: Auto update anime data (${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }})"
-          title: "🤖 自动更新番剧数据 (${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }})"
+          commit-message: "chore: Auto update anime data"
+          title: "🤖 自动更新番剧数据 ($(date +%Y-%m))"
           body: |
-            ### 自动更新详情
-            - 更新日期: ${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }}
+            自动更新详情：
+            - 更新时间: $(date +%Y-%m-%d)
             - 触发方式: ${{ github.event_name }}
-          branch: "auto-update/anime-${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }}"
+          branch: "auto-update/$(date +%s)"
           base: main
           delete-branch: true
-          labels: automated,anime
-          auto-merge: true # 启用自动合并
-          merge-method: squash # 使用压缩合并
-
-      - name: Auto Approve PR
-        if: steps.create-pr.outputs.pull-request-number != ''
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const { data } = await github.rest.pulls.createReview({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
-              event: 'APPROVE'
-            })
-            return data
-
-      - name: Enable Auto-Merge
-        if: steps.create-pr.outputs.pull-request-number != ''
-        uses: actions/github-script@v6
-        with:
-          script: |
-            await github.rest.pulls.enableAutomerge({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
-              merge_method: 'squash'
-            })
+          labels: automated
+          auto-merge: true # 自动合并功能
+          merge-method: squash
