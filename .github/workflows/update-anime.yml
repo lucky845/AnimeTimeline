@@ -62,11 +62,14 @@ jobs:
         with:
           script: |
             try {
-              await github.rest.pulls.enableAutomerge({
+              await github.rest.pulls.update({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
-                merge_method: 'squash'
+                auto_merge: {
+                  enabledBy: context.actor,
+                  merge_method: 'squash'
+                }
               })
               console.log('✅ Auto-merge enabled')
             } catch (error) {
