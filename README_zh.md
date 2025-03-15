@@ -1,6 +1,6 @@
 # AnimeTimeline 动漫时间线
 
-[English Version](README_en.md)
+[English Version](README.md)
 
 一个用于爬取和整理番剧放送信息的 Python 工具，支持按年份和月份获取动漫信息，并以 Markdown 格式保存。包含自动化更新工作流，支持每日自动同步最新番剧数据。
 

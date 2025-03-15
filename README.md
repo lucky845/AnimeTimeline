@@ -1,6 +1,6 @@
 # AnimeTimeline
 
-[中文版](README.md)
+[中文版](README_zh.md)
 
 A Python tool for crawling and organizing anime broadcast information, supporting retrieval of anime information by year and month, and saving in Markdown format. Includes automated update workflows for daily synchronization of the latest anime data.
 
