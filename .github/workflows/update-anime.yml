@@ -9,6 +9,11 @@ permissions:
   contents: write
   pull-requests: write
 
+env:
+  CURRENT_DATE: ${{ github.event_name == 'schedule' && format(calendar.date, 'yyyy-MM-dd') || format(now(), 'yyyy-MM-dd') }}
+  CURRENT_YEAR: ${{ format(now(), 'yyyy') }}
+  CURRENT_MONTH: ${{ format(now(), 'MM') }}
+
 jobs:
   update-anime:
     runs-on: ubuntu-latest
@@ -23,8 +28,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Generate timestamp
         id: timestamp
@@ -35,21 +39,21 @@ jobs:
           CONCURRENT_REQUESTS: 3
         run: |
           python pull.py auto \
-            --year $(date +%Y) \
-            --month $(date +%-m)
+            --year ${{ env.CURRENT_YEAR }} \
+            --month ${{ env.CURRENT_MONTH }}
 
       - name: Create Pull Request
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GH_TOKEN }} # 使用专用Token
-          commit-message: "chore: Auto update anime data"
-          title: "🤖 Auto Update ($(date +%Y-%m))"
+          token: ${{ github.token }}
+          commit-message: "chore: Auto update anime data (${{ env.CURRENT_DATE }})"
+          title: "🤖 Auto Update (${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }})"
           body: |
             ### 自动更新详情
-            - 更新时间: $(date +%Y-%m-%d)
-            - 触发方式: ${{ github.event.name }}
-          branch: "auto-update/${{ env.TS }}" # 使用正确的时间戳变量
+            - 更新时间: ${{ env.CURRENT_DATE }}
+            - 触发方式: ${{ github.event_name || 'schedule' }}
+          branch: "auto-update/${{ env.TS }}"
           base: main
           delete-branch: true
           labels: automated
@@ -58,7 +62,7 @@ jobs:
         if: steps.create-pr.outputs.pull-request-number != ''
         uses: actions/github-script@v6
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         with:
           script: |
             try {
@@ -72,6 +76,14 @@ jobs:
                 }
               })
               console.log('✅ Auto-merge enabled')
+
+              // 添加批准评论
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: ${{ steps.create-pr.outputs.pull-request-number }},
+                body: '🤖 自动合并通过'
+              })
             } catch (error) {
               core.error('❌ Auto-merge failed: ' + error.message)
               core.setFailed(error.message)

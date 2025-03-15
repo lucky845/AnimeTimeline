@@ -90,7 +90,7 @@ python pull.py auto --year 2024 --month 3
 AnimeTimeline/
 ├── .github/          # 自动化配置
 │   └── workflows/
-│       └── anime-schedule.yml  # 每日更新工作流
+│       └── update-anime.yml  # 每日更新工作流
 ├── pull.py           # 主程序（支持双模式）
 ├── requirements.txt  # 依赖配置
 ├── Bangumi_Anime.md  # 生成的数据文件
