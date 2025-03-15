@@ -1,99 +1,154 @@
-# AnimeTimeline 动漫时间线
+# AnimeTimeline
 
-[English Version](README_en.md)
+[中文版](README.md)
 
-一个用于爬取和整理番剧放送信息的Python工具，支持按年份和月份获取动漫信息，并以Markdown格式保存。
+A Python tool for crawling and organizing anime broadcast information, supporting retrieval of anime information by year and month, and saving in Markdown format. Includes automated update workflows for daily synchronization of the latest anime data.
 
-## 功能特点
+## Features
 
-- 支持按年份或月份爬取番剧信息
-- 自动获取番剧标题、日文标题、话数、放送日期、评分等信息
-- 支持增量更新，避免重复数据
-- 按日期分类整理，生成清晰的Markdown文档
-- 自动处理网络异常，支持失败重试
-- 支持批量爬取指定年份范围的数据
+- 📅 Dual-mode operation: supports both interactive command line and automated script modes
+- ⚡ Smart updates: automatically synchronizes the latest anime data daily (8:00 AM Beijing time)
+- 📈 Incremental updates: automatically merges new and old data with intelligent deduplication
+- 🕰️ Time range: supports year ranges (e.g., 2010-2024) and month ranges (e.g., 4-7)
+- 📦 Data export: generates structured Markdown documents with complete metadata
+- 🔁 Failure retry: automatically handles network exceptions with 3 retry attempts
+- 🤖 Automatic archiving: creates versioned Pull Requests through GitHub Actions
+- 🛡️ Security control: configurable concurrent request limit (default: 3 concurrent requests)
 
-## 安装说明
+## Installation
 
-1. 克隆项目到本地
+1. Clone the project locally
+   ```bash
+   git clone https://github.com/yourusername/AnimeTimeline.git
+   cd AnimeTimeline
+   ```
+
+2. Create and activate virtual environment (recommended)
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # Linux/macOS
+   # or
+   .venv\Scripts\activate  # Windows
+   ```
+
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+### Interactive Mode (Manual Operation)
+
 ```bash
-git clone https://github.com/yourusername/AnimeTimeline.git
-cd AnimeTimeline
+python pull.py interactive
 ```
 
-2. 创建并激活虚拟环境（可选）
+- Enter year range as prompted (e.g., 2010-2024)
+- Enter month range (optional, only for single year)
+- Data will be saved to [Bangumi_Anime.md](Bangumi_Anime.md)
+
+### Automatic Mode (Script Call)
+
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # Linux/macOS
-# 或
-.venv\Scripts\activate  # Windows
+python pull.py auto --year 2024 --month 3
 ```
 
-3. 安装依赖包
-```bash
-pip install -r requirements.txt
+| Parameter | Description | Example |
+| --- | --- | --- |
+| --year | Target year (required) | 2024 |
+| --month | Target month (optional) | 3 |
+| --concurrent | Concurrency (default 3) | 5 |
+
+### Automated Workflow
+
+```yaml
+# Scheduled tasks:
+- Daily automatic updates for current month data
+- Monthly supplementary updates for previous month on the 1st day
+- Automatic generation of versioned Pull Requests
+
+# Manual triggers:
+- Support for manual updates through GitHub interface
 ```
 
-## 使用说明
+## Data Storage
 
-1. 运行爬虫程序
-```bash
-python pull.py
+- 📂 Data file: [Bangumi_Anime.md](Bangumi_Anime.md) - Contains the complete anime timeline data
+- 🗂️ Version control: Historical versions managed through Git branches
+- 📊 Data structure:
+
+```markdown
+| Release Date | Cover | Chinese Title | Japanese Title | Episodes | Rating | Voters |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2024-03 | ![](CoverURL) | [Title](DetailsPage) | Original Title | 12 | 8.9 | 1523 |
 ```
 
-2. 根据提示输入要爬取的年份
-   - 支持单个年份，如：2024
-   - 支持年份范围，如：2000-2024
-
-3. 输入要爬取的月份（可选）
-   - 输入1-12的数字爬取指定月份
-   - 直接回车则爬取整年数据
-
-## 数据存储
-
-- 数据按年份和月份分类存储在对应文件夹中
-- 每个日期的番剧信息存储在单独的Markdown文件中
-- Markdown文件包含以下信息：
-  - 番剧标题（中文）
-  - 日文标题
-  - 话数
-  - 放送日期
-  - 评分
-  - 评分人数
-  - 播放链接
-  - 封面图片链接
-
-## 项目结构
+## Project Structure
 
 ```
 AnimeTimeline/
-├── pull.py          # 主程序文件
-├── requirements.txt  # 项目依赖
-├── README.md        # 项目说明文档
-├── SECURITY.md      # 安全政策
-└── .github/         # GitHub配置文件
-    └── workflows/   # GitHub Actions工作流
+├── .github/          # Automation configuration
+│   └── workflows/
+│       └── anime-schedule.yml  # Daily update workflow
+├── pull.py           # Main program (supports dual mode)
+├── requirements.txt  # Dependency configuration
+├── Bangumi_Anime.md  # Generated data file
+├── SECURITY.md       # Security policy
+└── README.md         # This documentation
 ```
 
-## 注意事项
+## Notes
 
-1. 请合理控制爬取频率，避免对目标网站造成压力
-2. 建议使用虚拟环境运行项目，避免依赖冲突
-3. 如遇到网络问题，程序会自动重试
-4. 数据更新时会自动去重，避免重复内容
+### Network Requests
 
-## 贡献指南
+- Default concurrency is set to 3, to adjust set environment variable:
+  ```bash
+  export CONCURRENT_REQUESTS=5
+  ```
+- Avoid high-frequency requests, interval time ≥ 1 second
 
-1. Fork 本仓库
-2. 创建新的功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 创建 Pull Request
+### Data Security
 
-## 开源许可
+- Markdown files use UTF-8 encoding
+- Automatic handling of illegal filename characters
+- Regular commits of data changes recommended
 
-本项目采用 Apache 2.0 许可证 - 详见 [LICENSE](LICENSE) 文件
+### Exception Handling
 
-## 安全问题
+- Network errors automatically retried 3 times
+- Base year used automatically when date parsing fails
+- Cover URL protocol headers automatically completed
 
-如果发现任何安全漏洞，请查看我们的[安全政策](SECURITY.md)了解如何报告。
+## Contributing
+
+### Code Contributions
+
+1. Fork this repository
+2. Create a feature branch
+   ```bash
+   git checkout -b feature/NewFeature
+   ```
+3. Commit code changes
+   ```bash
+   git commit -m 'feat: Add awesome feature'
+   ```
+4. Push branch
+   ```bash
+   git push origin feature/NewFeature
+   ```
+5. Create Pull Request
+
+### Data Maintenance
+
+- Participate in data validation through Pull Request reviews
+- Report data anomalies in Issues
+- Discuss data format improvements in Discussions
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details
+
+## Security Policy
+
+If you discover any security vulnerabilities, please review our security policy document for reporting procedures. We will respond promptly.
