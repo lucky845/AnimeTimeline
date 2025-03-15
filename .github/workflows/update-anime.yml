@@ -39,9 +39,9 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: "chore: Auto update anime data"
-          title: "🤖 自动更新番剧数据 ($(date +%Y-%m))"
+          title: "🤖 Auto Update ($(date +%Y-%m))"
           body: |
-            自动更新详情：
+            ### 自动更新详情
             - 更新时间: $(date +%Y-%m-%d)
             - 触发方式: ${{ github.event_name }}
           branch: "auto-update/$(date +%s)"
@@ -52,11 +52,19 @@ jobs:
       - name: Enable Auto-Merge
         if: steps.create-pr.outputs.pull-request-number != ''
         uses: actions/github-script@v6
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           script: |
-            await github.rest.pulls.enableAutomerge({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
-              merge_method: 'squash'
-            })
+            try {
+              await github.rest.pulls.enableAutomerge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
+                merge_method: 'squash'
+              })
+              console.log('Auto-merge enabled successfully')
+            } catch (error) {
+              console.error('Auto-merge enable failed:', error)
+              core.setFailed('Failed to enable auto-merge')
+            }
