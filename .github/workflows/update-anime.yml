@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
@@ -25,6 +25,10 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+
+      - name: Generate timestamp
+        id: timestamp
+        run: echo "TS=$(date +%s)" >> $GITHUB_ENV
 
       - name: Run scraper
         env:
@@ -38,13 +42,14 @@ jobs:
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
+          token: ${{ secrets.GH_TOKEN }} # 使用专用Token
           commit-message: "chore: Auto update anime data"
           title: "🤖 Auto Update ($(date +%Y-%m))"
           body: |
             ### 自动更新详情
             - 更新时间: $(date +%Y-%m-%d)
-            - 触发方式: ${{ github.event_name }}
-          branch: "auto-update/$(date +%s)"
+            - 触发方式: ${{ github.event.name }}
+          branch: "auto-update/${{ env.TS }}" # 使用正确的时间戳变量
           base: main
           delete-branch: true
           labels: automated
@@ -63,8 +68,8 @@ jobs:
                 pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
                 merge_method: 'squash'
               })
-              console.log('Auto-merge enabled successfully')
+              console.log('✅ Auto-merge enabled')
             } catch (error) {
-              console.error('Auto-merge enable failed:', error)
-              core.setFailed('Failed to enable auto-merge')
+              core.error('❌ Auto-merge failed: ' + error.message)
+              core.setFailed(error.message)
             }
