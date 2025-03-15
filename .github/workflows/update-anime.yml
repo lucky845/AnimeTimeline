@@ -3,7 +3,7 @@ name: Anime Data Sync
 on:
   schedule:
     - cron: "0 0 * * *" # 每天UTC时间0点运行（北京时间8点）
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -35,6 +35,7 @@ jobs:
             --month $(date +%-m)
 
       - name: Create Pull Request
+        id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: "chore: Auto update anime data"
@@ -47,5 +48,15 @@ jobs:
           base: main
           delete-branch: true
           labels: automated
-          auto-merge: true # 自动合并功能
-          merge-method: squash
+
+      - name: Enable Auto-Merge
+        if: steps.create-pr.outputs.pull-request-number != ''
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.pulls.enableAutomerge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
+              merge_method: 'squash'
+            })
