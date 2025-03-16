@@ -125,69 +125,77 @@
 | 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 0 |
 | 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/25/f7/541423_QBoUo.jpg) | [忍者乱太郎 第33季](https://bangumi.tv/subject/541423) | 忍たま乱太郎 第33シリーズ | 未知 | - | 0 |
 | 2025-03-29 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
-| 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/a2/33/507115_xqZQN.jpg) | [怪兽8号 第一季总集篇](https://bangumi.tv/subject/507115) | 怪獣8号 第1期総集編 | 1 | - | 10 |
-| 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/33/b2/507122_hUc44.jpg) | [怪兽8号 保科的假期](https://bangumi.tv/subject/507122) | 怪獣8号 保科の休日 | 1 | - | 0 |
-| 2025-03-28 | ![](/img/no_icon_subject.png) | [不道德例行性行为](https://bangumi.tv/subject/527088) | インモラルーティーン THE ANIMATION | 1 | - | 0 |
-| 2025-03-28 | ![](/img/no_icon_subject.png) | [毁灭性的诱惑](https://bangumi.tv/subject/530237) | ハメツの誘惑 | 1 | - | 0 |
-| 2025-03-28 | ![](/img/no_icon_subject.png) | [夕顔](https://bangumi.tv/subject/532849) |  | 1 | - | 10 |
-| 2025-03-28 | ![](/img/no_icon_subject.png) | [您喜欢亚人对吧](https://bangumi.tv/subject/533910) | 亜人がお好きなんですね♡ | 2 | - | 0 |
-| 2025-03-27 | ![](https://lain.bgm.tv/pic/cover/c/66/c5/435075_2wLwJ.jpg) | [画江湖之不良人第七季：九幽玄天](https://bangumi.tv/subject/435075) | 画江湖之不良人柒：九幽玄天 | 12 | - | 10 |
-| 2025-03-26 | ![](https://lain.bgm.tv/pic/cover/c/38/ec/514031_M7x86.jpg) | [ALDNOAH.ZERO 雨之断章 -The Penultimate Truth-](https://bangumi.tv/subject/514031) | アルドノア・ゼロ 雨の断章 -The Penultimate Truth- | 1 | - | 10 |
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/ab/95/434811_136n3.jpg) | [超能立方 超凡篇](https://bangumi.tv/subject/434811) | 超能立方 超凡篇 | 未知 | - | 0 |
-| 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/65/fb/497110_X6ZIL.jpg) | [忍者蝙蝠侠对极道联盟](https://bangumi.tv/subject/497110) | ニンジャバットマン対ヤクザリーグ | 1 | - | 0 |
-| 2025-03-21 | ![](/img/no_icon_subject.png) | [完全堕落×被睡走了的家人](https://bangumi.tv/subject/533909) | 完堕ちX寝取られ家族 The Animation | 2 | - | 0 |
-| 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/51/ec/542666_IDU1T.jpg) | [熊出没之小小世界2](https://bangumi.tv/subject/542666) |  | 13 | - | 0 |
-| 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/29/58/529199_qZEEz.jpg) | [映画おしりたんてい スター・アンド・ムーン](https://bangumi.tv/subject/529199) |  | 1 | - | 0 |
-| 2025-03-19 | ![](https://lain.bgm.tv/pic/cover/c/0e/77/396229_V43VF.jpg) | [OVA 无限滑板 EXTRA PART](https://bangumi.tv/subject/396229) | OVA SK∞ エスケーエイト EXTRA PART | 1 | - | 10 |
-| 2025-03-18 | ![](https://lain.bgm.tv/pic/cover/c/6d/cb/543670_1yl30.jpg) | [恶兽](https://bangumi.tv/subject/543670) |  | 1 | - | 0 |
-| 2025-03-14 | ![](https://lain.bgm.tv/pic/cover/c/5a/63/501950_o8o1b.jpg) | [凹凸世界·新生 先行集](https://bangumi.tv/subject/501950) | 凹凸世界REBORN 先行集 | 2 | - | 10 |
-| 2025-03-14 | ![](https://lain.bgm.tv/pic/cover/c/a2/ad/505488_46VK3.jpg) | [剧场版 物怪 火鼠](https://bangumi.tv/subject/505488) | 劇場版 モノノ怪 火鼠 | 1 | - | 10 |
-| 2025-03-14 | ![](https://lain.bgm.tv/pic/cover/c/df/78/521150_BATw5.jpg) | [映画しまじろう『しまじろうと ゆうきのうた』](https://bangumi.tv/subject/521150) |  | 1 | - | 0 |
+| 2025-03-15 | ![](https://lain.bgm.tv/pic/cover/c/90/b0/544463_h9w9h.jpg) | [火柴人 VS 成瘾](https://bangumi.tv/subject/544463) | Animation vs. Addiction | 1 | - | 0 |
 | 2025-03-09 |  | [Oh My God, Yes! A Series of Extremely Relatable Circumstances](https://bangumi.tv/subject/536405) |  | 未知 | - | 0 |
-| 2025-03-09 | ![](https://lain.bgm.tv/pic/cover/c/39/68/542763_ZYe9r.jpg) | [AnimeCanvas コンセプトムービー](https://bangumi.tv/subject/542763) |  | 1 | - | 10 |
-| 2025-03-07 | ![](https://lain.bgm.tv/pic/cover/c/0e/c6/507542_NLTHL.jpg) | [痞老板大电影](https://bangumi.tv/subject/507542) | Plankton: The Movie | 1 | - | 10 |
-| 2025-03-07 | ![](https://lain.bgm.tv/pic/cover/c/9f/a9/515422_4gK7I.jpg) | [哆啦A梦：大雄的绘世界物语](https://bangumi.tv/subject/515422) | 映画ドラえもん のび太の絵世界物語 | 1 | - | 10 |
 | 2025-03-06 | ![](https://lain.bgm.tv/pic/cover/c/65/ce/537028_7AawS.jpg) | [小凯文](https://bangumi.tv/subject/537028) | Lil Kev | 未知 | - | 0 |
-| 2025-03-06 | ![](https://lain.bgm.tv/pic/cover/c/7f/5f/542017_EI4Se.jpg) | [Let's roll, Cinnamoroll!](https://bangumi.tv/subject/542017) |  | 12 | - | 0 |
-| 2025-03-03 | ![](https://lain.bgm.tv/pic/cover/c/89/22/536694_1x751.jpg) | [嗨！我是脉脉](https://bangumi.tv/subject/536694) | はーい！ミャクミャクです | 8 | - | 10 |
-| 2025-03-01 | ![](https://lain.bgm.tv/pic/cover/c/7c/5c/540911_4Ze4E.jpg) | [火柴人 VS 编程](https://bangumi.tv/subject/540911) | Animation vs. Coding | 1 | - | 10 |
-| 2025-03 |  | [乐活姐妹：怪诞冒险 第三季](https://bangumi.tv/subject/536356) | YOLO: Rainbow Trinity | 8 | - | 0 |
 | 2025-03 | ![](https://lain.bgm.tv/pic/cover/c/4f/98/540589_Z2j8K.jpg) | [加布动画！Sweety Days ～零食般的日常～](https://bangumi.tv/subject/540589) | ガヴっとアニメ！ Sweety Days ～おかしな日常～ | 未知 | - | 10 |
-| 2025-03 |  | [如果烧陶的话也做个马克杯吧 剧场版](https://bangumi.tv/subject/496945) | やくならマグカップも 劇場版 | 1 | - | 0 |
-| 2025-02-28 | ![](https://lain.bgm.tv/pic/cover/c/3c/f5/511571_kO1k1.jpg) | [親鸞 人生の目的](https://bangumi.tv/subject/511571) |  | 1 | - | 0 |
-| 2025-02-28 | ![](/img/no_icon_subject.png) | [勇者妹妹的冒险结束了！](https://bangumi.tv/subject/525143) | 勇者ちゃんの冒険は終わってしまった！ | 2 | - | 0 |
-| 2025-02-28 | ![](/img/no_icon_subject.png) | [探索欢爱新境界？](https://bangumi.tv/subject/525599) | 知らないこと知りたいの？ THE ANIMATION | 2 | - | 39 |
-| 2025-02-28 | ![](/img/no_icon_subject.png) | [野野原柚花的秘密直播](https://bangumi.tv/subject/528310) | 野々原柚花のヒミツのハイシン | 2 | - | 99 |
-| 2025-02-28 | ![](https://lain.bgm.tv/pic/cover/c/a2/19/533327_F56j8.jpg) | [ALDNOAH.ZERO（Re+）](https://bangumi.tv/subject/533327) | アルドノア・ゼロ（Re+） | 1 | - | 10 |
-| 2025-02-28 | ![](https://lain.bgm.tv/pic/cover/c/7b/5f/535895_kUdO3.jpg) | [乐一通大电影：地球爆炸之日](https://bangumi.tv/subject/535895) | The Day the Earth Blew Up: A Looney Tunes Movie | 1 | - | 0 |
-| 2025-02-28 | ![](https://lain.bgm.tv/pic/cover/c/0b/16/542180_5eTQ2.jpg) | [遮阳帘上尘埃堆积](https://bangumi.tv/subject/542180) | シェードの埃は延長 | 1 | - | 10 |
-| 2025-02-27 | ![](https://lain.bgm.tv/pic/cover/c/c2/3f/540231_bORUJ.jpg) | [鱼缸家族](https://bangumi.tv/subject/540231) | 鱼缸家族 | 52 | - | 0 |
-| 2025-02-26 | ![](https://lain.bgm.tv/pic/cover/c/cd/85/508169_qBfzq.jpg) | [最强升级](https://bangumi.tv/subject/508169) |  | 40 | - | 0 |
-| 2025-02-26 | ![](https://lain.bgm.tv/pic/cover/c/81/37/536271_oOBWB.jpg) | [快龙与小邮递员](https://bangumi.tv/subject/536271) | カイリューとゆうびんやさん | 1 | - | 120 |
-| 2025-02-24 | ![](https://lain.bgm.tv/pic/cover/c/53/7d/526970_blb61.jpg) | [仙逆 年番2](https://bangumi.tv/subject/526970) |  | 52 | - | 24 |
-| 2025-02-23 | ![](https://lain.bgm.tv/pic/cover/c/d7/4f/320243_UuU6C.jpg) | [长歌行](https://bangumi.tv/subject/320243) |  | 16 | - | 10 |
-| 2025-02-21 | ![](https://lain.bgm.tv/pic/cover/c/df/b6/433672_86z77.jpg) | [退魔录](https://bangumi.tv/subject/433672) | 퇴마록 | 1 | - | 0 |
-| 2025-02-21 | ![](https://lain.bgm.tv/pic/cover/c/d1/c5/517532_hEEsH.jpg) | [监禁区域LevelX 第二季](https://bangumi.tv/subject/517532) | 監禁区域レベルX 第2期 | 未知 | - | 10 |
-| 2025-02-21 | ![](https://lain.bgm.tv/pic/cover/c/d5/8a/523821_ivlsS.jpg) | [电影 催眠麦克风](https://bangumi.tv/subject/523821) | 映画 ヒプノシスマイク -Division Rap Battle- | 1 | - | 10 |
-| 2025-02-21 | ![](/img/no_icon_subject.png) | [肉園](https://bangumi.tv/subject/533103) |  | 2 | - | 10 |
-| 2025-02-19 | ![](https://lain.bgm.tv/pic/cover/c/37/e8/525491_WcBHR.jpg) | [胜与败](https://bangumi.tv/subject/525491) | Win or Lose | 8 | - | 10 |
-| 2025-02-19 |  | [monpoké短篇动画](https://bangumi.tv/subject/538501) | モンポケショートアニメ | 10 | - | 0 |
-| 2025-02-16 | ![](https://lain.bgm.tv/pic/cover/c/95/bf/543941_805v5.jpg) | [太空见习生](https://bangumi.tv/subject/543941) | Space Cadet | 未知 | - | 10 |
-| 2025-02-14 | ![](https://lain.bgm.tv/pic/cover/c/a4/36/515392_n2tua.jpg) | [电影 前辈是男孩子 雨过天晴](https://bangumi.tv/subject/515392) | 映画 先輩はおとこのこ あめのち晴れ | 1 | - | 10 |
-| 2025-02-14 | ![](https://lain.bgm.tv/pic/cover/c/46/7e/537252_Vwoid.jpg) | [POKÉTOON动画系列2025](https://bangumi.tv/subject/537252) | POKÉTOON 2025 | 未知 | - | 10 |
-| 2025-02-14 | ![](https://lain.bgm.tv/pic/cover/c/a5/b1/537745_DtDV9.jpg) | [哆啦A梦4D艺术大冒险～大雄的绘画世界物语～](https://bangumi.tv/subject/537745) | ドラえもん 4-D アート・アドベンチャー ～のび太の絵世界物語～ | 1 | - | 0 |
-| 2025-02-14 | ![](https://lain.bgm.tv/pic/cover/c/d8/20/538433_qdDha.jpg) | [二十四节气密码：春之篇](https://bangumi.tv/subject/538433) | 二十四节气密码：春之篇 | 28 | - | 0 |
-| 2025-02-12 | ![](https://lain.bgm.tv/pic/cover/c/ae/49/405231_EyV7V.jpg) | [君子无疾](https://bangumi.tv/subject/405231) |  | 16 | - | 10 |
-| 2025-02-11 | ![](https://lain.bgm.tv/pic/cover/c/0e/3a/464852_Gmwxm.jpg) | [巫师 深海女妖](https://bangumi.tv/subject/464852) | The Witcher: Sirens of The Deep | 1 | - | 17 |
-| 2025-02-11 | ![](https://lain.bgm.tv/pic/cover/c/5d/38/531515_xU9SF.jpg) | [那年那兔那些事儿 第七季](https://bangumi.tv/subject/531515) |  | 12 | - | 10 |
-| 2025-02-07 | ![](https://lain.bgm.tv/pic/cover/c/d9/36/536425_OCE6q.jpg) | [【ぶいすぽっ！】オリジナル曲『すうぃーとサプライズ』【兎咲ミミ / 白波らむね / 紡木こかげ / 千燈ゆうひ】](https://bangumi.tv/subject/536425) |  | 1 | - | 10 |
-| 2025-02-06 | ![](https://lain.bgm.tv/pic/cover/c/37/ec/465873_NpLEp.jpg) | [无敌少侠 第三季](https://bangumi.tv/subject/465873) | Invincible Season 3 | 8 | - | 16 |
-| 2025-02-06 | ![](https://lain.bgm.tv/pic/cover/c/78/85/537638_F9ULL.jpg) | [赤いきつね 緑のたぬきウェブCM 「ひとりのよると赤緑」](https://bangumi.tv/subject/537638) |  | 2 | - | 10 |
-| 2025-02-05 | ![](https://lain.bgm.tv/pic/cover/c/5f/6e/449365_vnV15.jpg) | [失业魔王](https://bangumi.tv/subject/449365) |  | 26 | - | 10 |
-| 2025-02-05 | ![](https://lain.bgm.tv/pic/cover/c/2e/d7/510728_P22GO.jpg) | [Re：从零开始的异世界生活 第三季 反击篇](https://bangumi.tv/subject/510728) | Re:ゼロから始める異世界生活 3rd season 反擊編 | 8 | - | 1174 |
-| 2025-02-02 | ![](https://lain.bgm.tv/pic/cover/c/0a/40/526104_i2616.jpg) | [You and idol 光之美少女♪](https://bangumi.tv/subject/526104) | キミとアイドルプリキュア♪ | 未知 | - | 79 |
-| 2025-02-02 | ![](https://lain.bgm.tv/pic/cover/c/e3/08/533466_4wznW.jpg) | [常见副作用](https://bangumi.tv/subject/533466) | Common Side Effects | 10 | - | 10 |
-| 2025-02 | ![](https://lain.bgm.tv/pic/cover/c/49/9c/522287_bb32e.jpg) | [天官赐福 全新动画短片](https://bangumi.tv/subject/522287) |  | 未知 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/25/f7/541423_QBoUo.jpg) | [忍者乱太郎 第33季](https://bangumi.tv/subject/541423) | 忍たま乱太郎 第33シリーズ | 未知 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/a2/33/507115_xqZQN.jpg) | [怪兽8号 第一季总集篇](https://bangumi.tv/subject/507115) | 怪獣8号 第1期総集編 | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/33/b2/507122_hUc44.jpg) | [怪兽8号 保科的假期](https://bangumi.tv/subject/507122) | 怪獣8号 保科の休日 | 1 | - | 0 |
+| 2025 | ![](/img/no_icon_subject.png) | [不道德例行性行为](https://bangumi.tv/subject/527088) | インモラルーティーン THE ANIMATION | 1 | - | 0 |
+| 2025 | ![](/img/no_icon_subject.png) | [毁灭性的诱惑](https://bangumi.tv/subject/530237) | ハメツの誘惑 | 1 | - | 0 |
+| 2025 | ![](/img/no_icon_subject.png) | [夕顔](https://bangumi.tv/subject/532849) |  | 1 | - | 10 |
+| 2025 | ![](/img/no_icon_subject.png) | [您喜欢亚人对吧](https://bangumi.tv/subject/533910) | 亜人がお好きなんですね♡ | 2 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/66/c5/435075_2wLwJ.jpg) | [画江湖之不良人第七季：九幽玄天](https://bangumi.tv/subject/435075) | 画江湖之不良人柒：九幽玄天 | 12 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/38/ec/514031_M7x86.jpg) | [ALDNOAH.ZERO 雨之断章 -The Penultimate Truth-](https://bangumi.tv/subject/514031) | アルドノア・ゼロ 雨の断章 -The Penultimate Truth- | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/ab/95/434811_136n3.jpg) | [超能立方 超凡篇](https://bangumi.tv/subject/434811) | 超能立方 超凡篇 | 未知 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/65/fb/497110_X6ZIL.jpg) | [忍者蝙蝠侠对极道联盟](https://bangumi.tv/subject/497110) | ニンジャバットマン対ヤクザリーグ | 1 | - | 0 |
+| 2025 | ![](/img/no_icon_subject.png) | [完全堕落×被睡走了的家人](https://bangumi.tv/subject/533909) | 完堕ちX寝取られ家族 The Animation | 2 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/51/ec/542666_IDU1T.jpg) | [熊出没之小小世界2](https://bangumi.tv/subject/542666) |  | 13 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/29/58/529199_qZEEz.jpg) | [映画おしりたんてい スター・アンド・ムーン](https://bangumi.tv/subject/529199) |  | 1 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/0e/77/396229_V43VF.jpg) | [OVA 无限滑板 EXTRA PART](https://bangumi.tv/subject/396229) | OVA SK∞ エスケーエイト EXTRA PART | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/6d/cb/543670_1yl30.jpg) | [恶兽](https://bangumi.tv/subject/543670) |  | 1 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/5a/63/501950_o8o1b.jpg) | [凹凸世界·新生 先行集](https://bangumi.tv/subject/501950) | 凹凸世界REBORN 先行集 | 2 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/a2/ad/505488_46VK3.jpg) | [剧场版 物怪 火鼠](https://bangumi.tv/subject/505488) | 劇場版 モノノ怪 火鼠 | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/df/78/521150_BATw5.jpg) | [映画しまじろう『しまじろうと ゆうきのうた』](https://bangumi.tv/subject/521150) |  | 1 | - | 0 |
+| 2025 |  | [Oh My God, Yes! A Series of Extremely Relatable Circumstances](https://bangumi.tv/subject/536405) |  | 未知 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/39/68/542763_ZYe9r.jpg) | [AnimeCanvas コンセプトムービー](https://bangumi.tv/subject/542763) |  | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/0e/c6/507542_NLTHL.jpg) | [痞老板大电影](https://bangumi.tv/subject/507542) | Plankton: The Movie | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/9f/a9/515422_4gK7I.jpg) | [哆啦A梦：大雄的绘世界物语](https://bangumi.tv/subject/515422) | 映画ドラえもん のび太の絵世界物語 | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/65/ce/537028_7AawS.jpg) | [小凯文](https://bangumi.tv/subject/537028) | Lil Kev | 未知 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/7f/5f/542017_EI4Se.jpg) | [Let's roll, Cinnamoroll!](https://bangumi.tv/subject/542017) |  | 12 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/89/22/536694_1x751.jpg) | [嗨！我是脉脉](https://bangumi.tv/subject/536694) | はーい！ミャクミャクです | 8 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/7c/5c/540911_4Ze4E.jpg) | [火柴人 VS 编程](https://bangumi.tv/subject/540911) | Animation vs. Coding | 1 | - | 10 |
+| 2025 |  | [乐活姐妹：怪诞冒险 第三季](https://bangumi.tv/subject/536356) | YOLO: Rainbow Trinity | 8 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/4f/98/540589_Z2j8K.jpg) | [加布动画！Sweety Days ～零食般的日常～](https://bangumi.tv/subject/540589) | ガヴっとアニメ！ Sweety Days ～おかしな日常～ | 未知 | - | 10 |
+| 2025 |  | [如果烧陶的话也做个马克杯吧 剧场版](https://bangumi.tv/subject/496945) | やくならマグカップも 劇場版 | 1 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/3c/f5/511571_kO1k1.jpg) | [親鸞 人生の目的](https://bangumi.tv/subject/511571) |  | 1 | - | 0 |
+| 2025 | ![](/img/no_icon_subject.png) | [勇者妹妹的冒险结束了！](https://bangumi.tv/subject/525143) | 勇者ちゃんの冒険は終わってしまった！ | 2 | - | 0 |
+| 2025 | ![](/img/no_icon_subject.png) | [探索欢爱新境界？](https://bangumi.tv/subject/525599) | 知らないこと知りたいの？ THE ANIMATION | 2 | - | 39 |
+| 2025 | ![](/img/no_icon_subject.png) | [野野原柚花的秘密直播](https://bangumi.tv/subject/528310) | 野々原柚花のヒミツのハイシン | 2 | - | 99 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/a2/19/533327_F56j8.jpg) | [ALDNOAH.ZERO（Re+）](https://bangumi.tv/subject/533327) | アルドノア・ゼロ（Re+） | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/7b/5f/535895_kUdO3.jpg) | [乐一通大电影：地球爆炸之日](https://bangumi.tv/subject/535895) | The Day the Earth Blew Up: A Looney Tunes Movie | 1 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/0b/16/542180_5eTQ2.jpg) | [遮阳帘上尘埃堆积](https://bangumi.tv/subject/542180) | シェードの埃は延長 | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/c2/3f/540231_bORUJ.jpg) | [鱼缸家族](https://bangumi.tv/subject/540231) | 鱼缸家族 | 52 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/cd/85/508169_qBfzq.jpg) | [最强升级](https://bangumi.tv/subject/508169) |  | 40 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/81/37/536271_oOBWB.jpg) | [快龙与小邮递员](https://bangumi.tv/subject/536271) | カイリューとゆうびんやさん | 1 | - | 120 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/53/7d/526970_blb61.jpg) | [仙逆 年番2](https://bangumi.tv/subject/526970) |  | 52 | - | 24 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/d7/4f/320243_UuU6C.jpg) | [长歌行](https://bangumi.tv/subject/320243) |  | 16 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/df/b6/433672_86z77.jpg) | [退魔录](https://bangumi.tv/subject/433672) | 퇴마록 | 1 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/d1/c5/517532_hEEsH.jpg) | [监禁区域LevelX 第二季](https://bangumi.tv/subject/517532) | 監禁区域レベルX 第2期 | 未知 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/d5/8a/523821_ivlsS.jpg) | [电影 催眠麦克风](https://bangumi.tv/subject/523821) | 映画 ヒプノシスマイク -Division Rap Battle- | 1 | - | 10 |
+| 2025 | ![](/img/no_icon_subject.png) | [肉園](https://bangumi.tv/subject/533103) |  | 2 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/37/e8/525491_WcBHR.jpg) | [胜与败](https://bangumi.tv/subject/525491) | Win or Lose | 8 | - | 10 |
+| 2025 |  | [monpoké短篇动画](https://bangumi.tv/subject/538501) | モンポケショートアニメ | 10 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/95/bf/543941_805v5.jpg) | [太空见习生](https://bangumi.tv/subject/543941) | Space Cadet | 未知 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/a4/36/515392_n2tua.jpg) | [电影 前辈是男孩子 雨过天晴](https://bangumi.tv/subject/515392) | 映画 先輩はおとこのこ あめのち晴れ | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/46/7e/537252_Vwoid.jpg) | [POKÉTOON动画系列2025](https://bangumi.tv/subject/537252) | POKÉTOON 2025 | 未知 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/a5/b1/537745_DtDV9.jpg) | [哆啦A梦4D艺术大冒险～大雄的绘画世界物语～](https://bangumi.tv/subject/537745) | ドラえもん 4-D アート・アドベンチャー ～のび太の絵世界物語～ | 1 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/d8/20/538433_qdDha.jpg) | [二十四节气密码：春之篇](https://bangumi.tv/subject/538433) | 二十四节气密码：春之篇 | 28 | - | 0 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/ae/49/405231_EyV7V.jpg) | [君子无疾](https://bangumi.tv/subject/405231) |  | 16 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/0e/3a/464852_Gmwxm.jpg) | [巫师 深海女妖](https://bangumi.tv/subject/464852) | The Witcher: Sirens of The Deep | 1 | - | 17 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/5d/38/531515_xU9SF.jpg) | [那年那兔那些事儿 第七季](https://bangumi.tv/subject/531515) |  | 12 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/d9/36/536425_OCE6q.jpg) | [【ぶいすぽっ！】オリジナル曲『すうぃーとサプライズ』【兎咲ミミ / 白波らむね / 紡木こかげ / 千燈ゆうひ】](https://bangumi.tv/subject/536425) |  | 1 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/37/ec/465873_NpLEp.jpg) | [无敌少侠 第三季](https://bangumi.tv/subject/465873) | Invincible Season 3 | 8 | - | 16 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/78/85/537638_F9ULL.jpg) | [赤いきつね 緑のたぬきウェブCM 「ひとりのよると赤緑」](https://bangumi.tv/subject/537638) |  | 2 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/5f/6e/449365_vnV15.jpg) | [失业魔王](https://bangumi.tv/subject/449365) |  | 26 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/2e/d7/510728_P22GO.jpg) | [Re：从零开始的异世界生活 第三季 反击篇](https://bangumi.tv/subject/510728) | Re:ゼロから始める異世界生活 3rd season 反擊編 | 8 | - | 1174 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/0a/40/526104_i2616.jpg) | [You and idol 光之美少女♪](https://bangumi.tv/subject/526104) | キミとアイドルプリキュア♪ | 未知 | - | 79 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/e3/08/533466_4wznW.jpg) | [常见副作用](https://bangumi.tv/subject/533466) | Common Side Effects | 10 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/49/9c/522287_bb32e.jpg) | [天官赐福 全新动画短片](https://bangumi.tv/subject/522287) |  | 未知 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/8b/bb/448535_aAM0B.jpg) | [星辰变 第六季](https://bangumi.tv/subject/448535) |  | 未知 | - | 10 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/0d/a2/535668_251fV.jpg) | [斗战天下](https://bangumi.tv/subject/535668) |  | 未知 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/ea/9e/531871_uo0qj.jpg) | [天命大主宰](https://bangumi.tv/subject/531871) |  | 未知 | - | 0 |
