@@ -1,7 +1,6 @@
 import os
 import re
 import time
-import random
 import asyncio
 import aiohttp
 import argparse
@@ -21,6 +20,9 @@ EPS_PATTERN = re.compile(r'(\d+)话')
 FULL_DATE_PATTERN = re.compile(r'(\d{4})年(\d{1,2})月(\d{1,2})日')
 YEAR_MONTH_PATTERN = re.compile(r'(\d{4})年(\d{1,2})月')
 YEAR_PATTERN = re.compile(r'(\d{4})年')
+# 新增的正则表达式，用于匹配格式化的日期
+FORMATTED_DATE_PATTERN = re.compile(r'(\d{4})-(\d{1,2})-(\d{1,2})(?:\(.*?\))?')
+FORMATTED_YEAR_MONTH_PATTERN = re.compile(r'(\d{4})-(\d{1,2})(?:\(.*?\))?')
 
 # 并发控制配置
 DEFAULT_CONCURRENT = 5
@@ -138,20 +140,45 @@ class BangumiScraper:
         if eps := EPS_PATTERN.search(text):
             anime['episodes'] = eps.group(1)
 
-        # 日期解析
-        if full_date := FULL_DATE_PATTERN.search(text):
+        # 日期解析 - 按优先顺序尝试不同格式
+        # 1. 先尝试匹配完整的格式化日期 YYYY-MM-DD
+        if formatted_date := FORMATTED_DATE_PATTERN.search(text):
+            anime.update({
+                'year': int(formatted_date.group(1)),
+                'month': int(formatted_date.group(2)),
+                'day': int(formatted_date.group(3))
+            })
+        # 2. 尝试匹配中文完整日期 YYYY年MM月DD日
+        elif full_date := FULL_DATE_PATTERN.search(text):
             anime.update({
                 'year': int(full_date.group(1)),
-                'month': int(full_date.group(2)) or 0,
-                'day': int(full_date.group(3)) or 0
+                'month': int(full_date.group(2)),
+                'day': int(full_date.group(3))
             })
+        # 3. 尝试匹配格式化年月 YYYY-MM
+        elif formatted_ym := FORMATTED_YEAR_MONTH_PATTERN.search(text):
+            anime.update({
+                'year': int(formatted_ym.group(1)),
+                'month': int(formatted_ym.group(2)),
+                'day': 0
+            })
+        # 4. 尝试匹配中文年月 YYYY年MM月
         elif ym_date := YEAR_MONTH_PATTERN.search(text):
             anime.update({
                 'year': int(ym_date.group(1)),
-                'month': int(ym_date.group(2)) or 0,
+                'month': int(ym_date.group(2)),
+                'day': 0
             })
+        # 5. 最后尝试仅匹配年份
         elif year_only := YEAR_PATTERN.search(text):
             anime['year'] = int(year_only.group(1))
+            anime['month'] = 0
+            anime['day'] = 0
+        # 6. 如果以上都没匹配到，尝试直接匹配数字年份
+        elif direct_year := re.search(r'\b(\d{4})\b', text):
+            anime['year'] = int(direct_year.group(1))
+            anime['month'] = 0
+            anime['day'] = 0
 
     @staticmethod
     def parse_rating(elem: BeautifulSoup, anime: Dict):
@@ -204,8 +231,52 @@ class BangumiScraper:
         # 合并现有数据
         existing_data = self.parse_existing_markdown(
             filename) if os.path.exists(filename) else []
-        merged_data = self.merge_data(existing_data, new_data)
-
+        
+        # 记录新数据的统计信息
+        new_items_count = 0
+        new_years_data = defaultdict(int)
+        
+        # 合并数据并跟踪新增条目
+        merged_data = []
+        seen = set()
+        
+        # 处理现有数据
+        for item in existing_data:
+            identifier = (
+                item.get('year'),
+                item.get('title'),
+                item.get('episodes'),
+                item.get('url', '').split('/')[-1] if item.get('url') else ''
+            )
+            if identifier not in seen:
+                seen.add(identifier)
+                merged_data.append(item)
+        
+        # 处理新数据
+        for item in new_data:
+            identifier = (
+                item.get('year'),
+                item.get('title'),
+                item.get('episodes'),
+                item.get('url', '').split('/')[-1] if item.get('url') else ''
+            )
+            if identifier not in seen:
+                seen.add(identifier)
+                new_items_count += 1
+                new_years_data[item.get('year')] += 1
+                merged_data.append({
+                    'year': item.get('year', 0),
+                    'month': item.get('month', 0),
+                    'day': item.get('day', 0),
+                    'cover': item.get('cover', ''),
+                    'title': item.get('title', ''),
+                    'url': item.get('url', ''),
+                    'jp_title': item.get('jp_title', ''),
+                    'episodes': item.get('episodes', '未知'),
+                    'score': item.get('score', '-'),
+                    'votes': item.get('votes', '0')
+                })
+        
         # 按年份分组
         year_dict = defaultdict(list)
         for item in merged_data:
@@ -236,22 +307,22 @@ class BangumiScraper:
                                x.get('month', 0), -x.get('day', 0))
             )
 
-            # 生成表格行（修复字段对应）
+            # 生成表格行
             for item in sorted_items:
                 # 日期格式化
                 date_parts = []
                 if item.get('year'):
                     date_parts.append(f"{item['year']}")
-                    if item.get('month'):
+                    if item.get('month') and item['month'] > 0:  # 确保月份有效
                         date_parts.append(f"{item['month']:02d}")
-                        if item.get('day'):
+                        if item.get('day') and item['day'] > 0:  # 确保日期有效
                             date_parts.append(f"{item['day']:02d}")
                 date_str = "-".join(date_parts) if date_parts else "未知"
 
                 # 封面处理
                 cover = f"![]({item['cover']})" if item.get('cover') else ""
 
-                # 标题链接（确保中文标题存在）
+                # 标题链接
                 ch_title = item.get('title', '未知标题').strip()
                 title_link = f"[{ch_title}]({item.get('url', '')})" if item.get(
                     'url') else ch_title
@@ -268,10 +339,21 @@ class BangumiScraper:
                     f"{votes} |\n"
             md_content += "\n"
 
+        # 输出统计信息
+        print(f"✅ 数据合并完成:")
+        print(f"   - 现有数据: {len(existing_data)} 条")
+        print(f"   - 本次新增: {new_items_count} 条")
+        
+        # 按年份显示新增数据统计
+        if new_items_count > 0:
+            print(f"   - 新增数据年份分布:")
+            for year, count in sorted(new_years_data.items(), reverse=True):
+                print(f"     * {year}年: {count} 条")
+        
         # 写入文件
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(md_content)
-        print(f"报告已保存至: {os.path.abspath(filename)}")
+        print(f"📝 报告已保存至: {os.path.abspath(filename)}")
 
     def parse_existing_markdown(self, filename: str) -> List[Dict]:
         """解析现有Markdown文件"""
@@ -316,6 +398,7 @@ class BangumiScraper:
                                     if url_match:
                                         url = url_match.group(1)
 
+                                # 初始化条目，确保有默认值
                                 item = {
                                     'year': current_year,
                                     'month': 0,
@@ -328,28 +411,42 @@ class BangumiScraper:
                                     'score': parts[5],
                                     'votes': parts[6] if len(parts) > 6 else '0'
                                 }
+
+                                # 解析日期（加强日期解析）
+                                date_str = parts[0]
+                                date_parts = date_str.split('-')
+                                
+                                try:
+                                    if len(date_parts) >= 1:
+                                        # 处理纯年份格式
+                                        if date_parts[0].isdigit():
+                                            item['year'] = int(date_parts[0])
+                                        
+                                    if len(date_parts) >= 2:
+                                        # 处理年-月格式
+                                        if date_parts[1].isdigit():
+                                            item['month'] = int(date_parts[1])
+                                        
+                                    if len(date_parts) >= 3:
+                                        # 处理年-月-日格式
+                                        if date_parts[2].isdigit():
+                                            item['day'] = int(date_parts[2])
+                                        # 处理可能含有括号的情况, 如 "25(美国)"
+                                        elif '(' in date_parts[2]:
+                                            day_part = date_parts[2].split('(')[0]
+                                            if day_part.isdigit():
+                                                item['day'] = int(day_part)
+                                except ValueError:
+                                    # 如果日期解析失败，保留当前年份
+                                    item['year'] = current_year
+                                
+                                existing_data.append(item)
+                                parsed_count += 1
                             except Exception as e:
                                 print(f"⚠️ 解析行出错: {line[:50]}... | 错误: {str(e)}")
                                 continue
 
-                            # 解析日期
-                            date_str = parts[0].split(
-                                '|')[0].strip() if '|' in parts[0] else ''
-                            date_parts = date_str.split('-')
-                            try:
-                                if len(date_parts) >= 1:
-                                    item['year'] = int(date_parts[0])
-                                if len(date_parts) >= 2:
-                                    item['month'] = int(date_parts[1])
-                                if len(date_parts) >= 3:
-                                    item['day'] = int(date_parts[2])
-                            except ValueError:
-                                pass
-
-                            existing_data.append(item)
-                            parsed_count += 1
-
-            print(f"📊 解析统计 | 总行数: {line_count} | 解析条目: {parsed_count}")
+            print(f"✅ 解析旧数据完成 | 总行数: {line_count} | 解析条目: {parsed_count}")
             return existing_data
         except Exception as e:
             print(f"❌ 解析文件出错: {str(e)}")
