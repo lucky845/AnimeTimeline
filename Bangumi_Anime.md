@@ -122,21 +122,21 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 0 |
+| 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 10 |
 | 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/25/f7/541423_QBoUo.jpg) | [忍者乱太郎 第33季](https://bangumi.tv/subject/541423) | 忍たま乱太郎 第33シリーズ | 未知 | - | 0 |
 | 2025-03-29 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
-| 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/ab/95/434811_136n3.jpg) | [超能立方 超凡篇](https://bangumi.tv/subject/434811) | 超能立方 超凡篇 | 未知 | - | 0 |
+| 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/ab/95/434811_136n3.jpg) | [超能立方 超凡篇](https://bangumi.tv/subject/434811) | 超能立方 超凡篇 | 12 | - | 0 |
 | 2025-03-09 |  | [Oh My God, Yes! A Series of Extremely Relatable Circumstances](https://bangumi.tv/subject/536405) |  | 未知 | - | 0 |
 | 2025-03-06 | ![](https://lain.bgm.tv/pic/cover/c/65/ce/537028_7AawS.jpg) | [小凯文](https://bangumi.tv/subject/537028) | Lil Kev | 未知 | - | 0 |
 | 2025-03 | ![](https://lain.bgm.tv/pic/cover/c/4f/98/540589_Z2j8K.jpg) | [加布动画！Sweety Days ～零食般的日常～](https://bangumi.tv/subject/540589) | ガヴっとアニメ！ Sweety Days ～おかしな日常～ | 未知 | - | 10 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/25/f7/541423_QBoUo.jpg) | [忍者乱太郎 第33季](https://bangumi.tv/subject/541423) | 忍たま乱太郎 第33シリーズ | 未知 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
-| 2025 | ![](https://lain.bgm.tv/pic/cover/c/4e/dd/545132_X9S5q.jpg) | [变形金刚 狂野之王](https://bangumi.tv/subject/545132) | トランスフォーマー ワイルドキング | 14 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/ab/95/434811_136n3.jpg) | [超能立方 超凡篇](https://bangumi.tv/subject/434811) | 超能立方 超凡篇 | 未知 | - | 0 |
 | 2025 |  | [Oh My God, Yes! A Series of Extremely Relatable Circumstances](https://bangumi.tv/subject/536405) |  | 未知 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/65/ce/537028_7AawS.jpg) | [小凯文](https://bangumi.tv/subject/537028) | Lil Kev | 未知 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/4f/98/540589_Z2j8K.jpg) | [加布动画！Sweety Days ～零食般的日常～](https://bangumi.tv/subject/540589) | ガヴっとアニメ！ Sweety Days ～おかしな日常～ | 未知 | - | 10 |
+| 2025 | ![](https://lain.bgm.tv/pic/cover/c/4e/dd/545132_X9S5q.jpg) | [变形金刚 狂野之王](https://bangumi.tv/subject/545132) | トランスフォーマー ワイルドキング | 14 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/90/b0/544463_h9w9h.jpg) | [火柴人 VS 成瘾](https://bangumi.tv/subject/544463) | Animation vs. Addiction | 1 | - | 0 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/a2/33/507115_xqZQN.jpg) | [怪兽8号 第一季总集篇](https://bangumi.tv/subject/507115) | 怪獣8号 第1期総集編 | 1 | - | 10 |
 | 2025 | ![](https://lain.bgm.tv/pic/cover/c/33/b2/507122_hUc44.jpg) | [怪兽8号 保科的假期](https://bangumi.tv/subject/507122) | 怪獣8号 保科の休日 | 1 | - | 0 |
