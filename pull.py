@@ -1,17 +1,21 @@
+import argparse
+import asyncio
+import logging
 import os
 import re
 import time
-import asyncio
-import aiohttp
-import argparse
-from bs4 import BeautifulSoup
 from collections import defaultdict
-from typing import Dict, List, Optional, Tuple, Union
-from datetime import datetime
+from typing import Dict, List, Tuple
+
+import aiohttp
+from bs4 import BeautifulSoup
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # 请求头配置
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 '
+                  'Safari/537.36',
     'Referer': 'https://bangumi.tv/'
 }
 
@@ -70,14 +74,15 @@ class BangumiScraper:
 
             except (aiohttp.ClientError, asyncio.TimeoutError) as e:
                 retries -= 1
-                print(f"获取页数失败: {str(e)}，剩余重试次数: {retries}")
+                logging.info(f"获取页数失败: {str(e)}，剩余重试次数: {retries}")
                 await asyncio.sleep(2 + retries * 3)
         return 0
 
-    async def scrape_page(self, session: aiohttp.ClientSession, base_url: str, page: int, year: int, month: int = None) -> List[Dict]:
+    async def scrape_page(self, session: aiohttp.ClientSession, base_url: str, page: int, year: int,
+                          month: int = None) -> List[Dict]:
         """爬取单个页面"""
         url = f"{base_url}&page={page}"
-        print(f"正在爬取: {url}")
+        logging.info(f"正在爬取: {url}")
 
         try:
             async with self.semaphore:
@@ -86,7 +91,7 @@ class BangumiScraper:
                     soup = BeautifulSoup(await resp.text(), 'lxml')
                     return self.parse_page(soup, year, month)
         except Exception as e:
-            print(f"页面爬取失败: {url}，错误: {str(e)}")
+            logging.info(f"页面爬取失败: {url}，错误: {str(e)}")
             return []
 
     def parse_page(self, soup: BeautifulSoup, base_year: int, base_month: int = None) -> List[Dict]:
@@ -115,8 +120,7 @@ class BangumiScraper:
                 anime['cover'] = cover_url
 
             # 元数据解析
-            self.parse_metadata(item.select_one(
-                'p.info.tip'), anime, base_year, base_month)
+            self.parse_metadata(item.select_one('p.info.tip'), anime, base_year, base_month)
             self.parse_rating(item.select_one('p.rateInfo'), anime)
 
             results.append(anime)
@@ -192,7 +196,8 @@ class BangumiScraper:
         if count := elem.select_one('span.tip_j'):
             anime['votes'] = count.text.strip('()')
 
-    async def scrape_time_range(self, session: aiohttp.ClientSession, start_year: int, end_year: int, start_month: int = None, end_month: int = None) -> List[Dict]:
+    async def scrape_time_range(self, session: aiohttp.ClientSession, start_year: int, end_year: int,
+                                start_month: int = None, end_month: int = None) -> List[Dict]:
         """处理时间范围爬取"""
         all_data = []
 
@@ -201,8 +206,7 @@ class BangumiScraper:
             if start_year != end_year:
                 months = [None]
             else:
-                months = range(start_month, end_month +
-                               1) if start_month else [None]
+                months = range(start_month, end_month + 1) if start_month else [None]
 
             for month in months:
                 if month:
@@ -211,7 +215,7 @@ class BangumiScraper:
                     url = f"https://bangumi.tv/anime/browser/airtime/{year}?sort=date"
 
                 if year == self.current_year and month and month > self.current_month:
-                    print(f"跳过未来月份: {year}-{month}")
+                    logging.info(f"跳过未来月份: {year}-{month}")
                     continue
 
                 total_pages = await self.fetch_pages(session, url)
@@ -231,15 +235,15 @@ class BangumiScraper:
         # 合并现有数据
         existing_data = self.parse_existing_markdown(
             filename) if os.path.exists(filename) else []
-        
+
         # 记录新数据的统计信息
         new_items_count = 0
         new_years_data = defaultdict(int)
-        
+
         # 合并数据并跟踪新增条目
         merged_data = []
         seen = set()
-        
+
         # 处理现有数据
         for item in existing_data:
             identifier = (
@@ -251,7 +255,7 @@ class BangumiScraper:
             if identifier not in seen:
                 seen.add(identifier)
                 merged_data.append(item)
-        
+
         # 处理新数据
         for item in new_data:
             identifier = (
@@ -276,7 +280,7 @@ class BangumiScraper:
                     'score': item.get('score', '-'),
                     'votes': item.get('votes', '0')
                 })
-        
+
         # 按年份分组
         year_dict = defaultdict(list)
         for item in merged_data:
@@ -304,7 +308,7 @@ class BangumiScraper:
             sorted_items = sorted(
                 year_dict[year],
                 key=lambda x: (-x['year'], -
-                               x.get('month', 0), -x.get('day', 0))
+                x.get('month', 0), -x.get('day', 0))
             )
 
             # 生成表格行
@@ -335,25 +339,25 @@ class BangumiScraper:
                 votes = votes if votes else '0'
 
                 md_content += f"| {date_str} | {cover} | {title_link} | {jp_title} | " \
-                    f"{item.get('episodes', '未知')} | {item.get('score', '-')} | " \
-                    f"{votes} |\n"
+                              f"{item.get('episodes', '未知')} | {item.get('score', '-')} | " \
+                              f"{votes} |\n"
             md_content += "\n"
 
         # 输出统计信息
-        print(f"✅ 数据合并完成:")
-        print(f"   - 现有数据: {len(existing_data)} 条")
-        print(f"   - 本次新增: {new_items_count} 条")
-        
+        logging.info("✅ 数据合并完成:")
+        logging.info(f"   - 现有数据: {len(existing_data)} 条")
+        logging.info(f"   - 本次新增: {new_items_count} 条")
+
         # 按年份显示新增数据统计
         if new_items_count > 0:
-            print(f"   - 新增数据年份分布:")
+            logging.info("   - 新增数据年份分布:")
             for year, count in sorted(new_years_data.items(), reverse=True):
-                print(f"     * {year}年: {count} 条")
-        
+                logging.info(f"     * {year}年: {count} 条")
+
         # 写入文件
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(md_content)
-        print(f"📝 报告已保存至: {os.path.abspath(filename)}")
+        logging.info(f"📝 报告已保存至: {os.path.abspath(filename)}")
 
     def parse_existing_markdown(self, filename: str) -> List[Dict]:
         """解析现有Markdown文件"""
@@ -415,18 +419,18 @@ class BangumiScraper:
                                 # 解析日期（加强日期解析）
                                 date_str = parts[0]
                                 date_parts = date_str.split('-')
-                                
+
                                 try:
                                     if len(date_parts) >= 1:
                                         # 处理纯年份格式
                                         if date_parts[0].isdigit():
                                             item['year'] = int(date_parts[0])
-                                        
+
                                     if len(date_parts) >= 2:
                                         # 处理年-月格式
                                         if date_parts[1].isdigit():
                                             item['month'] = int(date_parts[1])
-                                        
+
                                     if len(date_parts) >= 3:
                                         # 处理年-月-日格式
                                         if date_parts[2].isdigit():
@@ -439,17 +443,17 @@ class BangumiScraper:
                                 except ValueError:
                                     # 如果日期解析失败，保留当前年份
                                     item['year'] = current_year
-                                
+
                                 existing_data.append(item)
                                 parsed_count += 1
                             except Exception as e:
-                                print(f"⚠️ 解析行出错: {line[:50]}... | 错误: {str(e)}")
+                                logging.error(f"⚠️ 解析行出错: {line[:50]}... | 错误: {str(e)}")
                                 continue
 
-            print(f"✅ 解析旧数据完成 | 总行数: {line_count} | 解析条目: {parsed_count}")
+            logging.info(f"✅ 解析旧数据完成 | 总行数: {line_count} | 解析条目: {parsed_count}")
             return existing_data
         except Exception as e:
-            print(f"❌ 解析文件出错: {str(e)}")
+            logging.error(f"❌ 解析文件出错: {str(e)}")
             # 发生错误时返回空列表，确保程序可以继续运行
             return []
 
@@ -521,7 +525,7 @@ class BangumiScraper:
                 os.environ['CONCURRENT_REQUESTS'] = str(args.concurrent)
                 start_year = end_year = args.year
                 start_month = end_month = args.month
-                print(f"🏃 自动模式启动 | 年份: {args.year} | 月份: {args.month or '全年'}")
+                logging.info(f"🏃 自动模式启动 | 年份: {args.year} | 月份: {args.month or '全年'}")
             else:
                 # 交互模式逻辑
                 year_input = input("请输入要爬取的年份（支持范围，如2010-2023）: ").strip()
@@ -541,7 +545,7 @@ class BangumiScraper:
             if not os.path.isabs(output_file):
                 output_file = os.path.abspath(output_file)
 
-            print(f"📝 输出文件路径: {output_file}")
+            logging.info(f"📝 输出文件路径: {output_file}")
 
             async with aiohttp.ClientSession(connector=self.connector) as session:
                 data = await self.scrape_time_range(session, start_year, end_year, start_month, end_month)
@@ -585,9 +589,15 @@ class BangumiScraper:
         return (int(input_str), int(input_str))
 
 
-if __name__ == "__main__":
-    async def run():
+async def run():
+    try:
         async with BangumiScraper() as scraper:
             await scraper.main()
+    except aiohttp.ClientError as e:
+        logging.error(f"网络请求错误: {str(e)}")
+    except Exception as e:
+        logging.error(f"未知错误: {str(e)}", exc_info=True)
 
+
+if __name__ == "__main__":
     asyncio.run(run())
