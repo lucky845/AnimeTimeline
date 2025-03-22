@@ -124,6 +124,9 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 10 |
 | 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/25/f7/541423_QBoUo.jpg) | [忍者乱太郎 第33季](https://bangumi.tv/subject/541423) | 忍たま乱太郎 第33シリーズ | 未知 | - | 0 |
+| 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 10 |
+| 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/25/f7/541423_QBoUo.jpg) | [忍者乱太郎 第33季](https://bangumi.tv/subject/541423) | 忍たま乱太郎 第33シリーズ | 未知 | - | 0 |
+| 2025-03-29 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
 | 2025-03-29 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
 | 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/a2/33/507115_xqZQN.jpg) | [怪兽8号 第一季总集篇](https://bangumi.tv/subject/507115) | 怪獣8号 第1期総集編 | 1 | - | 10 |
 | 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/33/b2/507122_hUc44.jpg) | [怪兽8号 保科的假期](https://bangumi.tv/subject/507122) | 怪獣8号 保科の休日 | 1 | - | 0 |
@@ -139,6 +142,7 @@
 | 2025-03-21 | ![](/img/no_icon_subject.png) | [完全堕落×被睡走了的家人](https://bangumi.tv/subject/533909) | 完堕ちX寝取られ家族 The Animation | 2 | - | 0 |
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/51/ec/542666_IDU1T.jpg) | [熊出没之小小世界2](https://bangumi.tv/subject/542666) |  | 13 | - | 0 |
 | 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/29/58/529199_qZEEz.jpg) | [映画おしりたんてい スター・アンド・ムーン](https://bangumi.tv/subject/529199) |  | 1 | - | 0 |
+| 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/05/57/545949_BNoPC.jpg) | [狩猎开始](https://bangumi.tv/subject/545949) | The Hunt Begins | 1 | - | 0 |
 | 2025-03-19 | ![](https://lain.bgm.tv/pic/cover/c/0e/77/396229_V43VF.jpg) | [OVA 无限滑板 EXTRA PART](https://bangumi.tv/subject/396229) | OVA SK∞ エスケーエイト EXTRA PART | 1 | - | 67 |
 | 2025-03-18 | ![](https://lain.bgm.tv/pic/cover/c/6d/cb/543670_1yl30.jpg) | [恶兽](https://bangumi.tv/subject/543670) |  | 1 | - | 0 |
 | 2025-03-15 | ![](https://lain.bgm.tv/pic/cover/c/90/b0/544463_h9w9h.jpg) | [火柴人 VS 成瘾](https://bangumi.tv/subject/544463) | Animation vs. Addiction | 1 | - | 10 |
@@ -148,11 +152,14 @@
 | 2025-03-09 |  | [乐活姐妹：怪诞冒险 第三季](https://bangumi.tv/subject/536356) | YOLO: Rainbow Trinity | 8 | - | 0 |
 | 2025-03-09 |  | [Oh My God, Yes! A Series of Extremely Relatable Circumstances](https://bangumi.tv/subject/536405) |  | 未知 | - | 0 |
 | 2025-03-09 | ![](https://lain.bgm.tv/pic/cover/c/39/68/542763_ZYe9r.jpg) | [AnimeCanvas コンセプトムービー](https://bangumi.tv/subject/542763) |  | 1 | - | 10 |
+| 2025-03-09 |  | [Oh My God, Yes! A Series of Extremely Relatable Circumstances](https://bangumi.tv/subject/536405) |  | 未知 | - | 0 |
 | 2025-03-07 | ![](https://lain.bgm.tv/pic/cover/c/0e/c6/507542_NLTHL.jpg) | [痞老板大电影](https://bangumi.tv/subject/507542) | Plankton: The Movie | 1 | - | 10 |
 | 2025-03-07 | ![](https://lain.bgm.tv/pic/cover/c/9f/a9/515422_4gK7I.jpg) | [哆啦A梦：大雄的绘世界物语](https://bangumi.tv/subject/515422) | 映画ドラえもん のび太の絵世界物語 | 1 | - | 12 |
 | 2025-03-06 | ![](https://lain.bgm.tv/pic/cover/c/65/ce/537028_7AawS.jpg) | [小凯文](https://bangumi.tv/subject/537028) | Lil Kev | 未知 | - | 0 |
 | 2025-03-06 | ![](https://lain.bgm.tv/pic/cover/c/7f/5f/542017_EI4Se.jpg) | [Let's roll, Cinnamoroll!](https://bangumi.tv/subject/542017) |  | 12 | - | 0 |
+| 2025-03-06 | ![](https://lain.bgm.tv/pic/cover/c/65/ce/537028_7AawS.jpg) | [小凯文](https://bangumi.tv/subject/537028) | Lil Kev | 未知 | - | 0 |
 | 2025-03-03 | ![](https://lain.bgm.tv/pic/cover/c/89/22/536694_1x751.jpg) | [嗨！我是脉脉](https://bangumi.tv/subject/536694) | はーい！ミャクミャクです | 8 | - | 10 |
+| 2025-03-02 | ![](https://lain.bgm.tv/pic/cover/c/4f/98/540589_Z2j8K.jpg) | [加布动画！Sweety Days ～零食般的日常～](https://bangumi.tv/subject/540589) | ガヴっとアニメ！ Sweety Days ～おかしな日常～ | 未知 | - | 10 |
 | 2025-03-02 | ![](https://lain.bgm.tv/pic/cover/c/4f/98/540589_Z2j8K.jpg) | [加布动画！Sweety Days ～零食般的日常～](https://bangumi.tv/subject/540589) | ガヴっとアニメ！ Sweety Days ～おかしな日常～ | 未知 | - | 10 |
 | 2025-03-01 | ![](https://lain.bgm.tv/pic/cover/c/7c/5c/540911_4Ze4E.jpg) | [火柴人 VS 编程](https://bangumi.tv/subject/540911) | Animation vs. Coding | 1 | - | 10 |
 | 2025-02-28 | ![](https://lain.bgm.tv/pic/cover/c/3c/f5/511571_kO1k1.jpg) | [親鸞 人生の目的](https://bangumi.tv/subject/511571) |  | 1 | - | 0 |
