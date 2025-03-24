@@ -141,6 +141,7 @@
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/65/fb/497110_X6ZIL.jpg) | [忍者蝙蝠侠对极道联盟](https://bangumi.tv/subject/497110) | ニンジャバットマン対ヤクザリーグ | 1 | - | 16 |
 | 2025-03-21 | ![](/img/no_icon_subject.png) | [完全堕落×被睡走了的家人](https://bangumi.tv/subject/533909) | 完堕ちX寝取られ家族 The Animation | 2 | - | 0 |
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/51/ec/542666_IDU1T.jpg) | [熊出没之小小世界2](https://bangumi.tv/subject/542666) |  | 13 | - | 0 |
+| 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/51/ec/542666_IDU1T.jpg) | [熊出没之小小世界2](https://bangumi.tv/subject/542666) |  | 52 | - | 0 |
 | 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/29/58/529199_qZEEz.jpg) | [映画おしりたんてい スター・アンド・ムーン](https://bangumi.tv/subject/529199) |  | 1 | - | 0 |
 | 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/05/57/545949_BNoPC.jpg) | [狩猎开始](https://bangumi.tv/subject/545949) | The Hunt Begins | 1 | - | 0 |
 | 2025-03-19 | ![](https://lain.bgm.tv/pic/cover/c/0e/77/396229_V43VF.jpg) | [OVA 无限滑板 EXTRA PART](https://bangumi.tv/subject/396229) | OVA SK∞ エスケーエイト EXTRA PART | 1 | - | 67 |
