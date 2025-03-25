@@ -144,6 +144,7 @@
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/51/ec/542666_IDU1T.jpg) | [熊出没之小小世界2](https://bangumi.tv/subject/542666) |  | 52 | - | 0 |
 | 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/29/58/529199_qZEEz.jpg) | [映画おしりたんてい スター・アンド・ムーン](https://bangumi.tv/subject/529199) |  | 1 | - | 0 |
 | 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/05/57/545949_BNoPC.jpg) | [狩猎开始](https://bangumi.tv/subject/545949) | The Hunt Begins | 1 | - | 0 |
+| 2025-03-20 | ![](https://lain.bgm.tv/pic/cover/c/49/b6/546997_dRMoM.jpg) | [狼王](https://bangumi.tv/subject/546997) | Wolf King | 8 | - | 0 |
 | 2025-03-19 | ![](https://lain.bgm.tv/pic/cover/c/0e/77/396229_V43VF.jpg) | [OVA 无限滑板 EXTRA PART](https://bangumi.tv/subject/396229) | OVA SK∞ エスケーエイト EXTRA PART | 1 | - | 67 |
 | 2025-03-18 | ![](https://lain.bgm.tv/pic/cover/c/6d/cb/543670_1yl30.jpg) | [恶兽](https://bangumi.tv/subject/543670) |  | 1 | - | 0 |
 | 2025-03-15 | ![](https://lain.bgm.tv/pic/cover/c/90/b0/544463_h9w9h.jpg) | [火柴人 VS 成瘾](https://bangumi.tv/subject/544463) | Animation vs. Addiction | 1 | - | 10 |
