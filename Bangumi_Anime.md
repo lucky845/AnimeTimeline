@@ -134,6 +134,7 @@
 | 2025-03-28 | ![](/img/no_icon_subject.png) | [毁灭性的诱惑](https://bangumi.tv/subject/530237) | ハメツの誘惑 | 1 | - | 0 |
 | 2025-03-28 | ![](/img/no_icon_subject.png) | [夕顔](https://bangumi.tv/subject/532849) |  | 1 | - | 10 |
 | 2025-03-28 | ![](/img/no_icon_subject.png) | [您喜欢亚人对吧](https://bangumi.tv/subject/533910) | 亜人がお好きなんですね♡ | 2 | - | 0 |
+| 2025-03-28 | ![](/img/no_icon_subject.png) | [毁灭性的诱惑](https://bangumi.tv/subject/530237) | ハメツの誘惑 | 2 | - | 0 |
 | 2025-03-27 | ![](https://lain.bgm.tv/pic/cover/c/66/c5/435075_2wLwJ.jpg) | [画江湖之不良人第七季：九幽玄天](https://bangumi.tv/subject/435075) | 画江湖之不良人柒：九幽玄天 | 12 | - | 10 |
 | 2025-03-26 | ![](https://lain.bgm.tv/pic/cover/c/38/ec/514031_M7x86.jpg) | [ALDNOAH.ZERO 雨之断章 -The Penultimate Truth-](https://bangumi.tv/subject/514031) | アルドノア・ゼロ 雨の断章 -The Penultimate Truth- | 1 | - | 10 |
 | 2025-03-26 | ![](https://lain.bgm.tv/pic/cover/c/4e/dd/545132_X9S5q.jpg) | [变形金刚 狂野之王](https://bangumi.tv/subject/545132) | トランスフォーマー ワイルドキング | 14 | - | 0 |
