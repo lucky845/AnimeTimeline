@@ -127,7 +127,7 @@
 | 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/b8/b8/404753_bzlgZ.jpg) | [鬼人幻灯抄](https://bangumi.tv/subject/404753) | 鬼人幻燈抄 | 未知 | - | 10 |
 | 2025-03-31 | ![](https://lain.bgm.tv/pic/cover/c/25/f7/541423_QBoUo.jpg) | [忍者乱太郎 第33季](https://bangumi.tv/subject/541423) | 忍たま乱太郎 第33シリーズ | 未知 | - | 0 |
 | 2025-03-29 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
-| 2025-03-29 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 未知 | - | 10 |
+| 2025-03-29 | ![](https://lain.bgm.tv/pic/cover/c/4c/a7/528439_W0rcx.jpg) | [ツインズひなひま](https://bangumi.tv/subject/528439) |  | 1 | - | 10 |
 | 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/a2/33/507115_xqZQN.jpg) | [怪兽8号 第一季总集篇](https://bangumi.tv/subject/507115) | 怪獣8号 第1期総集編 | 1 | - | 10 |
 | 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/33/b2/507122_hUc44.jpg) | [怪兽8号 保科的假期](https://bangumi.tv/subject/507122) | 怪獣8号 保科の休日 | 1 | - | 0 |
 | 2025-03-28 | ![](/img/no_icon_subject.png) | [不道德例行性行为](https://bangumi.tv/subject/527088) | インモラルーティーン THE ANIMATION | 1 | - | 0 |
@@ -138,6 +138,7 @@
 | 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/7f/f1/547734_82FXU.jpg) | [有趣的成语故事](https://bangumi.tv/subject/547734) | 有趣的成语故事 | 未知 | - | 0 |
 | 2025-03-28 | ![](https://lain.bgm.tv/pic/cover/c/7f/f1/547734_82FXU.jpg) | [有趣的成语故事](https://bangumi.tv/subject/547734) | 有趣的成语故事 | 未知 | - | 0 |
 | 2025-03-27 | ![](https://lain.bgm.tv/pic/cover/c/66/c5/435075_2wLwJ.jpg) | [画江湖之不良人第七季：九幽玄天](https://bangumi.tv/subject/435075) | 画江湖之不良人柒：九幽玄天 | 12 | - | 10 |
+| 2025-03-27 | ![](https://lain.bgm.tv/pic/cover/c/23/c5/548218_5axyb.jpg) | [赤のキヲク](https://bangumi.tv/subject/548218) |  | 1 | - | 10 |
 | 2025-03-26 | ![](https://lain.bgm.tv/pic/cover/c/38/ec/514031_M7x86.jpg) | [ALDNOAH.ZERO 雨之断章 -The Penultimate Truth-](https://bangumi.tv/subject/514031) | アルドノア・ゼロ 雨の断章 -The Penultimate Truth- | 1 | - | 10 |
 | 2025-03-26 | ![](https://lain.bgm.tv/pic/cover/c/4e/dd/545132_X9S5q.jpg) | [变形金刚 狂野之王](https://bangumi.tv/subject/545132) | トランスフォーマー ワイルドキング | 14 | - | 0 |
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/ab/95/434811_136n3.jpg) | [超能立方 超凡篇](https://bangumi.tv/subject/434811) | 超能立方 超凡篇 | 12 | - | 10 |
