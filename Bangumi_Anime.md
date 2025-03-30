@@ -141,6 +141,7 @@
 | 2025-03-27 | ![](https://lain.bgm.tv/pic/cover/c/23/c5/548218_5axyb.jpg) | [赤のキヲク](https://bangumi.tv/subject/548218) |  | 1 | - | 10 |
 | 2025-03-26 | ![](https://lain.bgm.tv/pic/cover/c/38/ec/514031_M7x86.jpg) | [ALDNOAH.ZERO 雨之断章 -The Penultimate Truth-](https://bangumi.tv/subject/514031) | アルドノア・ゼロ 雨の断章 -The Penultimate Truth- | 1 | - | 10 |
 | 2025-03-26 | ![](https://lain.bgm.tv/pic/cover/c/4e/dd/545132_X9S5q.jpg) | [变形金刚 狂野之王](https://bangumi.tv/subject/545132) | トランスフォーマー ワイルドキング | 14 | - | 0 |
+| 2025-03-22 | ![](https://lain.bgm.tv/pic/cover/c/dd/54/548853_Ptlz3.jpg) | [アニメとススメ。シーズン2](https://bangumi.tv/subject/548853) |  | 1 | - | 0 |
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/ab/95/434811_136n3.jpg) | [超能立方 超凡篇](https://bangumi.tv/subject/434811) | 超能立方 超凡篇 | 12 | - | 10 |
 | 2025-03-21 | ![](https://lain.bgm.tv/pic/cover/c/65/fb/497110_X6ZIL.jpg) | [忍者蝙蝠侠对极道联盟](https://bangumi.tv/subject/497110) | ニンジャバットマン対ヤクザリーグ | 1 | - | 16 |
 | 2025-03-21 | ![](/img/no_icon_subject.png) | [完全堕落×被睡走了的家人](https://bangumi.tv/subject/533909) | 完堕ちX寝取られ家族 The Animation | 2 | - | 0 |
