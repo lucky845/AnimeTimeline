@@ -145,6 +145,7 @@
 | 2025-05-01 | ![](https://lain.bgm.tv/pic/cover/c/73/ec/440173_sAlDE.jpg) | [鲲吞天下之掌门归来](https://bangumi.tv/subject/440173) | 鲲吞天下之掌门归来 | 12 | - | 10 |
 | 2025-05-01 | ![](https://lain.bgm.tv/pic/cover/c/90/7d/492477_9nIaa.jpg) | [开心超人之逆世营救](https://bangumi.tv/subject/492477) | 开心超人之逆世营救 | 1 | - | 0 |
 | 2025-05-01 | ![](https://lain.bgm.tv/pic/cover/c/58/bb/507943_18Z13.jpg) | [たべっ子どうぶつ THE MOVIE](https://bangumi.tv/subject/507943) |  | 未知 | - | 0 |
+| 2025-05-01 | ![](https://lain.bgm.tv/pic/cover/c/58/bb/507943_18Z13.jpg) | [たべっ子どうぶつ THE MOVIE](https://bangumi.tv/subject/507943) |  | 1 | - | 0 |
 | 2025-05 | ![](https://lain.bgm.tv/pic/cover/c/09/a6/547518_oLR06.jpg) | [BLUE GALE XABUNGLE SIDE L](https://bangumi.tv/subject/547518) |  | 1 | - | 0 |
 | 2025-04-30 | ![](https://lain.bgm.tv/pic/cover/c/34/7e/545979_IA180.jpg) | [阿斯特克斯与奥贝里克斯：首领争夺战](https://bangumi.tv/subject/545979) | Asterix & Obelix: The Big Fight | 未知 | - | 0 |
 | 2025-04-30 | ![](https://lain.bgm.tv/pic/cover/c/8a/9d/547832_15Et6.jpg) | [なんでもいきもの](https://bangumi.tv/subject/547832) |  | 未知 | - | 0 |
