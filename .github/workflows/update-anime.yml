@@ -2,7 +2,7 @@ name: Anime Data Sync
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天UTC时间0点运行（北京时间8点）
+    - cron: "0 0 12 * * ?" # 每天UTC时间12点运行（北京时间20点）
   workflow_dispatch:
 
 permissions:
