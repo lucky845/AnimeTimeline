@@ -142,6 +142,7 @@
 | 2025-05-13 | ![](https://lain.bgm.tv/pic/cover/c/f4/78/454975_9qQ19.jpg) | [大侠请上功](https://bangumi.tv/subject/454975) |  | 10 | - | 0 |
 | 2025-05-09 | ![](https://lain.bgm.tv/pic/cover/c/03/55/471868_R3ZN9.jpg) | [剧场版 歌之王子殿下 TABOO NIGHT XXXX](https://bangumi.tv/subject/471868) | 劇場版 うたの☆プリンスさまっ♪  TABOO NIGHT XXXX | 1 | - | 0 |
 | 2025-05-04 | ![](https://lain.bgm.tv/pic/cover/c/19/85/551010_Qm9H4.jpg) | [星球大战：黑道传说](https://bangumi.tv/subject/551010) | Star Wars: Tales of the Underworld | 6 | - | 0 |
+| 2025-05-03 | ![](/img/no_icon_subject.png) | [YARIMOKU MATCHING 〜雑魚マンコ犯してください〜](https://bangumi.tv/subject/557407) |  | 1 | - | 10 |
 | 2025-05-02 | ![](https://lain.bgm.tv/pic/cover/c/bf/40/311687_IBsHu.jpg) | [荒神录之玲珑山](https://bangumi.tv/subject/311687) | 荒神录之玲珑山 | 12 | - | 0 |
 | 2025-05-02 | ![](/img/no_icon_subject.png) | [ボクの理想の異世界生活](https://bangumi.tv/subject/500544) |  | 2 | - | 0 |
 | 2025-05-01 | ![](https://lain.bgm.tv/pic/cover/c/73/ec/440173_sAlDE.jpg) | [鲲吞天下之掌门归来](https://bangumi.tv/subject/440173) | 鲲吞天下之掌门归来 | 12 | - | 10 |
