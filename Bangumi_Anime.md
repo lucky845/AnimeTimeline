@@ -128,6 +128,7 @@
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/02/0d/538839_0k8C8.jpg) | [再见星上人](https://bangumi.tv/subject/538839) | 이 별에 필요한 | 1 | - | 0 |
 | 2025-05-30 | ![](/img/no_icon_subject.png) | [淫触王デマール](https://bangumi.tv/subject/541414) |  | 1 | - | 0 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/af/56/402358_kf8fL.jpg) | [君有云 第二季](https://bangumi.tv/subject/402358) | 君有云 第二季 | 32 | - | 0 |
+| 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
 | 2025-05-25 |  | [瑞克和莫蒂 第八季](https://bangumi.tv/subject/451756) | Rick and Morty Season 8 | 10 | - | 10 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/34/aa/244931_5ScSC.jpg) | [Princess Principal Crown Handler 第4章](https://bangumi.tv/subject/244931) | プリンセス・プリンシパル Crown Handler 第4章 | 1 | - | 10 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/bf/ca/336268_ltiod.jpg) | [灵笼 第二季](https://bangumi.tv/subject/336268) | 灵笼 第二季 | 12 | - | 16 |
@@ -138,8 +139,8 @@
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_Dr269.jpg) | [乒乓少女 -去往闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/df/08/395855_z2pzP.jpg) | [爱、死亡 & 机器人 第四季](https://bangumi.tv/subject/395855) | Love, Death & Robots Volume 4 | 10 | - | 10 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/29/25/449361_6mv9V.jpg) | [双生武魂](https://bangumi.tv/subject/449361) |  | 未知 | - | 0 |
-| 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/29/25/449361_XBlb0.jpg) | [双生武魂](https://bangumi.tv/subject/449361) |  | 未知 | - | 0 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/cc/6a/557464_ZYA8r.jpg) | [1分钟动画剧场](https://bangumi.tv/subject/557464) |  | 10 | - | 0 |
+| 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/29/25/449361_XBlb0.jpg) | [双生武魂](https://bangumi.tv/subject/449361) |  | 未知 | - | 0 |
 | 2025-05-13 | ![](https://lain.bgm.tv/pic/cover/c/f4/78/454975_9qQ19.jpg) | [大侠请上功](https://bangumi.tv/subject/454975) |  | 10 | - | 0 |
 | 2025-05-09 | ![](https://lain.bgm.tv/pic/cover/c/03/55/471868_R3ZN9.jpg) | [剧场版 歌之王子殿下 TABOO NIGHT XXXX](https://bangumi.tv/subject/471868) | 劇場版 うたの☆プリンスさまっ♪  TABOO NIGHT XXXX | 1 | - | 0 |
 | 2025-05-08 | ![](https://lain.bgm.tv/pic/cover/c/87/ed/557539_Z4azN.jpg) | [Break Me Up, Break Me Down](https://bangumi.tv/subject/557539) |  | 1 | - | 0 |
