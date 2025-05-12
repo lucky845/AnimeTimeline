@@ -129,6 +129,7 @@
 | 2025-05-30 | ![](/img/no_icon_subject.png) | [淫触王デマール](https://bangumi.tv/subject/541414) |  | 1 | - | 0 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/af/56/402358_kf8fL.jpg) | [君有云 第二季](https://bangumi.tv/subject/402358) | 君有云 第二季 | 32 | - | 0 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
+| 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
 | 2025-05-25 |  | [瑞克和莫蒂 第八季](https://bangumi.tv/subject/451756) | Rick and Morty Season 8 | 10 | - | 10 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/34/aa/244931_5ScSC.jpg) | [Princess Principal Crown Handler 第4章](https://bangumi.tv/subject/244931) | プリンセス・プリンシパル Crown Handler 第4章 | 1 | - | 10 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/bf/ca/336268_ltiod.jpg) | [灵笼 第二季](https://bangumi.tv/subject/336268) | 灵笼 第二季 | 12 | - | 16 |
