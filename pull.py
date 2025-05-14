@@ -29,7 +29,7 @@ FORMATTED_DATE_PATTERN = re.compile(r'(\d{4})-(\d{1,2})-(\d{1,2})(?:\(.*?\))?')
 FORMATTED_YEAR_MONTH_PATTERN = re.compile(r'(\d{4})-(\d{1,2})(?:\(.*?\))?')
 
 # 并发控制配置
-DEFAULT_CONCURRENT = 5
+DEFAULT_CONCURRENT = 3
 MAX_CONCURRENT = int(os.environ.get('CONCURRENT_REQUESTS', DEFAULT_CONCURRENT))
 
 
