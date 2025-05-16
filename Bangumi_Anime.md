@@ -138,8 +138,10 @@
 | 2025-05-21 |  | [チンプイ エリさまのグッドラック](https://bangumi.tv/subject/541961) |  | 1 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_79HYP.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/35/f6/558645_0dZsU.jpg) | [綺麗事](https://bangumi.tv/subject/558645) |  | 1 | - | 0 |
+| 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_79HYP.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/f5/8a/540411_5KWzI.jpg) | [无名的人生](https://bangumi.tv/subject/540411) | 無名の人生 | 1 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_Dr269.jpg) | [乒乓少女 -去往闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
+| 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/26/b9/558706_IQsZ8.jpg) | [灵笼第一季精编版](https://bangumi.tv/subject/558706) |  | 8 | - | 0 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/df/08/395855_z2pzP.jpg) | [爱、死亡 & 机器人 第四季](https://bangumi.tv/subject/395855) | Love, Death & Robots Volume 4 | 10 | - | 10 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/29/25/449361_6mv9V.jpg) | [双生武魂](https://bangumi.tv/subject/449361) |  | 未知 | - | 0 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/cc/6a/557464_ZYA8r.jpg) | [1分钟动画剧场](https://bangumi.tv/subject/557464) |  | 10 | - | 0 |
