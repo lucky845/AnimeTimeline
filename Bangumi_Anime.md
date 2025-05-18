@@ -127,6 +127,7 @@
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/9c/2f/509599_ME1Sq.jpg) | [咒术回战 怀玉·玉折 总集篇](https://bangumi.tv/subject/509599) | 呪術廻戦 懐玉・玉折 総集編 | 1 | - | 31 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/02/0d/538839_0k8C8.jpg) | [再见星上人](https://bangumi.tv/subject/538839) | 이 별에 필요한 | 1 | - | 0 |
 | 2025-05-30 | ![](/img/no_icon_subject.png) | [淫触王デマール](https://bangumi.tv/subject/541414) |  | 1 | - | 0 |
+| 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_JVyzj.jpg) | [Dan Da Dan: Evil Eye](https://bangumi.tv/subject/559238) |  | 未知 | - | 0 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/af/56/402358_kf8fL.jpg) | [君有云 第二季](https://bangumi.tv/subject/402358) | 君有云 第二季 | 32 | - | 0 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
@@ -142,6 +143,7 @@
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/f5/8a/540411_5KWzI.jpg) | [无名的人生](https://bangumi.tv/subject/540411) | 無名の人生 | 1 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_Dr269.jpg) | [乒乓少女 -去往闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/26/b9/558706_IQsZ8.jpg) | [灵笼第一季精编版](https://bangumi.tv/subject/558706) |  | 8 | - | 0 |
+| 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_CAf22.jpg) | [乒乓少女-闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/df/08/395855_z2pzP.jpg) | [爱、死亡 & 机器人 第四季](https://bangumi.tv/subject/395855) | Love, Death & Robots Volume 4 | 10 | - | 10 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/29/25/449361_6mv9V.jpg) | [双生武魂](https://bangumi.tv/subject/449361) |  | 未知 | - | 0 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/cc/6a/557464_ZYA8r.jpg) | [1分钟动画剧场](https://bangumi.tv/subject/557464) |  | 10 | - | 0 |
