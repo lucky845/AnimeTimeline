@@ -128,6 +128,7 @@
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/02/0d/538839_0k8C8.jpg) | [再见星上人](https://bangumi.tv/subject/538839) | 이 별에 필요한 | 1 | - | 0 |
 | 2025-05-30 | ![](/img/no_icon_subject.png) | [淫触王デマール](https://bangumi.tv/subject/541414) |  | 1 | - | 0 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_JVyzj.jpg) | [Dan Da Dan: Evil Eye](https://bangumi.tv/subject/559238) |  | 未知 | - | 0 |
+| 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/93/2e/507533_D9TNx.jpg) | [仙逆剧场版 神临之战](https://bangumi.tv/subject/507533) |  | 1 | - | 10 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/af/56/402358_kf8fL.jpg) | [君有云 第二季](https://bangumi.tv/subject/402358) | 君有云 第二季 | 32 | - | 0 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
@@ -136,14 +137,17 @@
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/bf/ca/336268_ltiod.jpg) | [灵笼 第二季](https://bangumi.tv/subject/336268) | 灵笼 第二季 | 12 | - | 16 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/ed/99/461307_U6jVV.jpg) | [怪盗皇后的优雅假期](https://bangumi.tv/subject/461307) | 怪盗クイーンの優雅な休暇 | 1 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/3c/6f/545965_85Or1.jpg) | [大嘴巴 最终季](https://bangumi.tv/subject/545965) | Big Mouth Final Season | 10 | - | 0 |
+| 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
 | 2025-05-21 |  | [チンプイ エリさまのグッドラック](https://bangumi.tv/subject/541961) |  | 1 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_79HYP.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/35/f6/558645_0dZsU.jpg) | [綺麗事](https://bangumi.tv/subject/558645) |  | 1 | - | 0 |
-| 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_79HYP.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
+| 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_PmEkr.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
+| 2025-05-18 | ![](https://lain.bgm.tv/pic/cover/c/cd/1a/559371_R3yeb.jpg) | [YOASOBI「Watch me!」Official Music Video](https://bangumi.tv/subject/559371) |  | 1 | - | 10 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/f5/8a/540411_5KWzI.jpg) | [无名的人生](https://bangumi.tv/subject/540411) | 無名の人生 | 1 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_Dr269.jpg) | [乒乓少女 -去往闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/26/b9/558706_IQsZ8.jpg) | [灵笼第一季精编版](https://bangumi.tv/subject/558706) |  | 8 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_CAf22.jpg) | [乒乓少女-闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
+| 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/cf/4c/521593_s09Qs.jpg) | [U探泰拉](https://bangumi.tv/subject/521593) |  | 8 | - | 44 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/df/08/395855_z2pzP.jpg) | [爱、死亡 & 机器人 第四季](https://bangumi.tv/subject/395855) | Love, Death & Robots Volume 4 | 10 | - | 10 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/29/25/449361_6mv9V.jpg) | [双生武魂](https://bangumi.tv/subject/449361) |  | 未知 | - | 0 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/cc/6a/557464_ZYA8r.jpg) | [1分钟动画剧场](https://bangumi.tv/subject/557464) |  | 10 | - | 0 |
