@@ -138,7 +138,9 @@
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/ed/99/461307_U6jVV.jpg) | [怪盗皇后的优雅假期](https://bangumi.tv/subject/461307) | 怪盗クイーンの優雅な休暇 | 1 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/3c/6f/545965_85Or1.jpg) | [大嘴巴 最终季](https://bangumi.tv/subject/545965) | Big Mouth Final Season | 10 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
+| 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
 | 2025-05-21 |  | [チンプイ エリさまのグッドラック](https://bangumi.tv/subject/541961) |  | 1 | - | 0 |
+| 2025-05-20 |  | [浮生一戏](https://bangumi.tv/subject/559758) | 浮生一戏 | 1 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_79HYP.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/35/f6/558645_0dZsU.jpg) | [綺麗事](https://bangumi.tv/subject/558645) |  | 1 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_PmEkr.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
