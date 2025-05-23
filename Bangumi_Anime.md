@@ -139,12 +139,13 @@
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/3c/6f/545965_85Or1.jpg) | [大嘴巴 最终季](https://bangumi.tv/subject/545965) | Big Mouth Final Season | 10 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
+| 2025-05-22 | ![](https://lain.bgm.tv/pic/cover/c/4c/f0/560124_X0z8F.jpg) | [能以奶油之身相见吗](https://bangumi.tv/subject/560124) | クリームで会いにいけますか | 1 | - | 10 |
 | 2025-05-21 |  | [チンプイ エリさまのグッドラック](https://bangumi.tv/subject/541961) |  | 1 | - | 0 |
 | 2025-05-20 |  | [浮生一戏](https://bangumi.tv/subject/559758) | 浮生一戏 | 1 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_79HYP.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/35/f6/558645_0dZsU.jpg) | [綺麗事](https://bangumi.tv/subject/558645) |  | 1 | - | 0 |
-| 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_PmEkr.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/b2/82/559998_BWyKF.jpg) | [捡了个佛](https://bangumi.tv/subject/559998) | 捡了个佛 | 1 | - | 0 |
+| 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_PmEkr.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-18 | ![](https://lain.bgm.tv/pic/cover/c/cd/1a/559371_R3yeb.jpg) | [YOASOBI「Watch me!」Official Music Video](https://bangumi.tv/subject/559371) |  | 1 | - | 10 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/f5/8a/540411_5KWzI.jpg) | [无名的人生](https://bangumi.tv/subject/540411) | 無名の人生 | 1 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_Dr269.jpg) | [乒乓少女 -去往闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
