@@ -138,8 +138,8 @@
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/ed/99/461307_U6jVV.jpg) | [怪盗皇后的优雅假期](https://bangumi.tv/subject/461307) | 怪盗クイーンの優雅な休暇 | 1 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/3c/6f/545965_85Or1.jpg) | [大嘴巴 最终季](https://bangumi.tv/subject/545965) | Big Mouth Final Season | 10 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
-| 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/d0/ff/560282_70Vaq.jpg) | [feel like](https://bangumi.tv/subject/560282) |  | 1 | - | 10 |
+| 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/39/40/559238_4AzE5.jpg) | [龙之心 灵界探访记](https://bangumi.tv/subject/559238) | ドラゴン・ハート―霊界探訪記― | 未知 | - | 0 |
 | 2025-05-22 | ![](https://lain.bgm.tv/pic/cover/c/4c/f0/560124_X0z8F.jpg) | [能以奶油之身相见吗](https://bangumi.tv/subject/560124) | クリームで会いにいけますか | 1 | - | 10 |
 | 2025-05-21 |  | [チンプイ エリさまのグッドラック](https://bangumi.tv/subject/541961) |  | 1 | - | 0 |
 | 2025-05-20 |  | [浮生一戏](https://bangumi.tv/subject/559758) | 浮生一戏 | 1 | - | 0 |
