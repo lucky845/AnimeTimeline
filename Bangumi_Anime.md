@@ -131,6 +131,7 @@
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/93/2e/507533_D9TNx.jpg) | [仙逆剧场版 神临之战](https://bangumi.tv/subject/507533) |  | 1 | - | 10 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/af/56/402358_kf8fL.jpg) | [君有云 第二季](https://bangumi.tv/subject/402358) | 君有云 第二季 | 32 | - | 0 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/46/31/560704_2Fe2V.jpg) | [限界OL霧切ギリ子](https://bangumi.tv/subject/560704) |  | 32 | - | 0 |
+| 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/fa/78/560961_gHt50.jpg) | [《鸣潮》动画短片 | 天明](https://bangumi.tv/subject/560961) | 《鸣潮》动画短片 | 天明 | 1 | - | 10 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 8 | - | 0 |
 | 2025-05-25 |  | [瑞克和莫蒂 第八季](https://bangumi.tv/subject/451756) | Rick and Morty Season 8 | 10 | - | 10 |
