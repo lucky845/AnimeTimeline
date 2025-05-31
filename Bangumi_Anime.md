@@ -131,7 +131,7 @@
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/93/2e/507533_D9TNx.jpg) | [仙逆剧场版 神临之战](https://bangumi.tv/subject/507533) |  | 1 | - | 10 |
 | 2025-05-30 |  | [Lulu is a rhinoceros](https://bangumi.tv/subject/561138) |  | 未知 | - | 0 |
 | 2025-05-30 | ![](/img/no_icon_subject.png) | [淫触王德马尔](https://bangumi.tv/subject/541414) | 淫触王デマール | 1 | - | 10 |
-| 2025-05-30 |  | [Lulu is a rhinoceros](https://bangumi.tv/subject/561138) |  | 未知 | - | 0 |
+| 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/3d/4a/561138_qy6Q1.jpg) | [Lulu is a rhinoceros](https://bangumi.tv/subject/561138) |  | 未知 | - | 0 |
 | 2025-05-29 | ![](/img/no_icon_subject.png) | [セックスセラピスト MOVIE版](https://bangumi.tv/subject/561163) |  | 2 | - | 10 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/af/56/402358_kf8fL.jpg) | [君有云 第二季](https://bangumi.tv/subject/402358) | 君有云 第二季 | 32 | - | 0 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/46/31/560704_2Fe2V.jpg) | [限界OL霧切ギリ子](https://bangumi.tv/subject/560704) |  | 32 | - | 0 |
@@ -163,6 +163,7 @@
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/26/b9/558706_IQsZ8.jpg) | [灵笼第一季精编版](https://bangumi.tv/subject/558706) |  | 8 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_CAf22.jpg) | [乒乓少女-闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/cf/4c/521593_s09Qs.jpg) | [U探泰拉](https://bangumi.tv/subject/521593) |  | 8 | - | 44 |
+| 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/08/56/561642_FvQzV.jpg) | [儿子](https://bangumi.tv/subject/561642) | Syn | 1 | - | 0 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/df/08/395855_z2pzP.jpg) | [爱、死亡 & 机器人 第四季](https://bangumi.tv/subject/395855) | Love, Death & Robots Volume 4 | 10 | - | 10 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/29/25/449361_6mv9V.jpg) | [双生武魂](https://bangumi.tv/subject/449361) |  | 未知 | - | 0 |
 | 2025-05-15 | ![](https://lain.bgm.tv/pic/cover/c/cc/6a/557464_ZYA8r.jpg) | [1分钟动画剧场](https://bangumi.tv/subject/557464) |  | 10 | - | 0 |
