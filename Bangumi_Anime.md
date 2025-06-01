@@ -122,6 +122,36 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/57/d4/527620_6g9Ln.jpg) | [章鱼哔的原罪](https://bangumi.tv/subject/527620) | タコピーの原罪 | 6 | - | 10 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_VG0nV.jpg) | [ヴァージン・パンク](https://bangumi.tv/subject/513352) |  | 1 | - | 10 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 孤独的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 23 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/a8/525084_4EOj5.jpg) | [KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ](https://bangumi.tv/subject/525084) |  | 1 | - | 0 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f6/68/526159_RrrOg.jpg) | [电影 鲁邦三世 不死身的血族](https://bangumi.tv/subject/526159) | LUPIN THE IIIRD THE MOVIE 不死身の血族 | 1 | - | 0 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/1c/2c/542125_kwH6N.jpg) | [面包超人 恰彭的英雄！](https://bangumi.tv/subject/542125) | それいけ！アンパンマン チャポンのヒーロー！ | 1 | - | 0 |
+| 2025-06-27 | ![](/img/no_icon_subject.png) | [プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～](https://bangumi.tv/subject/547196) |  | 1 | - | 0 |
+| 2025-06-27 | ![](/img/no_icon_subject.png) | [元カレとはできなかったセックスしてもいいですか？](https://bangumi.tv/subject/549528) |  | 1 | - | 10 |
+| 2025-06-27 | ![](/img/no_icon_subject.png) | [トナリノカノジョ](https://bangumi.tv/subject/554879) |  | 1 | - | 0 |
+| 2025-06-27 | ![](/img/no_icon_subject.png) | [ヨゴレタカノジョ](https://bangumi.tv/subject/554880) |  | 1 | - | 0 |
+| 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e0/02/441165_SY6V3.jpg) | [地球特派员](https://bangumi.tv/subject/441165) | Elio | 1 | - | 10 |
+| 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/63/1b/516413_LQ7eB.jpg) | [沧元图 元初山番外篇](https://bangumi.tv/subject/516413) | 沧元图 元初山番外篇 | 7 | - | 10 |
+| 2025-06-20 | ![](/img/no_icon_subject.png) | [朝まで汁だく母娘丼！！](https://bangumi.tv/subject/549992) |  | 2 | - | 0 |
+| 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/b4/1c/555830_WHVqc.jpg) | [鲁邦三世 钱形与两个鲁邦](https://bangumi.tv/subject/555830) | LUPIN THE IIIRD 銭形と2人のルパン | 1 | - | 0 |
+| 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/1c/89/560190_WgG8M.jpg) | [K-Pop 猎魔女团](https://bangumi.tv/subject/560190) | K-Pop Demon Hunters | 1 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
+| 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
+| 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
+| 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/11/3f/542812_OX3pd.jpg) | [废世界](https://bangumi.tv/subject/542812) | Junk World | 1 | - | 0 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
+| 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
+| 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
+| 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/25/40/513137_59n6X.jpg) | [飞哥与小佛 第五季](https://bangumi.tv/subject/513137) | Phineas and Ferb Season 5 | 20 | - | 0 |
+| 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/f8/07/516416_mP92D.jpg) | [师兄啊师兄 年番2](https://bangumi.tv/subject/516416) |  | 52 | - | 10 |
+| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_PqHl5.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 未知 | - | 10 |
+| 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
+| 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/ed/4a/345824_Jm6t9.jpg) | [诡秘之主 小丑篇](https://bangumi.tv/subject/345824) | 诡秘之主 小丑篇 | 13 | - | 10 |
+| 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4e/eb/558429_ZMvgl.jpg) | [猫小姐莫西](https://bangumi.tv/subject/558429) | MISS MOXY | 1 | - | 0 |
+| 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-05-31 | ![](https://lain.bgm.tv/pic/cover/c/0c/87/474982_L7PSJ.jpg) | [王者荣耀：荣耀之章 命运篇](https://bangumi.tv/subject/474982) |  | 4 | - | 0 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/1e/75/445679_JypwW.jpg) | [时间之子](https://bangumi.tv/subject/445679) |  | 1 | - | 0 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/9c/2f/509599_ME1Sq.jpg) | [咒术回战 怀玉·玉折 总集篇](https://bangumi.tv/subject/509599) | 呪術廻戦 懐玉・玉折 総集編 | 1 | - | 31 |
@@ -131,16 +161,13 @@
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/93/2e/507533_D9TNx.jpg) | [仙逆剧场版 神临之战](https://bangumi.tv/subject/507533) |  | 1 | - | 10 |
 | 2025-05-30 |  | [Lulu is a rhinoceros](https://bangumi.tv/subject/561138) |  | 未知 | - | 0 |
 | 2025-05-30 | ![](/img/no_icon_subject.png) | [淫触王德马尔](https://bangumi.tv/subject/541414) | 淫触王デマール | 1 | - | 10 |
-| 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/3d/4a/561138_qy6Q1.jpg) | [Lulu is a rhinoceros](https://bangumi.tv/subject/561138) |  | 未知 | - | 0 |
 | 2025-05-29 | ![](/img/no_icon_subject.png) | [セックスセラピスト MOVIE版](https://bangumi.tv/subject/561163) |  | 2 | - | 10 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/af/56/402358_kf8fL.jpg) | [君有云 第二季](https://bangumi.tv/subject/402358) | 君有云 第二季 | 32 | - | 0 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/46/31/560704_2Fe2V.jpg) | [限界OL霧切ギリ子](https://bangumi.tv/subject/560704) |  | 32 | - | 0 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/fa/78/560961_gHt50.jpg) | [《鸣潮》动画短片 | 天明](https://bangumi.tv/subject/560961) | 《鸣潮》动画短片 | 天明 | 1 |
 | 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/fa/78/560961_gHt50.jpg) | [《鸣潮》动画短片 | 天明](https://bangumi.tv/subject/560961) | 天明 | 1 | 0 |
-| 2025-05-28 | ![](https://lain.bgm.tv/pic/cover/c/fa/78/560961_gHt50.jpg) | [《鸣潮》动画短片 | 天明](https://bangumi.tv/subject/560961) | 天明 | 1 | - | 10 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 未知 | - | 0 |
 | 2025-05-27 | ![](https://lain.bgm.tv/pic/cover/c/28/80/557659_VjFnf.jpg) | [银河系第二好医院 第二季](https://bangumi.tv/subject/557659) | The Second Best Hospital in the Galaxy Season 2 | 8 | - | 0 |
-| 2025-05-26 | ![](/img/no_icon_subject.png) | [とらぶるだいあり〜7 ムービー版](https://bangumi.tv/subject/561161) |  | 未知 | - | 10 |
 | 2025-05-26 | ![](/img/no_icon_subject.png) | [とらぶるだいあり〜7 ムービー版](https://bangumi.tv/subject/561161) |  | 未知 | - | 10 |
 | 2025-05-25 |  | [瑞克和莫蒂 第八季](https://bangumi.tv/subject/451756) | Rick and Morty Season 8 | 10 | - | 10 |
 | 2025-05-23 | ![](https://lain.bgm.tv/pic/cover/c/34/aa/244931_5ScSC.jpg) | [Princess Principal Crown Handler 第4章](https://bangumi.tv/subject/244931) | プリンセス・プリンシパル Crown Handler 第4章 | 1 | - | 10 |
@@ -156,7 +183,6 @@
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_79HYP.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/35/f6/558645_0dZsU.jpg) | [綺麗事](https://bangumi.tv/subject/558645) |  | 1 | - | 0 |
 | 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/b2/82/559998_BWyKF.jpg) | [捡了个佛](https://bangumi.tv/subject/559998) | 捡了个佛 | 1 | - | 0 |
-| 2025-05-19 | ![](https://lain.bgm.tv/pic/cover/c/dd/bb/507529_PmEkr.jpg) | [吞天记](https://bangumi.tv/subject/507529) |  | 未知 | - | 0 |
 | 2025-05-18 | ![](https://lain.bgm.tv/pic/cover/c/cd/1a/559371_R3yeb.jpg) | [YOASOBI「Watch me!」Official Music Video](https://bangumi.tv/subject/559371) |  | 1 | - | 10 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/f5/8a/540411_5KWzI.jpg) | [无名的人生](https://bangumi.tv/subject/540411) | 無名の人生 | 1 | - | 0 |
 | 2025-05-16 | ![](https://lain.bgm.tv/pic/cover/c/43/84/544113_Dr269.jpg) | [乒乓少女 -去往闪光的彼方-](https://bangumi.tv/subject/544113) | 卓球少女 -閃光のかなたへ- | 1 | - | 10 |
