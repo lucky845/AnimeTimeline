@@ -138,6 +138,7 @@
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/b4/1c/555830_WHVqc.jpg) | [鲁邦三世 钱形与两个鲁邦](https://bangumi.tv/subject/555830) | LUPIN THE IIIRD 銭形と2人のルパン | 1 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/1c/89/560190_WgG8M.jpg) | [K-Pop 猎魔女团](https://bangumi.tv/subject/560190) | K-Pop Demon Hunters | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
@@ -152,14 +153,19 @@
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
+| 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/25/40/513137_59n6X.jpg) | [飞哥与小佛 第五季](https://bangumi.tv/subject/513137) | Phineas and Ferb Season 5 | 20 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/f8/07/516416_mP92D.jpg) | [师兄啊师兄 年番2](https://bangumi.tv/subject/516416) |  | 52 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_PqHl5.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 未知 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_03L3P.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 12 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
-| 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
+| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
+| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇。》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/b5/561933_4DpDM.jpg) | [宝可梦奇遇沙滩节](https://bangumi.tv/subject/561933) |  | 1 | - | 0 |
+| 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
+| 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/66/562129_9MMcr.jpg) | [双猫成行](https://bangumi.tv/subject/562129) | 双猫成行 | 1 | - | 0 |
+| 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/87/f3/562148_PixUu.jpg) | [螺丝人生](https://bangumi.tv/subject/562148) | 螺丝人生 | 1 | - | 0 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/ed/4a/345824_Jm6t9.jpg) | [诡秘之主 小丑篇](https://bangumi.tv/subject/345824) | 诡秘之主 小丑篇 | 13 | - | 10 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4e/eb/558429_ZMvgl.jpg) | [猫小姐莫西](https://bangumi.tv/subject/558429) | MISS MOXY | 1 | - | 0 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
