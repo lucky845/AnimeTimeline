@@ -159,13 +159,14 @@
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_PqHl5.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 未知 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_03L3P.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 12 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
+| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇。》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇。》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/b5/561933_4DpDM.jpg) | [宝可梦奇遇沙滩节](https://bangumi.tv/subject/561933) |  | 1 | - | 0 |
-| 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/66/562129_9MMcr.jpg) | [双猫成行](https://bangumi.tv/subject/562129) | 双猫成行 | 1 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/87/f3/562148_PixUu.jpg) | [螺丝人生](https://bangumi.tv/subject/562148) | 螺丝人生 | 1 | - | 0 |
+| 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/ed/4a/345824_Jm6t9.jpg) | [诡秘之主 小丑篇](https://bangumi.tv/subject/345824) | 诡秘之主 小丑篇 | 13 | - | 10 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4e/eb/558429_ZMvgl.jpg) | [猫小姐莫西](https://bangumi.tv/subject/558429) | MISS MOXY | 1 | - | 0 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
