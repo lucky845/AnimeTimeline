@@ -132,6 +132,7 @@
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [元カレとはできなかったセックスしてもいいですか？](https://bangumi.tv/subject/549528) |  | 1 | - | 10 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [トナリノカノジョ](https://bangumi.tv/subject/554879) |  | 1 | - | 0 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [ヨゴレタカノジョ](https://bangumi.tv/subject/554880) |  | 1 | - | 0 |
+| 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e0/02/441165_SY6V3.jpg) | [地球特派员](https://bangumi.tv/subject/441165) | Elio | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/63/1b/516413_LQ7eB.jpg) | [沧元图 元初山番外篇](https://bangumi.tv/subject/516413) | 沧元图 元初山番外篇 | 7 | - | 10 |
 | 2025-06-20 | ![](/img/no_icon_subject.png) | [朝まで汁だく母娘丼！！](https://bangumi.tv/subject/549992) |  | 2 | - | 0 |
@@ -150,6 +151,8 @@
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/d7/17/506325_pk9I1.jpg) | [诛仙 第三季](https://bangumi.tv/subject/506325) |  | 26 | - | 10 |
+| 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_779jl.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
