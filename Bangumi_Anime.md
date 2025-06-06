@@ -150,9 +150,11 @@
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/11/3f/542812_OX3pd.jpg) | [废世界](https://bangumi.tv/subject/542812) | Junk World | 1 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
-| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/d7/17/506325_pk9I1.jpg) | [诛仙 第三季](https://bangumi.tv/subject/506325) |  | 26 | - | 10 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_779jl.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
+| 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_BEO25.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
+| 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
@@ -164,7 +166,7 @@
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇。》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
-| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇。》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
+| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/b5/561933_4DpDM.jpg) | [宝可梦奇遇沙滩节](https://bangumi.tv/subject/561933) |  | 1 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/66/562129_9MMcr.jpg) | [双猫成行](https://bangumi.tv/subject/562129) | 双猫成行 | 1 | - | 0 |
