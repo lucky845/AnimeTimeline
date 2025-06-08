@@ -144,6 +144,7 @@
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
+| 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
@@ -152,6 +153,7 @@
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/d7/17/506325_pk9I1.jpg) | [诛仙 第三季](https://bangumi.tv/subject/506325) |  | 26 | - | 10 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/65/08/563120_Qa5XA.jpg) | [形](https://bangumi.tv/subject/563120) |  | 未知 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_779jl.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_BEO25.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
