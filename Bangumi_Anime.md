@@ -156,7 +156,7 @@
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/65/08/563120_Qa5XA.jpg) | [形](https://bangumi.tv/subject/563120) |  | 未知 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_779jl.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
-| 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_BEO25.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
+| 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_Fz3Sx.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 26 | - | 10 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
