@@ -123,6 +123,7 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/57/d4/527620_6g9Ln.jpg) | [章鱼哔的原罪](https://bangumi.tv/subject/527620) | タコピーの原罪 | 6 | - | 10 |
+| 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_sCroj.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_VG0nV.jpg) | [ヴァージン・パンク](https://bangumi.tv/subject/513352) |  | 1 | - | 10 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 孤独的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 23 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/a8/525084_4EOj5.jpg) | [KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ](https://bangumi.tv/subject/525084) |  | 1 | - | 0 |
@@ -142,6 +143,7 @@
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
@@ -154,10 +156,12 @@
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/d7/17/506325_pk9I1.jpg) | [诛仙 第三季](https://bangumi.tv/subject/506325) |  | 26 | - | 10 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/65/08/563120_Qa5XA.jpg) | [形](https://bangumi.tv/subject/563120) |  | 未知 | - | 0 |
-| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_XHiRK.jpg) | [余烬行者](https://bangumi.tv/subject/434814) | 余烬行者 | 15 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/65/08/563120_Qa5XA.jpg) | [形](https://bangumi.tv/subject/563120) |  | 未知 | - | 0 |
+| 2025-06-11 | ![](https://lain.bgm.tv/pic/cover/c/cf/74/564288_wT0sZ.jpg) | [海医—柳刀霹雳—](https://bangumi.tv/subject/564288) | 海医—柳刀霹雳— | 1 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_779jl.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_Fz3Sx.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 26 | - | 10 |
+| 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
@@ -179,7 +183,6 @@
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/ed/4a/345824_Jm6t9.jpg) | [诡秘之主 小丑篇](https://bangumi.tv/subject/345824) | 诡秘之主 小丑篇 | 13 | - | 10 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4e/eb/558429_ZMvgl.jpg) | [猫小姐莫西](https://bangumi.tv/subject/558429) | MISS MOXY | 1 | - | 0 |
-| 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-05-31 | ![](https://lain.bgm.tv/pic/cover/c/0c/87/474982_L7PSJ.jpg) | [王者荣耀：荣耀之章 命运篇](https://bangumi.tv/subject/474982) |  | 4 | - | 0 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/1e/75/445679_JypwW.jpg) | [时间之子](https://bangumi.tv/subject/445679) |  | 1 | - | 0 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/9c/2f/509599_ME1Sq.jpg) | [咒术回战 怀玉·玉折 总集篇](https://bangumi.tv/subject/509599) | 呪術廻戦 懐玉・玉折 総集編 | 1 | - | 31 |
