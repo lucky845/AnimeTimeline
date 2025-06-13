@@ -124,6 +124,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/57/d4/527620_6g9Ln.jpg) | [章鱼哔的原罪](https://bangumi.tv/subject/527620) | タコピーの原罪 | 6 | - | 10 |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_sCroj.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
+| 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_sCroj.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_VG0nV.jpg) | [ヴァージン・パンク](https://bangumi.tv/subject/513352) |  | 1 | - | 10 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 孤独的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 23 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/a8/525084_4EOj5.jpg) | [KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ](https://bangumi.tv/subject/525084) |  | 1 | - | 0 |
@@ -133,6 +134,7 @@
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [元カレとはできなかったセックスしてもいいですか？](https://bangumi.tv/subject/549528) |  | 1 | - | 10 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [トナリノカノジョ](https://bangumi.tv/subject/554879) |  | 1 | - | 0 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [ヨゴレタカノジョ](https://bangumi.tv/subject/554880) |  | 1 | - | 0 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_WrgF4.jpg) | [处女朋克](https://bangumi.tv/subject/513352) | ヴァージン・パンク | 1 | - | 10 |
 | 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e0/02/441165_SY6V3.jpg) | [地球特派员](https://bangumi.tv/subject/441165) | Elio | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/63/1b/516413_LQ7eB.jpg) | [沧元图 元初山番外篇](https://bangumi.tv/subject/516413) | 沧元图 元初山番外篇 | 7 | - | 10 |
@@ -152,15 +154,18 @@
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/11/3f/542812_OX3pd.jpg) | [废世界](https://bangumi.tv/subject/542812) | Junk World | 1 | - | 0 |
-| 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
+| 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) | 仙宠 | 18 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_Op1M9.jpg) | [余烬行者](https://bangumi.tv/subject/434814) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/d7/17/506325_pk9I1.jpg) | [诛仙 第三季](https://bangumi.tv/subject/506325) |  | 26 | - | 10 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/65/08/563120_Qa5XA.jpg) | [形](https://bangumi.tv/subject/563120) |  | 未知 | - | 0 |
 | 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/f2/a8/434814_XHiRK.jpg) | [余烬行者](https://bangumi.tv/subject/434814) | 余烬行者 | 15 | - | 0 |
-| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/65/08/563120_Qa5XA.jpg) | [形](https://bangumi.tv/subject/563120) |  | 未知 | - | 0 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/65/08/563120_5vM2B.jpg) | [形](https://bangumi.tv/subject/563120) |  | 1 | - | 10 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/dd/5d/564314_CX0nf.jpg) | [ラノベアニメ](https://bangumi.tv/subject/564314) |  | 4 | - | 0 |
+| 2025-06-12 | ![](https://lain.bgm.tv/pic/cover/c/24/18/564328_83EEE.jpg) | [Shadowverse: Worlds Beyond 动画PV](https://bangumi.tv/subject/564328) | Shadowverse: Worlds Beyond アニメムービー | 1 | - | 0 |
 | 2025-06-11 | ![](https://lain.bgm.tv/pic/cover/c/cf/74/564288_wT0sZ.jpg) | [海医—柳刀霹雳—](https://bangumi.tv/subject/564288) | 海医—柳刀霹雳— | 1 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_779jl.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_Fz3Sx.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 26 | - | 10 |
+| 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
 | 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
