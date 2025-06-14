@@ -135,6 +135,7 @@
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [トナリノカノジョ](https://bangumi.tv/subject/554879) |  | 1 | - | 0 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [ヨゴレタカノジョ](https://bangumi.tv/subject/554880) |  | 1 | - | 0 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_WrgF4.jpg) | [处女朋克](https://bangumi.tv/subject/513352) | ヴァージン・パンク | 1 | - | 10 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_WrgF4.jpg) | [处女朋克：发条女孩](https://bangumi.tv/subject/513352) | ヴァージン・パンク Clockwork Girl | 1 | - | 10 |
 | 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e0/02/441165_SY6V3.jpg) | [地球特派员](https://bangumi.tv/subject/441165) | Elio | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/63/1b/516413_LQ7eB.jpg) | [沧元图 元初山番外篇](https://bangumi.tv/subject/516413) | 沧元图 元初山番外篇 | 7 | - | 10 |
@@ -150,7 +151,7 @@
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
-| 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
+| 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) | 神国之上 | 17 | - | 10 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/11/3f/542812_OX3pd.jpg) | [废世界](https://bangumi.tv/subject/542812) | Junk World | 1 | - | 0 |
@@ -172,6 +173,7 @@
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
+| 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/09/9c/564522_AZ4af.jpg) | [武神绝巅](https://bangumi.tv/subject/564522) | 武神绝巅 | 3 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/25/40/513137_59n6X.jpg) | [飞哥与小佛 第五季](https://bangumi.tv/subject/513137) | Phineas and Ferb Season 5 | 20 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/f8/07/516416_mP92D.jpg) | [师兄啊师兄 年番2](https://bangumi.tv/subject/516416) |  | 52 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_PqHl5.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 未知 | - | 10 |
