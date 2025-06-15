@@ -147,12 +147,13 @@
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
-| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2WBub.jpg) | [魔天记](https://bangumi.tv/subject/434803) | 魔天记 | 16 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
+| 2025-06-15 |  | [阿尔丘的下午](https://bangumi.tv/subject/564850) | 阿尔丘的下午 | 1 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) | 神国之上 | 17 | - | 10 |
-| 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
+| 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 10 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) |  | 未知 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/11/3f/542812_OX3pd.jpg) | [废世界](https://bangumi.tv/subject/542812) | Junk World | 1 | - | 0 |
 | 2025-06-13 | ![](https://lain.bgm.tv/pic/cover/c/b7/e9/434809_66a6d.jpg) | [仙宠](https://bangumi.tv/subject/434809) | 仙宠 | 18 | - | 0 |
@@ -166,14 +167,15 @@
 | 2025-06-11 | ![](https://lain.bgm.tv/pic/cover/c/cf/74/564288_wT0sZ.jpg) | [海医—柳刀霹雳—](https://bangumi.tv/subject/564288) | 海医—柳刀霹雳— | 1 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_779jl.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 未知 | - | 0 |
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_Fz3Sx.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 26 | - | 10 |
+| 2025-06-10 |  | [尽诸东流](https://bangumi.tv/subject/564849) | 尽诸东流 | 1 | - | 0 |
 | 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
 | 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
-| 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/09/9c/564522_AZ4af.jpg) | [武神绝巅](https://bangumi.tv/subject/564522) | 武神绝巅 | 3 | - | 0 |
+| 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/25/40/513137_59n6X.jpg) | [飞哥与小佛 第五季](https://bangumi.tv/subject/513137) | Phineas and Ferb Season 5 | 20 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/f8/07/516416_mP92D.jpg) | [师兄啊师兄 年番2](https://bangumi.tv/subject/516416) |  | 52 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_PqHl5.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 未知 | - | 10 |
