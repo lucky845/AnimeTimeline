@@ -124,7 +124,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/57/d4/527620_6g9Ln.jpg) | [章鱼哔的原罪](https://bangumi.tv/subject/527620) | タコピーの原罪 | 6 | - | 10 |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_sCroj.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
-| 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_sCroj.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
+| 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_yO2Lz.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_VG0nV.jpg) | [ヴァージン・パンク](https://bangumi.tv/subject/513352) |  | 1 | - | 10 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 孤独的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 23 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/a8/525084_4EOj5.jpg) | [KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ](https://bangumi.tv/subject/525084) |  | 1 | - | 0 |
@@ -144,12 +144,18 @@
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/1c/89/560190_WgG8M.jpg) | [K-Pop 猎魔女团](https://bangumi.tv/subject/560190) | K-Pop Demon Hunters | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/b0/9b/564930_ott7q.jpg) | [在 Google Play 上开超无双？！转生成为 Android 用户](https://bangumi.tv/subject/564930) | Google Playで超無双？！転生したらAndroidユーザーだった | 6 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2WBub.jpg) | [魔天记](https://bangumi.tv/subject/434803) | 魔天记 | 16 | - | 10 |
-| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-06-15 |  | [阿尔丘的下午](https://bangumi.tv/subject/564850) | 阿尔丘的下午 | 1 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/e2/22/564884_j4Dd2.jpg) | [星蚀](https://bangumi.tv/subject/564884) | 星蚀 | 1 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/5f/41/564885_99y3u.jpg) | [倒带时光](https://bangumi.tv/subject/564885) | 倒带时光 | 1 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/ab/d6/564886_E53Oo.jpg) | [花花花](https://bangumi.tv/subject/564886) | 花花花 | 1 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/79/f7/564888_t1602.jpg) | [猴子和小偷](https://bangumi.tv/subject/564888) | 猴子和小偷 | 1 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/02/82/564900_GO0lA.jpg) | [乐高幻影忍者：魔兽之地](https://bangumi.tv/subject/564900) | Ninjago Legends: Monstrosity | 3 | - | 10 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) | 神国之上 | 17 | - | 10 |
@@ -183,7 +189,7 @@
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇。》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
-| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 0 |
+| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/b5/561933_4DpDM.jpg) | [宝可梦奇遇沙滩节](https://bangumi.tv/subject/561933) |  | 1 | - | 0 |
@@ -192,6 +198,7 @@
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/ed/4a/345824_Jm6t9.jpg) | [诡秘之主 小丑篇](https://bangumi.tv/subject/345824) | 诡秘之主 小丑篇 | 13 | - | 10 |
 | 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/4e/eb/558429_ZMvgl.jpg) | [猫小姐莫西](https://bangumi.tv/subject/558429) | MISS MOXY | 1 | - | 0 |
+| 2025-06 | ![](https://lain.bgm.tv/pic/cover/c/73/1f/564929_20f7y.jpg) | [Soy Frankelda](https://bangumi.tv/subject/564929) |  | 1 | - | 0 |
 | 2025-05-31 | ![](https://lain.bgm.tv/pic/cover/c/0c/87/474982_L7PSJ.jpg) | [王者荣耀：荣耀之章 命运篇](https://bangumi.tv/subject/474982) |  | 4 | - | 0 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/1e/75/445679_JypwW.jpg) | [时间之子](https://bangumi.tv/subject/445679) |  | 1 | - | 0 |
 | 2025-05-30 | ![](https://lain.bgm.tv/pic/cover/c/9c/2f/509599_ME1Sq.jpg) | [咒术回战 怀玉·玉折 总集篇](https://bangumi.tv/subject/509599) | 呪術廻戦 懐玉・玉折 総集編 | 1 | - | 31 |
