@@ -156,6 +156,7 @@
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/79/f7/564888_t1602.jpg) | [猴子和小偷](https://bangumi.tv/subject/564888) | 猴子和小偷 | 1 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/02/82/564900_GO0lA.jpg) | [乐高幻影忍者：魔兽之地](https://bangumi.tv/subject/564900) | Ninjago Legends: Monstrosity | 3 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/de/565180_WI4TF.jpg) | [鉴因缘](https://bangumi.tv/subject/565180) | 鉴因缘 | 1 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) | 神国之上 | 17 | - | 10 |
@@ -181,8 +182,8 @@
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/09/9c/564522_AZ4af.jpg) | [武神绝巅](https://bangumi.tv/subject/564522) | 武神绝巅 | 3 | - | 0 |
-| 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/09/9c/564522_AZ4af.jpg) | [武神绝巅](https://bangumi.tv/subject/564522) | 武神绝巅 | 24 | - | 0 |
+| 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/25/40/513137_59n6X.jpg) | [飞哥与小佛 第五季](https://bangumi.tv/subject/513137) | Phineas and Ferb Season 5 | 20 | - | 0 |
 | 2025-06-05 | ![](https://lain.bgm.tv/pic/cover/c/f8/07/516416_mP92D.jpg) | [师兄啊师兄 年番2](https://bangumi.tv/subject/516416) |  | 52 | - | 10 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/65/58/345830_PqHl5.jpg) | [大猿魂](https://bangumi.tv/subject/345830) | 大猿魂 | 未知 | - | 10 |
