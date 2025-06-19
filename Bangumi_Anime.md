@@ -142,9 +142,16 @@
 | 2025-06-20 | ![](/img/no_icon_subject.png) | [朝まで汁だく母娘丼！！](https://bangumi.tv/subject/549992) |  | 2 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/b4/1c/555830_WHVqc.jpg) | [鲁邦三世 钱形与两个鲁邦](https://bangumi.tv/subject/555830) | LUPIN THE IIIRD 銭形と2人のルパン | 1 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/1c/89/560190_WgG8M.jpg) | [K-Pop 猎魔女团](https://bangumi.tv/subject/560190) | K-Pop Demon Hunters | 1 | - | 0 |
+| 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 未知 | - | 0 |
+| 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/47/30/565255_cKdDg.jpg) | [逆旅](https://bangumi.tv/subject/565255) | 逆旅 | 1 | - | 0 |
+| 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/9d/f5/565256_zwowK.jpg) | [影的告白](https://bangumi.tv/subject/565256) | Shadow's Confession | 1 | - | 0 |
+| 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/12/2e/565279_jm0G5.jpg) | [李子](https://bangumi.tv/subject/565279) | 李子 | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/b0/9b/564930_ott7q.jpg) | [在 Google Play 上开超无双？！转生成为 Android 用户](https://bangumi.tv/subject/564930) | Google Playで超無双？！転生したらAndroidユーザーだった | 6 | - | 10 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/9c/16/565253_R99R9.jpg) | [猴子捞月](https://bangumi.tv/subject/565253) | 猴子捞月 | 1 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/4d/f3/565266_3rz3k.jpg) | [霉](https://bangumi.tv/subject/565266) | 霉 | 1 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/a1/8c/565271_gQRLz.jpg) | [极速吗喽](https://bangumi.tv/subject/565271) | Express Photo | 1 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
@@ -155,8 +162,8 @@
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/ab/d6/564886_E53Oo.jpg) | [花花花](https://bangumi.tv/subject/564886) | 花花花 | 1 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/79/f7/564888_t1602.jpg) | [猴子和小偷](https://bangumi.tv/subject/564888) | 猴子和小偷 | 1 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/02/82/564900_GO0lA.jpg) | [乐高幻影忍者：魔兽之地](https://bangumi.tv/subject/564900) | Ninjago Legends: Monstrosity | 3 | - | 10 |
-| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/de/565180_WI4TF.jpg) | [鉴因缘](https://bangumi.tv/subject/565180) | 鉴因缘 | 1 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) | 神国之上 | 17 | - | 10 |
@@ -178,6 +185,7 @@
 | 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
 | 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
+| 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2e/01/565277_pUEwX.jpg) | [蝉鸣](https://bangumi.tv/subject/565277) | 蝉鸣 | 1 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/aa/3b/551567_Ossbs.jpg) | [铁血战士：杀戮之王](https://bangumi.tv/subject/551567) | Predator: Killer of Killers | 1 | - | 0 |
 | 2025-06-06 | ![](https://lain.bgm.tv/pic/cover/c/5e/47/561920_nXt8L.jpg) | [Wylde Pak](https://bangumi.tv/subject/561920) |  | 未知 | - | 0 |
