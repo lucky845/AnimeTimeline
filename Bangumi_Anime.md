@@ -136,22 +136,26 @@
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [ヨゴレタカノジョ](https://bangumi.tv/subject/554880) |  | 1 | - | 0 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_WrgF4.jpg) | [处女朋克](https://bangumi.tv/subject/513352) | ヴァージン・パンク | 1 | - | 10 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_WrgF4.jpg) | [处女朋克：发条女孩](https://bangumi.tv/subject/513352) | ヴァージン・パンク Clockwork Girl | 1 | - | 10 |
+| 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 怕寂寞的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 51 |
 | 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e0/02/441165_SY6V3.jpg) | [地球特派员](https://bangumi.tv/subject/441165) | Elio | 1 | - | 10 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/63/1b/516413_LQ7eB.jpg) | [沧元图 元初山番外篇](https://bangumi.tv/subject/516413) | 沧元图 元初山番外篇 | 7 | - | 10 |
 | 2025-06-20 | ![](/img/no_icon_subject.png) | [朝まで汁だく母娘丼！！](https://bangumi.tv/subject/549992) |  | 2 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/b4/1c/555830_WHVqc.jpg) | [鲁邦三世 钱形与两个鲁邦](https://bangumi.tv/subject/555830) | LUPIN THE IIIRD 銭形と2人のルパン | 1 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/1c/89/560190_WgG8M.jpg) | [K-Pop 猎魔女团](https://bangumi.tv/subject/560190) | K-Pop Demon Hunters | 1 | - | 0 |
+| 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e4/5a/565452_Xd4Kg.jpg) | [龅牙的快乐生活](https://bangumi.tv/subject/565452) | 龅牙的快乐生活 | 4 | - | 0 |
+| 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 未知 | - | 0 |
 | 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 未知 | - | 0 |
 | 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/47/30/565255_cKdDg.jpg) | [逆旅](https://bangumi.tv/subject/565255) | 逆旅 | 1 | - | 0 |
 | 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/9d/f5/565256_zwowK.jpg) | [影的告白](https://bangumi.tv/subject/565256) | Shadow's Confession | 1 | - | 0 |
 | 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/12/2e/565279_jm0G5.jpg) | [李子](https://bangumi.tv/subject/565279) | 李子 | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/b0/9b/564930_ott7q.jpg) | [在 Google Play 上开超无双？！转生成为 Android 用户](https://bangumi.tv/subject/564930) | Google Playで超無双？！転生したらAndroidユーザーだった | 6 | - | 10 |
-| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/9c/16/565253_R99R9.jpg) | [猴子捞月](https://bangumi.tv/subject/565253) | 猴子捞月 | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/4d/f3/565266_3rz3k.jpg) | [霉](https://bangumi.tv/subject/565266) | 霉 | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/a1/8c/565271_gQRLz.jpg) | [极速吗喽](https://bangumi.tv/subject/565271) | Express Photo | 1 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/d3/ef/565401_wKE4s.jpg) | [映栄杉さん家はお侍](https://bangumi.tv/subject/565401) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/56/ec/505397_PU9h2.jpg) | [斗罗大陆剧场版 剑道尘心](https://bangumi.tv/subject/505397) |  | 未知 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
