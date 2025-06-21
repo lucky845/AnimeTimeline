@@ -154,6 +154,7 @@
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/9c/16/565253_R99R9.jpg) | [猴子捞月](https://bangumi.tv/subject/565253) | 猴子捞月 | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/4d/f3/565266_3rz3k.jpg) | [霉](https://bangumi.tv/subject/565266) | 霉 | 1 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/a1/8c/565271_gQRLz.jpg) | [极速吗喽](https://bangumi.tv/subject/565271) | Express Photo | 1 | - | 0 |
+| 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/d3/ef/565401_wKE4s.jpg) | [映栄杉さん家はお侍](https://bangumi.tv/subject/565401) |  | 未知 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/e2/1d/561911_e4iZd.jpg) | [蜘蛛侠与他的神奇朋友们 第四季](https://bangumi.tv/subject/561911) | Marvel's Spidey and His Amazing Friends Season 4 | 未知 | - | 0 |
 | 2025-06-16 | ![](https://lain.bgm.tv/pic/cover/c/d3/ef/565401_wKE4s.jpg) | [映栄杉さん家はお侍](https://bangumi.tv/subject/565401) |  | 未知 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/99/08/434803_2tBVI.jpg) | [魔天记](https://bangumi.tv/subject/434803) |  | 未知 | - | 0 |
@@ -167,7 +168,7 @@
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/79/f7/564888_t1602.jpg) | [猴子和小偷](https://bangumi.tv/subject/564888) | 猴子和小偷 | 1 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/02/82/564900_GO0lA.jpg) | [乐高幻影忍者：魔兽之地](https://bangumi.tv/subject/564900) | Ninjago Legends: Monstrosity | 3 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/de/565180_WI4TF.jpg) | [鉴因缘](https://bangumi.tv/subject/565180) | 鉴因缘 | 1 | - | 0 |
-| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 0 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_wePD6.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 10 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) | 神国之上 | 17 | - | 10 |
