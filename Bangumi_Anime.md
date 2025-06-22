@@ -144,6 +144,7 @@
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/b4/1c/555830_WHVqc.jpg) | [鲁邦三世 钱形与两个鲁邦](https://bangumi.tv/subject/555830) | LUPIN THE IIIRD 銭形と2人のルパン | 1 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/1c/89/560190_WgG8M.jpg) | [K-Pop 猎魔女团](https://bangumi.tv/subject/560190) | K-Pop Demon Hunters | 1 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e4/5a/565452_Xd4Kg.jpg) | [龅牙的快乐生活](https://bangumi.tv/subject/565452) | 龅牙的快乐生活 | 4 | - | 0 |
+| 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/f0/cc/564268_wZ9TL.jpg) | [偶像活动！纪念舞台～闪耀的组合杯～](https://bangumi.tv/subject/564268) | アイカツ！メモリアルステージ～輝きのユニットカップ～ | 1 | - | 0 |
 | 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 未知 | - | 0 |
 | 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 未知 | - | 0 |
 | 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/47/30/565255_cKdDg.jpg) | [逆旅](https://bangumi.tv/subject/565255) | 逆旅 | 1 | - | 0 |
