@@ -124,7 +124,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/57/d4/527620_6g9Ln.jpg) | [章鱼哔的原罪](https://bangumi.tv/subject/527620) | タコピーの原罪 | 6 | - | 10 |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_sCroj.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
-| 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_ajZ65.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
+| 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_ajZ65.jpg) | [新星Galverse](https://bangumi.tv/subject/557430) | 新星ギャルバース | 1 | - | 10 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_VG0nV.jpg) | [ヴァージン・パンク](https://bangumi.tv/subject/513352) |  | 1 | - | 10 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 孤独的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 23 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/a8/525084_4EOj5.jpg) | [KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ](https://bangumi.tv/subject/525084) |  | 1 | - | 0 |
@@ -138,6 +138,7 @@
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/4a/46/513352_WrgF4.jpg) | [处女朋克：发条女孩](https://bangumi.tv/subject/513352) | ヴァージン・パンク Clockwork Girl | 1 | - | 10 |
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 怕寂寞的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 51 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～](https://bangumi.tv/subject/547196) |  | 2 | - | 0 |
+| 2025-06-27 |  | [全职高手·荣耀小剧场 第二季](https://bangumi.tv/subject/535076) |  | 10 | - | 0 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
