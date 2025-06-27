@@ -139,6 +139,7 @@
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 怕寂寞的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 51 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～](https://bangumi.tv/subject/547196) |  | 2 | - | 0 |
 | 2025-06-27 |  | [全职高手·荣耀小剧场 第二季](https://bangumi.tv/subject/535076) |  | 10 | - | 0 |
+| 2025-06-23 | ![](https://lain.bgm.tv/pic/cover/c/0e/cd/566453_SmH2T.jpg) | [哪吒之三宝闯世运](https://bangumi.tv/subject/566453) |  | 未知 | - | 0 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
