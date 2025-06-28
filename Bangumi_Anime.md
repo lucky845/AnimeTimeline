@@ -139,7 +139,9 @@
 | 2025-06-27 | ![](https://lain.bgm.tv/pic/cover/c/f1/22/514353_21EQD.jpg) | [小林家的龙女仆 怕寂寞的龙](https://bangumi.tv/subject/514353) | 小林さんちのメイドラゴン さみしがりやの竜 | 1 | - | 51 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～](https://bangumi.tv/subject/547196) |  | 2 | - | 0 |
 | 2025-06-27 |  | [全职高手·荣耀小剧场 第二季](https://bangumi.tv/subject/535076) |  | 10 | - | 0 |
+| 2025-06-27 | ![](/img/no_icon_subject.png) | [住在隔壁的她](https://bangumi.tv/subject/554879) | トナリノカノジョ | 1 | - | 10 |
 | 2025-06-23 | ![](https://lain.bgm.tv/pic/cover/c/0e/cd/566453_SmH2T.jpg) | [哪吒之三宝闯世运](https://bangumi.tv/subject/566453) |  | 未知 | - | 0 |
+| 2025-06-23 | ![](https://lain.bgm.tv/pic/cover/c/0e/cd/566453_SmH2T.jpg) | [哪吒之三宝闯世运](https://bangumi.tv/subject/566453) |  | 未知 | - | 10 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
@@ -151,7 +153,7 @@
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/e4/5a/565452_Xd4Kg.jpg) | [龅牙的快乐生活](https://bangumi.tv/subject/565452) | 龅牙的快乐生活 | 4 | - | 0 |
 | 2025-06-20 | ![](https://lain.bgm.tv/pic/cover/c/f0/cc/564268_wZ9TL.jpg) | [偶像活动！纪念舞台～闪耀的组合杯～](https://bangumi.tv/subject/564268) | アイカツ！メモリアルステージ～輝きのユニットカップ～ | 1 | - | 0 |
 | 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 未知 | - | 0 |
-| 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 未知 | - | 0 |
+| 2025-06-18 | ![](https://lain.bgm.tv/pic/cover/c/99/7a/565362_duNFX.jpg) | [2025届中传动画毕设展](https://bangumi.tv/subject/565362) | 2025届中传动画毕设展 | 35 | - | 0 |
 | 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/47/30/565255_cKdDg.jpg) | [逆旅](https://bangumi.tv/subject/565255) | 逆旅 | 1 | - | 0 |
 | 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/9d/f5/565256_zwowK.jpg) | [影的告白](https://bangumi.tv/subject/565256) | Shadow's Confession | 1 | - | 0 |
 | 2025-06-17 | ![](https://lain.bgm.tv/pic/cover/c/12/2e/565279_jm0G5.jpg) | [李子](https://bangumi.tv/subject/565279) | 李子 | 1 | - | 0 |
@@ -211,7 +213,7 @@
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇。》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
 | 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/a8/b2/561910_0b6Z0.jpg) | [爱丽丝梦游仙境：微笑猫](https://bangumi.tv/subject/561910) | ALICE IN DREAMS: The Smiling Cat | 未知 | - | 10 |
-| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 0 |
+| 2025-06-02 | ![](https://lain.bgm.tv/pic/cover/c/1b/de/562014_5g9Lk.jpg) | [《星际宝贝史迪奇》宣传动画](https://bangumi.tv/subject/562014) | 『リロ＆スティッチ』プロモーションアニメ | 未知 | - | 10 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/96/28/561191_de44E.jpg) | [橡果文化中心](https://bangumi.tv/subject/561191) | 도토리 문화센터 | 未知 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/b5/561933_4DpDM.jpg) | [宝可梦奇遇沙滩节](https://bangumi.tv/subject/561933) |  | 1 | - | 0 |
 | 2025-06-01 | ![](https://lain.bgm.tv/pic/cover/c/f9/66/562129_9MMcr.jpg) | [双猫成行](https://bangumi.tv/subject/562129) | 双猫成行 | 1 | - | 0 |
