@@ -122,6 +122,7 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025-06-29 | ![](https://lain.bgm.tv/pic/cover/c/5f/c3/567070_Pt4c9.jpg) | [《偶像大师 百万现场 剧场时光》8周年特别PV](https://bangumi.tv/subject/567070) | 【ミリシタ】8周年特別PV【アイドルマスター】 | 1 | - | 10 |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/57/d4/527620_6g9Ln.jpg) | [章鱼哔的原罪](https://bangumi.tv/subject/527620) | タコピーの原罪 | 6 | - | 10 |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_sCroj.jpg) | [新星ギャルバース](https://bangumi.tv/subject/557430) |  | 未知 | - | 0 |
 | 2025-06-28 | ![](https://lain.bgm.tv/pic/cover/c/79/ee/557430_ajZ65.jpg) | [新星Galverse](https://bangumi.tv/subject/557430) | 新星ギャルバース | 1 | - | 10 |
@@ -141,7 +142,7 @@
 | 2025-06-27 |  | [全职高手·荣耀小剧场 第二季](https://bangumi.tv/subject/535076) |  | 10 | - | 0 |
 | 2025-06-27 | ![](/img/no_icon_subject.png) | [住在隔壁的她](https://bangumi.tv/subject/554879) | トナリノカノジョ | 1 | - | 10 |
 | 2025-06-23 | ![](https://lain.bgm.tv/pic/cover/c/0e/cd/566453_SmH2T.jpg) | [哪吒之三宝闯世运](https://bangumi.tv/subject/566453) |  | 未知 | - | 0 |
-| 2025-06-23 | ![](https://lain.bgm.tv/pic/cover/c/0e/cd/566453_SmH2T.jpg) | [哪吒之三宝闯世运](https://bangumi.tv/subject/566453) |  | 未知 | - | 10 |
+| 2025-06-23 | ![](https://lain.bgm.tv/pic/cover/c/0e/cd/566453_SmH2T.jpg) | [哪吒之三宝闯世运](https://bangumi.tv/subject/566453) |  | 1 | - | 10 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-22 | ![](https://lain.bgm.tv/pic/cover/c/4f/42/565794_Szz9u.jpg) | [F/ACE「F/ACE OFF」｜Music Video](https://bangumi.tv/subject/565794) |  | 未知 | - | 10 |
 | 2025-06-21 | ![](https://lain.bgm.tv/pic/cover/c/34/25/418527_q9XqP.jpg) | [艺术学院1994](https://bangumi.tv/subject/418527) | 艺术学院1994 | 1 | - | 10 |
@@ -176,7 +177,7 @@
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/79/f7/564888_t1602.jpg) | [猴子和小偷](https://bangumi.tv/subject/564888) | 猴子和小偷 | 1 | - | 0 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/02/82/564900_GO0lA.jpg) | [乐高幻影忍者：魔兽之地](https://bangumi.tv/subject/564900) | Ninjago Legends: Monstrosity | 3 | - | 10 |
 | 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/de/565180_WI4TF.jpg) | [鉴因缘](https://bangumi.tv/subject/565180) | 鉴因缘 | 1 | - | 0 |
-| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_nRNrt.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 未知 | - | 10 |
+| 2025-06-15 | ![](https://lain.bgm.tv/pic/cover/c/4c/dc/561622_nRNrt.jpg) | [她在时空尽头](https://bangumi.tv/subject/561622) | 她在时空尽头 | 1 | - | 10 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) |  | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/30/e5/563095_rOK2r.jpg) | [金字塔游戏](https://bangumi.tv/subject/563095) | 피라미드 게임 | 未知 | - | 0 |
 | 2025-06-14 | ![](https://lain.bgm.tv/pic/cover/c/e6/34/491586_cjMce.jpg) | [神国之上](https://bangumi.tv/subject/491586) | 神国之上 | 17 | - | 10 |
@@ -196,7 +197,7 @@
 | 2025-06-10 | ![](https://lain.bgm.tv/pic/cover/c/6e/32/403747_Fz3Sx.jpg) | [克金玩家](https://bangumi.tv/subject/403747) |  | 26 | - | 10 |
 | 2025-06-10 |  | [尽诸东流](https://bangumi.tv/subject/564849) | 尽诸东流 | 1 | - | 0 |
 | 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
-| 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 未知 | - | 0 |
+| 2025-06-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/02/561267_pnXni.jpg) | [L'Olívia i el terratrèmol invisible](https://bangumi.tv/subject/561267) |  | 1 | - | 0 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2f/19/562605_okUVk.jpg) | [我不在的明天](https://bangumi.tv/subject/562605) | 我不在的明天 | 1 | - | 0 |
 | 2025-06-08 | ![](https://lain.bgm.tv/pic/cover/c/2e/01/565277_pUEwX.jpg) | [蝉鸣](https://bangumi.tv/subject/565277) | 蝉鸣 | 1 | - | 0 |
 | 2025-06-06 | ![](/img/no_icon_subject.png) | [黒ギャルアラカルト](https://bangumi.tv/subject/534678) |  | 1 | - | 0 |
