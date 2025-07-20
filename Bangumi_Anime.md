@@ -125,6 +125,7 @@
 | 2025-07-29 | ![](https://lain.bgm.tv/pic/cover/c/f9/3a/456171_DllLV.jpg) | [开局地摊卖大力](https://bangumi.tv/subject/456171) | 开局地摊卖大力 | 24 | - | 0 |
 | 2025-07-28 | ![](https://lain.bgm.tv/pic/cover/c/65/5e/561133_p523b.jpg) | [The Wonderfully Weird World of Gumball](https://bangumi.tv/subject/561133) |  | 未知 | - | 0 |
 | 2025-07-28 | ![](https://lain.bgm.tv/pic/cover/c/65/5e/561133_p523b.jpg) | [The Wonderfully Weird World of Gumball](https://bangumi.tv/subject/561133) |  | 未知 | - | 10 |
+| 2025-07-27 | ![](https://lain.bgm.tv/pic/cover/c/d0/5d/345835_5G893.jpg) | [在下英台](https://bangumi.tv/subject/345835) | 在下英台 | 24 | - | 0 |
 | 2025-07-26 | ![](https://lain.bgm.tv/pic/cover/c/ec/6e/555629_QdboA.jpg) | [喜羊羊与灰太狼之异国破晓](https://bangumi.tv/subject/555629) |  | 1 | - | 0 |
 | 2025-07-25 | ![](/img/no_icon_subject.png) | [今日は指輪を外すから……](https://bangumi.tv/subject/554433) |  | 1 | - | 0 |
 | 2025-07-25 | ![](/img/no_icon_subject.png) | [淫モラル・ゲームマスター THE ANIMATION](https://bangumi.tv/subject/554824) |  | 2 | - | 10 |
@@ -193,7 +194,7 @@
 | 2025-07-10 | ![](https://lain.bgm.tv/pic/cover/c/19/38/505793_HF3Ug.jpg) | [被驱逐出勇者队伍的白魔导师， 被S级冒险者捡到](https://bangumi.tv/subject/505793) | 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～ | 12 | - | 105 |
 | 2025-07-10 | ![](https://lain.bgm.tv/pic/cover/c/c5/51/531344_f65f8.jpg) | [双人单身露营](https://bangumi.tv/subject/531344) | ふたりソロキャンプ | 24 | - | 10 |
 | 2025-07-10 | ![](https://lain.bgm.tv/pic/cover/c/c7/96/434797_DkVyH.jpg) | [我为刀宗](https://bangumi.tv/subject/434797) |  | 16 | - | 0 |
-| 2025-07-10 | ![](https://lain.bgm.tv/pic/cover/c/d3/c4/508003_DD2wd.jpg) | [石纪元 科学与未来 第2部分](https://bangumi.tv/subject/508003) | Dr.STONE SCIENCE FUTURE 第2クール | 未知 | - | 214 |
+| 2025-07-10 | ![](https://lain.bgm.tv/pic/cover/c/d3/c4/508003_DD2wd.jpg) | [石纪元 科学与未来 第2部分](https://bangumi.tv/subject/508003) | Dr.STONE SCIENCE FUTURE 第2クール | 12 | - | 219 |
 | 2025-07-10 | ![](https://lain.bgm.tv/pic/cover/c/d3/ae/563152_2M888.jpg) | [追放白魔導師 ～ミニアニメ～](https://bangumi.tv/subject/563152) |  | 未知 | - | 10 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/52/88/390555_11QS3.jpg) | [新 吊带袜天使](https://bangumi.tv/subject/390555) | New PANTY & STOCKING with GARTERBELT | 未知 | - | 26 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/95/33/405233_plGCX.jpg) | [新·异常生物见闻录：序](https://bangumi.tv/subject/405233) |  | 未知 | - | 10 |
@@ -206,7 +207,7 @@
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/52/88/390555_11QS3.jpg) | [新 吊带袜天使](https://bangumi.tv/subject/390555) | New PANTY & STOCKING with GARTERBELT | 13 | - | 50 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/30/9e/499656_rpNoi.jpg) | [转生为第七王子，随心所欲的魔法学习之路 第二季](https://bangumi.tv/subject/499656) | 転生したら第七王子だったので、気ままに魔術を極めます 第2期 | 12 | - | 46 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/85/502272_LB63x.jpg) | [帝乃三姐妹原来很好搞定。](https://bangumi.tv/subject/502272) | 帝乃三姉妹は案外、チョロい。 | 12 | - | 12 |
-| 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/76/b3/515418_T9DJG.jpg) | [黑化吧！圣女大人](https://bangumi.tv/subject/515418) | 傷だらけ聖女より報復をこめて | 未知 | - | 47 |
+| 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/76/b3/515418_T9DJG.jpg) | [黑化吧！圣女大人](https://bangumi.tv/subject/515418) | 傷だらけ聖女より報復をこめて | 未知 | - | 49 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/76/e1/565400_Hf8OJ.jpg) | [ネコのクラちゃん ～Ordinary days～](https://bangumi.tv/subject/565400) |  | 未知 | - | 0 |
 | 2025-07-08 | ![](https://lain.bgm.tv/pic/cover/c/bb/dc/413567_2h5kq.jpg) | [保龄球少女！](https://bangumi.tv/subject/413567) | Turkey! | 未知 | - | 10 |
 | 2025-07-08 | ![](https://lain.bgm.tv/pic/cover/c/c2/2a/497881_9lhDz.jpg) | [阿松 第四季](https://bangumi.tv/subject/497881) | おそ松さん 第4期 | 未知 | - | 10 |
@@ -293,7 +294,7 @@
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/49/92/568292_R5bwW.jpg) | [葫芦兄妹](https://bangumi.tv/subject/568292) |  | 未知 | - | 0 |
 | 2025-07-04 | ![](/img/no_icon_subject.png) | [女友穿上两截式的原因](https://bangumi.tv/subject/568230) | 彼女がセパレートをまとう理由 | 1 | - | 10 |
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/5a/25/406857_pIL9z.jpg) | [为丑女献上花束。](https://bangumi.tv/subject/406857) | ブスに花束を。 | 13 | - | 103 |
-| 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/f8/a8/455454_cEllE.jpg) | [渡君的XX即将崩坏](https://bangumi.tv/subject/455454) | 渡くんの××が崩壊寸前 | 未知 | - | 194 |
+| 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/f8/a8/455454_cEllE.jpg) | [渡君的XX即将崩坏](https://bangumi.tv/subject/455454) | 渡くんの××が崩壊寸前 | 未知 | - | 198 |
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/49/92/568292_R5bwW.jpg) | [葫芦兄妹](https://bangumi.tv/subject/568292) |  | 未知 | - | 10 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/fb/78/475032_PCVWp.jpg) | [神椿市建设中。](https://bangumi.tv/subject/475032) | 神椿市建設中。 | 未知 | - | 24 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/80/16/528831_21GCE.jpg) | [欢迎光临流放者食堂！](https://bangumi.tv/subject/528831) | 追放者食堂へようこそ！ | 未知 | - | 10 |
@@ -325,7 +326,7 @@
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/92/86/567283_Q3NQB.jpg) | [《崩坏：星穹铁道》动画短片：「听！狂欢在那神佑的山巅」](https://bangumi.tv/subject/567283) | 听！狂欢在那神佑的山巅 | 未知 | - | 10 |
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/49/03/566125_yoONb.jpg) | [凌天独尊](https://bangumi.tv/subject/566125) |  | 40 | - | 0 |
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/19/48/561787_131K8.jpg) | [小哥斯拉的逆袭 系列最新作](https://bangumi.tv/subject/561787) | ちびゴジラの逆襲 シリーズ最新作 | 未知 | - | 10 |
-| 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/92/86/567283_Q3NQB.jpg) | [《崩坏：星穹铁道》动画短片：「听！狂欢在那神佑的山巅」](https://bangumi.tv/subject/567283) | 听！狂欢在那神佑的山巅 | 未知 | - | 15 |
+| 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/92/86/567283_Q3NQB.jpg) | [《崩坏：星穹铁道》动画短片：「听！狂欢在那神佑的山巅」](https://bangumi.tv/subject/567283) | 听！狂欢在那神佑的山巅 | 未知 | - | 16 |
 | 2025-07-01 | ![](https://lain.bgm.tv/pic/cover/c/24/61/509216_2s20b.jpg) | [最近的侦探真没用](https://bangumi.tv/subject/509216) | まったく最近の探偵ときたら | 12 | - | 10 |
 | 2025-07-01 | ![](https://lain.bgm.tv/pic/cover/c/bd/23/528147_l96M9.jpg) | [死灵之子的宇宙恐怖秀](https://bangumi.tv/subject/528147) | ネクロノミ子のコズミックホラーショウ | 未知 | - | 10 |
 | 2025-07-01 | ![](https://lain.bgm.tv/pic/cover/c/2d/53/537894_0mYRq.jpg) | [人妻之唇烧酒之味](https://bangumi.tv/subject/537894) | 人妻の唇は缶チューハイの味がして | 8 | - | 10 |
