@@ -159,6 +159,7 @@
 | 2025-07-18 |  | [史努比特辑：夏日音乐剧](https://bangumi.tv/subject/561922) | Snoopy Presents: A Summer Musical | 1 | - | 0 |
 | 2025-07-18 | ![](https://lain.bgm.tv/pic/cover/c/17/42/408897_BnCHp.jpg) | [龙族Ⅱ 悼亡者之瞳](https://bangumi.tv/subject/408897) |  | 24 | - | 0 |
 | 2025-07-18 | ![](https://lain.bgm.tv/pic/cover/c/83/17/423976_9OEsn.jpg) | [苍兰诀 第二季](https://bangumi.tv/subject/423976) | 苍兰诀2 | 26 | - | 0 |
+| 2025-07-18 | ![](https://lain.bgm.tv/pic/cover/c/f6/0b/501958_2a194.jpg) | [剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再袭](https://bangumi.tv/subject/501958) | 劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来 | 1 | - | 150 |
 | 2025-07-17 | ![](https://lain.bgm.tv/pic/cover/c/fc/de/456336_QRx0G.jpg) | [通灵妃 第二季](https://bangumi.tv/subject/456336) |  | 24 | - | 10 |
 | 2025-07-17 |  | [妖神记 第九季](https://bangumi.tv/subject/562146) |  | 未知 | - | 0 |
 | 2025-07-17 | ![](https://lain.bgm.tv/pic/cover/c/ef/27/441670_EMJJ5.jpg) | [歌声是千层派](https://bangumi.tv/subject/441670) | うたごえはミルフィーユ | 未知 | - | 14 |
@@ -294,7 +295,7 @@
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/49/92/568292_R5bwW.jpg) | [葫芦兄妹](https://bangumi.tv/subject/568292) |  | 未知 | - | 0 |
 | 2025-07-04 | ![](/img/no_icon_subject.png) | [女友穿上两截式的原因](https://bangumi.tv/subject/568230) | 彼女がセパレートをまとう理由 | 1 | - | 10 |
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/5a/25/406857_pIL9z.jpg) | [为丑女献上花束。](https://bangumi.tv/subject/406857) | ブスに花束を。 | 13 | - | 103 |
-| 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/f8/a8/455454_cEllE.jpg) | [渡君的XX即将崩坏](https://bangumi.tv/subject/455454) | 渡くんの××が崩壊寸前 | 未知 | - | 198 |
+| 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/f8/a8/455454_cEllE.jpg) | [渡君的XX即将崩坏](https://bangumi.tv/subject/455454) | 渡くんの××が崩壊寸前 | 未知 | - | 203 |
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/49/92/568292_R5bwW.jpg) | [葫芦兄妹](https://bangumi.tv/subject/568292) |  | 未知 | - | 10 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/fb/78/475032_PCVWp.jpg) | [神椿市建设中。](https://bangumi.tv/subject/475032) | 神椿市建設中。 | 未知 | - | 24 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/80/16/528831_21GCE.jpg) | [欢迎光临流放者食堂！](https://bangumi.tv/subject/528831) | 追放者食堂へようこそ！ | 未知 | - | 10 |
@@ -326,7 +327,7 @@
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/92/86/567283_Q3NQB.jpg) | [《崩坏：星穹铁道》动画短片：「听！狂欢在那神佑的山巅」](https://bangumi.tv/subject/567283) | 听！狂欢在那神佑的山巅 | 未知 | - | 10 |
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/49/03/566125_yoONb.jpg) | [凌天独尊](https://bangumi.tv/subject/566125) |  | 40 | - | 0 |
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/19/48/561787_131K8.jpg) | [小哥斯拉的逆袭 系列最新作](https://bangumi.tv/subject/561787) | ちびゴジラの逆襲 シリーズ最新作 | 未知 | - | 10 |
-| 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/92/86/567283_Q3NQB.jpg) | [《崩坏：星穹铁道》动画短片：「听！狂欢在那神佑的山巅」](https://bangumi.tv/subject/567283) | 听！狂欢在那神佑的山巅 | 未知 | - | 16 |
+| 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/92/86/567283_Q3NQB.jpg) | [《崩坏：星穹铁道》动画短片：「听！狂欢在那神佑的山巅」](https://bangumi.tv/subject/567283) | 听！狂欢在那神佑的山巅 | 未知 | - | 17 |
 | 2025-07-01 | ![](https://lain.bgm.tv/pic/cover/c/24/61/509216_2s20b.jpg) | [最近的侦探真没用](https://bangumi.tv/subject/509216) | まったく最近の探偵ときたら | 12 | - | 10 |
 | 2025-07-01 | ![](https://lain.bgm.tv/pic/cover/c/bd/23/528147_l96M9.jpg) | [死灵之子的宇宙恐怖秀](https://bangumi.tv/subject/528147) | ネクロノミ子のコズミックホラーショウ | 未知 | - | 10 |
 | 2025-07-01 | ![](https://lain.bgm.tv/pic/cover/c/2d/53/537894_0mYRq.jpg) | [人妻之唇烧酒之味](https://bangumi.tv/subject/537894) | 人妻の唇は缶チューハイの味がして | 8 | - | 10 |
