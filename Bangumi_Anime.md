@@ -122,10 +122,12 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025-07-30 | ![](https://lain.bgm.tv/pic/cover/c/85/7a/449338_NQkl6.jpg) | [紫川 第二季](https://bangumi.tv/subject/449338) | 紫川 第2季 | 52 | - | 10 |
 | 2025-07-29 | ![](https://lain.bgm.tv/pic/cover/c/f9/3a/456171_DllLV.jpg) | [开局地摊卖大力](https://bangumi.tv/subject/456171) | 开局地摊卖大力 | 24 | - | 0 |
 | 2025-07-28 | ![](https://lain.bgm.tv/pic/cover/c/65/5e/561133_p523b.jpg) | [The Wonderfully Weird World of Gumball](https://bangumi.tv/subject/561133) |  | 未知 | - | 0 |
 | 2025-07-28 | ![](https://lain.bgm.tv/pic/cover/c/65/5e/561133_p523b.jpg) | [The Wonderfully Weird World of Gumball](https://bangumi.tv/subject/561133) |  | 未知 | - | 10 |
 | 2025-07-27 | ![](https://lain.bgm.tv/pic/cover/c/d0/5d/345835_5G893.jpg) | [在下英台](https://bangumi.tv/subject/345835) | 在下英台 | 24 | - | 0 |
+| 2025-07-27 | ![](https://lain.bgm.tv/pic/cover/c/d0/5d/345835_5G893.jpg) | [在下“英台”](https://bangumi.tv/subject/345835) | 在下“英台” | 12 | - | 0 |
 | 2025-07-26 | ![](https://lain.bgm.tv/pic/cover/c/ec/6e/555629_QdboA.jpg) | [喜羊羊与灰太狼之异国破晓](https://bangumi.tv/subject/555629) |  | 1 | - | 0 |
 | 2025-07-25 | ![](/img/no_icon_subject.png) | [今日は指輪を外すから……](https://bangumi.tv/subject/554433) |  | 1 | - | 0 |
 | 2025-07-25 | ![](/img/no_icon_subject.png) | [淫モラル・ゲームマスター THE ANIMATION](https://bangumi.tv/subject/554824) |  | 2 | - | 10 |
@@ -160,6 +162,7 @@
 | 2025-07-18 | ![](https://lain.bgm.tv/pic/cover/c/17/42/408897_BnCHp.jpg) | [龙族Ⅱ 悼亡者之瞳](https://bangumi.tv/subject/408897) |  | 24 | - | 0 |
 | 2025-07-18 | ![](https://lain.bgm.tv/pic/cover/c/83/17/423976_9OEsn.jpg) | [苍兰诀 第二季](https://bangumi.tv/subject/423976) | 苍兰诀2 | 26 | - | 0 |
 | 2025-07-18 | ![](https://lain.bgm.tv/pic/cover/c/f6/0b/501958_2a194.jpg) | [剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再袭](https://bangumi.tv/subject/501958) | 劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来 | 1 | - | 150 |
+| 2025-07-18 | ![](https://lain.bgm.tv/pic/cover/c/2a/14/572988_MB89Y.jpg) | [是假千金也要手握团宠剧本](https://bangumi.tv/subject/572988) |  | 41 | - | 0 |
 | 2025-07-17 | ![](https://lain.bgm.tv/pic/cover/c/fc/de/456336_QRx0G.jpg) | [通灵妃 第二季](https://bangumi.tv/subject/456336) |  | 24 | - | 10 |
 | 2025-07-17 |  | [妖神记 第九季](https://bangumi.tv/subject/562146) |  | 未知 | - | 0 |
 | 2025-07-17 | ![](https://lain.bgm.tv/pic/cover/c/ef/27/441670_EMJJ5.jpg) | [歌声是千层派](https://bangumi.tv/subject/441670) | うたごえはミルフィーユ | 未知 | - | 14 |
@@ -208,7 +211,7 @@
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/52/88/390555_11QS3.jpg) | [新 吊带袜天使](https://bangumi.tv/subject/390555) | New PANTY & STOCKING with GARTERBELT | 13 | - | 50 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/30/9e/499656_rpNoi.jpg) | [转生为第七王子，随心所欲的魔法学习之路 第二季](https://bangumi.tv/subject/499656) | 転生したら第七王子だったので、気ままに魔術を極めます 第2期 | 12 | - | 46 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/f2/85/502272_LB63x.jpg) | [帝乃三姐妹原来很好搞定。](https://bangumi.tv/subject/502272) | 帝乃三姉妹は案外、チョロい。 | 12 | - | 12 |
-| 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/76/b3/515418_T9DJG.jpg) | [黑化吧！圣女大人](https://bangumi.tv/subject/515418) | 傷だらけ聖女より報復をこめて | 未知 | - | 51 |
+| 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/76/b3/515418_T9DJG.jpg) | [黑化吧！圣女大人](https://bangumi.tv/subject/515418) | 傷だらけ聖女より報復をこめて | 未知 | - | 52 |
 | 2025-07-09 | ![](https://lain.bgm.tv/pic/cover/c/76/e1/565400_Hf8OJ.jpg) | [ネコのクラちゃん ～Ordinary days～](https://bangumi.tv/subject/565400) |  | 未知 | - | 0 |
 | 2025-07-08 | ![](https://lain.bgm.tv/pic/cover/c/bb/dc/413567_2h5kq.jpg) | [保龄球少女！](https://bangumi.tv/subject/413567) | Turkey! | 未知 | - | 10 |
 | 2025-07-08 | ![](https://lain.bgm.tv/pic/cover/c/c2/2a/497881_9lhDz.jpg) | [阿松 第四季](https://bangumi.tv/subject/497881) | おそ松さん 第4期 | 未知 | - | 10 |
@@ -295,7 +298,7 @@
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/49/92/568292_R5bwW.jpg) | [葫芦兄妹](https://bangumi.tv/subject/568292) |  | 未知 | - | 0 |
 | 2025-07-04 | ![](/img/no_icon_subject.png) | [女友穿上两截式的原因](https://bangumi.tv/subject/568230) | 彼女がセパレートをまとう理由 | 1 | - | 10 |
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/5a/25/406857_pIL9z.jpg) | [为丑女献上花束。](https://bangumi.tv/subject/406857) | ブスに花束を。 | 13 | - | 103 |
-| 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/f8/a8/455454_cEllE.jpg) | [渡君的XX即将崩坏](https://bangumi.tv/subject/455454) | 渡くんの××が崩壊寸前 | 未知 | - | 204 |
+| 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/f8/a8/455454_cEllE.jpg) | [渡君的XX即将崩坏](https://bangumi.tv/subject/455454) | 渡くんの××が崩壊寸前 | 未知 | - | 209 |
 | 2025-07-04 | ![](https://lain.bgm.tv/pic/cover/c/49/92/568292_R5bwW.jpg) | [葫芦兄妹](https://bangumi.tv/subject/568292) |  | 未知 | - | 10 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/fb/78/475032_PCVWp.jpg) | [神椿市建设中。](https://bangumi.tv/subject/475032) | 神椿市建設中。 | 未知 | - | 24 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/80/16/528831_21GCE.jpg) | [欢迎光临流放者食堂！](https://bangumi.tv/subject/528831) | 追放者食堂へようこそ！ | 未知 | - | 10 |
@@ -308,7 +311,7 @@
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/16/e9/532403_5rfk5.jpg) | [水属性的魔法师](https://bangumi.tv/subject/532403) | 水属性の魔法使い | 12 | - | 10 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/15/e5/567900_agSHe.jpg) | [夜光溯明](https://bangumi.tv/subject/567900) |  | 1 | - | 0 |
 | 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/4a/2b/529431_a7joa.jpg) | [胆大党 第二季](https://bangumi.tv/subject/529431) | ダンダダン 第2期 | 12 | - | 290 |
-| 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/03/9a/565325_GUavI.jpg) | [ネコこのゴロ～天下統一編～](https://bangumi.tv/subject/565325) |  | 未知 | - | 0 |
+| 2025-07-03 | ![](https://lain.bgm.tv/pic/cover/c/03/9a/565325_GUavI.jpg) | [ネコこのゴロ～天下統一編～](https://bangumi.tv/subject/565325) |  | 未知 | - | 10 |
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/ad/ac/404909_9HOfw.jpg) | [强者的新传说](https://bangumi.tv/subject/404909) | 強くてニューサーガ | 未知 | - | 10 |
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/03/cf/455617_WG3Mg.jpg) | [转生成自动贩卖机的我今天也在迷宫徘徊 第二季](https://bangumi.tv/subject/455617) | 自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd season | 未知 | - | 10 |
 | 2025-07-02 | ![](https://lain.bgm.tv/pic/cover/c/5c/49/502142_XG5pA.jpg) | [克雷瓦提斯-魔兽之王与婴儿与尸之勇者-](https://bangumi.tv/subject/502142) | クレバテス-魔獣の王と赤子と屍の勇者- | 未知 | - | 10 |
