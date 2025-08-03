@@ -151,8 +151,10 @@
 | 2025-08-04 | ![](https://lain.bgm.tv/pic/cover/c/16/1e/561715_gVrKd.jpg) | [一家之主 第14季](https://bangumi.tv/subject/561715) | King of the Hill Season 14 | 10 | - | 0 |
 | 2025-08-04 | ![](https://lain.bgm.tv/pic/cover/c/d4/7f/573587_UI9MU.jpg) | [万剑王座](https://bangumi.tv/subject/573587) |  | 40 | - | 0 |
 | 2025-08-03 | ![](https://lain.bgm.tv/pic/cover/c/9d/ae/562145_72j24.jpg) | [斗破苍穹 年番4](https://bangumi.tv/subject/562145) |  | 52 | - | 0 |
+| 2025-08-03 | ![](https://lain.bgm.tv/pic/cover/c/f8/2b/575899_Ipf3K.jpg) | [「Fate/Grand Order」十周年纪念映像](https://bangumi.tv/subject/575899) | 「Fate/Grand Order」10th Anniversary Movie | 1 | - | 13 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/93/79/440095_HJh7H.jpg) | [浪浪山小妖怪](https://bangumi.tv/subject/440095) | 浪浪山小妖怪 | 1 | - | 45 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/16/e7/559865_qHmHW.jpg) | [猫和老鼠：星盘奇缘](https://bangumi.tv/subject/559865) | 猫和老鼠：星盘奇缘 | 1 | - | 10 |
+| 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/b9/28/565472_K04pH.jpg) | [Fate/Grand Order 藤丸立香想不明白 第3季](https://bangumi.tv/subject/565472) | Fate/Grand Order 藤丸立香はわからない Season3 | 未知 | - | 10 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/b9/28/565472_K04pH.jpg) | [Fate/Grand Order 藤丸立香想不明白 第3季](https://bangumi.tv/subject/565472) | Fate/Grand Order 藤丸立香はわからない Season3 | 未知 | - | 10 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/3d/5b/470037_jh1be.jpg) | [瓦坎达之眼](https://bangumi.tv/subject/470037) | Eyes Of Wakanda | 4 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/e6/87/487185_evFb1.jpg) | [坏蛋联盟2](https://bangumi.tv/subject/487185) | The Bad Guys 2 | 1 | - | 0 |
