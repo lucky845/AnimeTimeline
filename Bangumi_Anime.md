@@ -150,17 +150,20 @@
 | 2025-08-06 | ![](https://lain.bgm.tv/pic/cover/c/6f/21/573590_Wg12p.jpg) | [缥缈剑仙传](https://bangumi.tv/subject/573590) |  | 40 | - | 0 |
 | 2025-08-04 | ![](https://lain.bgm.tv/pic/cover/c/16/1e/561715_gVrKd.jpg) | [一家之主 第14季](https://bangumi.tv/subject/561715) | King of the Hill Season 14 | 10 | - | 0 |
 | 2025-08-04 | ![](https://lain.bgm.tv/pic/cover/c/d4/7f/573587_UI9MU.jpg) | [万剑王座](https://bangumi.tv/subject/573587) |  | 40 | - | 0 |
+| 2025-08-04 | ![](https://lain.bgm.tv/pic/cover/c/0a/e6/576071_0KP9j.jpg) | [饿狼传说 × 街头霸王 | 动画预告](https://bangumi.tv/subject/576071) | 餓狼伝説 × ストリートファイター | アニメーショントレーラー | 1 |
 | 2025-08-04 | ![](https://lain.bgm.tv/pic/cover/c/0a/e6/576071_0KP9j.jpg) | [饿狼传说 × 街头霸王 | 动画预告](https://bangumi.tv/subject/576071) | 餓狼伝説 × ストリートファイター | アニメーショントレーラー | 1 | - | 0 |
 | 2025-08-03 | ![](https://lain.bgm.tv/pic/cover/c/9d/ae/562145_72j24.jpg) | [斗破苍穹 年番4](https://bangumi.tv/subject/562145) |  | 52 | - | 0 |
 | 2025-08-03 | ![](https://lain.bgm.tv/pic/cover/c/f8/2b/575899_Ipf3K.jpg) | [「Fate/Grand Order」十周年纪念映像](https://bangumi.tv/subject/575899) | 「Fate/Grand Order」10th Anniversary Movie | 1 | - | 13 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/93/79/440095_HJh7H.jpg) | [浪浪山小妖怪](https://bangumi.tv/subject/440095) | 浪浪山小妖怪 | 1 | - | 45 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/16/e7/559865_qHmHW.jpg) | [猫和老鼠：星盘奇缘](https://bangumi.tv/subject/559865) | 猫和老鼠：星盘奇缘 | 1 | - | 10 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/b9/28/565472_K04pH.jpg) | [Fate/Grand Order 藤丸立香想不明白 第3季](https://bangumi.tv/subject/565472) | Fate/Grand Order 藤丸立香はわからない Season3 | 未知 | - | 10 |
+| 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/84/a1/576103_80t0e.jpg) | [信息素说我们不可能 动态漫](https://bangumi.tv/subject/576103) |  | 未知 | - | 0 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/b9/28/565472_K04pH.jpg) | [Fate/Grand Order 藤丸立香想不明白 第3季](https://bangumi.tv/subject/565472) | Fate/Grand Order 藤丸立香はわからない Season3 | 未知 | - | 10 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/84/a1/576103_80t0e.jpg) | [信息素说我们不可能 动态漫](https://bangumi.tv/subject/576103) |  | 未知 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/3d/5b/470037_jh1be.jpg) | [瓦坎达之眼](https://bangumi.tv/subject/470037) | Eyes Of Wakanda | 4 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/e6/87/487185_evFb1.jpg) | [坏蛋联盟2](https://bangumi.tv/subject/487185) | The Bad Guys 2 | 1 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/da/a3/573586_74QO6.jpg) | [向着星辰的长征](https://bangumi.tv/subject/573586) |  | 16 | - | 0 |
+| 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/ad/83/576310_5m19t.jpg) | [ただいまを返す旅](https://bangumi.tv/subject/576310) |  | 未知 | - | 0 |
 | 2025-08 | ![](https://lain.bgm.tv/pic/cover/c/1c/d0/566169_2j7G7.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
 | 2025-08 | ![](https://lain.bgm.tv/pic/cover/c/1c/d0/566169_2j7G7.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
 | 2025-07-30 | ![](https://lain.bgm.tv/pic/cover/c/85/7a/449338_NQkl6.jpg) | [紫川 第二季](https://bangumi.tv/subject/449338) | 紫川 第2季 | 52 | - | 10 |
