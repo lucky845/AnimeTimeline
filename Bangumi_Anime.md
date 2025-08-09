@@ -144,10 +144,12 @@
 | 2025-08-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 未知 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/pic/cover/c/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
+| 2025-08-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/d0/566169_8i0S2.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
 | 2025-08-08 | ![](https://lain.bgm.tv/pic/cover/c/e2/e6/456167_4Jh11.jpg) | [百妖谱·洛阳篇](https://bangumi.tv/subject/456167) |  | 12 | - | 10 |
 | 2025-08-08 | ![](https://lain.bgm.tv/pic/cover/c/bd/6b/458937_Qs1nN.jpg) | [神墓 年番](https://bangumi.tv/subject/458937) |  | 52 | - | 10 |
 | 2025-08-08 | ![](https://lain.bgm.tv/pic/cover/c/cc/6f/528635_fN6bf.jpg) | [电影蜡笔小新 超华丽！灼热的春日部舞者们](https://bangumi.tv/subject/528635) | 映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ | 1 | - | 10 |
 | 2025-08-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cc/6f/528635_fN6bf.jpg) | [蜡笔小新：超华丽！灼热的春日部舞者](https://bangumi.tv/subject/528635) | クレヨンしんちゃん 超華麗!灼熱のカスカベダンサーズ | 1 | - | 10 |
+| 2025-08-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/aa/c0/576676_XZC5X.jpg) | [玲珑骰](https://bangumi.tv/subject/576676) |  | 未知 | - | 0 |
 | 2025-08-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/aa/c0/576676_XZC5X.jpg) | [玲珑骰](https://bangumi.tv/subject/576676) |  | 未知 | - | 0 |
 | 2025-08-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e1/5d/576727_JVJFJ.jpg) | [都合のいい性処理マネージャー 沙里ちゃんは今日も、される。](https://bangumi.tv/subject/576727) |  | 1 | - | 0 |
 | 2025-08-06 | ![](https://lain.bgm.tv/pic/cover/c/6f/21/573590_Wg12p.jpg) | [缥缈剑仙传](https://bangumi.tv/subject/573590) |  | 40 | - | 0 |
@@ -169,7 +171,6 @@
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/ad/83/576310_5m19t.jpg) | [ただいまを返す旅](https://bangumi.tv/subject/576310) |  | 未知 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/ad/83/576310_5m19t.jpg) | [ただいまを返す旅](https://bangumi.tv/subject/576310) |  | 1 | - | 0 |
 | 2025-08 | ![](https://lain.bgm.tv/pic/cover/c/1c/d0/566169_2j7G7.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
-| 2025-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/d0/566169_2j7G7.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
 | 2025-07-30 | ![](https://lain.bgm.tv/pic/cover/c/85/7a/449338_NQkl6.jpg) | [紫川 第二季](https://bangumi.tv/subject/449338) | 紫川 第2季 | 52 | - | 10 |
 | 2025-07-30 | ![](https://lain.bgm.tv/pic/cover/c/04/f8/574792_N1Vj9.jpg) | [スキスキDieスキ超Ayeシテル](https://bangumi.tv/subject/574792) |  | 1 | - | 10 |
 | 2025-07-29 | ![](https://lain.bgm.tv/pic/cover/c/f9/3a/456171_DllLV.jpg) | [开局地摊卖大力](https://bangumi.tv/subject/456171) | 开局地摊卖大力 | 24 | - | 0 |
