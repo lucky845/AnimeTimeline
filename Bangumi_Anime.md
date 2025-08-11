@@ -128,6 +128,7 @@
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [好色的忠义女忍牡丹](https://bangumi.tv/subject/562031) | 好色の忠義くノ一ぼたん | 1 | - | 0 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [纯纯公主的唇唇](https://bangumi.tv/subject/566383) | ピュアピュア♥ぺろぺろ♥プリンセス | 2 | - | 10 |
 | 2025-08-24 | ![](https://lain.bgm.tv/pic/cover/c/57/b5/568136_V9zdJ.jpg) | [Bâan -大人の彊界-](https://bangumi.tv/subject/568136) |  | 1 | - | 0 |
+| 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/db/395186_2tWNt.jpg) | [鬼吹灯之南海归墟](https://bangumi.tv/subject/395186) |  | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/2e/9a/494044_uUc0l.jpg) | [电影 小鲨鱼去郊游](https://bangumi.tv/subject/494044) | 映画 おでかけ子ザメ とかいのおともだち | 1 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/32/ab/535633_m88MM.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/13/82/541539_HNFES.jpg) | [AS ONE](https://bangumi.tv/subject/541539) | アズワン／AS ONE | 1 | - | 0 |
@@ -146,6 +147,7 @@
 | 2025-08-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
 | 2025-08-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/d0/566169_8i0S2.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
 | 2025-08-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/d0/566169_8i0S2.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 10 |
+| 2025-08-09 |  | [我们是电视台](https://bangumi.tv/subject/577457) | われらテレビ | 未知 | - | 0 |
 | 2025-08-08 | ![](https://lain.bgm.tv/pic/cover/c/e2/e6/456167_4Jh11.jpg) | [百妖谱·洛阳篇](https://bangumi.tv/subject/456167) |  | 12 | - | 10 |
 | 2025-08-08 | ![](https://lain.bgm.tv/pic/cover/c/bd/6b/458937_Qs1nN.jpg) | [神墓 年番](https://bangumi.tv/subject/458937) |  | 52 | - | 10 |
 | 2025-08-08 | ![](https://lain.bgm.tv/pic/cover/c/cc/6f/528635_fN6bf.jpg) | [电影蜡笔小新 超华丽！灼热的春日部舞者们](https://bangumi.tv/subject/528635) | 映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ | 1 | - | 10 |
