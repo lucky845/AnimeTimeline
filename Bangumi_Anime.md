@@ -144,6 +144,7 @@
 | 2025-08-13 | ![](https://lain.bgm.tv/pic/cover/c/81/eb/483866_v6FGV.jpg) | [阉割](https://bangumi.tv/subject/483866) | Fixed | 1 | - | 0 |
 | 2025-08-13 | ![](https://lain.bgm.tv/pic/cover/c/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 未知 | - | 0 |
 | 2025-08-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 未知 | - | 0 |
+| 2025-08-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/7e/577969_LF6mh.jpg) | [ヨルシカ - 修羅（OFFICIAL VIDEO）](https://bangumi.tv/subject/577969) |  | 1 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/pic/cover/c/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
 | 2025-08-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/d0/566169_8i0S2.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
