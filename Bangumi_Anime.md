@@ -136,7 +136,9 @@
 | 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/ab/535633_m88MM.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 未知 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 5 | - | 10 |
+| 2025-08-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/d0/578041_LTN8S.jpg) | [后羿之箭神](https://bangumi.tv/subject/578041) | 后羿之箭神 | 1 | - | 0 |
 | 2025-08-17 |  | [Women Wearing Shoulder Pads](https://bangumi.tv/subject/564362) |  | 未知 | - | 0 |
+| 2025-08-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c4/d1/466763_8ia5r.jpg) | [武碎星河](https://bangumi.tv/subject/466763) |  | 未知 | - | 10 |
 | 2025-08-17 |  | [Women Wearing Shoulder Pads](https://bangumi.tv/subject/564362) |  | 未知 | - | 0 |
 | 2025-08-16 | ![](https://lain.bgm.tv/pic/cover/c/fb/49/535627_gWX9g.jpg) | [非人哉：限时玩家](https://bangumi.tv/subject/535627) |  | 1 | - | 0 |
 | 2025-08-15 | ![](https://lain.bgm.tv/pic/cover/c/06/8a/533246_20WBZ.jpg) | [ChaO](https://bangumi.tv/subject/533246) |  | 1 | - | 10 |
