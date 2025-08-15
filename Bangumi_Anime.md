@@ -139,13 +139,14 @@
 | 2025-08-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/d0/578041_LTN8S.jpg) | [后羿之箭神](https://bangumi.tv/subject/578041) | 后羿之箭神 | 1 | - | 0 |
 | 2025-08-17 |  | [Women Wearing Shoulder Pads](https://bangumi.tv/subject/564362) |  | 未知 | - | 0 |
 | 2025-08-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c4/d1/466763_8ia5r.jpg) | [武碎星河](https://bangumi.tv/subject/466763) |  | 未知 | - | 10 |
+| 2025-08-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c4/d1/466763_8ia5r.jpg) | [武碎星河](https://bangumi.tv/subject/466763) |  | 未知 | - | 10 |
 | 2025-08-17 |  | [Women Wearing Shoulder Pads](https://bangumi.tv/subject/564362) |  | 未知 | - | 0 |
 | 2025-08-16 | ![](https://lain.bgm.tv/pic/cover/c/fb/49/535627_gWX9g.jpg) | [非人哉：限时玩家](https://bangumi.tv/subject/535627) |  | 1 | - | 0 |
 | 2025-08-15 | ![](https://lain.bgm.tv/pic/cover/c/06/8a/533246_20WBZ.jpg) | [ChaO](https://bangumi.tv/subject/533246) |  | 1 | - | 10 |
 | 2025-08-14 | ![](https://lain.bgm.tv/pic/cover/c/cb/7c/456160_TPFlY.jpg) | [夜的命名术](https://bangumi.tv/subject/456160) |  | 12 | - | 0 |
 | 2025-08-13 | ![](https://lain.bgm.tv/pic/cover/c/81/eb/483866_v6FGV.jpg) | [阉割](https://bangumi.tv/subject/483866) | Fixed | 1 | - | 0 |
 | 2025-08-13 | ![](https://lain.bgm.tv/pic/cover/c/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 未知 | - | 0 |
-| 2025-08-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 未知 | - | 0 |
+| 2025-08-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 8 | - | 0 |
 | 2025-08-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/7e/577969_LF6mh.jpg) | [ヨルシカ - 修羅（OFFICIAL VIDEO）](https://bangumi.tv/subject/577969) |  | 1 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/pic/cover/c/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
