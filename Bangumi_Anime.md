@@ -172,7 +172,7 @@
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/16/e7/559865_qHmHW.jpg) | [猫和老鼠：星盘奇缘](https://bangumi.tv/subject/559865) | 猫和老鼠：星盘奇缘 | 1 | - | 10 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/b9/28/565472_K04pH.jpg) | [Fate/Grand Order 藤丸立香想不明白 第3季](https://bangumi.tv/subject/565472) | Fate/Grand Order 藤丸立香はわからない Season3 | 未知 | - | 10 |
 | 2025-08-02 | ![](https://lain.bgm.tv/pic/cover/c/84/a1/576103_80t0e.jpg) | [信息素说我们不可能 动态漫](https://bangumi.tv/subject/576103) |  | 未知 | - | 0 |
-| 2025-08-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/28/565472_K04pH.jpg) | [Fate/Grand Order 藤丸立香想不明白 第3季](https://bangumi.tv/subject/565472) | Fate/Grand Order 藤丸立香はわからない Season3 | 未知 | - | 10 |
+| 2025-08-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/28/565472_K04pH.jpg) | [Fate/Grand Order 藤丸立香想不明白 第3季](https://bangumi.tv/subject/565472) | Fate/Grand Order 藤丸立香はわからない Season3 | 未知 | - | 11 |
 | 2025-08-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/84/a1/576103_80t0e.jpg) | [信息素说我们不可能 动态漫](https://bangumi.tv/subject/576103) |  | 未知 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/3d/5b/470037_jh1be.jpg) | [瓦坎达之眼](https://bangumi.tv/subject/470037) | Eyes Of Wakanda | 4 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/e6/87/487185_evFb1.jpg) | [坏蛋联盟2](https://bangumi.tv/subject/487185) | The Bad Guys 2 | 1 | - | 0 |
