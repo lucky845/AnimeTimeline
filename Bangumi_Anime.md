@@ -130,14 +130,16 @@
 | 2025-08-24 | ![](https://lain.bgm.tv/pic/cover/c/57/b5/568136_V9zdJ.jpg) | [Bâan -大人の彊界-](https://bangumi.tv/subject/568136) |  | 1 | - | 0 |
 | 2025-08-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c6/67/579070_PmLrW.jpg) | [空想2055年救灾](https://bangumi.tv/subject/579070) | ２０５５年の災害救助を空想 | 1 | - | 0 |
 | 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/db/395186_2tWNt.jpg) | [鬼吹灯之南海归墟](https://bangumi.tv/subject/395186) |  | 未知 | - | 0 |
+| 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/94/579816_r8wPd.jpg) | [有山灵](https://bangumi.tv/subject/579816) |  | 未知 | - | 0 |
 | 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/db/395186_2tWNt.jpg) | [鬼吹灯之南海归墟](https://bangumi.tv/subject/395186) |  | 未知 | - | 0 |
 | 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/94/579816_r8wPd.jpg) | [有山灵](https://bangumi.tv/subject/579816) |  | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/2e/9a/494044_uUc0l.jpg) | [电影 小鲨鱼去郊游](https://bangumi.tv/subject/494044) | 映画 おでかけ子ザメ とかいのおともだち | 1 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/32/ab/535633_m88MM.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/13/82/541539_HNFES.jpg) | [AS ONE](https://bangumi.tv/subject/541539) | アズワン／AS ONE | 1 | - | 0 |
-| 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/ab/535633_m88MM.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
+| 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/ab/535633_kleLK.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 未知 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 5 | - | 10 |
+| 2025-08-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/92/5d/579827_tiU9p.jpg) | [万古剑帝](https://bangumi.tv/subject/579827) |  | 未知 | - | 0 |
 | 2025-08-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/92/5d/579827_tiU9p.jpg) | [万古剑帝](https://bangumi.tv/subject/579827) |  | 未知 | - | 0 |
 | 2025-08-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/d0/578041_LTN8S.jpg) | [后羿之箭神](https://bangumi.tv/subject/578041) | 后羿之箭神 | 1 | - | 0 |
 | 2025-08-17 |  | [Women Wearing Shoulder Pads](https://bangumi.tv/subject/564362) |  | 未知 | - | 0 |
