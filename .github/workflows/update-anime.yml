@@ -45,7 +45,7 @@ jobs:
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "chore: Auto update anime data (${{ env.CURRENT_DATE }})"
           title: "🤖 Auto Update (${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }})"
           body: |
@@ -55,37 +55,12 @@ jobs:
           branch: "auto-update/${{ env.CURRENT_DATE }}"
           base: main
           delete-branch: true
-          labels: automated
+          labels: automated,automerge
 
       - name: Enable Auto-Merge
         if: steps.create-pr.outputs.pull-request-number != ''
-        uses: actions/github-script@v6
-        env:
-          GH_TOKEN: ${{ github.token }}
+        uses: peter-evans/enable-pull-request-automerge@v2
         with:
-          script: |
-            try {
-              // 添加自动审批
-              await github.rest.pulls.createReview({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
-                event: 'APPROVE'
-              })
-              console.log('✅ Pull request approved')
-
-              // 启用自动合并
-              await github.rest.pulls.update({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: ${{ steps.create-pr.outputs.pull-request-number }},
-                auto_merge: {
-                  enabledBy: context.actor,
-                  merge_method: 'squash'
-                }
-              })
-              console.log('✅ Auto-merge enabled')
-
-            } catch (error) {
-              core.setFailed(`自动合并失败: ${error.message}`)
-            }
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
+          merge-method: squash
