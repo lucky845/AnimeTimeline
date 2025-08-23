@@ -55,7 +55,7 @@ jobs:
           branch: "auto-update/${{ env.CURRENT_DATE }}"
           base: main
           delete-branch: true
-          labels: automerge, bot
+          labels: automerge
 
       - name: Enable Auto-Merge
         if: steps.create-pr.outputs.pull-request-number != ''
