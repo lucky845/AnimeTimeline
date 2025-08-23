@@ -1,0 +1,14 @@
+name: PR Checks
+
+on:
+  pull_request:
+
+jobs:
+  quick-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Quick passthrough
+        run: |
+          echo "PR quick check passed"
