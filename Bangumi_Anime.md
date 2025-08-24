@@ -131,7 +131,7 @@
 | 2025-08-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c6/67/579070_PmLrW.jpg) | [空想2055年救灾](https://bangumi.tv/subject/579070) | ２０５５年の災害救助を空想 | 1 | - | 0 |
 | 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/db/395186_2tWNt.jpg) | [鬼吹灯之南海归墟](https://bangumi.tv/subject/395186) |  | 未知 | - | 0 |
 | 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/94/579816_r8wPd.jpg) | [有山灵](https://bangumi.tv/subject/579816) |  | 未知 | - | 0 |
-| 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/db/395186_2tWNt.jpg) | [鬼吹灯之南海归墟](https://bangumi.tv/subject/395186) |  | 未知 | - | 0 |
+| 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/db/395186_2tWNt.jpg) | [鬼吹灯之南海归墟](https://bangumi.tv/subject/395186) |  | 17 | - | 10 |
 | 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/94/579816_r8wPd.jpg) | [有山灵](https://bangumi.tv/subject/579816) |  | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/2e/9a/494044_uUc0l.jpg) | [电影 小鲨鱼去郊游](https://bangumi.tv/subject/494044) | 映画 おでかけ子ザメ とかいのおともだち | 1 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/32/ab/535633_m88MM.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
