@@ -127,6 +127,7 @@
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [无人车站](https://bangumi.tv/subject/561614) | 無人駅 The Animation | 2 | - | 0 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [好色的忠义女忍牡丹](https://bangumi.tv/subject/562031) | 好色の忠義くノ一ぼたん | 1 | - | 0 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [纯纯公主的唇唇](https://bangumi.tv/subject/566383) | ピュアピュア♥ぺろぺろ♥プリンセス | 2 | - | 10 |
+| 2025-08-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/00/4d/581250_zCy9p.jpg) | [螳螂](https://bangumi.tv/subject/581250) | Praying Mantis | 未知 | - | 0 |
 | 2025-08-24 | ![](https://lain.bgm.tv/pic/cover/c/57/b5/568136_V9zdJ.jpg) | [Bâan -大人の彊界-](https://bangumi.tv/subject/568136) |  | 1 | - | 0 |
 | 2025-08-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c6/67/579070_PmLrW.jpg) | [空想2055年救灾](https://bangumi.tv/subject/579070) | ２０５５年の災害救助を空想 | 1 | - | 0 |
 | 2025-08-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/db/395186_2tWNt.jpg) | [鬼吹灯之南海归墟](https://bangumi.tv/subject/395186) |  | 未知 | - | 0 |
