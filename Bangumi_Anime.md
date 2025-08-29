@@ -138,6 +138,7 @@
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/32/ab/535633_m88MM.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/13/82/541539_HNFES.jpg) | [AS ONE](https://bangumi.tv/subject/541539) | アズワン／AS ONE | 1 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/ab/535633_kleLK.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 10 | - | 0 |
+| 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/79/35/581521_Ctbbw.jpg) | [零帧出手](https://bangumi.tv/subject/581521) | FRAME : ZERO | 未知 | - | 0 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 未知 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 5 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/92/5d/579827_tiU9p.jpg) | [万古剑帝](https://bangumi.tv/subject/579827) |  | 未知 | - | 0 |
