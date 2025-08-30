@@ -122,11 +122,13 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025-08-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/e7/581115_Cg30k.jpg) | [《绝区零》席德动画短片 | 爱，死亡与构造体](https://bangumi.tv/subject/581115) | 爱，死亡与构造体 | 1 | - | 0 |
 | 2025-08-29 | ![](https://lain.bgm.tv/pic/cover/c/c9/3f/533335_1bGGv.jpg) | [与爱丽丝梦游仙境 -Dive in Wonderland-](https://bangumi.tv/subject/533335) | 不思議の国でアリスと -Dive in Wonderland- | 1 | - | 10 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [社畜灰姑娘](https://bangumi.tv/subject/560210) | 社畜シンデレラ | 2 | - | 0 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [无人车站](https://bangumi.tv/subject/561614) | 無人駅 The Animation | 2 | - | 0 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [好色的忠义女忍牡丹](https://bangumi.tv/subject/562031) | 好色の忠義くノ一ぼたん | 1 | - | 0 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [纯纯公主的唇唇](https://bangumi.tv/subject/566383) | ピュアピュア♥ぺろぺろ♥プリンセス | 2 | - | 10 |
+| 2025-08-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/00/4d/581250_zCy9p.jpg) | [螳螂](https://bangumi.tv/subject/581250) | Praying Mantis | 未知 | - | 0 |
 | 2025-08-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/00/4d/581250_zCy9p.jpg) | [螳螂](https://bangumi.tv/subject/581250) | Praying Mantis | 未知 | - | 0 |
 | 2025-08-24 | ![](https://lain.bgm.tv/pic/cover/c/57/b5/568136_V9zdJ.jpg) | [Bâan -大人の彊界-](https://bangumi.tv/subject/568136) |  | 1 | - | 0 |
 | 2025-08-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c6/67/579070_PmLrW.jpg) | [空想2055年救灾](https://bangumi.tv/subject/579070) | ２０５５年の災害救助を空想 | 1 | - | 0 |
@@ -138,6 +140,7 @@
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/32/ab/535633_m88MM.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/13/82/541539_HNFES.jpg) | [AS ONE](https://bangumi.tv/subject/541539) | アズワン／AS ONE | 1 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/ab/535633_kleLK.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 10 | - | 0 |
+| 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/79/35/581521_Ctbbw.jpg) | [零帧出手](https://bangumi.tv/subject/581521) | FRAME : ZERO | 未知 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/79/35/581521_Ctbbw.jpg) | [零帧出手](https://bangumi.tv/subject/581521) | FRAME : ZERO | 未知 | - | 0 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 未知 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 5 | - | 10 |
@@ -8852,6 +8855,7 @@
 | 1991-01-12 | ![](https://lain.bgm.tv/pic/cover/c/f8/c8/9269_UDe8S.jpg) | [娱乐金鱼眼](https://bangumi.tv/subject/9269) | きんぎょ注意報! | 54 | - | 58 |
 | 1991-01-05 | ![](https://lain.bgm.tv/pic/cover/c/e7/c2/78747_yY6aI.jpg) | [青葱岁月](https://bangumi.tv/subject/78747) | おちゃめなふたご クレア学院物語 | 26 | - | 10 |
 | 1991-01-05 | ![](https://lain.bgm.tv/pic/cover/c/a1/2e/81580_1b3JK.jpg) | [少年剑道王直角](https://bangumi.tv/subject/81580) | おれは直角 | 36 | - | 10 |
+| 1991-01-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/15/363612_On6wg.jpg) | [沙盒](https://bangumi.tv/subject/363612) | 两个动画沙盒条目不显多余吗?因为要用来测试条目关联啊 | 1 | - | 11 |
 | 1991 | ![](https://lain.bgm.tv/pic/cover/c/7d/21/41554_r5030.jpg) | [七色花](https://bangumi.tv/subject/41554) |  | 1 | - | 22 |
 | 1991 | ![](https://lain.bgm.tv/pic/cover/c/f5/ea/54172_s468k.jpg) | [牙刷家族](https://bangumi.tv/subject/54172) | The Toothbrush Family | 26 | - | 25 |
 | 1991 | ![](https://lain.bgm.tv/pic/cover/c/50/98/113158_3c8lG.jpg) | [被UFO抓住的孩子们](https://bangumi.tv/subject/113158) | UFOにつかまった子供たち | 1 | - | 10 |
