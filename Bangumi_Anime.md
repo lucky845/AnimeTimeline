@@ -122,7 +122,8 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-08-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/e7/581115_Cg30k.jpg) | [《绝区零》席德动画短片 | 爱，死亡与构造体](https://bangumi.tv/subject/581115) | 爱，死亡与构造体 | 1 | - | 0 |
+| 2025-08-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/e7/581115_Cg30k.jpg) | [《绝区零》席德动画短片 | 爱，死亡与构造体](https://bangumi.tv/subject/581115) | 爱，死亡与构造体 | 1 | 0 |
+| 2025-08-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/e7/581115_Cg30k.jpg) | [《绝区零》席德动画短片 | 爱，死亡与构造体](https://bangumi.tv/subject/581115) | 爱，死亡与构造体 | 1 | - | 10 |
 | 2025-08-29 | ![](https://lain.bgm.tv/pic/cover/c/c9/3f/533335_1bGGv.jpg) | [与爱丽丝梦游仙境 -Dive in Wonderland-](https://bangumi.tv/subject/533335) | 不思議の国でアリスと -Dive in Wonderland- | 1 | - | 10 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [社畜灰姑娘](https://bangumi.tv/subject/560210) | 社畜シンデレラ | 2 | - | 0 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [无人车站](https://bangumi.tv/subject/561614) | 無人駅 The Animation | 2 | - | 0 |
@@ -141,7 +142,7 @@
 | 2025-08-22 | ![](https://lain.bgm.tv/pic/cover/c/13/82/541539_HNFES.jpg) | [AS ONE](https://bangumi.tv/subject/541539) | アズワン／AS ONE | 1 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/ab/535633_kleLK.jpg) | [长话短说](https://bangumi.tv/subject/535633) | Long Story Shory | 10 | - | 0 |
 | 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/79/35/581521_Ctbbw.jpg) | [零帧出手](https://bangumi.tv/subject/581521) | FRAME : ZERO | 未知 | - | 0 |
-| 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/79/35/581521_Ctbbw.jpg) | [零帧出手](https://bangumi.tv/subject/581521) | FRAME : ZERO | 未知 | - | 0 |
+| 2025-08-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/79/35/581521_Ctbbw.jpg) | [零帧出手](https://bangumi.tv/subject/581521) | FRAME : ZERO | 未知 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 未知 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/pic/cover/c/61/4f/519958_7rT4r.jpg) | [为你着迷](https://bangumi.tv/subject/519958) | 夢中さ、きみに。 | 5 | - | 10 |
 | 2025-08-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/92/5d/579827_tiU9p.jpg) | [万古剑帝](https://bangumi.tv/subject/579827) |  | 未知 | - | 0 |
@@ -153,11 +154,13 @@
 | 2025-08-17 |  | [Women Wearing Shoulder Pads](https://bangumi.tv/subject/564362) |  | 未知 | - | 0 |
 | 2025-08-16 | ![](https://lain.bgm.tv/pic/cover/c/fb/49/535627_gWX9g.jpg) | [非人哉：限时玩家](https://bangumi.tv/subject/535627) |  | 1 | - | 0 |
 | 2025-08-15 | ![](https://lain.bgm.tv/pic/cover/c/06/8a/533246_20WBZ.jpg) | [ChaO](https://bangumi.tv/subject/533246) |  | 1 | - | 10 |
+| 2025-08-15 | ![](/img/no_icon_subject.png) | [姫の無垢穴は魔物ザーメン専用便器になりました モーションコミック版](https://bangumi.tv/subject/581866) |  | 1 | - | 10 |
 | 2025-08-14 | ![](https://lain.bgm.tv/pic/cover/c/cb/7c/456160_TPFlY.jpg) | [夜的命名术](https://bangumi.tv/subject/456160) |  | 12 | - | 0 |
 | 2025-08-13 | ![](https://lain.bgm.tv/pic/cover/c/81/eb/483866_v6FGV.jpg) | [阉割](https://bangumi.tv/subject/483866) | Fixed | 1 | - | 0 |
 | 2025-08-13 | ![](https://lain.bgm.tv/pic/cover/c/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 未知 | - | 0 |
 | 2025-08-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/48/574007_5SY55.jpg) | [香肠聚会：食托邦 第二季](https://bangumi.tv/subject/574007) | Sausage Party: Foodtopia Season 2 | 8 | - | 0 |
 | 2025-08-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/7e/577969_LF6mh.jpg) | [ヨルシカ - 修羅（OFFICIAL VIDEO）](https://bangumi.tv/subject/577969) |  | 1 | - | 0 |
+| 2025-08-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d5/e0/581930_r36J9.jpg) | [いもうと専用おにいちゃん2](https://bangumi.tv/subject/581930) |  | 1 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/pic/cover/c/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
 | 2025-08-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/a5/568090_e8WO8.jpg) | [钢铁侠和他超棒的朋友们](https://bangumi.tv/subject/568090) | Marvel's Iron Man and his Awesome Friends | 未知 | - | 0 |
 | 2025-08-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/d0/566169_8i0S2.jpg) | [地下城与电视](https://bangumi.tv/subject/566169) | ダンジョン＆テレビジョン | 未知 | - | 0 |
@@ -189,6 +192,7 @@
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/da/a3/573586_74QO6.jpg) | [向着星辰的长征](https://bangumi.tv/subject/573586) |  | 16 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/ad/83/576310_5m19t.jpg) | [ただいまを返す旅](https://bangumi.tv/subject/576310) |  | 未知 | - | 0 |
 | 2025-08-01 | ![](https://lain.bgm.tv/pic/cover/c/ad/83/576310_5m19t.jpg) | [ただいまを返す旅](https://bangumi.tv/subject/576310) |  | 1 | - | 0 |
+| 2025-08-01 | ![](/img/no_icon_subject.png) | [ある日、ネットで見つけたのはヤリサーに●●撮りされた彼女の動画だった。番外編 The Motion Anime](https://bangumi.tv/subject/581865) |  | 1 | - | 10 |
 | 2025-07-30 | ![](https://lain.bgm.tv/pic/cover/c/85/7a/449338_NQkl6.jpg) | [紫川 第二季](https://bangumi.tv/subject/449338) | 紫川 第2季 | 52 | - | 10 |
 | 2025-07-30 | ![](https://lain.bgm.tv/pic/cover/c/04/f8/574792_N1Vj9.jpg) | [スキスキDieスキ超Ayeシテル](https://bangumi.tv/subject/574792) |  | 1 | - | 10 |
 | 2025-07-29 | ![](https://lain.bgm.tv/pic/cover/c/f9/3a/456171_DllLV.jpg) | [开局地摊卖大力](https://bangumi.tv/subject/456171) | 开局地摊卖大力 | 24 | - | 0 |
