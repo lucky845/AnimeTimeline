@@ -152,6 +152,7 @@
 | 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/9a/580872_3VXv3.jpg) | [链锯人 总集篇](https://bangumi.tv/subject/580872) | チェンソーマン 総集篇 | 1 | - | 0 |
 | 2025-09-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a9/b9/481530_66tTh.jpg) | [宝可梦 礼宾部 新剧集](https://bangumi.tv/subject/481530) | ポケモンコンシェルジュ 新エピソード | 4 | - | 10 |
 | 2025-09-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/1f/580615_3ga17.jpg) | [あしたのありか](https://bangumi.tv/subject/580615) |  | 1 | - | 0 |
+| 2025-09-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/1f/580615_3ga17.jpg) | [明日之所在](https://bangumi.tv/subject/580615) | あしたのありか | 1 | - | 10 |
 | 2025-08-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/e7/581115_Cg30k.jpg) | [《绝区零》席德动画短片 | 爱，死亡与构造体](https://bangumi.tv/subject/581115) | 爱，死亡与构造体 | 1 | 0 |
 | 2025-08-29 | ![](https://lain.bgm.tv/pic/cover/c/c9/3f/533335_1bGGv.jpg) | [与爱丽丝梦游仙境 -Dive in Wonderland-](https://bangumi.tv/subject/533335) | 不思議の国でアリスと -Dive in Wonderland- | 1 | - | 10 |
 | 2025-08-29 | ![](/img/no_icon_subject.png) | [社畜灰姑娘](https://bangumi.tv/subject/560210) | 社畜シンデレラ | 2 | - | 0 |
