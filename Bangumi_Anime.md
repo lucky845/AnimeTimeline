@@ -146,6 +146,7 @@
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/6a/538402_U8F58.jpg) | [女同太空公主](https://bangumi.tv/subject/538402) | Lesbian Space Princess | 1 | - | 10 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 未知 | - | 0 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 未知 | - | 0 |
+| 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/63/583391_TtrTm.jpg) | [天命大神皇](https://bangumi.tv/subject/583391) |  | 40 | - | 0 |
 | 2025-09-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/27/16/559631_KQ4EQ.jpg) | [这个年纪还能当大侠吗 第二季](https://bangumi.tv/subject/559631) |  | 10 | - | 0 |
 | 2025-09-06 |  | [学校では教えてくれない大切なこと 時間の使い方編](https://bangumi.tv/subject/576265) |  | 未知 | - | 0 |
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1d/d4/578095_scTtJ.jpg) | [仙武传 第四季](https://bangumi.tv/subject/578095) |  | 52 | - | 0 |
