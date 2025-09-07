@@ -123,8 +123,10 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_yQhds.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
+| 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cd/f1/432932_tFsI8.jpg) | [谷围南亭](https://bangumi.tv/subject/432932) |  | 16 | - | 10 |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_yQhds.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c3/7b/434807_m43mx.jpg) | [魔法公主的小烦恼](https://bangumi.tv/subject/434807) | 魔法公主的小烦恼 | 16 | - | 0 |
+| 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/57/583581_q5lnj.jpg) | [辛普森一家 第37季](https://bangumi.tv/subject/583581) | The Simpsons Season 37 | 15 | - | 0 |
 | 2025-09-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_MzgJ9.jpg) | [猫眼三姐妹](https://bangumi.tv/subject/524986) | キャッツ♥アイ | 未知 | - | 10 |
 | 2025-09-26 | ![](/img/no_icon_subject.png) | [这是什～么？](https://bangumi.tv/subject/566129) | これってナ〜ニ？ | 1 | - | 0 |
 | 2025-09-26 | ![](/img/no_icon_subject.png) | [危险之森 捉鬼游戏](https://bangumi.tv/subject/566135) | 危険な森 おにごっこ | 2 | - | 0 |
@@ -145,12 +147,13 @@
 | 2025-09-12 | ![](/img/no_icon_subject.png) | [被寝取的巨乳人妻们](https://bangumi.tv/subject/562035) | 寝取られた爆乳妻たち | 2 | - | 10 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/6a/538402_U8F58.jpg) | [女同太空公主](https://bangumi.tv/subject/538402) | Lesbian Space Princess | 1 | - | 10 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 未知 | - | 0 |
-| 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 未知 | - | 0 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/63/583391_TtrTm.jpg) | [天命大神皇](https://bangumi.tv/subject/583391) |  | 40 | - | 0 |
+| 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 未知 | - | 0 |
 | 2025-09-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/27/16/559631_KQ4EQ.jpg) | [这个年纪还能当大侠吗 第二季](https://bangumi.tv/subject/559631) |  | 10 | - | 0 |
 | 2025-09-06 |  | [学校では教えてくれない大切なこと 時間の使い方編](https://bangumi.tv/subject/576265) |  | 未知 | - | 0 |
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1d/d4/578095_scTtJ.jpg) | [仙武传 第四季](https://bangumi.tv/subject/578095) |  | 52 | - | 0 |
 | 2025-09-06 |  | [学校では教えてくれない大切なこと 時間の使い方編](https://bangumi.tv/subject/576265) |  | 未知 | - | 0 |
+| 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/a0/583528_noq8o.jpg) | [碧蓝航线 8周年纪念动画PV](https://bangumi.tv/subject/583528) | アズールレーン 8周年記念アニメPV | 未知 | - | 0 |
 | 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/99/d9/556075_Rd05s.jpg) | [地球のラテール](https://bangumi.tv/subject/556075) |  | 5 | - | 0 |
 | 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/9a/580872_3VXv3.jpg) | [链锯人 总集篇](https://bangumi.tv/subject/580872) | チェンソーマン 総集篇 | 1 | - | 0 |
 | 2025-09-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a9/b9/481530_66tTh.jpg) | [宝可梦 礼宾部 新剧集](https://bangumi.tv/subject/481530) | ポケモンコンシェルジュ 新エピソード | 4 | - | 10 |
