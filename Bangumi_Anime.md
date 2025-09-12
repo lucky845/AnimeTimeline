@@ -143,6 +143,7 @@
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/6e/562654_2K102.jpg) | [Haunted Hotel](https://bangumi.tv/subject/562654) |  | 未知 | - | 0 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/fe/573700_2rtb7.jpg) | [阿兹特克蝙蝠侠：帝国冲突](https://bangumi.tv/subject/573700) | Aztec Batman: Clash of Empires | 1 | - | 0 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
+| 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
 | 2025-09-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/7b/583138_89e2Q.jpg) | [「エガクミライ」アニメーションMV](https://bangumi.tv/subject/583138) |  | 1 | - | 0 |
 | 2025-09-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/1f/572759_fE28X.jpg) | [飞出个未来 第13季(Hulu版)](https://bangumi.tv/subject/572759) | Futurama Season 13 on Hulu | 10 | - | 0 |
 | 2025-09-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/55/553872_65x69.jpg) | [剧场版 Idol光之美少女你与我♪ 久等了！为你献上闪耀舞台！](https://bangumi.tv/subject/553872) | 映画キミとアイドルプリキュア♪ お待たせ！キミに届けるキラッキライブ！ | 1 | - | 0 |
@@ -162,6 +163,7 @@
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/a0/583528_noq8o.jpg) | [碧蓝航线 8周年纪念动画PV](https://bangumi.tv/subject/583528) | アズールレーン 8周年記念アニメPV | 未知 | - | 10 |
 | 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/99/d9/556075_Rd05s.jpg) | [地球のラテール](https://bangumi.tv/subject/556075) |  | 5 | - | 0 |
 | 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/9a/580872_3VXv3.jpg) | [链锯人 总集篇](https://bangumi.tv/subject/580872) | チェンソーマン 総集篇 | 1 | - | 0 |
+| 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/9a/580872_3VXv3.jpg) | [链锯人 总集篇](https://bangumi.tv/subject/580872) | チェンソーマン 総集篇 | 2 | - | 17 |
 | 2025-09-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a9/b9/481530_66tTh.jpg) | [宝可梦 礼宾部 新剧集](https://bangumi.tv/subject/481530) | ポケモンコンシェルジュ 新エピソード | 4 | - | 10 |
 | 2025-09-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/1f/580615_3ga17.jpg) | [あしたのありか](https://bangumi.tv/subject/580615) |  | 1 | - | 0 |
 | 2025-09-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/1f/580615_3ga17.jpg) | [明日之所在](https://bangumi.tv/subject/580615) | あしたのありか | 1 | - | 10 |
