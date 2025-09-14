@@ -124,7 +124,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_yQhds.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cd/f1/432932_tFsI8.jpg) | [谷围南亭](https://bangumi.tv/subject/432932) |  | 16 | - | 10 |
-| 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_yQhds.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
+| 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_qaNA0.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c3/7b/434807_m43mx.jpg) | [魔法公主的小烦恼](https://bangumi.tv/subject/434807) | 魔法公主的小烦恼 | 16 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/57/583581_q5lnj.jpg) | [辛普森一家 第37季](https://bangumi.tv/subject/583581) | The Simpsons Season 37 | 15 | - | 0 |
 | 2025-09-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_MzgJ9.jpg) | [猫眼三姐妹](https://bangumi.tv/subject/524986) | キャッツ♥アイ | 未知 | - | 10 |
@@ -145,7 +145,10 @@
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
 | 2025-09-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/7b/583138_89e2Q.jpg) | [「エガクミライ」アニメーションMV](https://bangumi.tv/subject/583138) |  | 1 | - | 0 |
+| 2025-09-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/94/585007_e5mgR.jpg) | [荒古恩仇录ㆍ破风篇](https://bangumi.tv/subject/585007) |  | 40 | - | 0 |
 | 2025-09-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/1f/572759_fE28X.jpg) | [飞出个未来 第13季(Hulu版)](https://bangumi.tv/subject/572759) | Futurama Season 13 on Hulu | 10 | - | 0 |
+| 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/584882_623gz.jpg) | [绝世神皇](https://bangumi.tv/subject/584882) |  | 40 | - | 0 |
+| 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/de/585031_N892F.jpg) | [ReGLOSS 'アワータイムイエロー' OFFICIAL MV](https://bangumi.tv/subject/585031) |  | 未知 | - | 0 |
 | 2025-09-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/55/553872_65x69.jpg) | [剧场版 Idol光之美少女你与我♪ 久等了！为你献上闪耀舞台！](https://bangumi.tv/subject/553872) | 映画キミとアイドルプリキュア♪ お待たせ！キミに届けるキラッキライブ！ | 1 | - | 0 |
 | 2025-09-12 | ![](/img/no_icon_subject.png) | [被寝取的巨乳人妻们](https://bangumi.tv/subject/562035) | 寝取られた爆乳妻たち | 2 | - | 10 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/6a/538402_U8F58.jpg) | [女同太空公主](https://bangumi.tv/subject/538402) | Lesbian Space Princess | 1 | - | 10 |
