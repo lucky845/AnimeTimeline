@@ -149,6 +149,7 @@
 | 2025-09-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/1f/572759_fE28X.jpg) | [飞出个未来 第13季(Hulu版)](https://bangumi.tv/subject/572759) | Futurama Season 13 on Hulu | 10 | - | 0 |
 | 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/584882_623gz.jpg) | [绝世神皇](https://bangumi.tv/subject/584882) |  | 40 | - | 0 |
 | 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/de/585031_N892F.jpg) | [ReGLOSS 'アワータイムイエロー' OFFICIAL MV](https://bangumi.tv/subject/585031) |  | 未知 | - | 0 |
+| 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/de/585031_N892F.jpg) | [ReGLOSS 'アワータイムイエロー' OFFICIAL MV](https://bangumi.tv/subject/585031) |  | 未知 | - | 0 |
 | 2025-09-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/55/553872_65x69.jpg) | [剧场版 Idol光之美少女你与我♪ 久等了！为你献上闪耀舞台！](https://bangumi.tv/subject/553872) | 映画キミとアイドルプリキュア♪ お待たせ！キミに届けるキラッキライブ！ | 1 | - | 0 |
 | 2025-09-12 | ![](/img/no_icon_subject.png) | [被寝取的巨乳人妻们](https://bangumi.tv/subject/562035) | 寝取られた爆乳妻たち | 2 | - | 10 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/6a/538402_U8F58.jpg) | [女同太空公主](https://bangumi.tv/subject/538402) | Lesbian Space Princess | 1 | - | 10 |
