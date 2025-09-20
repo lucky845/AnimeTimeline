@@ -137,6 +137,7 @@
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永久的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b5/20/440660_3wy3r.jpg) | [漫威丧尸](https://bangumi.tv/subject/440660) | Marvel Zombies | 4 | - | 10 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
+| 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/ac/432776_K1M48.jpg) | [枕刀歌3：孤城闭雪](https://bangumi.tv/subject/432776) |  | 14 | - | 10 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/d8/470660_2JZaq.jpg) | [剧场版 链锯人 蕾塞篇](https://bangumi.tv/subject/470660) | 劇場版 チェンソーマン レゼ篇 | 1 | - | 11 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1a/31/496135_wVkYe.jpg) | [百米。](https://bangumi.tv/subject/496135) | ひゃくえむ。 | 1 | - | 10 |
