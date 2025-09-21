@@ -134,10 +134,12 @@
 | 2025-09-26 | ![](/img/no_icon_subject.png) | [姐妹调教饲育者](https://bangumi.tv/subject/575204) | シスターブリーダー | 2 | - | 0 |
 | 2025-09-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_MzgJ9.jpg) | [猫眼三姐妹](https://bangumi.tv/subject/524986) | キャッツ♥アイ | 12 | - | 10 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永久的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
+| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/34/434954_CD5s9.jpg) | [大唐乘风录](https://bangumi.tv/subject/434954) | 大唐乘风录 | 26 | - | 0 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永久的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b5/20/440660_3wy3r.jpg) | [漫威丧尸](https://bangumi.tv/subject/440660) | Marvel Zombies | 4 | - | 10 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
+| 2025-09-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/20/586878_qq3bG.jpg) | [桂妮维亚骑士团](https://bangumi.tv/subject/586878) | KNIGHTS OF GUINEVERE | 未知 | - | 0 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/ac/432776_K1M48.jpg) | [枕刀歌3：孤城闭雪](https://bangumi.tv/subject/432776) |  | 14 | - | 10 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/d8/470660_2JZaq.jpg) | [剧场版 链锯人 蕾塞篇](https://bangumi.tv/subject/470660) | 劇場版 チェンソーマン レゼ篇 | 1 | - | 11 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1a/31/496135_wVkYe.jpg) | [百米。](https://bangumi.tv/subject/496135) | ひゃくえむ。 | 1 | - | 10 |
@@ -157,7 +159,7 @@
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/6a/538402_U8F58.jpg) | [女同太空公主](https://bangumi.tv/subject/538402) | Lesbian Space Princess | 1 | - | 10 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 未知 | - | 0 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/63/583391_TtrTm.jpg) | [天命大神皇](https://bangumi.tv/subject/583391) |  | 40 | - | 0 |
-| 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 未知 | - | 10 |
+| 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 1 | - | 10 |
 | 2025-09-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/27/16/559631_KQ4EQ.jpg) | [这个年纪还能当大侠吗 第二季](https://bangumi.tv/subject/559631) |  | 10 | - | 0 |
 | 2025-09-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/bd/571909_u5BaU.jpg) | [宝可梦动画图鉴 第三季 嬉闹一夏](https://bangumi.tv/subject/571909) |  | 10 | - | 10 |
 | 2025-09-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/d6/583732_Kw870.jpg) | [【Animation Music Video】 夢限大みゅーたいぷ 「チューニング」](https://bangumi.tv/subject/583732) |  | 未知 | - | 10 |
