@@ -140,11 +140,12 @@
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/20/586878_qq3bG.jpg) | [桂妮维亚骑士团](https://bangumi.tv/subject/586878) | KNIGHTS OF GUINEVERE | 未知 | - | 0 |
+| 2025-09-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/20/586878_qq3bG.jpg) | [桂妮维亚骑士团](https://bangumi.tv/subject/586878) | KNIGHTS OF GUINEVERE | 未知 | - | 10 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/ac/432776_K1M48.jpg) | [枕刀歌3：孤城闭雪](https://bangumi.tv/subject/432776) |  | 14 | - | 10 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/d8/470660_2JZaq.jpg) | [剧场版 链锯人 蕾塞篇](https://bangumi.tv/subject/470660) | 劇場版 チェンソーマン レゼ篇 | 1 | - | 11 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1a/31/496135_wVkYe.jpg) | [百米。](https://bangumi.tv/subject/496135) | ひゃくえむ。 | 1 | - | 10 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/6e/562654_2K102.jpg) | [Haunted Hotel](https://bangumi.tv/subject/562654) |  | 未知 | - | 0 |
-| 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/6e/562654_2K102.jpg) | [Haunted Hotel](https://bangumi.tv/subject/562654) |  | 未知 | - | 0 |
+| 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/6e/562654_2K102.jpg) | [Haunted Hotel](https://bangumi.tv/subject/562654) |  | 未知 | - | 10 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/fe/573700_2rtb7.jpg) | [阿兹特克蝙蝠侠：帝国冲突](https://bangumi.tv/subject/573700) | Aztec Batman: Clash of Empires | 1 | - | 0 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
