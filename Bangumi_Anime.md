@@ -125,6 +125,7 @@
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_yQhds.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cd/f1/432932_tFsI8.jpg) | [谷围南亭](https://bangumi.tv/subject/432932) |  | 16 | - | 10 |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_qaNA0.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
+| 2025-09-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/11/463365_98AQ8.jpg) | [神在囧途](https://bangumi.tv/subject/463365) |  | 未知 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c3/7b/434807_m43mx.jpg) | [魔法公主的小烦恼](https://bangumi.tv/subject/434807) | 魔法公主的小烦恼 | 16 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/57/583581_q5lnj.jpg) | [辛普森一家 第37季](https://bangumi.tv/subject/583581) | The Simpsons Season 37 | 15 | - | 0 |
 | 2025-09-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_MzgJ9.jpg) | [猫眼三姐妹](https://bangumi.tv/subject/524986) | キャッツ♥アイ | 未知 | - | 10 |
@@ -135,7 +136,7 @@
 | 2025-09-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_MzgJ9.jpg) | [猫眼三姐妹](https://bangumi.tv/subject/524986) | キャッツ♥アイ | 12 | - | 10 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永久的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/34/434954_CD5s9.jpg) | [大唐乘风录](https://bangumi.tv/subject/434954) | 大唐乘风录 | 26 | - | 0 |
-| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永久的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
+| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永恒余晖](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b5/20/440660_3wy3r.jpg) | [漫威丧尸](https://bangumi.tv/subject/440660) | Marvel Zombies | 4 | - | 10 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
