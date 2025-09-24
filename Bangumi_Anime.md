@@ -126,8 +126,10 @@
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cd/f1/432932_tFsI8.jpg) | [谷围南亭](https://bangumi.tv/subject/432932) |  | 16 | - | 10 |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_qaNA0.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
 | 2025-09-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/11/463365_98AQ8.jpg) | [神在囧途](https://bangumi.tv/subject/463365) |  | 未知 | - | 0 |
+| 2025-09-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/11/463365_98AQ8.jpg) | [神在囧途](https://bangumi.tv/subject/463365) |  | 未知 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c3/7b/434807_m43mx.jpg) | [魔法公主的小烦恼](https://bangumi.tv/subject/434807) | 魔法公主的小烦恼 | 16 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/57/583581_q5lnj.jpg) | [辛普森一家 第37季](https://bangumi.tv/subject/583581) | The Simpsons Season 37 | 15 | - | 0 |
+| 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/75/507531_IMpAG.jpg) | [我在天庭收废品](https://bangumi.tv/subject/507531) |  | 未知 | - | 0 |
 | 2025-09-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_MzgJ9.jpg) | [猫眼三姐妹](https://bangumi.tv/subject/524986) | キャッツ♥アイ | 未知 | - | 10 |
 | 2025-09-26 | ![](/img/no_icon_subject.png) | [这是什～么？](https://bangumi.tv/subject/566129) | これってナ〜ニ？ | 1 | - | 0 |
 | 2025-09-26 | ![](/img/no_icon_subject.png) | [危险之森 捉鬼游戏](https://bangumi.tv/subject/566135) | 危険な森 おにごっこ | 2 | - | 0 |
@@ -137,7 +139,11 @@
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永久的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/34/434954_CD5s9.jpg) | [大唐乘风录](https://bangumi.tv/subject/434954) | 大唐乘风录 | 26 | - | 0 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永恒余晖](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
+| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永恒余晖](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b5/20/440660_3wy3r.jpg) | [漫威丧尸](https://bangumi.tv/subject/440660) | Marvel Zombies | 4 | - | 10 |
+| 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/8a/587896_vpLs7.jpg) | [《崩坏：星穹铁道》动画短片：「跋涉」](https://bangumi.tv/subject/587896) | 跋涉 | 未知 | - | 0 |
+| 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/5b/587666_6bvmo.jpg) | [如月而至金拱门，全新联动贺中秋](https://bangumi.tv/subject/587666) | 如月而至金拱门，全新联动贺中秋 | 未知 | - | 10 |
+| 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/91/7a/587845_158E8.jpg) | [咒术回战游戏 幻影夜行 咒狱岛篇OP影像Who-ya Extended 「Chained Chase」](https://bangumi.tv/subject/587845) | 【呪術廻戦 ファントムパレード】呪獄島編 OPムービー | Who-ya Extended「Chained Chase」 | 未知 | - | 0 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/20/586878_qq3bG.jpg) | [桂妮维亚骑士团](https://bangumi.tv/subject/586878) | KNIGHTS OF GUINEVERE | 未知 | - | 0 |
@@ -146,7 +152,7 @@
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/d8/470660_2JZaq.jpg) | [剧场版 链锯人 蕾塞篇](https://bangumi.tv/subject/470660) | 劇場版 チェンソーマン レゼ篇 | 1 | - | 11 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1a/31/496135_wVkYe.jpg) | [百米。](https://bangumi.tv/subject/496135) | ひゃくえむ。 | 1 | - | 10 |
 | 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/6e/562654_2K102.jpg) | [Haunted Hotel](https://bangumi.tv/subject/562654) |  | 未知 | - | 0 |
-| 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/6e/562654_2K102.jpg) | [Haunted Hotel](https://bangumi.tv/subject/562654) |  | 未知 | - | 10 |
+| 2025-09-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/6e/562654_ajvjO.jpg) | [闹鬼酒店](https://bangumi.tv/subject/562654) | Haunted Hotel | 10 | - | 10 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/fe/573700_2rtb7.jpg) | [阿兹特克蝙蝠侠：帝国冲突](https://bangumi.tv/subject/573700) | Aztec Batman: Clash of Empires | 1 | - | 0 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
 | 2025-09-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/63/21/584377_htHxQ.jpg) | [LA PANTHÈRE DE CARTIER](https://bangumi.tv/subject/584377) |  | 未知 | - | 0 |
