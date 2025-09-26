@@ -125,6 +125,7 @@
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_yQhds.jpg) | [矢野同学观察日记](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cd/f1/432932_tFsI8.jpg) | [谷围南亭](https://bangumi.tv/subject/432932) |  | 16 | - | 10 |
 | 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_qaNA0.jpg) | [矢野同学的普通日常](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
+| 2025-09-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/67/4e/502408_qaNA0.jpg) | [矢野同学的普通日常](https://bangumi.tv/subject/502408) | 矢野くんの普通の日々 | 未知 | - | 10 |
 | 2025-09-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/11/463365_98AQ8.jpg) | [神在囧途](https://bangumi.tv/subject/463365) |  | 未知 | - | 0 |
 | 2025-09-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/11/463365_98AQ8.jpg) | [神在囧途](https://bangumi.tv/subject/463365) |  | 未知 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c3/7b/434807_m43mx.jpg) | [魔法公主的小烦恼](https://bangumi.tv/subject/434807) | 魔法公主的小烦恼 | 16 | - | 0 |
@@ -140,14 +141,16 @@
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永久的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/34/434954_CD5s9.jpg) | [大唐乘风录](https://bangumi.tv/subject/434954) | 大唐乘风录 | 26 | - | 0 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永恒余晖](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
-| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_e66FB.jpg) | [永恒余晖](https://bangumi.tv/subject/566600) | 永久のユウグレ | 未知 | - | 10 |
 | 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/fc/588231_c963M.jpg) | [「LIMIT ZERO BREAKERS」世界観PV世界は救わない。自らを救う物語。(Full ver.)](https://bangumi.tv/subject/588231) |  | 未知 | - | 0 |
+| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/27/566600_cQ0oQ.jpg) | [永远的黄昏](https://bangumi.tv/subject/566600) | 永久のユウグレ | 13 | - | 64 |
+| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/fc/588231_c963M.jpg) | [「LIMIT ZERO BREAKERS」世界観PV世界は救わない。自らを救う物語。(Full ver.)](https://bangumi.tv/subject/588231) |  | 未知 | - | 10 |
+| 2025-09-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ee/9d/588555_xjJSf.jpg) | [独立日记](https://bangumi.tv/subject/588555) | 독립일기 | 未知 | - | 0 |
 | 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b5/20/440660_3wy3r.jpg) | [漫威丧尸](https://bangumi.tv/subject/440660) | Marvel Zombies | 4 | - | 10 |
 | 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/8a/587896_vpLs7.jpg) | [《崩坏：星穹铁道》动画短片：「跋涉」](https://bangumi.tv/subject/587896) | 跋涉 | 未知 | - | 0 |
 | 2025-09-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/8a/587896_vpLs7.jpg) | [《崩坏：星穹铁道》动画短片：「跋涉」](https://bangumi.tv/subject/587896) | 跋涉 | 未知 | - | 10 |
 | 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/5b/587666_6bvmo.jpg) | [如月而至金拱门，全新联动贺中秋](https://bangumi.tv/subject/587666) | 如月而至金拱门，全新联动贺中秋 | 未知 | - | 10 |
 | 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/91/7a/587845_158E8.jpg) | [咒术回战游戏 幻影夜行 咒狱岛篇OP影像Who-ya Extended 「Chained Chase」](https://bangumi.tv/subject/587845) | 【呪術廻戦 ファントムパレード】呪獄島編 OPムービー | Who-ya Extended「Chained Chase」 | 未知 | 0 |
-| 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/5b/587666_6bvmo.jpg) | [如月而至金拱门，全新联动贺中秋](https://bangumi.tv/subject/587666) | 如月而至金拱门，全新联动贺中秋 | 未知 | - | 10 |
+| 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/5b/587666_6bvmo.jpg) | [如月而至金拱门](https://bangumi.tv/subject/587666) | 如月而至金拱门 | 未知 | - | 10 |
 | 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/91/7a/587845_158E8.jpg) | [咒术回战游戏 幻影夜行 咒狱岛篇OP影像Who-ya Extended 「Chained Chase」](https://bangumi.tv/subject/587845) | 【呪術廻戦 ファントムパレード】呪獄島編 OPムービー | Who-ya Extended「Chained Chase」 | 未知 | - | 10 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
@@ -166,7 +169,7 @@
 | 2025-09-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/1f/572759_fE28X.jpg) | [飞出个未来 第13季(Hulu版)](https://bangumi.tv/subject/572759) | Futurama Season 13 on Hulu | 10 | - | 0 |
 | 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/584882_623gz.jpg) | [绝世神皇](https://bangumi.tv/subject/584882) |  | 40 | - | 0 |
 | 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/de/585031_N892F.jpg) | [ReGLOSS 'アワータイムイエロー' OFFICIAL MV](https://bangumi.tv/subject/585031) |  | 未知 | - | 0 |
-| 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/de/585031_N892F.jpg) | [ReGLOSS 'アワータイムイエロー' OFFICIAL MV](https://bangumi.tv/subject/585031) |  | 未知 | - | 0 |
+| 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/de/585031_N892F.jpg) | [ReGLOSS 'アワータイムイエロー' OFFICIAL MV](https://bangumi.tv/subject/585031) |  | 未知 | - | 10 |
 | 2025-09-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/55/553872_65x69.jpg) | [剧场版 Idol光之美少女你与我♪ 久等了！为你献上闪耀舞台！](https://bangumi.tv/subject/553872) | 映画キミとアイドルプリキュア♪ お待たせ！キミに届けるキラッキライブ！ | 1 | - | 0 |
 | 2025-09-12 | ![](/img/no_icon_subject.png) | [被寝取的巨乳人妻们](https://bangumi.tv/subject/562035) | 寝取られた爆乳妻たち | 2 | - | 10 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/6a/538402_U8F58.jpg) | [女同太空公主](https://bangumi.tv/subject/538402) | Lesbian Space Princess | 1 | - | 10 |
