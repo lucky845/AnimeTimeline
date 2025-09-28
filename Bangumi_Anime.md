@@ -132,6 +132,7 @@
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/57/583581_q5lnj.jpg) | [辛普森一家 第37季](https://bangumi.tv/subject/583581) | The Simpsons Season 37 | 15 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/75/507531_IMpAG.jpg) | [我在天庭收废品](https://bangumi.tv/subject/507531) |  | 未知 | - | 0 |
 | 2025-09-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/75/507531_IMpAG.jpg) | [我在天庭收废品](https://bangumi.tv/subject/507531) |  | 未知 | - | 0 |
+| 2025-09-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/df/7a/561670_q0Sl1.jpg) | [王者荣耀：荣耀之章 命运篇 特别篇章](https://bangumi.tv/subject/561670) |  | 1 | - | 10 |
 | 2025-09-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_MzgJ9.jpg) | [猫眼三姐妹](https://bangumi.tv/subject/524986) | キャッツ♥アイ | 未知 | - | 10 |
 | 2025-09-26 | ![](/img/no_icon_subject.png) | [这是什～么？](https://bangumi.tv/subject/566129) | これってナ〜ニ？ | 1 | - | 0 |
 | 2025-09-26 | ![](/img/no_icon_subject.png) | [危险之森 捉鬼游戏](https://bangumi.tv/subject/566135) | 危険な森 おにごっこ | 2 | - | 0 |
@@ -169,6 +170,7 @@
 | 2025-09-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/7b/583138_89e2Q.jpg) | [「エガクミライ」アニメーションMV](https://bangumi.tv/subject/583138) |  | 1 | - | 0 |
 | 2025-09-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/94/585007_e5mgR.jpg) | [荒古恩仇录ㆍ破风篇](https://bangumi.tv/subject/585007) |  | 40 | - | 0 |
 | 2025-09-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/af/588877_k5q3I.jpg) | [ソウルワーカー、闇落ち](https://bangumi.tv/subject/588877) |  | 未知 | - | 0 |
+| 2025-09-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/af/588877_k5q3I.jpg) | [ソウルワーカー、闇落ち](https://bangumi.tv/subject/588877) |  | 未知 | - | 0 |
 | 2025-09-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/1f/572759_fE28X.jpg) | [飞出个未来 第13季(Hulu版)](https://bangumi.tv/subject/572759) | Futurama Season 13 on Hulu | 10 | - | 0 |
 | 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/584882_623gz.jpg) | [绝世神皇](https://bangumi.tv/subject/584882) |  | 40 | - | 0 |
 | 2025-09-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/de/585031_N892F.jpg) | [ReGLOSS 'アワータイムイエロー' OFFICIAL MV](https://bangumi.tv/subject/585031) |  | 未知 | - | 0 |
@@ -180,6 +182,7 @@
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/63/583391_TtrTm.jpg) | [天命大神皇](https://bangumi.tv/subject/583391) |  | 40 | - | 0 |
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 1 | - | 10 |
 | 2025-09-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/27/16/559631_KQ4EQ.jpg) | [这个年纪还能当大侠吗 第二季](https://bangumi.tv/subject/559631) |  | 10 | - | 0 |
+| 2025-09-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/16/588875_G66DJ.jpg) | [内気な少女の放課後セイカツ](https://bangumi.tv/subject/588875) |  | 未知 | - | 0 |
 | 2025-09-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/16/588875_G66DJ.jpg) | [内気な少女の放課後セイカツ](https://bangumi.tv/subject/588875) |  | 未知 | - | 0 |
 | 2025-09-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/bd/571909_u5BaU.jpg) | [宝可梦动画图鉴 第三季 嬉闹一夏](https://bangumi.tv/subject/571909) |  | 10 | - | 10 |
 | 2025-09-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/d6/583732_Kw870.jpg) | [【Animation Music Video】 夢限大みゅーたいぷ 「チューニング」](https://bangumi.tv/subject/583732) |  | 未知 | - | 10 |
