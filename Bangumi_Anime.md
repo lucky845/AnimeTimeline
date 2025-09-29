@@ -154,7 +154,6 @@
 | 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/91/7a/587845_158E8.jpg) | [咒术回战游戏 幻影夜行 咒狱岛篇OP影像Who-ya Extended 「Chained Chase」](https://bangumi.tv/subject/587845) | 【呪術廻戦 ファントムパレード】呪獄島編 OPムービー | Who-ya Extended「Chained Chase」 | 未知 | 0 |
 | 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/5b/587666_6bvmo.jpg) | [如月而至金拱门](https://bangumi.tv/subject/587666) | 如月而至金拱门 | 未知 | - | 10 |
 | 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/5b/587666_6bvmo.jpg) | [如月而至金拱门](https://bangumi.tv/subject/587666) | 如月而至金拱门 | 未知 | - | 10 |
-| 2025-09-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/91/7a/587845_158E8.jpg) | [咒术回战游戏 幻影夜行 咒狱岛篇OP影像Who-ya Extended 「Chained Chase」](https://bangumi.tv/subject/587845) | 【呪術廻戦 ファントムパレード】呪獄島編 OPムービー | Who-ya Extended「Chained Chase」 | 未知 | - | 10 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/ce/586028_KQOrU.jpg) | [武魂大陆](https://bangumi.tv/subject/586028) |  | 未知 | - | 0 |
 | 2025-09-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/20/586878_qq3bG.jpg) | [桂妮维亚骑士团](https://bangumi.tv/subject/586878) | KNIGHTS OF GUINEVERE | 未知 | - | 0 |
@@ -183,14 +182,14 @@
 | 2025-09-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/36/576283_5z065.jpg) | [小魔女DoReMi嘉年华!! 悠闲之旅篇](https://bangumi.tv/subject/576283) | おジャ魔女カーニバル‼︎ ゆる旅篇 | 1 | - | 10 |
 | 2025-09-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/27/16/559631_KQ4EQ.jpg) | [这个年纪还能当大侠吗 第二季](https://bangumi.tv/subject/559631) |  | 10 | - | 0 |
 | 2025-09-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/16/588875_G66DJ.jpg) | [内気な少女の放課後セイカツ](https://bangumi.tv/subject/588875) |  | 未知 | - | 0 |
-| 2025-09-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/16/588875_G66DJ.jpg) | [内気な少女の放課後セイカツ](https://bangumi.tv/subject/588875) |  | 未知 | - | 0 |
+| 2025-09-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/16/588875_G66DJ.jpg) | [内気な少女の放課後セイカツ](https://bangumi.tv/subject/588875) |  | 未知 | - | 10 |
 | 2025-09-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/bd/571909_u5BaU.jpg) | [宝可梦动画图鉴 第三季 嬉闹一夏](https://bangumi.tv/subject/571909) |  | 10 | - | 10 |
 | 2025-09-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/d6/583732_Kw870.jpg) | [【Animation Music Video】 夢限大みゅーたいぷ 「チューニング」](https://bangumi.tv/subject/583732) |  | 未知 | - | 10 |
 | 2025-09-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/d6/583732_Kw870.jpg) | [【Animation Music Video】 夢限大みゅーたいぷ 「チューニング」](https://bangumi.tv/subject/583732) |  | 未知 | - | 10 |
 | 2025-09-06 |  | [学校では教えてくれない大切なこと 時間の使い方編](https://bangumi.tv/subject/576265) |  | 未知 | - | 0 |
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1d/d4/578095_scTtJ.jpg) | [仙武传 第四季](https://bangumi.tv/subject/578095) |  | 52 | - | 0 |
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/a0/583528_noq8o.jpg) | [碧蓝航线 8周年纪念动画PV](https://bangumi.tv/subject/583528) | アズールレーン 8周年記念アニメPV | 未知 | - | 0 |
-| 2025-09-06 |  | [学校では教えてくれない大切なこと 時間の使い方編](https://bangumi.tv/subject/576265) |  | 未知 | - | 0 |
+| 2025-09-06 |  | [学校では教えてくれない大切なこと 時間の使い方編](https://bangumi.tv/subject/576265) |  | 未知 | - | 10 |
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/a0/583528_noq8o.jpg) | [碧蓝航线 8周年纪念动画PV](https://bangumi.tv/subject/583528) | アズールレーン 8周年記念アニメPV | 未知 | - | 10 |
 | 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/99/d9/556075_Rd05s.jpg) | [地球のラテール](https://bangumi.tv/subject/556075) |  | 5 | - | 0 |
 | 2025-09-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/9a/580872_3VXv3.jpg) | [链锯人 总集篇](https://bangumi.tv/subject/580872) | チェンソーマン 総集篇 | 1 | - | 0 |
