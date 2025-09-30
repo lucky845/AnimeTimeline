@@ -185,7 +185,7 @@
 | 2025-09-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/16/588875_G66DJ.jpg) | [内気な少女の放課後セイカツ](https://bangumi.tv/subject/588875) |  | 未知 | - | 10 |
 | 2025-09-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/bd/571909_u5BaU.jpg) | [宝可梦动画图鉴 第三季 嬉闹一夏](https://bangumi.tv/subject/571909) |  | 10 | - | 10 |
 | 2025-09-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/d6/583732_Kw870.jpg) | [【Animation Music Video】 夢限大みゅーたいぷ 「チューニング」](https://bangumi.tv/subject/583732) |  | 未知 | - | 10 |
-| 2025-09-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/d6/583732_Kw870.jpg) | [【Animation Music Video】 夢限大みゅーたいぷ 「チューニング」](https://bangumi.tv/subject/583732) |  | 未知 | - | 10 |
+| 2025-09-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/d6/583732_Kw870.jpg) | [【Animation Music Video】 夢限大みゅーたいぷ 「チューニング」](https://bangumi.tv/subject/583732) |  | 未知 | - | 11 |
 | 2025-09-06 |  | [学校では教えてくれない大切なこと 時間の使い方編](https://bangumi.tv/subject/576265) |  | 未知 | - | 0 |
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1d/d4/578095_scTtJ.jpg) | [仙武传 第四季](https://bangumi.tv/subject/578095) |  | 52 | - | 0 |
 | 2025-09-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/a0/583528_noq8o.jpg) | [碧蓝航线 8周年纪念动画PV](https://bangumi.tv/subject/583528) | アズールレーン 8周年記念アニメPV | 未知 | - | 0 |
