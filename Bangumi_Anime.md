@@ -130,10 +130,15 @@
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/81/478620_ZnRGP.jpg) | [我家妹妹是狗狗](https://bangumi.tv/subject/478620) | 마루는 강쥐 | 未知 | - | 0 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/47/d1/530158_PB8Op.jpg) | [无尽的斯嘉丽](https://bangumi.tv/subject/530158) | 果てしなきスカーレット | 未知 | - | 10 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg) | [我们不可能成为恋人！绝对不行。 (※似乎可行？) 续篇](https://bangumi.tv/subject/587454) | わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 | 5 | - | 10 |
+| 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/81/478620_ZnRGP.jpg) | [我家妹妹是狗狗](https://bangumi.tv/subject/478620) | 마루는 강쥐 | 未知 | - | 0 |
+| 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/47/d1/530158_PB8Op.jpg) | [无尽的斯嘉丽](https://bangumi.tv/subject/530158) | 果てしなきスカーレット | 未知 | - | 10 |
+| 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_dgkm9.jpg) | [武动乾坤 第六季](https://bangumi.tv/subject/535075) |  | 未知 | - | 10 |
+| 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/cf/512793_PrzXC.jpg) | [剧场版总集篇 GIRLS BAND CRY 呐、未来。](https://bangumi.tv/subject/512793) | 劇場版総集編 ガールズバンドクライ なぁ、未来。 | 1 | - | 10 |
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/b6/564802_hhOoG.jpg) | [白日梦奇遇记](https://bangumi.tv/subject/564802) | In Your Dreams | 未知 | - | 0 |
 | 2025-11-14 | ![](/img/no_icon_subject.png) | [牝を狩る村](https://bangumi.tv/subject/584818) |  | 2 | - | 0 |
+| 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/b6/564802_hhOoG.jpg) | [白日梦奇遇记](https://bangumi.tv/subject/564802) | In Your Dreams | 未知 | - | 0 |
 | 2025-11-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/65/20/569611_82004.jpg) | [BLUE GALE XABUNGLE SIDE R](https://bangumi.tv/subject/569611) |  | 1 | - | 0 |
 | 2025-11-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/bb/473671_P85Qj.jpg) | [为喵人生](https://bangumi.tv/subject/473671) | 为喵人生 | 18 | - | 0 |
 | 2025-11-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/84/3d/601743_PbmF4.jpg) | [소맥거핀: 찰칵! 세계여행](https://bangumi.tv/subject/601743) |  | 13 | - | 0 |
@@ -142,9 +147,11 @@
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2f/bb/442615_0UkE1.jpg) | [电影 Love Live! 虹咲学园校园偶像同好会 完结篇 第2章](https://bangumi.tv/subject/442615) | 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章 | 1 | - | 10 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [トリツカレ男](https://bangumi.tv/subject/559815) |  | 1 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
+| 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
 | 2025-11-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/0c/345792_rIGoA.jpg) | [深潜 强制倒带](https://bangumi.tv/subject/345792) | 深潜 强制倒带 | 8 | - | 0 |
 | 2025-11-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1c/345759_Lrqh7.jpg) | [孤雄](https://bangumi.tv/subject/345759) | 孤雄 | 9 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/46/565367_21D1j.jpg) | [疯狂动物城：动物城日与夜](https://bangumi.tv/subject/565367) |  | 4 | - | 0 |
+| 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/80/592949_DoP0p.jpg) | [Bat-Fam](https://bangumi.tv/subject/592949) |  | 未知 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/80/592949_DoP0p.jpg) | [Bat-Fam](https://bangumi.tv/subject/592949) |  | 未知 | - | 0 |
 | 2025-10-31 | ![](https://lain.bgm.tv/r/400/pic/cover/l/84/47/453311_oiEji.jpg) | [曾经有勇士](https://bangumi.tv/subject/453311) | 曾经有勇士 | 12 | - | 0 |
 | 2025-10-31 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cc/3d/464293_v6oL6.jpg) | [机动战士高达 铁血的奥尔芬斯 Urdr-Hunt -小小挑战者的轨迹-](https://bangumi.tv/subject/464293) | 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡- | 未知 | - | 10 |
