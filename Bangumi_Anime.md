@@ -132,6 +132,8 @@
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg) | [我们不可能成为恋人！绝对不行。 (※似乎可行？) 续篇](https://bangumi.tv/subject/587454) | わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 | 5 | - | 10 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/81/478620_ZnRGP.jpg) | [我家妹妹是狗狗](https://bangumi.tv/subject/478620) | 마루는 강쥐 | 未知 | - | 0 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/47/d1/530158_PB8Op.jpg) | [无尽的斯嘉丽](https://bangumi.tv/subject/530158) | 果てしなきスカーレット | 未知 | - | 10 |
+| 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg) | [我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜](https://bangumi.tv/subject/587454) | わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 | 5 | - | 10 |
+| 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_dgkm9.jpg) | [武动乾坤 第六季](https://bangumi.tv/subject/535075) |  | 未知 | - | 10 |
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_dgkm9.jpg) | [武动乾坤 第六季](https://bangumi.tv/subject/535075) |  | 未知 | - | 10 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
@@ -147,6 +149,7 @@
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2f/bb/442615_0UkE1.jpg) | [电影 Love Live! 虹咲学园校园偶像同好会 完结篇 第2章](https://bangumi.tv/subject/442615) | 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章 | 1 | - | 10 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [トリツカレ男](https://bangumi.tv/subject/559815) |  | 1 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
+| 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [着迷男](https://bangumi.tv/subject/559815) | トリツカレ男 | 1 | - | 10 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
 | 2025-11-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/0c/345792_rIGoA.jpg) | [深潜 强制倒带](https://bangumi.tv/subject/345792) | 深潜 强制倒带 | 8 | - | 0 |
 | 2025-11-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1c/345759_Lrqh7.jpg) | [孤雄](https://bangumi.tv/subject/345759) | 孤雄 | 9 | - | 0 |
