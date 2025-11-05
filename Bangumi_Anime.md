@@ -152,6 +152,7 @@
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [着迷男](https://bangumi.tv/subject/559815) | トリツカレ男 | 1 | - | 10 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 未知 | - | 0 |
+| 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 未知 | - | 0 |
 | 2025-11-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/0c/345792_rIGoA.jpg) | [深潜 强制倒带](https://bangumi.tv/subject/345792) | 深潜 强制倒带 | 8 | - | 0 |
 | 2025-11-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1c/345759_Lrqh7.jpg) | [孤雄](https://bangumi.tv/subject/345759) | 孤雄 | 9 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/46/565367_21D1j.jpg) | [疯狂动物城：动物城日与夜](https://bangumi.tv/subject/565367) |  | 4 | - | 0 |
