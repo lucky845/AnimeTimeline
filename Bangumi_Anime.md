@@ -155,6 +155,7 @@
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 9 | - | 0 |
 | 2025-11-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/0c/345792_rIGoA.jpg) | [深潜 强制倒带](https://bangumi.tv/subject/345792) | 深潜 强制倒带 | 8 | - | 0 |
 | 2025-11-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1c/345759_Lrqh7.jpg) | [孤雄](https://bangumi.tv/subject/345759) | 孤雄 | 9 | - | 0 |
+| 2025-11-01 |  | [全能高手](https://bangumi.tv/subject/605854) | 全能高手 | 20 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/46/565367_21D1j.jpg) | [疯狂动物城：动物城日与夜](https://bangumi.tv/subject/565367) |  | 4 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/80/592949_DoP0p.jpg) | [Bat-Fam](https://bangumi.tv/subject/592949) |  | 未知 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/80/592949_DoP0p.jpg) | [Bat-Fam](https://bangumi.tv/subject/592949) |  | 未知 | - | 0 |
