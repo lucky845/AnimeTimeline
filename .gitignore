@@ -1,3 +1,6 @@
 .venv
 .vscode
 .idea
+
+# macos
+.DS_Store
