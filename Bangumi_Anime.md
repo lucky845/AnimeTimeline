@@ -139,11 +139,13 @@
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_4mK9k.jpg) | [武动乾坤 第六季](https://bangumi.tv/subject/535075) |  | 未知 | - | 10 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
+| 2025-11-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/a3/608751_xoh7H.jpg) | [斩仇](https://bangumi.tv/subject/608751) | La Lupa | 1 | - | 0 |
 | 2025-11-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/3c/607976_rzH5h.jpg) | [無敵☆本気だサバイバー](https://bangumi.tv/subject/607976) |  | 1 | - | 0 |
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/cf/512793_PrzXC.jpg) | [剧场版总集篇 GIRLS BAND CRY 呐、未来。](https://bangumi.tv/subject/512793) | 劇場版総集編 ガールズバンドクライ なぁ、未来。 | 1 | - | 10 |
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/b6/564802_hhOoG.jpg) | [白日梦奇遇记](https://bangumi.tv/subject/564802) | In Your Dreams | 未知 | - | 0 |
 | 2025-11-14 | ![](/img/no_icon_subject.png) | [牝を狩る村](https://bangumi.tv/subject/584818) |  | 2 | - | 0 |
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/b6/564802_hhOoG.jpg) | [白日梦奇遇记](https://bangumi.tv/subject/564802) | In Your Dreams | 未知 | - | 0 |
+| 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/9d/608612_7SpHS.jpg) | [乐高漫威复仇者联盟：奇异故事](https://bangumi.tv/subject/608612) | LEGO Marvel Avengers: Strange Tails | 2 | - | 0 |
 | 2025-11-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/65/20/569611_82004.jpg) | [BLUE GALE XABUNGLE SIDE R](https://bangumi.tv/subject/569611) |  | 1 | - | 0 |
 | 2025-11-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/bb/473671_P85Qj.jpg) | [为喵人生](https://bangumi.tv/subject/473671) | 为喵人生 | 18 | - | 0 |
 | 2025-11-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/84/3d/601743_PbmF4.jpg) | [소맥거핀: 찰칵! 세계여행](https://bangumi.tv/subject/601743) |  | 13 | - | 0 |
