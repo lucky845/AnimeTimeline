@@ -130,6 +130,7 @@
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_t1O9A.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 0 |
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_TwN4O.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 0 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
+| 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/be/609741_037Z4.jpg) | [バトルヒロインの日常～愛天使世紀ウェディングアップル～](https://bangumi.tv/subject/609741) |  | 未知 | - | 0 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/be/609741_037Z4.jpg) | [バトルヒロインの日常～愛天使世紀ウェディングアップル～](https://bangumi.tv/subject/609741) |  | 未知 | - | 0 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/81/478620_ZnRGP.jpg) | [我家妹妹是狗狗](https://bangumi.tv/subject/478620) | 마루는 강쥐 | 未知 | - | 0 |
@@ -138,6 +139,7 @@
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg) | [我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜](https://bangumi.tv/subject/587454) | わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 | 5 | - | 10 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/47/d1/530158_PB8Op.jpg) | [无尽的斯嘉丽](https://bangumi.tv/subject/530158) | 果てしなきスカーレット | 1 | - | 10 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/81/478620_ZnRGP.jpg) | [我家妹妹是狗狗](https://bangumi.tv/subject/478620) | 마루는 강쥐 | 未知 | - | 0 |
+| 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/87/609915_L8v34.jpg) | [Tokyo Nightscape](https://bangumi.tv/subject/609915) |  | 1 | - | 10 |
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_dgkm9.jpg) | [武动乾坤 第六季](https://bangumi.tv/subject/535075) |  | 未知 | - | 10 |
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_4mK9k.jpg) | [武动乾坤 第6季](https://bangumi.tv/subject/535075) | 武动乾坤 第六季 | 12 | - | 10 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
