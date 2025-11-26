@@ -130,6 +130,7 @@
 | 2025-11-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/90/497973_FeE1e.jpg) | [玄界之门](https://bangumi.tv/subject/497973) | 玄界之门 | 26 | - | 10 |
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_t1O9A.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 0 |
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_TwN4O.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 10 |
+| 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e3/26/610735_2Vd2d.jpg) | [Path of Progress](https://bangumi.tv/subject/610735) |  | 1 | - | 10 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/be/609741_037Z4.jpg) | [バトルヒロインの日常～愛天使世紀ウェディングアップル～](https://bangumi.tv/subject/609741) |  | 未知 | - | 0 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
@@ -161,7 +162,7 @@
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [トリツカレ男](https://bangumi.tv/subject/559815) |  | 1 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [着迷男](https://bangumi.tv/subject/559815) | トリツカレ男 | 1 | - | 10 |
-| 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 11 |
+| 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 12 |
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 未知 | - | 0 |
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 9 | - | 0 |
 | 2025-11-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/0c/345792_rIGoA.jpg) | [深潜 强制倒带](https://bangumi.tv/subject/345792) | 深潜 强制倒带 | 8 | - | 0 |
