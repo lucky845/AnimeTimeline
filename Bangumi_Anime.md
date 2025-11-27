@@ -126,11 +126,13 @@
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ドＳなペット](https://bangumi.tv/subject/580732) |  | 1 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [强势逆推！爆乳辣妹深吻援交！](https://bangumi.tv/subject/593830) | おしかけ！爆乳ギャルハーレム性活 | 2 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ドＳなペット](https://bangumi.tv/subject/580732) |  | 2 | - | 0 |
+| 2025-11-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/d4/605445_PkzaJ.jpg) | [1分钟动画剧场第三季](https://bangumi.tv/subject/605445) |  | 未知 | - | 0 |
 | 2025-11-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/7c/419613_gqsTg.jpg) | [疯狂动物城2](https://bangumi.tv/subject/419613) | Zootopia 2 | 1 | - | 10 |
 | 2025-11-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/90/497973_FeE1e.jpg) | [玄界之门](https://bangumi.tv/subject/497973) | 玄界之门 | 26 | - | 10 |
+| 2025-11-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/72/b0/611042_UHlZV.jpg) | [まだ見ぬ明日](https://bangumi.tv/subject/611042) |  | 1 | - | 0 |
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_t1O9A.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 0 |
-| 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_TwN4O.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 10 |
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e3/26/610735_2Vd2d.jpg) | [Path of Progress](https://bangumi.tv/subject/610735) |  | 1 | - | 10 |
+| 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_TwN4O.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 10 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/be/609741_037Z4.jpg) | [バトルヒロインの日常～愛天使世紀ウェディングアップル～](https://bangumi.tv/subject/609741) |  | 未知 | - | 0 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
