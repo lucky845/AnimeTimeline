@@ -127,6 +127,7 @@
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [强势逆推！爆乳辣妹深吻援交！](https://bangumi.tv/subject/593830) | おしかけ！爆乳ギャルハーレム性活 | 2 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ドＳなペット](https://bangumi.tv/subject/580732) |  | 2 | - | 0 |
 | 2025-11-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/d4/605445_PkzaJ.jpg) | [1分钟动画剧场第三季](https://bangumi.tv/subject/605445) |  | 未知 | - | 0 |
+| 2025-11-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/d4/605445_J6qP6.jpg) | [1分钟动画剧场第三季](https://bangumi.tv/subject/605445) |  | 未知 | - | 0 |
 | 2025-11-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/7c/419613_gqsTg.jpg) | [疯狂动物城2](https://bangumi.tv/subject/419613) | Zootopia 2 | 1 | - | 10 |
 | 2025-11-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/90/497973_FeE1e.jpg) | [玄界之门](https://bangumi.tv/subject/497973) | 玄界之门 | 26 | - | 10 |
 | 2025-11-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/72/b0/611042_UHlZV.jpg) | [まだ見ぬ明日](https://bangumi.tv/subject/611042) |  | 1 | - | 0 |
@@ -147,7 +148,7 @@
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_dgkm9.jpg) | [武动乾坤 第六季](https://bangumi.tv/subject/535075) |  | 未知 | - | 10 |
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_4mK9k.jpg) | [武动乾坤 第6季](https://bangumi.tv/subject/535075) | 武动乾坤 第六季 | 12 | - | 10 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
-| 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 10 |
+| 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [强大九人](https://bangumi.tv/subject/573709) | The Mighty Nein | 8 | - | 10 |
 | 2025-11-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/a3/608751_xoh7H.jpg) | [斩仇](https://bangumi.tv/subject/608751) | La Lupa | 1 | - | 0 |
 | 2025-11-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/3c/607976_rzH5h.jpg) | [無敵☆本気だサバイバー](https://bangumi.tv/subject/607976) |  | 1 | - | 0 |
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/cf/512793_PrzXC.jpg) | [剧场版总集篇 GIRLS BAND CRY 呐、未来。](https://bangumi.tv/subject/512793) | 劇場版総集編 ガールズバンドクライ なぁ、未来。 | 1 | - | 10 |
@@ -164,7 +165,7 @@
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [トリツカレ男](https://bangumi.tv/subject/559815) |  | 1 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [着迷男](https://bangumi.tv/subject/559815) | トリツカレ男 | 1 | - | 10 |
-| 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 12 |
+| 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 13 |
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 未知 | - | 0 |
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 9 | - | 0 |
 | 2025-11-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/0c/345792_rIGoA.jpg) | [深潜 强制倒带](https://bangumi.tv/subject/345792) | 深潜 强制倒带 | 8 | - | 0 |
