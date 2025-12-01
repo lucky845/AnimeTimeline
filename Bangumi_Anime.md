@@ -122,20 +122,43 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
+| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg) | [谁是窃书之人](https://bangumi.tv/subject/562099) | この本を盗む者は | 1 | - | 0 |
+| 2025-12-26 | ![](/img/no_icon_subject.png) | [聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～](https://bangumi.tv/subject/588221) |  | 1 | - | 10 |
+| 2025-12-26 | ![](/img/no_icon_subject.png) | [クール de M](https://bangumi.tv/subject/588223) |  | 1 | - | 10 |
+| 2025-12-26 | ![](/img/no_icon_subject.png) | [ケガレボシ](https://bangumi.tv/subject/605115) |  | 2 | - | 0 |
+| 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg) | [不死不幸 冬季篇](https://bangumi.tv/subject/506120) | アンデッドアンラック ウィンター編 | 1 | - | 10 |
+| 2025-12-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/88/609228_h2F2Q.jpg) | [The Wonderfully Weird World of Gumball Season 2](https://bangumi.tv/subject/609228) |  | 20 | - | 0 |
+| 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/59/487853_QqA8q.jpg) | [永生 第五季](https://bangumi.tv/subject/487853) | 永生之太元仙府 | 26 | - | 10 |
+| 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
+| 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/ab/465185_N5b5n.jpg) | [海绵宝宝：深海大冒险](https://bangumi.tv/subject/465185) | The SpongeBob Movie: Search for SquarePants | 1 | - | 0 |
+| 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/7d/521309_8nQzH.jpg) | [LOCA!](https://bangumi.tv/subject/521309) |  | 1 | - | 0 |
+| 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/b2/603685_61SDF.jpg) | [David](https://bangumi.tv/subject/603685) |  | 1 | - | 0 |
+| 2025-12-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/e4/529875_0EWyE.jpg) | [仙王的日常生活 第五季](https://bangumi.tv/subject/529875) | 仙王的日常生活 第五季 | 12 | - | 10 |
+| 2025-12-12 | ![](/img/no_icon_subject.png) | [制服は着たままで](https://bangumi.tv/subject/593806) |  | 2 | - | 0 |
+| 2025-12-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/8a/609143_ijqXX.jpg) | [古墓丽影 劳拉·克劳馥传奇 第二季](https://bangumi.tv/subject/609143) | Tomb Raider: The Legend of Lara Croft Season 2 | 未知 | - | 0 |
+| 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 未知 | - | 10 |
+| 2025-12-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f6/dc/219760_7FG73.jpg) | [我的哪吒与变形金刚](https://bangumi.tv/subject/219760) |  | 52 | - | 10 |
+| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/80/332677_wo5Ho.jpg) | [贝里琉岛 -乐园的格尔尼卡](https://bangumi.tv/subject/332677) | ペリリュー -楽園のゲルニカ- | 1 | - | 0 |
+| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/00/395217_YsB8q.jpg) | [三线轮洄](https://bangumi.tv/subject/395217) |  | 未知 | - | 0 |
+| 2025-12-05 | ![](/img/no_icon_subject.png) | [夏と箱](https://bangumi.tv/subject/544052) |  | 2 | - | 0 |
+| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/96/09/555683_3Vcp3.jpg) | [IDOLiSH7-偶像星愿- 剧场总集篇 后篇](https://bangumi.tv/subject/555683) | アイドリッシュセブン First BEAT! 劇場総集編 後編 | 未知 | - | 0 |
+| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/47/609708_fG292.jpg) | [变形金刚:地球火种 第四季](https://bangumi.tv/subject/609708) | Transformers: Earthspark Season 4 | 未知 | - | 0 |
+| 2025-12-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg) | [住在神奈川的精灵](https://bangumi.tv/subject/580762) | ＃神奈川に住んでるエルフ | 未知 | - | 0 |
+| 2025-12-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/2b/434816_wCxDk.jpg) | [紫禁·御喵房](https://bangumi.tv/subject/434816) |  | 16 | - | 10 |
+| 2025-12-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/aa/fa/491587_AK1pz.jpg) | [傲世丹神](https://bangumi.tv/subject/491587) |  | 12 | - | 0 |
+| 2025-12-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2c/ac/497971_9ULwv.jpg) | [龙魂](https://bangumi.tv/subject/497971) |  | 11 | - | 0 |
+| 2025-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/07/586113_uUnU4.jpg) | [7.1.111](https://bangumi.tv/subject/586113) |  | 未知 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ながちち永井さん THE ANIMATION](https://bangumi.tv/subject/579953) |  | 3 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ドＳなペット](https://bangumi.tv/subject/580732) |  | 1 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [强势逆推！爆乳辣妹深吻援交！](https://bangumi.tv/subject/593830) | おしかけ！爆乳ギャルハーレム性活 | 2 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ドＳなペット](https://bangumi.tv/subject/580732) |  | 2 | - | 0 |
 | 2025-11-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/d4/605445_PkzaJ.jpg) | [1分钟动画剧场第三季](https://bangumi.tv/subject/605445) |  | 未知 | - | 0 |
-| 2025-11-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/d4/605445_J6qP6.jpg) | [1分钟动画剧场第三季](https://bangumi.tv/subject/605445) |  | 未知 | - | 0 |
 | 2025-11-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/7c/419613_gqsTg.jpg) | [疯狂动物城2](https://bangumi.tv/subject/419613) | Zootopia 2 | 1 | - | 10 |
 | 2025-11-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/90/497973_FeE1e.jpg) | [玄界之门](https://bangumi.tv/subject/497973) | 玄界之门 | 26 | - | 10 |
 | 2025-11-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/72/b0/611042_UHlZV.jpg) | [まだ見ぬ明日](https://bangumi.tv/subject/611042) |  | 1 | - | 0 |
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_t1O9A.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 0 |
 | 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e3/26/610735_2Vd2d.jpg) | [Path of Progress](https://bangumi.tv/subject/610735) |  | 1 | - | 10 |
-| 2025-11-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/6c/609226_TwN4O.jpg) | [宗门里除了我都是卧底 第二部分](https://bangumi.tv/subject/609226) |  | 未知 | - | 10 |
-| 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
-| 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/be/609741_037Z4.jpg) | [バトルヒロインの日常～愛天使世紀ウェディングアップル～](https://bangumi.tv/subject/609741) |  | 未知 | - | 0 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4c/c8/434812_FYyDH.jpg) | [九阳武神](https://bangumi.tv/subject/434812) |  | 未知 | - | 10 |
 | 2025-11-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/be/609741_037Z4.jpg) | [バトルヒロインの日常～愛天使世紀ウェディングアップル～](https://bangumi.tv/subject/609741) |  | 未知 | - | 0 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/81/478620_ZnRGP.jpg) | [我家妹妹是狗狗](https://bangumi.tv/subject/478620) | 마루는 강쥐 | 未知 | - | 0 |
@@ -144,7 +167,6 @@
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg) | [我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜](https://bangumi.tv/subject/587454) | わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 | 5 | - | 10 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/47/d1/530158_PB8Op.jpg) | [无尽的斯嘉丽](https://bangumi.tv/subject/530158) | 果てしなきスカーレット | 1 | - | 10 |
 | 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/87/609915_L8v34.jpg) | [Tokyo Nightscape](https://bangumi.tv/subject/609915) |  | 1 | - | 10 |
-| 2025-11-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/81/478620_ZnRGP.jpg) | [我家妹妹是狗狗](https://bangumi.tv/subject/478620) | 마루는 강쥐 | 未知 | - | 0 |
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_dgkm9.jpg) | [武动乾坤 第六季](https://bangumi.tv/subject/535075) |  | 未知 | - | 10 |
 | 2025-11-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/c3/535075_4mK9k.jpg) | [武动乾坤 第6季](https://bangumi.tv/subject/535075) | 武动乾坤 第六季 | 12 | - | 10 |
 | 2025-11-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/f5/573709_aS0sG.jpg) | [The Mighty Nein](https://bangumi.tv/subject/573709) |  | 未知 | - | 0 |
@@ -155,7 +177,6 @@
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/b6/564802_hhOoG.jpg) | [白日梦奇遇记](https://bangumi.tv/subject/564802) | In Your Dreams | 未知 | - | 0 |
 | 2025-11-14 | ![](/img/no_icon_subject.png) | [牝を狩る村](https://bangumi.tv/subject/584818) |  | 2 | - | 0 |
 | 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/9d/608612_7SpHS.jpg) | [乐高漫威复仇者联盟：奇异故事](https://bangumi.tv/subject/608612) | LEGO Marvel Avengers: Strange Tails | 2 | - | 0 |
-| 2025-11-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/b6/564802_hhOoG.jpg) | [白日梦奇遇记](https://bangumi.tv/subject/564802) | In Your Dreams | 未知 | - | 0 |
 | 2025-11-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/65/20/569611_82004.jpg) | [BLUE GALE XABUNGLE SIDE R](https://bangumi.tv/subject/569611) |  | 1 | - | 0 |
 | 2025-11-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/bb/473671_P85Qj.jpg) | [为喵人生](https://bangumi.tv/subject/473671) | 为喵人生 | 18 | - | 0 |
 | 2025-11-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/84/3d/601743_PbmF4.jpg) | [소맥거핀: 찰칵! 세계여행](https://bangumi.tv/subject/601743) |  | 13 | - | 0 |
@@ -165,14 +186,12 @@
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [トリツカレ男](https://bangumi.tv/subject/559815) |  | 1 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 0 |
 | 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/42/559815_V1Bxf.jpg) | [着迷男](https://bangumi.tv/subject/559815) | トリツカレ男 | 1 | - | 10 |
-| 2025-11-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/47/582014_igV99.jpg) | [剧场版 咒术回战《涩谷事变 特别剪辑版》×《死灭回游 先行上映》](https://bangumi.tv/subject/582014) | 劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』 | 未知 | - | 14 |
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 未知 | - | 0 |
 | 2025-11-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/58/ff/604363_7Egro.jpg) | [坏蛋联盟：闯关大行动](https://bangumi.tv/subject/604363) | The Bad Guys: Breaking In | 9 | - | 0 |
 | 2025-11-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/0c/345792_rIGoA.jpg) | [深潜 强制倒带](https://bangumi.tv/subject/345792) | 深潜 强制倒带 | 8 | - | 0 |
 | 2025-11-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1c/345759_Lrqh7.jpg) | [孤雄](https://bangumi.tv/subject/345759) | 孤雄 | 9 | - | 0 |
 | 2025-11-01 |  | [全能高手](https://bangumi.tv/subject/605854) | 全能高手 | 20 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/46/565367_21D1j.jpg) | [疯狂动物城：动物城日与夜](https://bangumi.tv/subject/565367) |  | 4 | - | 0 |
-| 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/80/592949_DoP0p.jpg) | [Bat-Fam](https://bangumi.tv/subject/592949) |  | 未知 | - | 0 |
 | 2025-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/80/592949_DoP0p.jpg) | [Bat-Fam](https://bangumi.tv/subject/592949) |  | 未知 | - | 0 |
 | 2025-10-31 | ![](https://lain.bgm.tv/r/400/pic/cover/l/84/47/453311_oiEji.jpg) | [曾经有勇士](https://bangumi.tv/subject/453311) | 曾经有勇士 | 12 | - | 0 |
 | 2025-10-31 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cc/3d/464293_v6oL6.jpg) | [机动战士高达 铁血的奥尔芬斯 Urdr-Hunt -小小挑战者的轨迹-](https://bangumi.tv/subject/464293) | 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡- | 未知 | - | 10 |
