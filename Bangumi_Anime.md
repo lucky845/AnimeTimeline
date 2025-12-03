@@ -142,6 +142,7 @@
 | 2025-12-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/8a/609143_ijqXX.jpg) | [古墓丽影 劳拉·克劳馥传奇 第二季](https://bangumi.tv/subject/609143) | Tomb Raider: The Legend of Lara Croft Season 2 | 未知 | - | 0 |
 | 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 未知 | - | 10 |
 | 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 未知 | - | 10 |
+| 2025-12-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/0e/516414_1tw50.jpg) | [百炼成神3](https://bangumi.tv/subject/516414) |  | 52 | - | 0 |
 | 2025-12-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f6/dc/219760_7FG73.jpg) | [我的哪吒与变形金刚](https://bangumi.tv/subject/219760) |  | 52 | - | 10 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/80/332677_wo5Ho.jpg) | [贝里琉岛 -乐园的格尔尼卡](https://bangumi.tv/subject/332677) | ペリリュー -楽園のゲルニカ- | 1 | - | 0 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/00/395217_YsB8q.jpg) | [三线轮洄](https://bangumi.tv/subject/395217) |  | 未知 | - | 0 |
