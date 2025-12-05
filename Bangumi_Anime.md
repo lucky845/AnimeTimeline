@@ -152,6 +152,7 @@
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/00/395217_YsB8q.jpg) | [三线轮洄](https://bangumi.tv/subject/395217) |  | 未知 | - | 0 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/96/09/555683_3Vcp3.jpg) | [IDOLiSH7-偶像星愿- 剧场总集篇 后篇](https://bangumi.tv/subject/555683) | アイドリッシュセブン First BEAT! 劇場総集編 後編 | 未知 | - | 0 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/47/609708_fG292.jpg) | [变形金刚:地球火种 第四季](https://bangumi.tv/subject/609708) | Transformers: Earthspark Season 4 | 未知 | - | 0 |
+| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/02/91/613207_XOoXf.jpg) | [《鸣潮》3.0动画短片 | 转校生](https://bangumi.tv/subject/613207) | 转校生 | 1 | - | 0 |
 | 2025-12-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg) | [住在神奈川的精灵](https://bangumi.tv/subject/580762) | ＃神奈川に住んでるエルフ | 未知 | - | 0 |
 | 2025-12-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg) | [住在神奈川的精灵](https://bangumi.tv/subject/580762) | ＃神奈川に住んでるエルフ | 未知 | - | 0 |
 | 2025-12-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/2b/434816_wCxDk.jpg) | [紫禁·御喵房](https://bangumi.tv/subject/434816) |  | 16 | - | 10 |
