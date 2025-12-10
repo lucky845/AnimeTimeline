@@ -122,6 +122,7 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2025-12-31 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9b/f5/565802_PRfRL.jpg) | [辉夜大小姐想让我告白 通往大人的阶梯](https://bangumi.tv/subject/565802) | かぐや様は告らせたい 大人への階段 | 1 | - | 10 |
 | 2025-12-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/58/395223_Mf6La.jpg) | [仙剑奇侠传三](https://bangumi.tv/subject/395223) | 仙剑奇侠传叁 | 13 | - | 10 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg) | [谁是窃书之人](https://bangumi.tv/subject/562099) | この本を盗む者は | 1 | - | 0 |
