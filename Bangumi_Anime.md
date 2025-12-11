@@ -143,7 +143,7 @@
 | 2025-12-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/8a/609143_ijqXX.jpg) | [古墓丽影 劳拉·克劳馥传奇 第二季](https://bangumi.tv/subject/609143) | Tomb Raider: The Legend of Lara Croft Season 2 | 未知 | - | 0 |
 | 2025-12-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/8a/609143_ijqXX.jpg) | [古墓丽影 劳拉·克劳馥传奇 第二季](https://bangumi.tv/subject/609143) | Tomb Raider: The Legend of Lara Croft Season 2 | 未知 | - | 0 |
 | 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 未知 | - | 10 |
-| 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 未知 | - | 10 |
+| 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 15 | - | 21 |
 | 2025-12-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/0e/516414_1tw50.jpg) | [百炼成神3](https://bangumi.tv/subject/516414) |  | 52 | - | 0 |
 | 2025-12-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f6/dc/219760_7FG73.jpg) | [我的哪吒与变形金刚](https://bangumi.tv/subject/219760) |  | 52 | - | 10 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/80/332677_wo5Ho.jpg) | [贝里琉岛 -乐园的格尔尼卡](https://bangumi.tv/subject/332677) | ペリリュー -楽園のゲルニカ- | 1 | - | 0 |
@@ -155,7 +155,6 @@
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/00/395217_YsB8q.jpg) | [三线轮洄](https://bangumi.tv/subject/395217) | 三线轮洄 | 18 | - | 0 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/96/09/555683_3Vcp3.jpg) | [IDOLiSH7-偶像星愿- 剧场总集篇 后篇](https://bangumi.tv/subject/555683) | アイドリッシュセブン First BEAT! 劇場総集編 後編 | 未知 | - | 10 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/47/609708_fG292.jpg) | [变形金刚:地球火种 第四季](https://bangumi.tv/subject/609708) | Transformers: Earthspark Season 4 | 未知 | - | 0 |
-| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/02/91/613207_XOoXf.jpg) | [《鸣潮》3.0动画短片 | 转校生](https://bangumi.tv/subject/613207) | 转校生 | 1 | - | 10 |
 | 2025-12-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg) | [住在神奈川的精灵](https://bangumi.tv/subject/580762) | ＃神奈川に住んでるエルフ | 未知 | - | 0 |
 | 2025-12-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg) | [住在神奈川的精灵](https://bangumi.tv/subject/580762) | ＃神奈川に住んでるエルフ | 未知 | - | 0 |
 | 2025-12-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/2b/434816_wCxDk.jpg) | [紫禁·御喵房](https://bangumi.tv/subject/434816) |  | 16 | - | 10 |
