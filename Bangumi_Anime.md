@@ -129,16 +129,20 @@
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～](https://bangumi.tv/subject/588221) |  | 1 | - | 10 |
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [クール de M](https://bangumi.tv/subject/588223) |  | 1 | - | 10 |
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [ケガレボシ](https://bangumi.tv/subject/605115) |  | 2 | - | 0 |
+| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg) | [不死不幸 冬季篇](https://bangumi.tv/subject/506120) | アンデッドアンラック ウィンター編 | 1 | - | 10 |
 | 2025-12-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/88/609228_h2F2Q.jpg) | [The Wonderfully Weird World of Gumball Season 2](https://bangumi.tv/subject/609228) |  | 20 | - | 0 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/59/487853_QqA8q.jpg) | [永生 第五季](https://bangumi.tv/subject/487853) | 永生之太元仙府 | 26 | - | 10 |
+| 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/ab/465185_N5b5n.jpg) | [海绵宝宝：深海大冒险](https://bangumi.tv/subject/465185) | The SpongeBob Movie: Search for SquarePants | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/7d/521309_8nQzH.jpg) | [LOCA!](https://bangumi.tv/subject/521309) |  | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/b2/603685_61SDF.jpg) | [David](https://bangumi.tv/subject/603685) |  | 1 | - | 0 |
 | 2025-12-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/e4/529875_0EWyE.jpg) | [仙王的日常生活 第五季](https://bangumi.tv/subject/529875) | 仙王的日常生活 第五季 | 12 | - | 10 |
 | 2025-12-12 | ![](/img/no_icon_subject.png) | [制服は着たままで](https://bangumi.tv/subject/593806) |  | 2 | - | 0 |
+| 2025-12-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/16/81/615327_khZKD.jpg) | [新爆笑校园 第一季](https://bangumi.tv/subject/615327) |  | 26 | - | 0 |
 | 2025-12-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/8a/609143_ijqXX.jpg) | [古墓丽影 劳拉·克劳馥传奇 第二季](https://bangumi.tv/subject/609143) | Tomb Raider: The Legend of Lara Croft Season 2 | 未知 | - | 0 |
+| 2025-12-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/8a/609143_rHh99.jpg) | [古墓丽影 劳拉·克劳馥传奇 第二季](https://bangumi.tv/subject/609143) | Tomb Raider: The Legend of Lara Croft Season 2 | 8 | - | 0 |
 | 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 未知 | - | 10 |
 | 2025-12-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2a/87/544020_eM6oH.jpg) | [终末的女武神 第三季](https://bangumi.tv/subject/544020) | 終末のワルキューレⅢ | 15 | - | 21 |
 | 2025-12-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/0e/516414_1tw50.jpg) | [百炼成神3](https://bangumi.tv/subject/516414) |  | 52 | - | 0 |
@@ -150,10 +154,14 @@
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/47/609708_fG292.jpg) | [变形金刚:地球火种 第四季](https://bangumi.tv/subject/609708) | Transformers: Earthspark Season 4 | 未知 | - | 0 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/02/91/613207_XOoXf.jpg) | [《鸣潮》3.0动画短片 | 转校生](https://bangumi.tv/subject/613207) | 转校生 | 1 | 0 |
 | 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/00/395217_YsB8q.jpg) | [三线轮洄](https://bangumi.tv/subject/395217) | 三线轮洄 | 18 | - | 0 |
+| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/96/09/555683_3Vcp3.jpg) | [IDOLiSH7-偶像星愿- 剧场总集篇 后篇](https://bangumi.tv/subject/555683) | アイドリッシュセブン First BEAT! 劇場総集編 後編 | 未知 | - | 10 |
+| 2025-12-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/47/609708_fG292.jpg) | [变形金刚:地球火种 第四季](https://bangumi.tv/subject/609708) | Transformers: Earthspark Season 4 | 未知 | - | 0 |
+| 2025-12-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg) | [住在神奈川的精灵](https://bangumi.tv/subject/580762) | ＃神奈川に住んでるエルフ | 未知 | - | 0 |
 | 2025-12-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg) | [住在神奈川的精灵](https://bangumi.tv/subject/580762) | ＃神奈川に住んでるエルフ | 未知 | - | 0 |
 | 2025-12-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/2b/434816_wCxDk.jpg) | [紫禁·御喵房](https://bangumi.tv/subject/434816) |  | 16 | - | 10 |
 | 2025-12-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/aa/fa/491587_AK1pz.jpg) | [傲世丹神](https://bangumi.tv/subject/491587) |  | 12 | - | 0 |
 | 2025-12-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2c/ac/497971_9ULwv.jpg) | [龙魂](https://bangumi.tv/subject/497971) |  | 11 | - | 0 |
+| 2025-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/07/586113_uUnU4.jpg) | [7.1.111](https://bangumi.tv/subject/586113) |  | 未知 | - | 0 |
 | 2025-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/07/586113_uUnU4.jpg) | [7.1.111](https://bangumi.tv/subject/586113) |  | 未知 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ながちち永井さん THE ANIMATION](https://bangumi.tv/subject/579953) |  | 3 | - | 0 |
 | 2025-11-28 | ![](/img/no_icon_subject.png) | [ドＳなペット](https://bangumi.tv/subject/580732) |  | 1 | - | 0 |
