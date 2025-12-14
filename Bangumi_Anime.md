@@ -132,6 +132,7 @@
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg) | [不死不幸 冬季篇](https://bangumi.tv/subject/506120) | アンデッドアンラック ウィンター編 | 1 | - | 10 |
 | 2025-12-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/88/609228_h2F2Q.jpg) | [The Wonderfully Weird World of Gumball Season 2](https://bangumi.tv/subject/609228) |  | 20 | - | 0 |
+| 2025-12-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/f4/449362_Mi3zN.jpg) | [开局就有王者账号](https://bangumi.tv/subject/449362) | 开局就有王者账号 | 未知 | - | 0 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/59/487853_QqA8q.jpg) | [永生 第五季](https://bangumi.tv/subject/487853) | 永生之太元仙府 | 26 | - | 10 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
