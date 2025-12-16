@@ -136,10 +136,11 @@
 | 2025-12-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/f4/449362_Mi3zN.jpg) | [开局就有王者账号](https://bangumi.tv/subject/449362) | 开局就有王者账号 | 未知 | - | 0 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/59/487853_QqA8q.jpg) | [永生 第五季](https://bangumi.tv/subject/487853) | 永生之太元仙府 | 26 | - | 10 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
-| 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
+| 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 13 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/ab/465185_N5b5n.jpg) | [海绵宝宝：深海大冒险](https://bangumi.tv/subject/465185) | The SpongeBob Movie: Search for SquarePants | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/7d/521309_8nQzH.jpg) | [LOCA!](https://bangumi.tv/subject/521309) |  | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/b2/603685_61SDF.jpg) | [David](https://bangumi.tv/subject/603685) |  | 1 | - | 0 |
+| 2025-12-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/7e/615843_GScqB.jpg) | [八月、某、月明かり（OFFICIAL VIDEO）](https://bangumi.tv/subject/615843) |  | 1 | - | 10 |
 | 2025-12-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/e4/529875_0EWyE.jpg) | [仙王的日常生活 第五季](https://bangumi.tv/subject/529875) | 仙王的日常生活 第五季 | 12 | - | 10 |
 | 2025-12-12 | ![](/img/no_icon_subject.png) | [制服は着たままで](https://bangumi.tv/subject/593806) |  | 2 | - | 0 |
 | 2025-12-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/16/81/615327_khZKD.jpg) | [新爆笑校园 第一季](https://bangumi.tv/subject/615327) |  | 26 | - | 0 |
