@@ -124,6 +124,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2025-12-31 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9b/f5/565802_PRfRL.jpg) | [辉夜大小姐想让我告白 通往大人的阶梯](https://bangumi.tv/subject/565802) | かぐや様は告らせたい 大人への階段 | 1 | - | 10 |
 | 2025-12-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/58/395223_Mf6La.jpg) | [仙剑奇侠传三](https://bangumi.tv/subject/395223) | 仙剑奇侠传叁 | 13 | - | 10 |
+| 2025-12-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/f6/458926_4b9A4.jpg) | [光阴之外](https://bangumi.tv/subject/458926) | 光阴之外 | 26 | - | 0 |
+| 2025-12-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_fnwwp.jpg) | [ZZZ动画 DreamArbeiter莫](https://bangumi.tv/subject/616981) | ゼッツあにめ ドリームアルバイターばく | 未知 | - | 0 |
 | 2025-12-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/83/403731_4z1Qr.jpg) | [山海经密码](https://bangumi.tv/subject/403731) | 山海经密码 | 未知 | - | 0 |
 | 2025-12-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/83/403731_Jzqio.jpg) | [山海经密码](https://bangumi.tv/subject/403731) | 山海经密码 | 未知 | - | 0 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
@@ -145,7 +147,7 @@
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/7d/521309_8nQzH.jpg) | [LOCA!](https://bangumi.tv/subject/521309) |  | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/b2/603685_61SDF.jpg) | [David](https://bangumi.tv/subject/603685) |  | 1 | - | 0 |
 | 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 10 |
-| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 10 |
+| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 12 |
 | 2025-12-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/7e/615843_GScqB.jpg) | [八月、某、月明かり（OFFICIAL VIDEO）](https://bangumi.tv/subject/615843) |  | 1 | - | 10 |
 | 2025-12-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/e4/529875_0EWyE.jpg) | [仙王的日常生活 第五季](https://bangumi.tv/subject/529875) | 仙王的日常生活 第五季 | 12 | - | 10 |
 | 2025-12-12 | ![](/img/no_icon_subject.png) | [制服は着たままで](https://bangumi.tv/subject/593806) |  | 2 | - | 0 |
