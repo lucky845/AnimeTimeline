@@ -139,10 +139,11 @@
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg) | [不死不幸 冬季篇](https://bangumi.tv/subject/506120) | アンデッドアンラック ウィンター編 | 1 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/de/0c/520300_38GQ4.jpg) | [剑来 第二季](https://bangumi.tv/subject/520300) | 剑来 第二季 | 26 | - | 10 |
+| 2025-12-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/cc/617387_vpy6J.jpg) | [《绝区零》叶瞬光动画短片 | 若能化作光芒](https://bangumi.tv/subject/617387) | 若能化作光芒 | 未知 | 0 |
 | 2025-12-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/cc/617387_vpy6J.jpg) | [《绝区零》叶瞬光动画短片 | 若能化作光芒](https://bangumi.tv/subject/617387) | 若能化作光芒 | 未知 | - | 0 |
 | 2025-12-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/5e/449371_KZclz.jpg) | [超凡进化](https://bangumi.tv/subject/449371) | 超凡进化 | 未知 | - | 0 |
-| 2025-12-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/5e/449371_KZclz.jpg) | [超凡进化](https://bangumi.tv/subject/449371) | 超凡进化 | 未知 | - | 0 |
 | 2025-12-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg) | [今日をしるして](https://bangumi.tv/subject/617321) |  | 1 | - | 10 |
+| 2025-12-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/5e/449371_KZclz.jpg) | [超凡进化](https://bangumi.tv/subject/449371) | 超凡进化 | 未知 | - | 0 |
 | 2025-12-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/88/609228_h2F2Q.jpg) | [The Wonderfully Weird World of Gumball Season 2](https://bangumi.tv/subject/609228) |  | 20 | - | 0 |
 | 2025-12-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/f4/449362_Mi3zN.jpg) | [开局就有王者账号](https://bangumi.tv/subject/449362) | 开局就有王者账号 | 未知 | - | 0 |
 | 2025-12-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg) | [请吃红小豆吧！新年快乐](https://bangumi.tv/subject/616060) | 请吃红小豆吧！新年快乐 | 6 | - | 0 |
