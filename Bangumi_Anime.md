@@ -140,7 +140,6 @@
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg) | [不死不幸 冬季篇](https://bangumi.tv/subject/506120) | アンデッドアンラック ウィンター編 | 1 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/de/0c/520300_38GQ4.jpg) | [剑来 第二季](https://bangumi.tv/subject/520300) | 剑来 第二季 | 26 | - | 10 |
 | 2025-12-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/cc/617387_vpy6J.jpg) | [《绝区零》叶瞬光动画短片 | 若能化作光芒](https://bangumi.tv/subject/617387) | 若能化作光芒 | 未知 | 0 |
-| 2025-12-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/cc/617387_vpy6J.jpg) | [《绝区零》叶瞬光动画短片 | 若能化作光芒](https://bangumi.tv/subject/617387) | 若能化作光芒 | 未知 | - | 0 |
 | 2025-12-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/5e/449371_KZclz.jpg) | [超凡进化](https://bangumi.tv/subject/449371) | 超凡进化 | 未知 | - | 0 |
 | 2025-12-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg) | [今日をしるして](https://bangumi.tv/subject/617321) |  | 1 | - | 10 |
 | 2025-12-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/5e/449371_KZclz.jpg) | [超凡进化](https://bangumi.tv/subject/449371) | 超凡进化 | 未知 | - | 0 |
@@ -155,7 +154,7 @@
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/7d/521309_8nQzH.jpg) | [LOCA!](https://bangumi.tv/subject/521309) |  | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/b2/603685_61SDF.jpg) | [David](https://bangumi.tv/subject/603685) |  | 1 | - | 0 |
 | 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 10 |
-| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 12 |
+| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 13 |
 | 2025-12-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/7e/615843_GScqB.jpg) | [八月、某、月明かり（OFFICIAL VIDEO）](https://bangumi.tv/subject/615843) |  | 1 | - | 10 |
 | 2025-12-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/e4/529875_0EWyE.jpg) | [仙王的日常生活 第五季](https://bangumi.tv/subject/529875) | 仙王的日常生活 第五季 | 12 | - | 10 |
 | 2025-12-12 | ![](/img/no_icon_subject.png) | [制服は着たままで](https://bangumi.tv/subject/593806) |  | 2 | - | 0 |
