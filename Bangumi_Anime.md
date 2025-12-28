@@ -128,7 +128,7 @@
 | 2025-12-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_fnwwp.jpg) | [ZZZ动画 DreamArbeiter莫](https://bangumi.tv/subject/616981) | ゼッツあにめ ドリームアルバイターばく | 未知 | - | 0 |
 | 2025-12-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_fnwwp.jpg) | [ZZZ动画 DreamArbeiter莫](https://bangumi.tv/subject/616981) | ゼッツあにめ ドリームアルバイターばく | 未知 | - | 0 |
 | 2025-12-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/83/403731_4z1Qr.jpg) | [山海经密码](https://bangumi.tv/subject/403731) | 山海经密码 | 未知 | - | 0 |
-| 2025-12-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/83/403731_Jzqio.jpg) | [山海经密码](https://bangumi.tv/subject/403731) | 山海经密码 | 未知 | - | 0 |
+| 2025-12-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/83/403731_Jzqio.jpg) | [山海经密码](https://bangumi.tv/subject/403731) | 山海经密码 | 13 | - | 0 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg) | [谁是窃书之人](https://bangumi.tv/subject/562099) | この本を盗む者は | 1 | - | 0 |
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～](https://bangumi.tv/subject/588221) |  | 1 | - | 10 |
@@ -136,8 +136,9 @@
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [ケガレボシ](https://bangumi.tv/subject/605115) |  | 2 | - | 0 |
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～](https://bangumi.tv/subject/588221) |  | 2 | - | 10 |
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [クール de M](https://bangumi.tv/subject/588223) |  | 2 | - | 10 |
-| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/2b/617947_Ml2OF.jpg) | [ともに輝く明日のために。](https://bangumi.tv/subject/617947) |  | 1 | - | 10 |
+| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
+| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/2b/617947_Ml2OF.jpg) | [为了共同闪耀的明天](https://bangumi.tv/subject/617947) | ともに輝く明日のために。 | 1 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg) | [不死不幸 冬季篇](https://bangumi.tv/subject/506120) | アンデッドアンラック ウィンター編 | 1 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/de/0c/520300_38GQ4.jpg) | [剑来 第二季](https://bangumi.tv/subject/520300) | 剑来 第二季 | 26 | - | 10 |
 | 2025-12-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/cc/617387_vpy6J.jpg) | [《绝区零》叶瞬光动画短片 | 若能化作光芒](https://bangumi.tv/subject/617387) | 若能化作光芒 | 未知 | 0 |
