@@ -137,8 +137,8 @@
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～](https://bangumi.tv/subject/588221) |  | 2 | - | 10 |
 | 2025-12-26 | ![](/img/no_icon_subject.png) | [クール de M](https://bangumi.tv/subject/588223) |  | 2 | - | 10 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/2b/617947_Ml2OF.jpg) | [ともに輝く明日のために。](https://bangumi.tv/subject/617947) |  | 1 | - | 10 |
-| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/2b/617947_Ml2OF.jpg) | [为了共同闪耀的明天](https://bangumi.tv/subject/617947) | ともに輝く明日のために。 | 1 | - | 10 |
+| 2025-12-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/1d/544624_a264U.jpg) | [少女与战车 lovelove大作战 第1幕](https://bangumi.tv/subject/544624) | ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕 | 未知 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg) | [不死不幸 冬季篇](https://bangumi.tv/subject/506120) | アンデッドアンラック ウィンター編 | 1 | - | 10 |
 | 2025-12-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/de/0c/520300_38GQ4.jpg) | [剑来 第二季](https://bangumi.tv/subject/520300) | 剑来 第二季 | 26 | - | 10 |
 | 2025-12-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/cc/617387_vpy6J.jpg) | [《绝区零》叶瞬光动画短片 | 若能化作光芒](https://bangumi.tv/subject/617387) | 若能化作光芒 | 未知 | 0 |
@@ -152,11 +152,12 @@
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/59/487853_QqA8q.jpg) | [永生 第五季](https://bangumi.tv/subject/487853) | 永生之太元仙府 | 26 | - | 10 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 0 |
 | 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 13 | - | 0 |
+| 2025-12-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_9Ux0h.jpg) | [青之壬生浪 -芹泽暗杀篇-](https://bangumi.tv/subject/548558) | 青のミブロ -芹沢暗殺編- | 未知 | - | 10 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/ab/465185_N5b5n.jpg) | [海绵宝宝：深海大冒险](https://bangumi.tv/subject/465185) | The SpongeBob Movie: Search for SquarePants | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/7d/521309_8nQzH.jpg) | [LOCA!](https://bangumi.tv/subject/521309) |  | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/b2/603685_61SDF.jpg) | [David](https://bangumi.tv/subject/603685) |  | 1 | - | 0 |
 | 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 10 |
-| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 13 |
+| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 14 |
 | 2025-12-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/7e/615843_GScqB.jpg) | [八月、某、月明かり（OFFICIAL VIDEO）](https://bangumi.tv/subject/615843) |  | 1 | - | 10 |
 | 2025-12-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/e4/529875_0EWyE.jpg) | [仙王的日常生活 第五季](https://bangumi.tv/subject/529875) | 仙王的日常生活 第五季 | 12 | - | 10 |
 | 2025-12-12 | ![](/img/no_icon_subject.png) | [制服は着たままで](https://bangumi.tv/subject/593806) |  | 2 | - | 0 |
