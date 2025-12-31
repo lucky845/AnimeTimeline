@@ -156,8 +156,9 @@
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/ab/465185_N5b5n.jpg) | [海绵宝宝：深海大冒险](https://bangumi.tv/subject/465185) | The SpongeBob Movie: Search for SquarePants | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/7d/521309_8nQzH.jpg) | [LOCA!](https://bangumi.tv/subject/521309) |  | 1 | - | 0 |
 | 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/b2/603685_61SDF.jpg) | [David](https://bangumi.tv/subject/603685) |  | 1 | - | 0 |
+| 2025-12-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/25/86/618785_zFJ9f.jpg) | [Teenage Mutant Ninja Turtles: Chrome Alone 2 - Lost in New Jersey](https://bangumi.tv/subject/618785) |  | 未知 | - | 0 |
 | 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 10 |
-| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 14 |
+| 2025-12-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/8c/616392_G1og5.jpg) | [【汐塔】《云海逐鲸》](https://bangumi.tv/subject/616392) |  | 未知 | - | 15 |
 | 2025-12-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/7e/615843_GScqB.jpg) | [八月、某、月明かり（OFFICIAL VIDEO）](https://bangumi.tv/subject/615843) |  | 1 | - | 10 |
 | 2025-12-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/e4/529875_0EWyE.jpg) | [仙王的日常生活 第五季](https://bangumi.tv/subject/529875) | 仙王的日常生活 第五季 | 12 | - | 10 |
 | 2025-12-12 | ![](/img/no_icon_subject.png) | [制服は着たままで](https://bangumi.tv/subject/593806) |  | 2 | - | 0 |
