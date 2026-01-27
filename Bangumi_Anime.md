@@ -181,8 +181,8 @@
 | 2026-01-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f9/83/443446_S2n61.jpg) | [地狱乐 第二季](https://bangumi.tv/subject/443446) | 地獄楽 第二期 | 12 | - | 87 |
 | 2026-01-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg) | [相反的你和我](https://bangumi.tv/subject/525565) | 正反対な君と僕 | 12 | - | 345 |
 | 2026-01-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/80/68/615739_NBI68.jpg) | [暗芝居 第十六季](https://bangumi.tv/subject/615739) | 闇芝居 十六期 | 13 | - | 10 |
-| 2026-01-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/67/540031_nv00U.jpg) | [火喰鸟 羽州褴褛鸢组](https://bangumi.tv/subject/540031) | 火喰鳥 羽州ぼろ鳶組 | 未知 | - | 64 |
-| 2026-01-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/2b/557531_3cHCD.jpg) | [皎洁迎宵之月](https://bangumi.tv/subject/557531) | うるわしの宵の月 | 未知 | - | 83 |
+| 2026-01-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/67/540031_nv00U.jpg) | [火喰鸟 羽州褴褛鸢组](https://bangumi.tv/subject/540031) | 火喰鳥 羽州ぼろ鳶組 | 未知 | - | 65 |
+| 2026-01-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/2b/557531_3cHCD.jpg) | [皎洁迎宵之月](https://bangumi.tv/subject/557531) | うるわしの宵の月 | 未知 | - | 86 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/94/426100_viPSH.jpg) | [TRIGUN STARGAZE](https://bangumi.tv/subject/426100) |  | 未知 | - | 10 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/7c/543772_Io88u.jpg) | [死亡账号](https://bangumi.tv/subject/543772) | デッドアカウント | 未知 | - | 10 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/ce/544106_S3Ua7.jpg) | [转生之后的我变成了龙蛋](https://bangumi.tv/subject/544106) | 転生したらドラゴンの卵だった | 未知 | - | 0 |
@@ -195,8 +195,8 @@
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/94/426100_viPSH.jpg) | [TRIGUN STARGAZE](https://bangumi.tv/subject/426100) |  | 12 | - | 27 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/94/426100_viPSH.jpg) | [枪神 观星之人](https://bangumi.tv/subject/426100) | TRIGUN STARGAZE | 12 | - | 49 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/7c/543772_Io88u.jpg) | [死亡账号](https://bangumi.tv/subject/543772) | デッドアカウント | 12 | - | 181 |
-| 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/ce/544106_S3Ua7.jpg) | [转生之后的我变成了龙蛋](https://bangumi.tv/subject/544106) | 転生したらドラゴンの卵だった | 未知 | - | 107 |
-| 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cd/8c/554013_MGo2g.jpg) | [安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～](https://bangumi.tv/subject/554013) | お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～ | 未知 | - | 306 |
+| 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/ce/544106_S3Ua7.jpg) | [转生之后的我变成了龙蛋](https://bangumi.tv/subject/544106) | 転生したらドラゴンの卵だった | 未知 | - | 110 |
+| 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cd/8c/554013_MGo2g.jpg) | [安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～](https://bangumi.tv/subject/554013) | お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～ | 未知 | - | 310 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/40/576343_LwvVr.jpg) | [ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～](https://bangumi.tv/subject/576343) |  | 未知 | - | 10 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/f9/591584_dp8Kc.jpg) | [卡片战斗先导者 Divinez 幻真星战篇](https://bangumi.tv/subject/591584) | カードファイト!! ヴァンガード Divinez 幻真星戦編 | 未知 | - | 10 |
 | 2026-01-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a9/b1/601763_H5y41.jpg) | [你还是不懂群马～令和版～](https://bangumi.tv/subject/601763) | お前はまだグンマを知らない～令和版～ | 未知 | - | 10 |
@@ -231,8 +231,8 @@
 | 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_MqsB8.jpg) | [咒术回战 死灭回游 前篇](https://bangumi.tv/subject/472741) | 呪術廻戦 死滅回游 前編 | 12 | - | 743 |
 | 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/61/486054_Hl0Cx.jpg) | [魔都精兵的奴隶 第二季](https://bangumi.tv/subject/486054) | 魔都精兵のスレイブ2 | 12 | - | 355 |
 | 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/42/f9/555445_YBxml.jpg) | [「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活](https://bangumi.tv/subject/555445) | 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい | 12 | - | 245 |
-| 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/7c/520642_65rzc.jpg) | [厄里斯的圣杯](https://bangumi.tv/subject/520642) | エリスの聖杯 | 未知 | - | 256 |
-| 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/24/528434_ZqyTB.jpg) | [蘑菇魔女](https://bangumi.tv/subject/528434) | シャンピニオンの魔女 | 未知 | - | 277 |
+| 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/7c/520642_65rzc.jpg) | [厄里斯的圣杯](https://bangumi.tv/subject/520642) | エリスの聖杯 | 未知 | - | 262 |
+| 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/24/528434_ZqyTB.jpg) | [蘑菇魔女](https://bangumi.tv/subject/528434) | シャンピニオンの魔女 | 未知 | - | 282 |
 | 2026-01-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/98/548195_raxXD.jpg) | [终究、与你相恋。 第二季](https://bangumi.tv/subject/548195) | どうせ、恋してしまうんだ。 第2期 | 未知 | - | 28 |
 | 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0d/a2/510753_8uCFx.jpg) | [靠死亡游戏混饭吃。](https://bangumi.tv/subject/510753) | 死亡遊戯で飯を食う。 | 未知 | - | 10 |
 | 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg) | [优雅贵族的休假指南。](https://bangumi.tv/subject/517561) | 穏やか貴族の休暇のすすめ。 | 未知 | - | 10 |
@@ -244,8 +244,8 @@
 | 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0d/a2/510753_8uCFx.jpg) | [靠死亡游戏混饭吃。](https://bangumi.tv/subject/510753) | 死亡遊戯で飯を食う。 | 11 | - | 10 |
 | 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/0f/565416_a994t.jpg) | [魔王的女儿太温柔了！！](https://bangumi.tv/subject/565416) | 魔王の娘は優しすぎる!! | 12 | - | 68 |
 | 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/e9/556874_BhJgb.jpg) | [29岁单身冒险家的日常](https://bangumi.tv/subject/556874) | 29歳独身中堅冒険者の日常 | 12 | - | 133 |
-| 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg) | [优雅贵族的休假指南。](https://bangumi.tv/subject/517561) | 穏やか貴族の休暇のすすめ。 | 未知 | - | 69 |
-| 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/c8/531724_U8Ti8.jpg) | [贵族转生 ～得天眷顾一出生就获得最强力量～](https://bangumi.tv/subject/531724) | 貴族転生 ～恵まれた生まれから最強の力を得る～ | 未知 | - | 266 |
+| 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg) | [优雅贵族的休假指南。](https://bangumi.tv/subject/517561) | 穏やか貴族の休暇のすすめ。 | 未知 | - | 70 |
+| 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/c8/531724_U8Ti8.jpg) | [贵族转生 ～得天眷顾一出生就获得最强力量～](https://bangumi.tv/subject/531724) | 貴族転生 ～恵まれた生まれから最強の力を得る～ | 未知 | - | 270 |
 | 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a3/59/555772_2Z2L2.jpg) | [地狱老师 第2部分](https://bangumi.tv/subject/555772) | 地獄先生ぬ～べ～ 第2クール | 未知 | - | 39 |
 | 2026-01-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/b1/617197_KSLw0.jpg) | [mofusand](https://bangumi.tv/subject/617197) |  | 未知 | - | 10 |
 | 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/41/af/495531_W0D3B.jpg) | [达尔文事变](https://bangumi.tv/subject/495531) | ダーウィン事変 | 未知 | - | 10 |
@@ -259,8 +259,8 @@
 | 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6f/40/564175_Jf5lx.jpg) | [铠真传 武士军团](https://bangumi.tv/subject/564175) | 鎧真伝サムライトルーパー | 12 | - | 34 |
 | 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8d/2d/544109_U7B7C.jpg) | [午夜的倾心旋律](https://bangumi.tv/subject/544109) | 真夜中ハートチューン | 12 | - | 615 |
 | 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/42/c5/525816_xDas0.jpg) | [身为魔族的我想向勇者小队的可爱女孩告白。](https://bangumi.tv/subject/525816) | 勇者パーティーにかわいい子がいたので、告白してみた。 | 13 | - | 224 |
-| 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/41/af/495531_W0D3B.jpg) | [达尔文事变](https://bangumi.tv/subject/495531) | ダーウィン事変 | 未知 | - | 480 |
 | 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/3b/522370_FFyEr.jpg) | [异世界的安泰全看社畜](https://bangumi.tv/subject/522370) | 異世界の沙汰は社畜次第 | 12 | - | 98 |
+| 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/41/af/495531_W0D3B.jpg) | [达尔文事变](https://bangumi.tv/subject/495531) | ダーウィン事変 | 未知 | - | 500 |
 | 2026-01-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/59/16/616830_Jth6H.jpg) | [秘密結社 鷹の爪XX](https://bangumi.tv/subject/616830) |  | 未知 | - | 10 |
 | 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/f1/443106_b4QP3.jpg) | [黄金神威 最终章](https://bangumi.tv/subject/443106) | ゴールデンカムイ 最終章 | 未知 | - | 10 |
 | 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c9/03/549654_I8IY6.jpg) | [和青梅竹马之间不会有恋爱喜剧](https://bangumi.tv/subject/549654) | 幼馴染とはラブコメにならない | 未知 | - | 10 |
@@ -271,7 +271,7 @@
 | 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/c8/567417_CE6zb.jpg) | [正义使者 -我的英雄学院之非法英雄- 第二季](https://bangumi.tv/subject/567417) | ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期 | 13 | - | 14 |
 | 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c9/03/549654_I8IY6.jpg) | [和青梅竹马之间不会有恋爱喜剧](https://bangumi.tv/subject/549654) | 幼馴染とはラブコメにならない | 12 | - | 191 |
 | 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/f1/443106_b4QP3.jpg) | [黄金神威 最终章](https://bangumi.tv/subject/443106) | ゴールデンカムイ 最終章 | 13 | - | 123 |
-| 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/a0/562430_8dO8T.jpg) | [能帮我弄干净吗？](https://bangumi.tv/subject/562430) | 綺麗にしてもらえますか。 | 未知 | - | 558 |
+| 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/a0/562430_8dO8T.jpg) | [能帮我弄干净吗？](https://bangumi.tv/subject/562430) | 綺麗にしてもらえますか。 | 未知 | - | 568 |
 | 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/52/55/584833_OzPPv.jpg) | [北斗神拳 拳王军杂兵们的挽歌](https://bangumi.tv/subject/584833) | 北斗の拳 拳王軍ザコたちの挽歌 | 未知 | - | 10 |
 | 2026-01-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/59/ff/617004_ITVjq.jpg) | [CHOPPER’s](https://bangumi.tv/subject/617004) |  | 未知 | - | 10 |
 | 2026-01-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fe/bf/493016_Qqmf5.jpg) | [异国日记](https://bangumi.tv/subject/493016) | 違国日記 | 未知 | - | 10 |
@@ -288,7 +288,7 @@
 | 2026-01-04 | ![](/img/no_icon_subject.png) | [有栖川炼原来是女孩子啊。](https://bangumi.tv/subject/548189) | 有栖川煉ってホントは女なんだよね。 | 未知 | - | 14 |
 | 2026-01-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/23/494564_VD7Jn.jpg) | [花样少年少女](https://bangumi.tv/subject/494564) | 花ざかりの君たちへ | 12 | - | 89 |
 | 2026-01-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5b/c9/530110_EQtrE.jpg) | [极速车魂 第三季](https://bangumi.tv/subject/530110) | MFゴースト 3rd Season | 未知 | - | 62 |
-| 2026-01-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/38/534674_alb5D.jpg) | [魔术师库诺看得见一切](https://bangumi.tv/subject/534674) | 魔術師クノンは見えている | 未知 | - | 343 |
+| 2026-01-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/38/534674_alb5D.jpg) | [魔术师库诺看得见一切](https://bangumi.tv/subject/534674) | 魔術師クノンは見えている | 未知 | - | 349 |
 | 2026-01-04 | ![](/img/no_icon_subject.png) | [有栖川炼原来是女孩子啊。](https://bangumi.tv/subject/548189) | 有栖川煉ってホントは女なんだよね。 | 未知 | - | 32 |
 | 2026-01-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/d7/583313_qZNGU.jpg) | [草莓哀歌](https://bangumi.tv/subject/583313) | イチゴ哀歌〜雑で生イキな妹と割り切れない兄〜 | 未知 | - | 43 |
 | 2026-01-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_CNG0F.jpg) | [Fate/strange Fake](https://bangumi.tv/subject/443831) | Fate/strange Fake | 未知 | - | 1084 |
