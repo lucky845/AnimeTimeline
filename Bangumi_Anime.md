@@ -145,9 +145,11 @@
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/75/535074_hG2f2.jpg) | [碳基生物进化指南：最强蜗牛独眼篇](https://bangumi.tv/subject/535074) | 碳基生物进化指南：最强蜗牛独眼篇 | 15 | - | 0 |
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_41XxC.jpg) | [奇迹梦之队](https://bangumi.tv/subject/560192) | GOAT | 未知 | - | 0 |
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/05/578766_S52UW.jpg) | [新剧场版 银魂 -吉原大炎上-](https://bangumi.tv/subject/578766) | 新劇場版 銀魂 -吉原大炎上- | 1 | - | 0 |
-| 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_41XxC.jpg) | [奇迹梦之队](https://bangumi.tv/subject/560192) | GOAT | 未知 | - | 0 |
+| 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_41XxC.jpg) | [奇迹梦之队](https://bangumi.tv/subject/560192) | GOAT | 未知 | - | 10 |
 | 2026-02-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/76/30/516427_zS181.jpg) | [龙破九天](https://bangumi.tv/subject/516427) |  | 未知 | - | 0 |
 | 2026-02-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/76/30/516427_zS181.jpg) | [龙破九天](https://bangumi.tv/subject/516427) |  | 未知 | - | 0 |
+| 2026-02-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/39/e3/624695_jg6sf.jpg) | [喜羊羊与灰太狼之古古怪界有古怪番外篇](https://bangumi.tv/subject/624695) | 喜羊羊与灰太狼之古古怪界有古怪番外篇 | 3 | - | 0 |
+| 2026-02-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/23/626168_cgVy4.jpg) | [黑白心弈](https://bangumi.tv/subject/626168) | 黑白心弈 | 1 | - | 10 |
 | 2026-02-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/0c/540453_DhzTd.jpg) | [决斗大师 LOST ～忘却的太阳～](https://bangumi.tv/subject/540453) | Duel Masters LOST ～忘却の太陽～ | 4 | - | 0 |
 | 2026-02-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_677G7.jpg) | [銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き](https://bangumi.tv/subject/586102) |  | 未知 | - | 10 |
 | 2026-02-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_677G7.jpg) | [銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き](https://bangumi.tv/subject/586102) |  | 未知 | - | 10 |
@@ -159,7 +161,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 174 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 199 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
