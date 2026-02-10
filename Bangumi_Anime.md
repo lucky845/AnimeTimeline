@@ -133,6 +133,7 @@
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg) | [刃牙道](https://bangumi.tv/subject/487716) | 刃牙道 | 未知 | - | 0 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9f/456169_gfU6h.jpg) | [驭灵师](https://bangumi.tv/subject/456169) | 驭灵师 | 未知 | - | 0 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg) | [刃牙道](https://bangumi.tv/subject/487716) | 刃牙道 | 未知 | - | 0 |
+| 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_rVbS4.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 未知 | - | 0 |
 | 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [エヴァンゲリオン放送30周年記念特別興行](https://bangumi.tv/subject/616383) |  | 未知 | - | 0 |
 | 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [エヴァンゲリオン放送30周年記念特別興行](https://bangumi.tv/subject/616383) |  | 未知 | - | 0 |
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/cf/473415_rS2Nu.jpg) | [永远的大和号 REBEL3199 第五章 白热的银河大战](https://bangumi.tv/subject/473415) | ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦 | 未知 | - | 0 |
@@ -141,6 +142,7 @@
 | 2026-02-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/5b/569761_P2fT7.jpg) | [熊出没·年年有熊](https://bangumi.tv/subject/569761) |  | 1 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg) | [天穗之咲稻姬 心轮的稻作日记](https://bangumi.tv/subject/524128) | 天穂のサクナヒメ ココロワ稲作日誌 | 2 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/c3/624844_dyD4U.jpg) | [2026卡酷动画春晚](https://bangumi.tv/subject/624844) |  | 1 | - | 0 |
+| 2026-02-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6f/b3/403739_s7OJo.jpg) | [修仙者大战超能力](https://bangumi.tv/subject/403739) |  | 未知 | - | 0 |
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_048JP.jpg) | [剧场版 我心里危险的东西](https://bangumi.tv/subject/515869) | 劇場版 僕の心のヤバイやつ | 1 | - | 11 |
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/75/535074_hG2f2.jpg) | [碳基生物进化指南：最强蜗牛独眼篇](https://bangumi.tv/subject/535074) | 碳基生物进化指南：最强蜗牛独眼篇 | 15 | - | 0 |
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_41XxC.jpg) | [奇迹梦之队](https://bangumi.tv/subject/560192) | GOAT | 未知 | - | 0 |
@@ -161,7 +163,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 225 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 243 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
