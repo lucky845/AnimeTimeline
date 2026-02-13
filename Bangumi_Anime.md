@@ -124,6 +124,7 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
+| 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
 | 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f3/f0/483867_6j26J.jpg) | [戴帽子的猫](https://bangumi.tv/subject/483867) | The Cat in the Hat | 1 | - | 0 |
 | 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cc/84/515595_xP1P5.jpg) | [剧场版 关于我转生变成史莱姆这档事 苍海之泪篇](https://bangumi.tv/subject/515595) | 劇場版 転生したらスライムだった件 蒼海の涙編 | 1 | - | 10 |
 | 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/52/6e/583519_SzdUV.jpg) | [哆啦A梦：新・大雄的海底鬼岩城](https://bangumi.tv/subject/583519) | 映画ドラえもん 新・のび太の海底鬼岩城 | 1 | - | 0 |
@@ -166,7 +167,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 256 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 263 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
