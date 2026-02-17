@@ -143,12 +143,20 @@
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b6/b5/549506_J9OGG.jpg) | [有兽焉 第五季](https://bangumi.tv/subject/549506) | 有兽焉 第五季 | 12 | - | 0 |
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/cf/473415_rS2Nu.jpg) | [永远的大和号 REBEL3199 第五章 白热的银河大战](https://bangumi.tv/subject/473415) | ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦 | 未知 | - | 0 |
 | 2026-02-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/5b/569761_P2fT7.jpg) | [熊出没·年年有熊](https://bangumi.tv/subject/569761) |  | 1 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/24/628580_53WZ0.jpg) | [刹那芳华](https://bangumi.tv/subject/628580) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/41/f2/628592_0Rji8.jpg) | [末日后一天](https://bangumi.tv/subject/628592) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/8a/628605_OO5RQ.jpg) | [直到蓝天重现](https://bangumi.tv/subject/628605) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/47/628619_2F8sB.jpg) | [灰烬Refusion：楔](https://bangumi.tv/subject/628619) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bf/f5/628621_TMBhM.jpg) | [过年者联盟之新春赛马](https://bangumi.tv/subject/628621) |  | 1 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/54/628629_5VNnW.jpg) | [魔物料理人](https://bangumi.tv/subject/628629) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/5a/628631_720f5.jpg) | [人生列车Life Train](https://bangumi.tv/subject/628631) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/26/628635_22k7K.jpg) | [再一次的“初见”](https://bangumi.tv/subject/628635) |  | 未知 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg) | [天穗之咲稻姬 心轮的稻作日记](https://bangumi.tv/subject/524128) | 天穂のサクナヒメ ココロワ稲作日誌 | 2 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/c3/624844_dyD4U.jpg) | [2026卡酷动画春晚](https://bangumi.tv/subject/624844) |  | 1 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/99/627686_xxhzn.jpg) | [我在远古当卷王](https://bangumi.tv/subject/627686) | 我在远古当卷王 | 未知 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg) | [天穗之咲稻姬 心轮种稻日记](https://bangumi.tv/subject/524128) | 天穂のサクナヒメ ココロワ稲作日誌 | 2 | - | 10 |
-| 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/99/627686_xxhzn.jpg) | [我在远古当卷王](https://bangumi.tv/subject/627686) | 我在远古当卷王 | 未知 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1b/3c/628184_VxsBc.jpg) | [【动画MV】人生不易部！「Dou-Da? DOING!」【生如百戏难！LOVELIVE! 青鸟】](https://bangumi.tv/subject/628184) | 【アニメーションMV】いきづらい部！「Dou-Da? DOING!」【イキヅライブ！ LOVELIVE! BLUEBIRD】 | 1 | - | 10 |
+| 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/99/627686_xxhzn.jpg) | [我在远古当卷王](https://bangumi.tv/subject/627686) | 我在远古当卷王 | 未知 | - | 0 |
 | 2026-02-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6f/b3/403739_s7OJo.jpg) | [修仙者大战超能力](https://bangumi.tv/subject/403739) |  | 未知 | - | 0 |
 | 2026-02-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/20/3f/627556_tk605.jpg) | [呼唤少女特别篇 想做的事到底是什么](https://bangumi.tv/subject/627556) |  | 1 | - | 325 |
 | 2026-02-14 | ![](/img/no_icon_subject.png) | [眼镜女老师的奖励日记2～秘密的留宿学习会～](https://bangumi.tv/subject/627573) | 眼鏡っ娘先生のごほうびダイアリー2  ~ひみつのお泊り勉強会~ | 未知 | - | 10 |
@@ -174,7 +182,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 299 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 307 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
