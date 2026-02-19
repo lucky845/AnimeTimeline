@@ -153,7 +153,7 @@
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/26/628635_22k7K.jpg) | [再一次的“初见”](https://bangumi.tv/subject/628635) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/24/628580_53WZ0.jpg) | [刹那芳华](https://bangumi.tv/subject/628580) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/41/f2/628592_0Rji8.jpg) | [末日后一天](https://bangumi.tv/subject/628592) |  | 未知 | - | 0 |
-| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/8a/628605_OO5RQ.jpg) | [直到蓝天重现](https://bangumi.tv/subject/628605) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/8a/628605_OO5RQ.jpg) | [直到蓝天重现](https://bangumi.tv/subject/628605) |  | 未知 | - | 10 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/47/628619_2F8sB.jpg) | [灰烬Refusion：楔](https://bangumi.tv/subject/628619) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/54/628629_5VNnW.jpg) | [魔物料理人](https://bangumi.tv/subject/628629) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/5a/628631_720f5.jpg) | [人生列车Life Train](https://bangumi.tv/subject/628631) |  | 未知 | - | 0 |
@@ -189,7 +189,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 316 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 323 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
