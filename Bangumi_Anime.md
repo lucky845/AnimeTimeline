@@ -124,7 +124,7 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
-| 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
+| 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 1 | - | 0 |
 | 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f3/f0/483867_6j26J.jpg) | [戴帽子的猫](https://bangumi.tv/subject/483867) | The Cat in the Hat | 1 | - | 0 |
 | 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cc/84/515595_xP1P5.jpg) | [剧场版 关于我转生变成史莱姆这档事 苍海之泪篇](https://bangumi.tv/subject/515595) | 劇場版 転生したらスライムだった件 蒼海の涙編 | 1 | - | 10 |
 | 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/52/6e/583519_SzdUV.jpg) | [哆啦A梦：新・大雄的海底鬼岩城](https://bangumi.tv/subject/583519) | 映画ドラえもん 新・のび太の海底鬼岩城 | 1 | - | 0 |
@@ -138,7 +138,7 @@
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_rVbS4.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 未知 | - | 0 |
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_rVbS4.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 未知 | - | 0 |
 | 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [エヴァンゲリオン放送30周年記念特別興行](https://bangumi.tv/subject/616383) |  | 未知 | - | 0 |
-| 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [エヴァンゲリオン放送30周年記念特別興行](https://bangumi.tv/subject/616383) |  | 未知 | - | 0 |
+| 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [エヴァンゲリオン放送30周年記念特別興行](https://bangumi.tv/subject/616383) |  | 1 | - | 0 |
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/cf/473415_rS2Nu.jpg) | [永远的大和号 REBEL3199 第五章 白热的银河大战](https://bangumi.tv/subject/473415) | ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦 | 未知 | - | 0 |
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b6/b5/549506_J9OGG.jpg) | [有兽焉 第五季](https://bangumi.tv/subject/549506) | 有兽焉 第五季 | 12 | - | 0 |
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/cf/473415_rS2Nu.jpg) | [永远的大和号 REBEL3199 第五章 白热的银河大战](https://bangumi.tv/subject/473415) | ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦 | 未知 | - | 0 |
@@ -157,7 +157,7 @@
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/47/628619_2F8sB.jpg) | [灰烬Refusion：楔](https://bangumi.tv/subject/628619) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/54/628629_5VNnW.jpg) | [魔物料理人](https://bangumi.tv/subject/628629) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/5a/628631_720f5.jpg) | [人生列车Life Train](https://bangumi.tv/subject/628631) |  | 未知 | - | 0 |
-| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/26/628635_22k7K.jpg) | [再一次的“初见”](https://bangumi.tv/subject/628635) |  | 未知 | - | 0 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/26/628635_22k7K.jpg) | [再一次的“初见”](https://bangumi.tv/subject/628635) |  | 未知 | - | 10 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg) | [天穗之咲稻姬 心轮的稻作日记](https://bangumi.tv/subject/524128) | 天穂のサクナヒメ ココロワ稲作日誌 | 2 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/c3/624844_dyD4U.jpg) | [2026卡酷动画春晚](https://bangumi.tv/subject/624844) |  | 1 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/99/627686_xxhzn.jpg) | [我在远古当卷王](https://bangumi.tv/subject/627686) | 我在远古当卷王 | 未知 | - | 0 |
@@ -173,14 +173,14 @@
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/10/75/535074_hG2f2.jpg) | [碳基生物进化指南：最强蜗牛独眼篇](https://bangumi.tv/subject/535074) | 碳基生物进化指南：最强蜗牛独眼篇 | 15 | - | 0 |
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_41XxC.jpg) | [奇迹梦之队](https://bangumi.tv/subject/560192) | GOAT | 未知 | - | 0 |
 | 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/05/578766_S52UW.jpg) | [新剧场版 银魂 -吉原大炎上-](https://bangumi.tv/subject/578766) | 新劇場版 銀魂 -吉原大炎上- | 1 | - | 0 |
-| 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_41XxC.jpg) | [奇迹梦之队](https://bangumi.tv/subject/560192) | GOAT | 未知 | - | 10 |
+| 2026-02-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_41XxC.jpg) | [奇迹梦之队](https://bangumi.tv/subject/560192) | GOAT | 1 | - | 10 |
 | 2026-02-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/76/30/516427_zS181.jpg) | [龙破九天](https://bangumi.tv/subject/516427) |  | 未知 | - | 0 |
 | 2026-02-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/76/30/516427_K16UR.jpg) | [龙破九天](https://bangumi.tv/subject/516427) |  | 未知 | - | 0 |
 | 2026-02-10 | ![](https://lain.bgm.tv/r/400/pic/cover/l/39/e3/624695_jg6sf.jpg) | [喜羊羊与灰太狼之古古怪界有古怪番外篇](https://bangumi.tv/subject/624695) | 喜羊羊与灰太狼之古古怪界有古怪番外篇 | 3 | - | 0 |
 | 2026-02-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/23/626168_cgVy4.jpg) | [黑白心弈](https://bangumi.tv/subject/626168) | 黑白心弈 | 1 | - | 10 |
 | 2026-02-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/0c/540453_DhzTd.jpg) | [决斗大师 LOST ～忘却的太阳～](https://bangumi.tv/subject/540453) | Duel Masters LOST ～忘却の太陽～ | 4 | - | 0 |
 | 2026-02-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_677G7.jpg) | [銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き](https://bangumi.tv/subject/586102) |  | 未知 | - | 10 |
-| 2026-02-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_677G7.jpg) | [銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き](https://bangumi.tv/subject/586102) |  | 未知 | - | 10 |
+| 2026-02-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_677G7.jpg) | [銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き](https://bangumi.tv/subject/586102) |  | 1 | - | 10 |
 | 2026-02-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/6b/625581_r0khr.jpg) | [黑爪之治](https://bangumi.tv/subject/625581) | Reign of Talon | 1 | - | 0 |
 | 2026-02-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/65/96/467711_58yN7.jpg) | [乐乐便利店](https://bangumi.tv/subject/467711) |  | 未知 | - | 0 |
 | 2026-02-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/65/96/467711_1I1i2.jpg) | [乐乐便利店](https://bangumi.tv/subject/467711) | 乐乐便利店 | 10 | - | 10 |
@@ -189,7 +189,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 323 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 327 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
