@@ -138,9 +138,11 @@
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_rVbS4.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 未知 | - | 0 |
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_rVbS4.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 未知 | - | 0 |
 | 2026-02-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/71/630676_6v15K.jpg) | [仙逆 年番3](https://bangumi.tv/subject/630676) |  | 52 | - | 0 |
+| 2026-02-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/73/630861_9iiBw.jpg) | [あるふぁYOU](https://bangumi.tv/subject/630861) |  | 未知 | - | 0 |
 | 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [エヴァンゲリオン放送30周年記念特別興行](https://bangumi.tv/subject/616383) |  | 未知 | - | 0 |
 | 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [エヴァンゲリオン放送30周年記念特別興行](https://bangumi.tv/subject/616383) |  | 1 | - | 0 |
 | 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_z32sJ.jpg) | [《新世纪福音战士》30周年纪念特别放映](https://bangumi.tv/subject/616383) | エヴァンゲリオン放送30周年記念特別興行 | 1 | - | 86 |
+| 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7b/01/630665_wAc8h.jpg) | [尼古喵喵 迷你动画](https://bangumi.tv/subject/630665) | 『ヤニねこ』ミニアニメ | 未知 | - | 0 |
 | 2026-02-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7b/01/630665_wAc8h.jpg) | [尼古喵喵 迷你动画](https://bangumi.tv/subject/630665) | 『ヤニねこ』ミニアニメ | 未知 | - | 0 |
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/cf/473415_rS2Nu.jpg) | [永远的大和号 REBEL3199 第五章 白热的银河大战](https://bangumi.tv/subject/473415) | ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦 | 未知 | - | 0 |
 | 2026-02-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b6/b5/549506_J9OGG.jpg) | [有兽焉 第五季](https://bangumi.tv/subject/549506) | 有兽焉 第五季 | 12 | - | 0 |
@@ -192,7 +194,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 339 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 349 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
