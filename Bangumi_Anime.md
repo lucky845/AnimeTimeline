@@ -131,9 +131,11 @@
 | 2026-02-27 | ![](/img/no_icon_subject.png) | [剣鬼バルゴ](https://bangumi.tv/subject/610628) |  | 1 | - | 0 |
 | 2026-02-27 | ![](/img/no_icon_subject.png) | [L'amour fou de l'automate](https://bangumi.tv/subject/610629) |  | 1 | - | 0 |
 | 2026-02-27 | ![](/img/no_icon_subject.png) | [もう一度、してみたい。](https://bangumi.tv/subject/612879) |  | 1 | - | 0 |
+| 2026-02-27 | ![](/img/no_icon_subject.png) | [剣鬼バルゴ](https://bangumi.tv/subject/610628) |  | 2 | - | 0 |
+| 2026-02-27 | ![](/img/no_icon_subject.png) | [L'amour fou de l'automate](https://bangumi.tv/subject/610629) |  | 2 | - | 0 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9f/456169_gfU6h.jpg) | [驭灵师](https://bangumi.tv/subject/456169) | 驭灵师 | 未知 | - | 0 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg) | [刃牙道](https://bangumi.tv/subject/487716) | 刃牙道 | 未知 | - | 0 |
-| 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9f/456169_gfU6h.jpg) | [驭灵师](https://bangumi.tv/subject/456169) | 驭灵师 | 未知 | - | 0 |
+| 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9f/456169_8zzyK.jpg) | [驭灵师](https://bangumi.tv/subject/456169) | 驭灵师 | 18 | - | 10 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg) | [刃牙道](https://bangumi.tv/subject/487716) | 刃牙道 | 未知 | - | 0 |
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_rVbS4.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 未知 | - | 0 |
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_AvX9o.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 16 | - | 10 |
@@ -157,13 +159,15 @@
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/54/628629_5VNnW.jpg) | [魔物料理人](https://bangumi.tv/subject/628629) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/5a/628631_720f5.jpg) | [人生列车Life Train](https://bangumi.tv/subject/628631) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/26/628635_22k7K.jpg) | [再一次的“初见”](https://bangumi.tv/subject/628635) |  | 未知 | - | 0 |
-| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/24/628580_53WZ0.jpg) | [刹那芳华](https://bangumi.tv/subject/628580) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/41/f2/628592_0Rji8.jpg) | [末日后一天](https://bangumi.tv/subject/628592) | 末日后一天 | 1 | - | 10 |
-| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/8a/628605_OO5RQ.jpg) | [直到蓝天重现](https://bangumi.tv/subject/628605) |  | 未知 | - | 10 |
-| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/47/628619_2F8sB.jpg) | [灰烬Refusion：楔](https://bangumi.tv/subject/628619) |  | 未知 | - | 0 |
-| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/54/628629_5VNnW.jpg) | [魔物料理人](https://bangumi.tv/subject/628629) |  | 未知 | - | 10 |
-| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/5a/628631_720f5.jpg) | [人生列车Life Train](https://bangumi.tv/subject/628631) |  | 未知 | - | 0 |
 | 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/26/628635_22k7K.jpg) | [再一次的“初见”](https://bangumi.tv/subject/628635) | 再一次的“初见” | 1 | - | 10 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/24/628580_53WZ0.jpg) | [刹那芳华](https://bangumi.tv/subject/628580) | 刹那芳华 | 1 | - | 10 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/8a/628605_OO5RQ.jpg) | [直到蓝天重现](https://bangumi.tv/subject/628605) | 直到蓝天重现 | 1 | - | 10 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/47/628619_2F8sB.jpg) | [灰烬Refusion：楔](https://bangumi.tv/subject/628619) | 灰烬Refusion：楔 | 1 | - | 10 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3d/54/628629_5VNnW.jpg) | [魔物料理人](https://bangumi.tv/subject/628629) |  | 未知 | - | 10 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/5a/628631_720f5.jpg) | [人生列车](https://bangumi.tv/subject/628631) | 人生列车Life Train | 1 | - | 10 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/97/48/631617_zq9Nq.jpg) | [堪解人间](https://bangumi.tv/subject/631617) | 堪解人间 | 1 | - | 10 |
+| 2026-02-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8c/42/631619_ex09A.jpg) | [辟浪](https://bangumi.tv/subject/631619) | 辟浪 | 1 | - | 10 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg) | [天穗之咲稻姬 心轮的稻作日记](https://bangumi.tv/subject/524128) | 天穂のサクナヒメ ココロワ稲作日誌 | 2 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/c3/624844_dyD4U.jpg) | [2026卡酷动画春晚](https://bangumi.tv/subject/624844) |  | 1 | - | 0 |
 | 2026-02-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/99/627686_xxhzn.jpg) | [我在远古当卷王](https://bangumi.tv/subject/627686) | 我在远古当卷王 | 未知 | - | 0 |
@@ -195,7 +199,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 361 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 369 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
