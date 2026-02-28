@@ -133,11 +133,12 @@
 | 2026-02-27 | ![](/img/no_icon_subject.png) | [もう一度、してみたい。](https://bangumi.tv/subject/612879) |  | 1 | - | 0 |
 | 2026-02-27 | ![](/img/no_icon_subject.png) | [剣鬼バルゴ](https://bangumi.tv/subject/610628) |  | 2 | - | 0 |
 | 2026-02-27 | ![](/img/no_icon_subject.png) | [L'amour fou de l'automate](https://bangumi.tv/subject/610629) |  | 2 | - | 0 |
+| 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e1/fb/632064_k9K4w.jpg) | [「边狱巴士公司」3周年纪念动画](https://bangumi.tv/subject/632064) | [Limbus Company] 3주년 기념 애니메이션 | 未知 | - | 10 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9f/456169_gfU6h.jpg) | [驭灵师](https://bangumi.tv/subject/456169) | 驭灵师 | 未知 | - | 0 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg) | [刃牙道](https://bangumi.tv/subject/487716) | 刃牙道 | 未知 | - | 0 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/11/9f/456169_8zzyK.jpg) | [驭灵师](https://bangumi.tv/subject/456169) | 驭灵师 | 18 | - | 10 |
-| 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg) | [刃牙道](https://bangumi.tv/subject/487716) | 刃牙道 | 未知 | - | 10 |
 | 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/ad/631843_UdffI.jpg) | [桑田佳祐×电视动画『落语朱音』特别动画映像](https://bangumi.tv/subject/631843) | 桑田佳祐×TVアニメ『あかね噺』スペシャルアニメ映像 | 1 | - | 10 |
+| 2026-02-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg) | [刃牙道](https://bangumi.tv/subject/487716) | 刃牙道 | 未知 | - | 23 |
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_rVbS4.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 未知 | - | 0 |
 | 2026-02-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_AvX9o.jpg) | [修罗武神 第2季](https://bangumi.tv/subject/542324) |  | 16 | - | 10 |
 | 2026-02-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/71/630676_6v15K.jpg) | [仙逆 年番3](https://bangumi.tv/subject/630676) |  | 52 | - | 0 |
@@ -200,7 +201,7 @@
 | 2026-02-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg) | [LUCA](https://bangumi.tv/subject/625144) |  | 1 | - | 0 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 17 |
 | 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d1/37/624848_D8g8M.jpg) | [海馬成長痛 × Mass Destruction -Reload- マッシュアップMV](https://bangumi.tv/subject/624848) |  | 1 | - | 10 |
-| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 374 |
+| 2026-02-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg) | [名侦探光之美少女！](https://bangumi.tv/subject/611077) | 名探偵プリキュア！ | 未知 | - | 377 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/4a/461585_HDDuK.jpg) | [第一序列 第二季](https://bangumi.tv/subject/461585) | 第一序列2 | 26 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/b5/529871_ZVgWD.jpg) | [难哄](https://bangumi.tv/subject/529871) |  | 未知 | - | 0 |
 | 2026-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c2/2a/593867_H82M0.jpg) | [我在废土世界扫垃圾](https://bangumi.tv/subject/593867) |  | 16 | - | 0 |
