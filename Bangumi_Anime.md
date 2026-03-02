@@ -124,6 +124,7 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 0 |
+| 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 10 |
 | 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg) | [アイアイドルマスター ミリオンライブ！～いつか、真ん中で～](https://bangumi.tv/subject/541814) |  | 1 | - | 0 |
 | 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0f/06/552670_s4Jji.jpg) | [烟囱小镇的普佩 〜约定的钟楼〜](https://bangumi.tv/subject/552670) | 映画 えんとつ町のプペル 〜約束の時計台〜 | 1 | - | 0 |
 | 2026-03-27 | ![](/img/no_icon_subject.png) | [蛇と蜘蛛](https://bangumi.tv/subject/615797) |  | 1 | - | 0 |
@@ -134,8 +135,10 @@
 | 2026-03-20 | ![](/img/no_icon_subject.png) | [アナルマニアオタクとアナニー大好きなお嬢様 〜奇跡のマッチング〜](https://bangumi.tv/subject/615309) |  | 2 | - | 0 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/75/628203_1A1oO.jpg) | [撅嘴鱼的旅程](https://bangumi.tv/subject/628203) | The Pout-Pout Fish | 1 | - | 0 |
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 46 |
+| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 47 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/16/ff/576669_R87I7.jpg) | [绽放的巴黎之星](https://bangumi.tv/subject/576669) | パリに咲くエトワール | 1 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/7d/611768_C49m9.jpg) | [电影秘密的偶像公主](https://bangumi.tv/subject/611768) | 映画ひみつのアイプリ まんかいバズリウムライブ！ | 1 | - | 0 |
+| 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 未知 | - | 17 |
 | 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 未知 | - | 17 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/cc/491656_F6F5F.jpg) | [花绿青绽放的黎明](https://bangumi.tv/subject/491656) | 花緑青が明ける日に | 1 | - | 0 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/5c/525516_Y3koK.jpg) | [河狸变身计划](https://bangumi.tv/subject/525516) | Hoppers | 1 | - | 0 |
@@ -143,6 +146,8 @@
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ab/4d/619326_921rN.jpg) | [もし、これから生まれるのなら](https://bangumi.tv/subject/619326) |  | 1 | - | 0 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/f0/620918_glq5F.jpg) | [NEEDY GIRL OVERDOSE -OVERTURE-](https://bangumi.tv/subject/620918) |  | 1 | - | 0 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
+| 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
+| 2026-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 1 | - | 0 |
