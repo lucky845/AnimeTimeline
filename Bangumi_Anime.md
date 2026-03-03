@@ -145,8 +145,10 @@
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg) | [少女与战车 lovelove大作战！ 第3幕](https://bangumi.tv/subject/544627) | ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕 | 1 | - | 10 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ab/4d/619326_921rN.jpg) | [もし、これから生まれるのなら](https://bangumi.tv/subject/619326) |  | 1 | - | 0 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/f0/620918_glq5F.jpg) | [NEEDY GIRL OVERDOSE -OVERTURE-](https://bangumi.tv/subject/620918) |  | 1 | - | 0 |
+| 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg) | [少女与战车 lovelove大作战！ 第3幕](https://bangumi.tv/subject/544627) | ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕 | 3 | - | 10 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
-| 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
+| 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 60 | - | 0 |
+| 2026-03-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/91/250224_BTPPK.jpg) | [放开那个女巫](https://bangumi.tv/subject/250224) | 放开那个女巫 | 8 | - | 0 |
 | 2026-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
