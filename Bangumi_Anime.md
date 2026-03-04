@@ -135,7 +135,7 @@
 | 2026-03-20 | ![](/img/no_icon_subject.png) | [アナルマニアオタクとアナニー大好きなお嬢様 〜奇跡のマッチング〜](https://bangumi.tv/subject/615309) |  | 2 | - | 0 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/75/628203_1A1oO.jpg) | [撅嘴鱼的旅程](https://bangumi.tv/subject/628203) | The Pout-Pout Fish | 1 | - | 0 |
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 46 |
-| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 47 |
+| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 48 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/16/ff/576669_R87I7.jpg) | [绽放的巴黎之星](https://bangumi.tv/subject/576669) | パリに咲くエトワール | 1 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/7d/611768_C49m9.jpg) | [电影秘密的偶像公主](https://bangumi.tv/subject/611768) | 映画ひみつのアイプリ まんかいバズリウムライブ！ | 1 | - | 0 |
 | 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 未知 | - | 17 |
