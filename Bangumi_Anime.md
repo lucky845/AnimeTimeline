@@ -146,6 +146,8 @@
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ab/4d/619326_921rN.jpg) | [もし、これから生まれるのなら](https://bangumi.tv/subject/619326) |  | 1 | - | 0 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/f0/620918_glq5F.jpg) | [NEEDY GIRL OVERDOSE -OVERTURE-](https://bangumi.tv/subject/620918) |  | 1 | - | 0 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg) | [少女与战车 lovelove大作战！ 第3幕](https://bangumi.tv/subject/544627) | ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕 | 3 | - | 10 |
+| 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/9f/633363_rR8x8.jpg) | [【Animation MV】ファッションビート](https://bangumi.tv/subject/633363) |  | 未知 | - | 0 |
+| 2026-03-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/ca/633305_72gBg.jpg) | [ヨルシカ - 千鳥（OFFICIAL VIDEO）](https://bangumi.tv/subject/633305) |  | 1 | - | 10 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 60 | - | 0 |
 | 2026-03-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/91/250224_BTPPK.jpg) | [放开那个女巫](https://bangumi.tv/subject/250224) | 放开那个女巫 | 8 | - | 0 |
