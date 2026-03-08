@@ -140,7 +140,7 @@
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/7d/611768_C49m9.jpg) | [电影秘密的偶像公主](https://bangumi.tv/subject/611768) | 映画ひみつのアイプリ まんかいバズリウムライブ！ | 1 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1d/63/591580_JEJ3x.jpg) | [沧元图前传 东宁府的夏天](https://bangumi.tv/subject/591580) |  | 3 | - | 10 |
 | 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 未知 | - | 17 |
-| 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 未知 | - | 17 |
+| 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 12 | - | 22 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/cc/491656_F6F5F.jpg) | [花绿青绽放的黎明](https://bangumi.tv/subject/491656) | 花緑青が明ける日に | 1 | - | 0 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/5c/525516_Y3koK.jpg) | [河狸变身计划](https://bangumi.tv/subject/525516) | Hoppers | 1 | - | 0 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg) | [少女与战车 lovelove大作战！ 第3幕](https://bangumi.tv/subject/544627) | ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕 | 1 | - | 10 |
