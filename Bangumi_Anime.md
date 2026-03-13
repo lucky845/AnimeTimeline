@@ -135,7 +135,7 @@
 | 2026-03-20 | ![](/img/no_icon_subject.png) | [アナルマニアオタクとアナニー大好きなお嬢様 〜奇跡のマッチング〜](https://bangumi.tv/subject/615309) |  | 2 | - | 0 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/75/628203_1A1oO.jpg) | [撅嘴鱼的旅程](https://bangumi.tv/subject/628203) | The Pout-Pout Fish | 1 | - | 0 |
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 46 |
-| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 47 |
+| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 47 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/16/ff/576669_R87I7.jpg) | [绽放的巴黎之星](https://bangumi.tv/subject/576669) | パリに咲くエトワール | 1 | - | 0 |
@@ -154,6 +154,7 @@
 | 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/9f/633363_rR8x8.jpg) | [【Animation MV】ファッションビート](https://bangumi.tv/subject/633363) |  | 未知 | - | 0 |
 | 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/0c/633540_sv3N3.jpg) | [彻夜徘徊](https://bangumi.tv/subject/633540) | よもすがら | 1 | - | 10 |
 | 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/9f/633363_8wXxe.jpg) | [【Animation MV】ファッションビート](https://bangumi.tv/subject/633363) |  | 未知 | - | 10 |
+| 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/ba/634877_GPFMg.jpg) | [いのちになる少女](https://bangumi.tv/subject/634877) |  | 1 | - | 0 |
 | 2026-03-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/ca/633305_72gBg.jpg) | [ヨルシカ - 千鳥（OFFICIAL VIDEO）](https://bangumi.tv/subject/633305) |  | 1 | - | 10 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 60 | - | 0 |
