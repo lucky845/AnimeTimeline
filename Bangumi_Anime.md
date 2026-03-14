@@ -118,11 +118,13 @@
 - [1908年](#1908年)
 - [1907年](#1907年)
 - [1906年](#1906年)
+- [1226年](#1226年)
 
 ## 2026年
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 10 |
 | 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg) | [アイアイドルマスター ミリオンライブ！～いつか、真ん中で～](https://bangumi.tv/subject/541814) |  | 1 | - | 0 |
@@ -142,7 +144,7 @@
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/7d/611768_C49m9.jpg) | [电影秘密的偶像公主](https://bangumi.tv/subject/611768) | 映画ひみつのアイプリ まんかいバズリウムライブ！ | 1 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1d/63/591580_JEJ3x.jpg) | [沧元图前传 东宁府的夏天](https://bangumi.tv/subject/591580) |  | 3 | - | 10 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/634216_p74O0.jpg) | [Pro,Pro,Pro!!](https://bangumi.tv/subject/634216) |  | 未知 | - | 0 |
-| 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/634216_p74O0.jpg) | [Pro,Pro,Pro!!](https://bangumi.tv/subject/634216) |  | 未知 | - | 0 |
+| 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/634216_GK90i.jpg) | [Pro,Pro,Pro!!](https://bangumi.tv/subject/634216) |  | 未知 | - | 10 |
 | 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 未知 | - | 17 |
 | 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 12 | - | 22 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/cc/491656_F6F5F.jpg) | [花绿青绽放的黎明](https://bangumi.tv/subject/491656) | 花緑青が明ける日に | 1 | - | 0 |
@@ -153,13 +155,12 @@
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg) | [少女与战车 lovelove大作战！ 第3幕](https://bangumi.tv/subject/544627) | ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕 | 3 | - | 10 |
 | 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/9f/633363_rR8x8.jpg) | [【Animation MV】ファッションビート](https://bangumi.tv/subject/633363) |  | 未知 | - | 0 |
 | 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/0c/633540_sv3N3.jpg) | [彻夜徘徊](https://bangumi.tv/subject/633540) | よもすがら | 1 | - | 10 |
-| 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/9f/633363_8wXxe.jpg) | [【Animation MV】ファッションビート](https://bangumi.tv/subject/633363) |  | 未知 | - | 10 |
 | 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/ba/634877_GPFMg.jpg) | [いのちになる少女](https://bangumi.tv/subject/634877) |  | 1 | - | 0 |
+| 2026-03-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/9f/633363_8wXxe.jpg) | [【Animation MV】ファッションビート](https://bangumi.tv/subject/633363) |  | 未知 | - | 10 |
 | 2026-03-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5a/ca/633305_72gBg.jpg) | [ヨルシカ - 千鳥（OFFICIAL VIDEO）](https://bangumi.tv/subject/633305) |  | 1 | - | 10 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 60 | - | 0 |
 | 2026-03-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/91/250224_BTPPK.jpg) | [放开那个女巫](https://bangumi.tv/subject/250224) | 放开那个女巫 | 8 | - | 0 |
-| 2026-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 1 | - | 0 |
@@ -13032,4 +13033,10 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1906-04-07 | ![](https://lain.bgm.tv/pic/cover/c/4e/c4/113652_WhQZ1.jpg) | [一张滑稽面孔的幽默姿态](https://bangumi.tv/subject/113652) | Humorous Phases of Funny Faces | 1 | - | 48 |
+
+## 1226年
+
+| 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1226-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/15/363612_On6wg.jpg) | [沙盒](https://bangumi.tv/subject/363612) | [沙盒] 动画B | 1 | - | 11 |
 
