@@ -125,6 +125,8 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
+| 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
+| 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/4c/635233_NNkCf.jpg) | [こんなこいるかな](https://bangumi.tv/subject/635233) |  | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 10 |
 | 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg) | [アイアイドルマスター ミリオンライブ！～いつか、真ん中で～](https://bangumi.tv/subject/541814) |  | 1 | - | 0 |
@@ -140,11 +142,12 @@
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 47 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
+| 2026-03-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/aa/62/635290_OBIev.jpg) | [板取小学校 閉校式](https://bangumi.tv/subject/635290) |  | 未知 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/16/ff/576669_R87I7.jpg) | [绽放的巴黎之星](https://bangumi.tv/subject/576669) | パリに咲くエトワール | 1 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/7d/611768_C49m9.jpg) | [电影秘密的偶像公主](https://bangumi.tv/subject/611768) | 映画ひみつのアイプリ まんかいバズリウムライブ！ | 1 | - | 0 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1d/63/591580_JEJ3x.jpg) | [沧元图前传 东宁府的夏天](https://bangumi.tv/subject/591580) |  | 3 | - | 10 |
 | 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/634216_p74O0.jpg) | [Pro,Pro,Pro!!](https://bangumi.tv/subject/634216) |  | 未知 | - | 0 |
-| 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/634216_GK90i.jpg) | [Pro,Pro,Pro!!](https://bangumi.tv/subject/634216) |  | 未知 | - | 10 |
+| 2026-03-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/634216_GK90i.jpg) | [无限∞动画](https://bangumi.tv/subject/634216) | ムゲン∞アニメ | 未知 | - | 10 |
 | 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 未知 | - | 17 |
 | 2026-03-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg) | [动物狂想曲 最终季 第二部分](https://bangumi.tv/subject/485990) | BEASTARS FINAL SEASON Part2 | 12 | - | 22 |
 | 2026-03-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/cc/491656_F6F5F.jpg) | [花绿青绽放的黎明](https://bangumi.tv/subject/491656) | 花緑青が明ける日に | 1 | - | 0 |
@@ -161,7 +164,6 @@
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 未知 | - | 0 |
 | 2026-03-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6b/d4/608049_8CyB6.jpg) | [盗妖行](https://bangumi.tv/subject/608049) |  | 60 | - | 0 |
 | 2026-03-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/91/250224_BTPPK.jpg) | [放开那个女巫](https://bangumi.tv/subject/250224) | 放开那个女巫 | 8 | - | 0 |
-| 2026-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 未知 | - | 0 |
 | 2026-02-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/a7/626894_W8S9z.jpg) | [团圆令](https://bangumi.tv/subject/626894) | 团圆令 | 1 | - | 0 |
 | 2026-02-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f3/f0/483867_6j26J.jpg) | [戴帽子的猫](https://bangumi.tv/subject/483867) | The Cat in the Hat | 1 | - | 0 |
