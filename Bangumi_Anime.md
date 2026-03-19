@@ -126,6 +126,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/4c/635233_NNkCf.jpg) | [こんなこいるかな](https://bangumi.tv/subject/635233) |  | 未知 | - | 0 |
+| 2026-03-30 |  | [反斗小王子 第29季](https://bangumi.tv/subject/636048) | おじゃる丸 第29シリーズ | 未知 | - | 0 |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/4c/635233_NNkCf.jpg) | [こんなこいるかな](https://bangumi.tv/subject/635233) |  | 未知 | - | 0 |
 | 2026-03-30 |  | [反斗小王子 第29季](https://bangumi.tv/subject/636048) | おじゃる丸 第29シリーズ | 未知 | - | 0 |
@@ -142,7 +143,8 @@
 | 2026-03-20 | ![](/img/no_icon_subject.png) | [アナルマニアオタクとアナニー大好きなお嬢様 〜奇跡のマッチング〜](https://bangumi.tv/subject/615309) |  | 2 | - | 0 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/75/628203_1A1oO.jpg) | [撅嘴鱼的旅程](https://bangumi.tv/subject/628203) | The Pout-Pout Fish | 1 | - | 0 |
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 46 |
-| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 64 |
+| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 51 |
+| 2026-03-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_Dt2r7.jpg) | [无敌少侠 第四季](https://bangumi.tv/subject/505401) | Invincible Season 4 | 8 | - | 10 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/aa/62/635290_OBIev.jpg) | [板取小学校 閉校式](https://bangumi.tv/subject/635290) |  | 未知 | - | 0 |
