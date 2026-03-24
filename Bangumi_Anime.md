@@ -130,6 +130,7 @@
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/4c/635233_NNkCf.jpg) | [こんなこいるかな](https://bangumi.tv/subject/635233) |  | 未知 | - | 0 |
 | 2026-03-30 |  | [反斗小王子 第29季](https://bangumi.tv/subject/636048) | おじゃる丸 第29シリーズ | 未知 | - | 0 |
+| 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/95/637408_ury61.jpg) | [うそ探偵トマント](https://bangumi.tv/subject/637408) |  | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 10 |
 | 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg) | [アイアイドルマスター ミリオンライブ！～いつか、真ん中で～](https://bangumi.tv/subject/541814) |  | 1 | - | 0 |
@@ -138,6 +139,7 @@
 | 2026-03-27 | ![](/img/no_icon_subject.png) | [魅影炼金 ~西尔维娅的心跳都市计划~](https://bangumi.tv/subject/617238) | ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～ | 1 | - | 0 |
 | 2026-03-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/32/434759_1Mk2Z.jpg) | [搜神记](https://bangumi.tv/subject/434759) |  | 18 | - | 0 |
 | 2026-03-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/90/623446_42p6p.jpg) | [福福的地图](https://bangumi.tv/subject/623446) | ふくふくの地図 | 1 | - | 0 |
+| 2026-03-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b6/62/637293_0uNRw.jpg) | [【グッド！モーニング】オープニングアニメーション](https://bangumi.tv/subject/637293) |  | 未知 | - | 10 |
 | 2026-03-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/46/ea/637077_HMRGO.jpg) | [プリマドンナ](https://bangumi.tv/subject/637077) |  | 1 | - | 20 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/e3/583746_7GAiU.jpg) | [剧场版 暗杀教室 大家的时间](https://bangumi.tv/subject/583746) | 劇場版 暗殺教室 みんなの時間 | 1 | - | 10 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/b5/605312_wz0Xt.jpg) | [おしり前マン〜復活のおしり前帝国〜](https://bangumi.tv/subject/605312) |  | 1 | - | 0 |
@@ -145,7 +147,7 @@
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/75/628203_1A1oO.jpg) | [撅嘴鱼的旅程](https://bangumi.tv/subject/628203) | The Pout-Pout Fish | 1 | - | 0 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/74/636546_8v6GJ.jpg) | [《机动武斗传G高达》30周年纪念影片](https://bangumi.tv/subject/636546) | 『機動武闘伝Gガンダム』30周年記念ファイティングムービー | 1 | - | 10 |
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 46 |
-| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 834 |
+| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 895 |
 | 2026-03-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_Dt2r7.jpg) | [无敌少侠 第四季](https://bangumi.tv/subject/505401) | Invincible Season 4 | 8 | - | 10 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
