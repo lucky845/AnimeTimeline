@@ -138,6 +138,7 @@
 | 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0f/06/552670_s4Jji.jpg) | [烟囱小镇的普佩 〜约定的钟楼〜](https://bangumi.tv/subject/552670) | 映画 えんとつ町のプペル 〜約束の時計台〜 | 1 | - | 0 |
 | 2026-03-27 | ![](/img/no_icon_subject.png) | [蛇と蜘蛛](https://bangumi.tv/subject/615797) |  | 1 | - | 0 |
 | 2026-03-27 | ![](/img/no_icon_subject.png) | [魅影炼金 ~西尔维娅的心跳都市计划~](https://bangumi.tv/subject/617238) | ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～ | 1 | - | 0 |
+| 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg) | [アイドルマスター ミリオンライブ！～いつか、真ん中で～](https://bangumi.tv/subject/541814) |  | 1 | - | 10 |
 | 2026-03-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/32/434759_1Mk2Z.jpg) | [搜神记](https://bangumi.tv/subject/434759) |  | 18 | - | 0 |
 | 2026-03-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/82/90/623446_42p6p.jpg) | [福福的地图](https://bangumi.tv/subject/623446) | ふくふくの地図 | 1 | - | 0 |
 | 2026-03-23 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b6/62/637293_0uNRw.jpg) | [【グッド！モーニング】オープニングアニメーション](https://bangumi.tv/subject/637293) |  | 未知 | - | 10 |
@@ -149,7 +150,7 @@
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/75/628203_1A1oO.jpg) | [撅嘴鱼的旅程](https://bangumi.tv/subject/628203) | The Pout-Pout Fish | 1 | - | 0 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/74/636546_8v6GJ.jpg) | [《机动武斗传G高达》30周年纪念影片](https://bangumi.tv/subject/636546) | 『機動武闘伝Gガンダム』30周年記念ファイティングムービー | 1 | - | 10 |
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 46 |
-| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 969 |
+| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 999 |
 | 2026-03-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_Dt2r7.jpg) | [无敌少侠 第四季](https://bangumi.tv/subject/505401) | Invincible Season 4 | 8 | - | 10 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
