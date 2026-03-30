@@ -128,13 +128,16 @@
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/4c/635233_NNkCf.jpg) | [こんなこいるかな](https://bangumi.tv/subject/635233) |  | 未知 | - | 0 |
 | 2026-03-30 |  | [反斗小王子 第29季](https://bangumi.tv/subject/636048) | おじゃる丸 第29シリーズ | 未知 | - | 0 |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/95/637408_ury61.jpg) | [うそ探偵トマント](https://bangumi.tv/subject/637408) |  | 未知 | - | 0 |
-| 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 未知 | - | 10 |
+| 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg) | [在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP](https://bangumi.tv/subject/459601) | 異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル | 1 | - | 45 |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/4c/635233_NNkCf.jpg) | [こんなこいるかな](https://bangumi.tv/subject/635233) |  | 未知 | - | 0 |
 | 2026-03-30 |  | [反斗小王子 第29季](https://bangumi.tv/subject/636048) | おじゃる丸 第29シリーズ | 未知 | - | 0 |
 | 2026-03-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/95/637408_ury61.jpg) | [うそ探偵トマント](https://bangumi.tv/subject/637408) |  | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/04/83/638189_Ada8m.jpg) | [アニメとススメ。シーズン3](https://bangumi.tv/subject/638189) |  | 4 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_r2Qiu.jpg) | [春夏秋冬代行者 春之舞](https://bangumi.tv/subject/551455) | 春夏秋冬代行者 春の舞 | 14 | - | 80 |
+| 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/30/638437_6b4R4.jpg) | [管制塔より](https://bangumi.tv/subject/638437) |  | 未知 | - | 0 |
+| 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/c9/638440_5P27W.jpg) | [神姬PROJECT 10周年纪念PV（2026）](https://bangumi.tv/subject/638440) | 神姫PROJECT 10周年記念PV（2026） | 未知 | - | 0 |
+| 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/60/31/638186_Z8c1C.jpg) | [AnimeCanvas コマーシャルフィルム](https://bangumi.tv/subject/638186) |  | 1 | - | 10 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/30/638437_6b4R4.jpg) | [管制塔より](https://bangumi.tv/subject/638437) |  | 未知 | - | 0 |
 | 2026-03-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/64/c9/638440_5P27W.jpg) | [神姬PROJECT 10周年纪念PV（2026）](https://bangumi.tv/subject/638440) | 神姫PROJECT 10周年記念PV（2026） | 未知 | - | 0 |
 | 2026-03-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg) | [アイアイドルマスター ミリオンライブ！～いつか、真ん中で～](https://bangumi.tv/subject/541814) |  | 1 | - | 0 |
@@ -154,7 +157,7 @@
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/75/628203_1A1oO.jpg) | [撅嘴鱼的旅程](https://bangumi.tv/subject/628203) | The Pout-Pout Fish | 1 | - | 0 |
 | 2026-03-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/74/636546_8v6GJ.jpg) | [《机动武斗传G高达》30周年纪念影片](https://bangumi.tv/subject/636546) | 『機動武闘伝Gガンダム』30周年記念ファイティングムービー | 1 | - | 10 |
 | 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 46 |
-| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 1095 |
+| 2026-03-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_xZf5d.jpg) | [飙马野郎 JOJO的奇妙冒险](https://bangumi.tv/subject/551918) | スティール・ボール・ラン ジョジョの奇妙な冒険 | 未知 | - | 1136 |
 | 2026-03-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_Dt2r7.jpg) | [无敌少侠 第四季](https://bangumi.tv/subject/505401) | Invincible Season 4 | 8 | - | 10 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
 | 2026-03-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/78/634276_VBrr2.jpg) | [哈羅德-Harold Godwinson-](https://bangumi.tv/subject/634276) |  | 未知 | - | 0 |
