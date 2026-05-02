@@ -130,14 +130,19 @@
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [パイハメ家族](https://bangumi.tv/subject/637792) |  | 2 | - | 10 |
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [はーとまーく多め。](https://bangumi.tv/subject/637869) |  | 2 | - | 10 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
+| 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg) | [瑞克和莫蒂 第九季](https://bangumi.tv/subject/451757) | Rick and Morty Season 9 | 10 | - | 0 |
+| 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg) | [机动警察 EZY 第一章](https://bangumi.tv/subject/217071) | 機動警察パトレイバー EZY File 1 | 3 | - | 10 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
+| 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
+| 2026-05-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/07/b0/637559_uoEn2.jpg) | [Regular Show: The Lost Tapes](https://bangumi.tv/subject/637559) |  | 未知 | - | 0 |
 | 2026-05-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/07/b0/637559_uoEn2.jpg) | [Regular Show: The Lost Tapes](https://bangumi.tv/subject/637559) |  | 未知 | - | 0 |
 | 2026-05-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/4f/633618_zeK00.jpg) | [Unanswered//butterfly](https://bangumi.tv/subject/633618) |  | 1 | - | 0 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/16/501729_9N17s.jpg) | [剧场版 魔法科高校的劣等生 四叶继承篇](https://bangumi.tv/subject/501729) | 劇場版 魔法科高校の劣等生 四葉継承編 | 1 | - | 13 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg) | [电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party](https://bangumi.tv/subject/563256) | 映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party | 1 | - | 10 |
+| 2026-05-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/35/576731_hM49j.jpg) | [星辰变 最终季](https://bangumi.tv/subject/576731) | 星辰变 最终季 | 未知 | - | 0 |
 | 2026-05-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/35/576731_hM49j.jpg) | [星辰变 最终季](https://bangumi.tv/subject/576731) | 星辰变 最终季 | 未知 | - | 0 |
 | 2026-05-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/11/453309_8W3ZB.jpg) | [非人哉 第三季 13-24集](https://bangumi.tv/subject/453309) | 非人哉 第三季 Part.2 | 12 | - | 10 |
 | 2026-05-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/55/644516_Nq35f.jpg) | [『我的英雄学院』No.170＋1『More』](https://bangumi.tv/subject/644516) | 『僕のヒーローアカデミア』No.170＋1『More』 | 1 | - | 0 |
@@ -146,6 +151,9 @@
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/87/639432_o0oO7.jpg) | [猪猪侠大电影之竞速小英雄](https://bangumi.tv/subject/639432) |  | 1 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/69/640146_rroFT.jpg) | [请多多指教](https://bangumi.tv/subject/640146) | 친하게 지내자 | 未知 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 0 |
+| 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/69/640146_rroFT.jpg) | [请多多指教](https://bangumi.tv/subject/640146) | 친하게 지내자 | 未知 | - | 0 |
+| 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 0 |
+| 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_4chB8.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_4chB8.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-04-30 | ![](/img/no_icon_subject.png) | [巨乳が2人いないと勃起しない夫のために友達を連れてきた妻](https://bangumi.tv/subject/631928) |  | 2 | - | 0 |
 | 2026-04-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/e5/395220_MxbAG.jpg) | [盘龙](https://bangumi.tv/subject/395220) | 盘龙 | 未知 | - | 0 |
