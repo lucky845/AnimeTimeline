@@ -134,6 +134,7 @@
 | 2026-05-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg) | [瑞克和莫蒂 第九季](https://bangumi.tv/subject/451757) | Rick and Morty Season 9 | 10 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 0 |
+| 2026-05-22 |  | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg) | [机动警察 EZY 第一章](https://bangumi.tv/subject/217071) | 機動警察パトレイバー EZY File 1 | 3 | - | 10 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
