@@ -145,7 +145,7 @@
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/16/501729_9N17s.jpg) | [剧场版 魔法科高校的劣等生 四叶继承篇](https://bangumi.tv/subject/501729) | 劇場版 魔法科高校の劣等生 四葉継承編 | 1 | - | 13 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg) | [电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party](https://bangumi.tv/subject/563256) | 映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party | 1 | - | 10 |
 | 2026-05-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/35/576731_hM49j.jpg) | [星辰变 最终季](https://bangumi.tv/subject/576731) | 星辰变 最终季 | 未知 | - | 0 |
-| 2026-05-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/35/576731_hM49j.jpg) | [星辰变 最终季](https://bangumi.tv/subject/576731) | 星辰变 最终季 | 未知 | - | 0 |
+| 2026-05-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/35/576731_hM49j.jpg) | [星辰变 最终季](https://bangumi.tv/subject/576731) | 星辰变 最终季 | 未知 | - | 10 |
 | 2026-05-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/11/453309_8W3ZB.jpg) | [非人哉 第三季 13-24集](https://bangumi.tv/subject/453309) | 非人哉 第三季 Part.2 | 12 | - | 10 |
 | 2026-05-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/55/644516_Nq35f.jpg) | [『我的英雄学院』No.170＋1『More』](https://bangumi.tv/subject/644516) | 『僕のヒーローアカデミア』No.170＋1『More』 | 1 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7b/2f/577199_YH31g.jpg) | [吞噬星空剧场版 决战原始星](https://bangumi.tv/subject/577199) | 吞噬星空剧场版 决战原始星 | 1 | - | 10 |
@@ -154,7 +154,7 @@
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/69/640146_rroFT.jpg) | [请多多指教](https://bangumi.tv/subject/640146) | 친하게 지내자 | 未知 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/69/640146_rroFT.jpg) | [请多多指教](https://bangumi.tv/subject/640146) | 친하게 지내자 | 未知 | - | 0 |
-| 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 0 |
+| 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 10 |
 | 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_4chB8.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_4chB8.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-04-30 | ![](/img/no_icon_subject.png) | [巨乳が2人いないと勃起しない夫のために友達を連れてきた妻](https://bangumi.tv/subject/631928) |  | 2 | - | 0 |
