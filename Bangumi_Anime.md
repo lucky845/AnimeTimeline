@@ -124,6 +124,7 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/c9/401552_N92P3.jpg) | [钟馗](https://bangumi.tv/subject/401552) | 钟馗 | 1 | - | 0 |
 | 2026-05-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/64/505562_HEZ2g.jpg) | [剧场版 物怪 蛇神](https://bangumi.tv/subject/505562) | 劇場版 モノノ怪 蛇神 | 1 | - | 0 |
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [霧中ノ塔](https://bangumi.tv/subject/631634) |  | 1 | - | 0 |
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [性指導員のお仕事 The Animation](https://bangumi.tv/subject/632411) |  | 1 | - | 0 |
@@ -137,6 +138,7 @@
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 0 |
 | 2026-05-22 |  | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg) | [机动警察 EZY 第一章](https://bangumi.tv/subject/217071) | 機動警察パトレイバー EZY File 1 | 3 | - | 10 |
+| 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/a9/648065_gs9XZ.jpg) | [라온의 남자](https://bangumi.tv/subject/648065) |  | 4 | - | 0 |
 | 2026-05-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/e4/507822_q52CC.jpg) | [全职法师 第七季](https://bangumi.tv/subject/507822) | 全职法师Ⅶ | 12 | - | 10 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
@@ -146,6 +148,7 @@
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/16/501729_9N17s.jpg) | [剧场版 魔法科高校的劣等生 四叶继承篇](https://bangumi.tv/subject/501729) | 劇場版 魔法科高校の劣等生 四葉継承編 | 1 | - | 13 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg) | [电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party](https://bangumi.tv/subject/563256) | 映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party | 1 | - | 10 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/26/647694_A1976.jpg) | [【学园偶像大师】『H.I.F篇』游戏内OP动画](https://bangumi.tv/subject/647694) | 【学マス】『H.I.F編』ゲーム内OPアニメーション【アイドルマスター】 | 1 | - | 10 |
+| 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7b/31/647988_IAzbK.jpg) | [STAR TRAIL](https://bangumi.tv/subject/647988) |  | 1 | - | 10 |
 | 2026-05-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/35/576731_hM49j.jpg) | [星辰变 最终季](https://bangumi.tv/subject/576731) | 星辰变 最终季 | 未知 | - | 0 |
 | 2026-05-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/77/35/576731_hM49j.jpg) | [星辰变 最终季](https://bangumi.tv/subject/576731) | 星辰变 最终季 | 12 | - | 10 |
 | 2026-05-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/11/453309_8W3ZB.jpg) | [非人哉 第三季 13-24集](https://bangumi.tv/subject/453309) | 非人哉 第三季 Part.2 | 12 | - | 10 |
