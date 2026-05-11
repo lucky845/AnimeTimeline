@@ -139,6 +139,7 @@
 | 2026-05-22 |  | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg) | [机动警察 EZY 第一章](https://bangumi.tv/subject/217071) | 機動警察パトレイバー EZY File 1 | 3 | - | 10 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/a9/648065_gs9XZ.jpg) | [라온의 남자](https://bangumi.tv/subject/648065) |  | 4 | - | 0 |
+| 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/d4/649548_rqf3i.jpg) | [茅山学宫](https://bangumi.tv/subject/649548) |  | 未知 | - | 0 |
 | 2026-05-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/e4/507822_q52CC.jpg) | [全职法师 第七季](https://bangumi.tv/subject/507822) | 全职法师Ⅶ | 12 | - | 10 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
