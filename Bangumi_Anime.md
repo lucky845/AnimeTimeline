@@ -141,6 +141,7 @@
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/a9/648065_gs9XZ.jpg) | [라온의 남자](https://bangumi.tv/subject/648065) |  | 4 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/d4/649548_rqf3i.jpg) | [茅山学宫](https://bangumi.tv/subject/649548) |  | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/d4/649548_rqf3i.jpg) | [茅山学宫](https://bangumi.tv/subject/649548) |  | 未知 | - | 0 |
+| 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_8l820.jpg) | [少年与高达](https://bangumi.tv/subject/651692) | 少年とガンダム | 1 | - | 57 |
 | 2026-05-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/e4/507822_q52CC.jpg) | [全职法师 第七季](https://bangumi.tv/subject/507822) | 全职法师Ⅶ | 12 | - | 10 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 8 | - | 0 |
