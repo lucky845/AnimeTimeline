@@ -134,12 +134,14 @@
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg) | [瑞克和莫蒂 第九季](https://bangumi.tv/subject/451757) | Rick and Morty Season 9 | 10 | - | 0 |
+| 2026-05-24 | ![](/img/no_icon_subject.png) | [Taboo Spell 淫乱爆乳女教師II MOVIE版](https://bangumi.tv/subject/655278) |  | 1 | - | 10 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 0 |
 | 2026-05-22 |  | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9c/dd/652409_Cz86z.jpg) | [前哨基地，今日无战事](https://bangumi.tv/subject/652409) | 전초기지, 오늘은 쉽니다 | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_cwg8w.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 10 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f3/77/646494_67UIK.jpg) | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9c/dd/652409_Cz86z.jpg) | [前哨基地，今日无战事](https://bangumi.tv/subject/652409) | 전초기지, 오늘은 쉽니다 | 未知 | - | 10 |
+| 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/94/76/655393_nNqnv.jpg) | [最后的春天](https://bangumi.tv/subject/655393) | Dernier Printemps | 未知 | - | 0 |
 | 2026-05-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/3d/653666_oh53y.jpg) | [numb numb](https://bangumi.tv/subject/653666) |  | 1 | - | 10 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg) | [机动警察 EZY 第一章](https://bangumi.tv/subject/217071) | 機動警察パトレイバー EZY File 1 | 3 | - | 10 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/a9/648065_gs9XZ.jpg) | [라온의 남자](https://bangumi.tv/subject/648065) |  | 4 | - | 0 |
