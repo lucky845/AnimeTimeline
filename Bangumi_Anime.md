@@ -133,11 +133,14 @@
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [霧中ノ塔](https://bangumi.tv/subject/631634) |  | 2 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
+| 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/21/655548_cvPUp.jpg) | [養女の役をうまくやり過ぎました](https://bangumi.tv/subject/655548) |  | 10 | - | 0 |
+| 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/1e/655557_5R9JK.jpg) | [生き残りプレイヤー、二度目のデスゲームで最強無双](https://bangumi.tv/subject/655557) |  | 10 | - | 0 |
 | 2026-05-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg) | [瑞克和莫蒂 第九季](https://bangumi.tv/subject/451757) | Rick and Morty Season 9 | 10 | - | 0 |
 | 2026-05-24 | ![](/img/no_icon_subject.png) | [Taboo Spell 淫乱爆乳女教師II MOVIE版](https://bangumi.tv/subject/655278) |  | 1 | - | 10 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 0 |
 | 2026-05-22 |  | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9c/dd/652409_Cz86z.jpg) | [前哨基地，今日无战事](https://bangumi.tv/subject/652409) | 전초기지, 오늘은 쉽니다 | 未知 | - | 0 |
+| 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/94/76/655393_nNqnv.jpg) | [最后的春天](https://bangumi.tv/subject/655393) | Dernier Printemps | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_cwg8w.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 10 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f3/77/646494_67UIK.jpg) | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9c/dd/652409_Cz86z.jpg) | [前哨基地，今日无战事](https://bangumi.tv/subject/652409) | 전초기지, 오늘은 쉽니다 | 未知 | - | 10 |
@@ -170,6 +173,12 @@
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/69/640146_rroFT.jpg) | [请多多指教](https://bangumi.tv/subject/640146) | 친하게 지내자 | 未知 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 10 |
 | 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_4chB8.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
+| 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/7c/655527_iIIue.jpg) | [緑陰の冠](https://bangumi.tv/subject/655527) |  | 11 | - | 0 |
+| 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/da/655530_9cwk7.jpg) | [誰かが私に憑依した](https://bangumi.tv/subject/655530) |  | 10 | - | 0 |
+| 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a7/f0/655535_q3T88.jpg) | [悪役に仕立てあげられた令嬢は財力を隠す](https://bangumi.tv/subject/655535) |  | 10 | - | 0 |
+| 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/4b/655540_I98jj.jpg) | [邪魔者に転生してしまいました](https://bangumi.tv/subject/655540) |  | 11 | - | 0 |
+| 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a7/04/655544_MmR9P.jpg) | [侯爵家の歴代最強の末息子](https://bangumi.tv/subject/655544) |  | 11 | - | 0 |
+| 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/a8/655547_q8UAW.jpg) | [転生した暗殺者は剣術の天才](https://bangumi.tv/subject/655547) |  | 10 | - | 0 |
 | 2026-04-30 | ![](/img/no_icon_subject.png) | [巨乳が2人いないと勃起しない夫のために友達を連れてきた妻](https://bangumi.tv/subject/631928) |  | 2 | - | 0 |
 | 2026-04-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/e5/395220_MxbAG.jpg) | [盘龙](https://bangumi.tv/subject/395220) | 盘龙 | 未知 | - | 0 |
 | 2026-04-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg) | [一脸嫌弃表情的妹子给你看胖次R](https://bangumi.tv/subject/575559) | 嫌な顔されながらおパンツ見せてもらいたいR | 未知 | - | 24 |
