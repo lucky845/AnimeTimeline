@@ -133,6 +133,7 @@
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [霧中ノ塔](https://bangumi.tv/subject/631634) |  | 2 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
+| 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a7/0b/656016_FY8cP.jpg) | [异世界的安泰全看社畜 OVA](https://bangumi.tv/subject/656016) | 異世界の沙汰は社畜次第 OVA「思いを馳せました」 | 1 | - | 10 |
 | 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/21/655548_cvPUp.jpg) | [養女の役をうまくやり過ぎました](https://bangumi.tv/subject/655548) |  | 10 | - | 0 |
 | 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/1e/655557_5R9JK.jpg) | [生き残りプレイヤー、二度目のデスゲームで最強無双](https://bangumi.tv/subject/655557) |  | 10 | - | 0 |
 | 2026-05-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg) | [瑞克和莫蒂 第九季](https://bangumi.tv/subject/451757) | Rick and Morty Season 9 | 10 | - | 0 |
@@ -150,6 +151,7 @@
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/a9/648065_gs9XZ.jpg) | [라온의 남자](https://bangumi.tv/subject/648065) |  | 4 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/d4/649548_rqf3i.jpg) | [茅山学宫](https://bangumi.tv/subject/649548) |  | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_8l820.jpg) | [少年与高达](https://bangumi.tv/subject/651692) | 少年とガンダム | 1 | - | 57 |
+| 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e6/32/655808_Urlpp.jpg) | [游戏宇宙](https://bangumi.tv/subject/655808) | Gameoverse | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/d4/649548_rqf3i.jpg) | [茅山学宫](https://bangumi.tv/subject/649548) |  | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e6/32/655808_Urlpp.jpg) | [游戏宇宙](https://bangumi.tv/subject/655808) | Gameoverse | 未知 | - | 0 |
 | 2026-05-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/e4/507822_q52CC.jpg) | [全职法师 第七季](https://bangumi.tv/subject/507822) | 全职法师Ⅶ | 12 | - | 10 |
