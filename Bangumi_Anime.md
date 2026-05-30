@@ -132,8 +132,8 @@
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [はーとまーく多め。](https://bangumi.tv/subject/637869) |  | 2 | - | 10 |
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [霧中ノ塔](https://bangumi.tv/subject/631634) |  | 2 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
-| 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a7/0b/656016_FY8cP.jpg) | [异世界的安泰全看社畜 OVA](https://bangumi.tv/subject/656016) | 異世界の沙汰は社畜次第 OVA「思いを馳せました」 | 1 | - | 10 |
+| 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/21/655548_cvPUp.jpg) | [養女の役をうまくやり過ぎました](https://bangumi.tv/subject/655548) |  | 10 | - | 0 |
 | 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/1e/655557_5R9JK.jpg) | [生き残りプレイヤー、二度目のデスゲームで最強無双](https://bangumi.tv/subject/655557) |  | 10 | - | 0 |
 | 2026-05-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg) | [瑞克和莫蒂 第九季](https://bangumi.tv/subject/451757) | Rick and Morty Season 9 | 10 | - | 0 |
@@ -158,7 +158,7 @@
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 8 | - | 0 |
 | 2026-05-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/07/b0/637559_uoEn2.jpg) | [Regular Show: The Lost Tapes](https://bangumi.tv/subject/637559) |  | 未知 | - | 0 |
-| 2026-05-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/07/b0/637559_uoEn2.jpg) | [Regular Show: The Lost Tapes](https://bangumi.tv/subject/637559) |  | 未知 | - | 0 |
+| 2026-05-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/07/b0/637559_uoEn2.jpg) | [Regular Show: The Lost Tapes](https://bangumi.tv/subject/637559) |  | 未知 | - | 10 |
 | 2026-05-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/4f/633618_zeK00.jpg) | [Unanswered//butterfly](https://bangumi.tv/subject/633618) |  | 1 | - | 0 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/16/501729_9N17s.jpg) | [剧场版 魔法科高校的劣等生 四叶继承篇](https://bangumi.tv/subject/501729) | 劇場版 魔法科高校の劣等生 四葉継承編 | 1 | - | 13 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg) | [电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party](https://bangumi.tv/subject/563256) | 映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party | 1 | - | 10 |
