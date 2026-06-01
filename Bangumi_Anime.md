@@ -124,6 +124,27 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
+| 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
+| 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f9/f7/487782_XDBUM.jpg) | [新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！](https://bangumi.tv/subject/487782) |  | 1 | - | 0 |
+| 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/62/ae/623063_HVo3V.jpg) | [それいけ！アンパンマン パンタンと約束の星](https://bangumi.tv/subject/623063) |  | 1 | - | 0 |
+| 2026-06-26 | ![](/img/no_icon_subject.png) | [ハメハラ](https://bangumi.tv/subject/637402) |  | 1 | - | 0 |
+| 2026-06-26 | ![](/img/no_icon_subject.png) | [彼の知らない秘密を入れて。 THE ANIMATION](https://bangumi.tv/subject/638750) |  | 1 | - | 0 |
+| 2026-06-26 | ![](/img/no_icon_subject.png) | [フラチ](https://bangumi.tv/subject/645350) |  | 2 | - | 10 |
+| 2026-06-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/9c/520299_41Sim.jpg) | [斩神之凡尘神域 第2季](https://bangumi.tv/subject/520299) |  | 15 | - | 10 |
+| 2026-06-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_68Dfj.jpg) | [诡秘之主特别篇 猎物](https://bangumi.tv/subject/577226) |  | 未知 | - | 0 |
+| 2026-06-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/46/441800_fq0fS.jpg) | [玩具总动员5](https://bangumi.tv/subject/441800) | Toy Story 5 | 1 | - | 10 |
+| 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
+| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
+| 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg) | [凡人修仙传 第五季](https://bangumi.tv/subject/607915) | 凡人修仙传 第五季 | 52 | - | 100 |
+| 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
+| 2026-06-12 | ![](/img/no_icon_subject.png) | [ヌきヌき♡ずっぽしイズム](https://bangumi.tv/subject/636424) |  | 2 | - | 10 |
+| 2026-06-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7e/05/449343_4a9YZ.jpg) | [镖人 第2季](https://bangumi.tv/subject/449343) | 镖人 第2季 | 未知 | - | 10 |
+| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/e4/527479_x8tlM.jpg) | [机械之声的传奇第四季](https://bangumi.tv/subject/527479) | The Legend of Vox Machina S4 | 12 | - | 0 |
+| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
+| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 未知 | - | 0 |
+| 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 未知 | - | 0 |
+| 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_uc5n9.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-05-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/c9/401552_N92P3.jpg) | [钟馗](https://bangumi.tv/subject/401552) | 钟馗 | 1 | - | 0 |
 | 2026-05-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/64/505562_HEZ2g.jpg) | [剧场版 物怪 蛇神](https://bangumi.tv/subject/505562) | 劇場版 モノノ怪 蛇神 | 1 | - | 0 |
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [霧中ノ塔](https://bangumi.tv/subject/631634) |  | 1 | - | 0 |
@@ -133,7 +154,6 @@
 | 2026-05-29 | ![](/img/no_icon_subject.png) | [霧中ノ塔](https://bangumi.tv/subject/631634) |  | 2 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a7/0b/656016_FY8cP.jpg) | [异世界的安泰全看社畜 OVA](https://bangumi.tv/subject/656016) | 異世界の沙汰は社畜次第 OVA「思いを馳せました」 | 1 | - | 10 |
-| 2026-05-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg) | [小钱大事](https://bangumi.tv/subject/643073) | Due spicci | 未知 | - | 0 |
 | 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e8/21/655548_cvPUp.jpg) | [養女の役をうまくやり過ぎました](https://bangumi.tv/subject/655548) |  | 10 | - | 0 |
 | 2026-05-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/1e/655557_5R9JK.jpg) | [生き残りプレイヤー、二度目のデスゲームで最強無双](https://bangumi.tv/subject/655557) |  | 10 | - | 0 |
 | 2026-05-24 | ![](https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg) | [瑞克和莫蒂 第九季](https://bangumi.tv/subject/451757) | Rick and Morty Season 9 | 10 | - | 0 |
@@ -142,23 +162,16 @@
 | 2026-05-22 |  | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9c/dd/652409_Cz86z.jpg) | [前哨基地，今日无战事](https://bangumi.tv/subject/652409) | 전초기지, 오늘은 쉽니다 | 未知 | - | 0 |
 | 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/94/76/655393_nNqnv.jpg) | [最后的春天](https://bangumi.tv/subject/655393) | Dernier Printemps | 未知 | - | 0 |
-| 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_cwg8w.jpg) | [交配季](https://bangumi.tv/subject/555963) | Mating Season | 未知 | - | 10 |
-| 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f3/77/646494_67UIK.jpg) | [吃豆人：零食时间](https://bangumi.tv/subject/646494) | PAC-MAN: Snack Breaks | 未知 | - | 0 |
-| 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9c/dd/652409_Cz86z.jpg) | [前哨基地，今日无战事](https://bangumi.tv/subject/652409) | 전초기지, 오늘은 쉽니다 | 未知 | - | 10 |
-| 2026-05-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/94/76/655393_nNqnv.jpg) | [最后的春天](https://bangumi.tv/subject/655393) | Dernier Printemps | 未知 | - | 0 |
 | 2026-05-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/3d/653666_oh53y.jpg) | [numb numb](https://bangumi.tv/subject/653666) |  | 1 | - | 10 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg) | [机动警察 EZY 第一章](https://bangumi.tv/subject/217071) | 機動警察パトレイバー EZY File 1 | 3 | - | 10 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/a9/648065_gs9XZ.jpg) | [라온의 남자](https://bangumi.tv/subject/648065) |  | 4 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/d4/649548_rqf3i.jpg) | [茅山学宫](https://bangumi.tv/subject/649548) |  | 未知 | - | 0 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_8l820.jpg) | [少年与高达](https://bangumi.tv/subject/651692) | 少年とガンダム | 1 | - | 57 |
 | 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e6/32/655808_Urlpp.jpg) | [游戏宇宙](https://bangumi.tv/subject/655808) | Gameoverse | 未知 | - | 0 |
-| 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/35/d4/649548_rqf3i.jpg) | [茅山学宫](https://bangumi.tv/subject/649548) |  | 未知 | - | 0 |
-| 2026-05-15 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e6/32/655808_Urlpp.jpg) | [游戏宇宙](https://bangumi.tv/subject/655808) | Gameoverse | 未知 | - | 0 |
 | 2026-05-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/e4/507822_q52CC.jpg) | [全职法师 第七季](https://bangumi.tv/subject/507822) | 全职法师Ⅶ | 12 | - | 10 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 未知 | - | 0 |
 | 2026-05-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg) | [鬼泣 第二季](https://bangumi.tv/subject/551576) | DEVIL MAY CRY Season 2 | 8 | - | 0 |
 | 2026-05-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/07/b0/637559_uoEn2.jpg) | [Regular Show: The Lost Tapes](https://bangumi.tv/subject/637559) |  | 未知 | - | 0 |
-| 2026-05-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/07/b0/637559_uoEn2.jpg) | [Regular Show: The Lost Tapes](https://bangumi.tv/subject/637559) |  | 未知 | - | 10 |
 | 2026-05-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/4f/633618_zeK00.jpg) | [Unanswered//butterfly](https://bangumi.tv/subject/633618) |  | 1 | - | 0 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/16/501729_9N17s.jpg) | [剧场版 魔法科高校的劣等生 四叶继承篇](https://bangumi.tv/subject/501729) | 劇場版 魔法科高校の劣等生 四葉継承編 | 1 | - | 13 |
 | 2026-05-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg) | [电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party](https://bangumi.tv/subject/563256) | 映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party | 1 | - | 10 |
@@ -173,8 +186,6 @@
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/45/87/639432_o0oO7.jpg) | [猪猪侠大电影之竞速小英雄](https://bangumi.tv/subject/639432) |  | 1 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/69/640146_rroFT.jpg) | [请多多指教](https://bangumi.tv/subject/640146) | 친하게 지내자 | 未知 | - | 0 |
 | 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 0 |
-| 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/88/69/640146_rroFT.jpg) | [请多多指教](https://bangumi.tv/subject/640146) | 친하게 지내자 | 未知 | - | 0 |
-| 2026-05-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/36/643956_KYq9k.jpg) | [叶罗丽金鎏心](https://bangumi.tv/subject/643956) | 叶罗丽金鎏心 | 未知 | - | 10 |
 | 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_4chB8.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/7c/655527_iIIue.jpg) | [緑陰の冠](https://bangumi.tv/subject/655527) |  | 11 | - | 0 |
 | 2026-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/43/da/655530_9cwk7.jpg) | [誰かが私に憑依した](https://bangumi.tv/subject/655530) |  | 10 | - | 0 |
