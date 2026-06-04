@@ -156,7 +156,7 @@
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
-| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 未知 | - | 0 |
+| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 11 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 未知 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 11 | - | 0 |
 | 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_uc5n9.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
