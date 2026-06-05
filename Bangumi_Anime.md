@@ -150,13 +150,14 @@
 | 2026-06-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/65/345822_9Ee3e.jpg) | [城隍录](https://bangumi.tv/subject/345822) | 城隍录 | 未知 | - | 0 |
 | 2026-06-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0f/6a/491576_zlqqA.jpg) | [万人之上](https://bangumi.tv/subject/491576) | 万人之上 | 14 | - | 0 |
 | 2026-06-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/65/345822_9Ee3e.jpg) | [城隍录](https://bangumi.tv/subject/345822) | 城隍录 | 未知 | - | 0 |
+| 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/14/658093_9qJYj.jpg) | [抓周](https://bangumi.tv/subject/658093) |  | 1 | - | 0 |
 | 2026-06-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bc/2f/657127_k79w7.jpg) | [派之果实 欢迎来到奥西森林！](https://bangumi.tv/subject/657127) | パイの実 おしの森へようこそ！ | 未知 | - | 0 |
 | 2026-06-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bc/2f/657127_k79w7.jpg) | [派之果实 欢迎来到奥西森林！](https://bangumi.tv/subject/657127) | パイの実 おしの森へようこそ！ | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/e4/527479_x8tlM.jpg) | [机械之声的传奇第四季](https://bangumi.tv/subject/527479) | The Legend of Vox Machina S4 | 12 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 未知 | - | 0 |
-| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 11 | - | 0 |
+| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 未知 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 11 | - | 0 |
 | 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_uc5n9.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
