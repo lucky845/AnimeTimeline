@@ -124,6 +124,7 @@
 
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_3rrOv.jpg) | [无自觉圣女今天也无意识地释放力量](https://bangumi.tv/subject/571910) | 無自覚聖女は今日も無意識に力を垂れ流す | 未知 | - | 0 |
 | 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
 | 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
