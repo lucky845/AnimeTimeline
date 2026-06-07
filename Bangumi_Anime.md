@@ -125,6 +125,7 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_3rrOv.jpg) | [无自觉圣女今天也无意识地释放力量](https://bangumi.tv/subject/571910) | 無自覚聖女は今日も無意識に力を垂れ流す | 未知 | - | 0 |
+| 2026-06-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg) | [无自觉圣女今天也无意识地释放力量](https://bangumi.tv/subject/571910) | 無自覚聖女は今日も無意識に力を垂れ流す | 未知 | - | 0 |
 | 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
 | 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
@@ -135,6 +136,7 @@
 | 2026-06-26 | ![](/img/no_icon_subject.png) | [フラチ](https://bangumi.tv/subject/645350) |  | 2 | - | 10 |
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
 | 2026-06-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/9c/520299_41Sim.jpg) | [斩神之凡尘神域 第2季](https://bangumi.tv/subject/520299) |  | 15 | - | 10 |
+| 2026-06-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/4c/646611_O0Zyq.jpg) | [光阴之外 第二季](https://bangumi.tv/subject/646611) | 光阴之外2 | 52 | - | 0 |
 | 2026-06-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_68Dfj.jpg) | [诡秘之主特别篇 猎物](https://bangumi.tv/subject/577226) |  | 未知 | - | 0 |
 | 2026-06-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_68Dfj.jpg) | [诡秘之主特别篇 猎物](https://bangumi.tv/subject/577226) |  | 未知 | - | 0 |
 | 2026-06-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/46/441800_fq0fS.jpg) | [玩具总动员5](https://bangumi.tv/subject/441800) | Toy Story 5 | 1 | - | 10 |
@@ -152,6 +154,8 @@
 | 2026-06-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0f/6a/491576_zlqqA.jpg) | [万人之上](https://bangumi.tv/subject/491576) | 万人之上 | 14 | - | 0 |
 | 2026-06-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/65/345822_9Ee3e.jpg) | [城隍录](https://bangumi.tv/subject/345822) | 城隍录 | 未知 | - | 0 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/14/658093_9qJYj.jpg) | [抓周](https://bangumi.tv/subject/658093) |  | 1 | - | 0 |
+| 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/8c/443351_geq10.jpg) | [在我们之中](https://bangumi.tv/subject/443351) | Among US | 10 | - | 10 |
+| 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/fc/658323_83LL8.jpg) | [六巻予告『伊能 死す』サンキューピッチ第6巻発売記念PV](https://bangumi.tv/subject/658323) |  | 未知 | - | 0 |
 | 2026-06-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bc/2f/657127_k79w7.jpg) | [派之果实 欢迎来到奥西森林！](https://bangumi.tv/subject/657127) | パイの実 おしの森へようこそ！ | 未知 | - | 0 |
 | 2026-06-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bc/2f/657127_k79w7.jpg) | [派之果实 欢迎来到奥西森林！](https://bangumi.tv/subject/657127) | パイの実 おしの森へようこそ！ | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/e4/527479_x8tlM.jpg) | [机械之声的传奇第四季](https://bangumi.tv/subject/527479) | The Legend of Vox Machina S4 | 12 | - | 0 |
