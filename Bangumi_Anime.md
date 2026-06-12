@@ -134,9 +134,10 @@
 | 2026-06-26 | ![](/img/no_icon_subject.png) | [ハメハラ](https://bangumi.tv/subject/637402) |  | 1 | - | 0 |
 | 2026-06-26 | ![](/img/no_icon_subject.png) | [彼の知らない秘密を入れて。 THE ANIMATION](https://bangumi.tv/subject/638750) |  | 1 | - | 0 |
 | 2026-06-26 | ![](/img/no_icon_subject.png) | [フラチ](https://bangumi.tv/subject/645350) |  | 2 | - | 10 |
-| 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
 | 2026-06-26 |  | [Camp Snoopy Season 2](https://bangumi.tv/subject/659438) |  | 未知 | - | 0 |
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/5b/659441_zHPY0.jpg) | [The Doomies](https://bangumi.tv/subject/659441) |  | 22 | - | 0 |
+| 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
+| 2026-06-26 |  | [Camp Snoopy Season 2](https://bangumi.tv/subject/659438) |  | 未知 | - | 0 |
 | 2026-06-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/9c/520299_41Sim.jpg) | [斩神之凡尘神域 第2季](https://bangumi.tv/subject/520299) |  | 15 | - | 10 |
 | 2026-06-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/d0/659153_OF1UL.jpg) | [沧海琴声](https://bangumi.tv/subject/659153) | The Violinist (2026) | 1 | - | 0 |
 | 2026-06-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/4c/646611_O0Zyq.jpg) | [光阴之外 第二季](https://bangumi.tv/subject/646611) | 光阴之外2 | 52 | - | 0 |
@@ -152,6 +153,8 @@
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
 | 2026-06-12 | ![](/img/no_icon_subject.png) | [ヌきヌき♡ずっぽしイズム](https://bangumi.tv/subject/636424) |  | 2 | - | 10 |
 | 2026-06-12 |  | [海绵宝宝 第十七季](https://bangumi.tv/subject/659442) | SpongeBob SquarePants (Season 17) | 未知 | - | 0 |
+| 2026-06-12 |  | [海绵宝宝 第十七季](https://bangumi.tv/subject/659442) | SpongeBob SquarePants (Season 17) | 未知 | - | 0 |
+| 2026-06-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/06/659664_SbWKY.jpg) | [中国传媒大学2026届动画与数字艺术学院毕业设计联展——动画作品展](https://bangumi.tv/subject/659664) |  | 未知 | - | 0 |
 | 2026-06-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7e/05/449343_4a9YZ.jpg) | [镖人 第2季](https://bangumi.tv/subject/449343) | 镖人 第2季 | 未知 | - | 10 |
 | 2026-06-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7e/05/449343_7rR9S.jpg) | [镖人 第2季](https://bangumi.tv/subject/449343) | 镖人 第2季 | 8 | - | 10 |
 | 2026-06-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/65/345822_9Ee3e.jpg) | [城隍录](https://bangumi.tv/subject/345822) | 城隍录 | 未知 | - | 0 |
@@ -160,9 +163,10 @@
 | 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル 一巻「原画トレスにチャレンジしてみるワン」】](https://bangumi.tv/subject/658869) |  | 未知 | - | 0 |
 | 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル】](https://bangumi.tv/subject/658869) |  | 未知 | - | 10 |
 | 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル】](https://bangumi.tv/subject/658869) |  | 未知 | - | 10 |
-| 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/0b/659007_3M3KC.jpg) | [スト6 Year 4キャラクターPV](https://bangumi.tv/subject/659007) |  | 未知 | - | 0 |
+| 2026-06-07 |  | [四川美术学院影视动画学院2026届动画专业毕业设计展映](https://bangumi.tv/subject/659810) |  | 未知 | - | 0 |
 | 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/0b/659007_3M3KC.jpg) | [スト6 Year 4キャラクターPV](https://bangumi.tv/subject/659007) |  | 未知 | - | 0 |
 | 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/a5/659440_V6R55.jpg) | [Dragon Striker](https://bangumi.tv/subject/659440) |  | 11 | - | 0 |
+| 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/0b/659007_3M3KC.jpg) | [スト6 Year 4キャラクターPV](https://bangumi.tv/subject/659007) |  | 未知 | - | 0 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/14/658093_9qJYj.jpg) | [抓周](https://bangumi.tv/subject/658093) |  | 1 | - | 0 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/8c/443351_geq10.jpg) | [在我们之中](https://bangumi.tv/subject/443351) | Among US | 10 | - | 10 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/fc/658323_83LL8.jpg) | [六巻予告『伊能 死す』サンキューピッチ第6巻発売記念PV](https://bangumi.tv/subject/658323) |  | 未知 | - | 0 |
