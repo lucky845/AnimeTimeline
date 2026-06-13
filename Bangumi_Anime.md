@@ -146,6 +146,7 @@
 | 2026-06-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/46/441800_fq0fS.jpg) | [玩具总动员5](https://bangumi.tv/subject/441800) | Toy Story 5 | 1 | - | 10 |
 | 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
 | 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
+| 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg) | [凡人修仙传 第五季](https://bangumi.tv/subject/607915) | 凡人修仙传 第五季 | 52 | - | 100 |
@@ -153,6 +154,7 @@
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
 | 2026-06-12 | ![](/img/no_icon_subject.png) | [ヌきヌき♡ずっぽしイズム](https://bangumi.tv/subject/636424) |  | 2 | - | 10 |
 | 2026-06-12 |  | [海绵宝宝 第十七季](https://bangumi.tv/subject/659442) | SpongeBob SquarePants (Season 17) | 未知 | - | 0 |
+| 2026-06-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/06/659664_SbWKY.jpg) | [中国传媒大学2026届动画与数字艺术学院毕业设计联展——动画作品展](https://bangumi.tv/subject/659664) |  | 未知 | - | 0 |
 | 2026-06-12 |  | [海绵宝宝 第十七季](https://bangumi.tv/subject/659442) | SpongeBob SquarePants (Season 17) | 未知 | - | 0 |
 | 2026-06-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/06/659664_SbWKY.jpg) | [中国传媒大学2026届动画与数字艺术学院毕业设计联展——动画作品展](https://bangumi.tv/subject/659664) |  | 未知 | - | 0 |
 | 2026-06-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7e/05/449343_4a9YZ.jpg) | [镖人 第2季](https://bangumi.tv/subject/449343) | 镖人 第2季 | 未知 | - | 10 |
@@ -164,6 +166,7 @@
 | 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル】](https://bangumi.tv/subject/658869) |  | 未知 | - | 10 |
 | 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル】](https://bangumi.tv/subject/658869) |  | 未知 | - | 10 |
 | 2026-06-07 |  | [四川美术学院影视动画学院2026届动画专业毕业设计展映](https://bangumi.tv/subject/659810) |  | 未知 | - | 0 |
+| 2026-06-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/34/ab/659810_jTwE7.jpg) | [四川美术学院影视动画学院2026届动画专业毕业设计展映](https://bangumi.tv/subject/659810) |  | 未知 | - | 0 |
 | 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/0b/659007_3M3KC.jpg) | [スト6 Year 4キャラクターPV](https://bangumi.tv/subject/659007) |  | 未知 | - | 0 |
 | 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/a5/659440_V6R55.jpg) | [Dragon Striker](https://bangumi.tv/subject/659440) |  | 11 | - | 0 |
 | 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/0b/659007_3M3KC.jpg) | [スト6 Year 4キャラクターPV](https://bangumi.tv/subject/659007) |  | 未知 | - | 0 |
@@ -180,6 +183,7 @@
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 11 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
+| 2026-06-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/3c/660115_v9Ev2.jpg) | [「動物探偵ミア」シリーズ PV](https://bangumi.tv/subject/660115) |  | 未知 | - | 10 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 未知 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 11 | - | 0 |
 | 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_uc5n9.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
