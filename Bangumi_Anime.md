@@ -147,8 +147,10 @@
 | 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
 | 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
 | 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
+| 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
+| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 0 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg) | [凡人修仙传 第五季](https://bangumi.tv/subject/607915) | 凡人修仙传 第五季 | 52 | - | 100 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
@@ -183,6 +185,7 @@
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 11 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
+| 2026-06-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/3c/660115_v9Ev2.jpg) | [「動物探偵ミア」シリーズ PV](https://bangumi.tv/subject/660115) |  | 未知 | - | 10 |
 | 2026-06-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/3c/660115_v9Ev2.jpg) | [「動物探偵ミア」シリーズ PV](https://bangumi.tv/subject/660115) |  | 未知 | - | 10 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 未知 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 11 | - | 0 |
