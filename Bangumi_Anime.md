@@ -149,11 +149,12 @@
 | 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
 | 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
-| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 0 |
+| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
+| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 10 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg) | [凡人修仙传 第五季](https://bangumi.tv/subject/607915) | 凡人修仙传 第五季 | 52 | - | 100 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
-| 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
+| 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_fW8Ff.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
 | 2026-06-12 | ![](/img/no_icon_subject.png) | [ヌきヌき♡ずっぽしイズム](https://bangumi.tv/subject/636424) |  | 2 | - | 10 |
 | 2026-06-12 |  | [海绵宝宝 第十七季](https://bangumi.tv/subject/659442) | SpongeBob SquarePants (Season 17) | 未知 | - | 0 |
 | 2026-06-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/06/659664_SbWKY.jpg) | [中国传媒大学2026届动画与数字艺术学院毕业设计联展——动画作品展](https://bangumi.tv/subject/659664) |  | 未知 | - | 0 |
