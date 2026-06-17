@@ -147,7 +147,7 @@
 | 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
 | 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
 | 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
-| 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
+| 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 6 | - | 10 |
 | 2026-06-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/95/ee/661083_aSSSp.jpg) | [伝えたい想いのそばに 碧い海商店街](https://bangumi.tv/subject/661083) |  | 1 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 0 |
@@ -191,6 +191,7 @@
 | 2026-06-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/3c/660115_v9Ev2.jpg) | [「動物探偵ミア」シリーズ PV](https://bangumi.tv/subject/660115) |  | 未知 | - | 10 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 未知 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 11 | - | 0 |
+| 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/03/661193_7y2F3.jpg) | [守护少年时](https://bangumi.tv/subject/661193) |  | 1 | - | 0 |
 | 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_uc5n9.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c4/a5/659149_B1U3O.jpg) | [The Sunrise File](https://bangumi.tv/subject/659149) |  | 1 | - | 0 |
 | 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_uc5n9.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
