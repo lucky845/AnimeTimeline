@@ -139,6 +139,7 @@
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
 | 2026-06-26 |  | [Camp Snoopy Season 2](https://bangumi.tv/subject/659438) |  | 未知 | - | 0 |
 | 2026-06-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/9c/520299_41Sim.jpg) | [斩神之凡尘神域 第2季](https://bangumi.tv/subject/520299) |  | 15 | - | 10 |
+| 2026-06-24 |  | [小小围棋少年](https://bangumi.tv/subject/661679) |  | 未知 | - | 0 |
 | 2026-06-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/d0/659153_OF1UL.jpg) | [沧海琴声](https://bangumi.tv/subject/659153) | The Violinist (2026) | 1 | - | 0 |
 | 2026-06-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/4c/646611_O0Zyq.jpg) | [光阴之外 第二季](https://bangumi.tv/subject/646611) | 光阴之外2 | 52 | - | 0 |
 | 2026-06-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_68Dfj.jpg) | [诡秘之主特别篇 猎物](https://bangumi.tv/subject/577226) |  | 未知 | - | 0 |
@@ -153,6 +154,7 @@
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 10 |
+| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/5d/661736_lygf6.jpg) | [鞋子](https://bangumi.tv/subject/661736) | Scarpe | 未知 | - | 0 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg) | [凡人修仙传 第五季](https://bangumi.tv/subject/607915) | 凡人修仙传 第五季 | 52 | - | 100 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_fW8Ff.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
