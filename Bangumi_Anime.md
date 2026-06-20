@@ -140,18 +140,22 @@
 | 2026-06-26 |  | [Camp Snoopy Season 2](https://bangumi.tv/subject/659438) |  | 未知 | - | 0 |
 | 2026-06-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/9c/520299_41Sim.jpg) | [斩神之凡尘神域 第2季](https://bangumi.tv/subject/520299) |  | 15 | - | 10 |
 | 2026-06-24 |  | [小小围棋少年](https://bangumi.tv/subject/661679) |  | 未知 | - | 0 |
+| 2026-06-24 |  | [小小围棋少年](https://bangumi.tv/subject/661679) |  | 未知 | - | 0 |
 | 2026-06-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/d0/659153_OF1UL.jpg) | [沧海琴声](https://bangumi.tv/subject/659153) | The Violinist (2026) | 1 | - | 0 |
 | 2026-06-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/4c/646611_O0Zyq.jpg) | [光阴之外 第二季](https://bangumi.tv/subject/646611) | 光阴之外2 | 52 | - | 0 |
 | 2026-06-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_68Dfj.jpg) | [诡秘之主特别篇 猎物](https://bangumi.tv/subject/577226) |  | 未知 | - | 0 |
 | 2026-06-20 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_68Dfj.jpg) | [诡秘之主特别篇](https://bangumi.tv/subject/577226) | 诡秘之主特别篇 | 3 | - | 0 |
 | 2026-06-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/46/441800_fq0fS.jpg) | [玩具总动员5](https://bangumi.tv/subject/441800) | Toy Story 5 | 1 | - | 10 |
+| 2026-06-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/74/661948_1jkum.jpg) | [MAPPA 15th Anniversary Movie](https://bangumi.tv/subject/661948) |  | 1 | - | 10 |
+| 2026-06-19 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/04/662130_pq32p.jpg) | [动画【电锯人】手机游戏 OP Movie](https://bangumi.tv/subject/662130) | アニメ『チェンソーマン』スマホゲーム OPムービー | 1 | - | 10 |
 | 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
-| 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 未知 | - | 10 |
+| 2026-06-18 | ![](https://lain.bgm.tv/r/400/pic/cover/l/70/ba/638498_97tXC.jpg) | [刃牙道 第2部分](https://bangumi.tv/subject/638498) | 刃牙道 第2クール | 12 | - | 15 |
 | 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 未知 | - | 0 |
 | 2026-06-17 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/5e/592107_9WtNt.jpg) | [云深不知梦 特别篇：逐冥之役](https://bangumi.tv/subject/592107) | 云深不知梦 特别篇：逐冥之役 | 6 | - | 10 |
 | 2026-06-16 | ![](https://lain.bgm.tv/r/400/pic/cover/l/95/ee/661083_aSSSp.jpg) | [伝えたい想いのそばに 碧い海商店街](https://bangumi.tv/subject/661083) |  | 1 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 0 |
+| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/5d/661736_lygf6.jpg) | [鞋子](https://bangumi.tv/subject/661736) | Scarpe | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 10 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/5d/661736_lygf6.jpg) | [鞋子](https://bangumi.tv/subject/661736) | Scarpe | 未知 | - | 0 |
