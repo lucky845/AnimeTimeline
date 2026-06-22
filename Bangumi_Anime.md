@@ -125,8 +125,6 @@
 | 放送日期 | 封面 | 中文标题 | 日文标题 | 话数 | 评分 | 评分人数 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-06-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_3rrOv.jpg) | [无自觉圣女今天也无意识地释放力量](https://bangumi.tv/subject/571910) | 無自覚聖女は今日も無意識に力を垂れ流す | 未知 | - | 0 |
-| 2026-06-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg) | [无自觉圣女今天也无意识地释放力量](https://bangumi.tv/subject/571910) | 無自覚聖女は今日も無意識に力を垂れ流す | 未知 | - | 0 |
-| 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
 | 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f9/f7/487782_XDBUM.jpg) | [新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！](https://bangumi.tv/subject/487782) |  | 1 | - | 0 |
@@ -136,10 +134,7 @@
 | 2026-06-26 | ![](/img/no_icon_subject.png) | [フラチ](https://bangumi.tv/subject/645350) |  | 2 | - | 10 |
 | 2026-06-26 |  | [Camp Snoopy Season 2](https://bangumi.tv/subject/659438) |  | 未知 | - | 0 |
 | 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b4/5b/659441_zHPY0.jpg) | [The Doomies](https://bangumi.tv/subject/659441) |  | 22 | - | 0 |
-| 2026-06-26 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg) | [永远的大和号 REBEL3199 第六章](https://bangumi.tv/subject/473416) | ヤマトよ永遠に REBEL3199 第六章 碧い迷宮 | 未知 | - | 0 |
-| 2026-06-26 |  | [Camp Snoopy Season 2](https://bangumi.tv/subject/659438) |  | 未知 | - | 0 |
 | 2026-06-25 | ![](https://lain.bgm.tv/r/400/pic/cover/l/06/9c/520299_41Sim.jpg) | [斩神之凡尘神域 第2季](https://bangumi.tv/subject/520299) |  | 15 | - | 10 |
-| 2026-06-24 |  | [小小围棋少年](https://bangumi.tv/subject/661679) |  | 未知 | - | 0 |
 | 2026-06-24 |  | [小小围棋少年](https://bangumi.tv/subject/661679) |  | 未知 | - | 0 |
 | 2026-06-22 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/d0/659153_OF1UL.jpg) | [沧海琴声](https://bangumi.tv/subject/659153) | The Violinist (2026) | 1 | - | 0 |
 | 2026-06-21 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/4c/646611_O0Zyq.jpg) | [光阴之外 第二季](https://bangumi.tv/subject/646611) | 光阴之外2 | 52 | - | 0 |
@@ -158,16 +153,10 @@
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 0 |
 | 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/5d/661736_lygf6.jpg) | [鞋子](https://bangumi.tv/subject/661736) | Scarpe | 未知 | - | 0 |
-| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg) | [剧场版 冒险岛：Dear My Hero](https://bangumi.tv/subject/647687) | 극장판 메이플스토리: 디어 마이 히어로 | 未知 | - | 0 |
-| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/fb/660385_Cc4fQ.jpg) | [とらぶるだいあり〜・ごーるど ムービー版HDリマスター](https://bangumi.tv/subject/660385) |  | 未知 | - | 10 |
-| 2026-06-14 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/5d/661736_lygf6.jpg) | [鞋子](https://bangumi.tv/subject/661736) | Scarpe | 未知 | - | 10 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg) | [凡人修仙传 第五季](https://bangumi.tv/subject/607915) | 凡人修仙传 第五季 | 52 | - | 100 |
 | 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
-| 2026-06-13 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_fW8Ff.jpg) | [我与超人的冒险 第三季](https://bangumi.tv/subject/646060) | My Adventures with Superman Season 3 | 未知 | - | 0 |
 | 2026-06-12 | ![](/img/no_icon_subject.png) | [ヌきヌき♡ずっぽしイズム](https://bangumi.tv/subject/636424) |  | 2 | - | 10 |
 | 2026-06-12 |  | [海绵宝宝 第十七季](https://bangumi.tv/subject/659442) | SpongeBob SquarePants (Season 17) | 未知 | - | 0 |
-| 2026-06-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/06/659664_SbWKY.jpg) | [中国传媒大学2026届动画与数字艺术学院毕业设计联展——动画作品展](https://bangumi.tv/subject/659664) |  | 未知 | - | 0 |
-| 2026-06-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/6d/659442_yemdT.jpg) | [海绵宝宝 第十七季](https://bangumi.tv/subject/659442) | SpongeBob SquarePants (Season 17) | 未知 | - | 0 |
 | 2026-06-12 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8e/06/659664_SbWKY.jpg) | [中国传媒大学2026届动画与数字艺术学院毕业设计联展——动画作品展](https://bangumi.tv/subject/659664) |  | 未知 | - | 0 |
 | 2026-06-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7e/05/449343_4a9YZ.jpg) | [镖人 第2季](https://bangumi.tv/subject/449343) | 镖人 第2季 | 未知 | - | 10 |
 | 2026-06-11 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7e/05/449343_7rR9S.jpg) | [镖人 第2季](https://bangumi.tv/subject/449343) | 镖人 第2季 | 8 | - | 10 |
@@ -176,31 +165,23 @@
 | 2026-06-09 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/65/345822_9Ee3e.jpg) | [城隍录](https://bangumi.tv/subject/345822) | 城隍录 | 6 | - | 0 |
 | 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル 一巻「原画トレスにチャレンジしてみるワン」】](https://bangumi.tv/subject/658869) |  | 未知 | - | 0 |
 | 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル】](https://bangumi.tv/subject/658869) |  | 未知 | - | 10 |
-| 2026-06-08 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg) | [NAFCAオリジナルアニメ【ほくとと影マル】](https://bangumi.tv/subject/658869) |  | 未知 | - | 10 |
 | 2026-06-07 |  | [四川美术学院影视动画学院2026届动画专业毕业设计展映](https://bangumi.tv/subject/659810) |  | 未知 | - | 0 |
-| 2026-06-07 | ![](https://lain.bgm.tv/r/400/pic/cover/l/34/ab/659810_jTwE7.jpg) | [四川美术学院影视动画学院2026届动画专业毕业设计展映](https://bangumi.tv/subject/659810) |  | 未知 | - | 0 |
 | 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/0b/659007_3M3KC.jpg) | [スト6 Year 4キャラクターPV](https://bangumi.tv/subject/659007) |  | 未知 | - | 0 |
 | 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d6/a5/659440_V6R55.jpg) | [Dragon Striker](https://bangumi.tv/subject/659440) |  | 11 | - | 0 |
-| 2026-06-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3f/0b/659007_3M3KC.jpg) | [スト6 Year 4キャラクターPV](https://bangumi.tv/subject/659007) |  | 未知 | - | 0 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/14/658093_9qJYj.jpg) | [抓周](https://bangumi.tv/subject/658093) |  | 1 | - | 0 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a5/8c/443351_geq10.jpg) | [在我们之中](https://bangumi.tv/subject/443351) | Among US | 10 | - | 10 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/fc/658323_83LL8.jpg) | [六巻予告『伊能 死す』サンキューピッチ第6巻発売記念PV](https://bangumi.tv/subject/658323) |  | 未知 | - | 0 |
 | 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/90/659008_UUXCU.jpg) | [「Return トゥ 頭（ヘッド）」Music Video](https://bangumi.tv/subject/659008) |  | 未知 | - | 0 |
-| 2026-06-05 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/90/659008_UUXCU.jpg) | [「Return トゥ 頭（ヘッド）」Music Video](https://bangumi.tv/subject/659008) |  | 未知 | - | 0 |
 | 2026-06-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bc/2f/657127_k79w7.jpg) | [派之果实 欢迎来到奥西森林！](https://bangumi.tv/subject/657127) | パイの実 おしの森へようこそ！ | 未知 | - | 0 |
 | 2026-06-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b6/58/659266_fLr5z.jpg) | [师兄啊师兄 最终季](https://bangumi.tv/subject/659266) |  | 26 | - | 0 |
-| 2026-06-04 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bc/2f/657127_k79w7.jpg) | [派之果实 欢迎来到奥西森林！](https://bangumi.tv/subject/657127) | パイの実 おしの森へようこそ！ | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/e4/527479_x8tlM.jpg) | [机械之声的传奇第四季](https://bangumi.tv/subject/527479) | The Legend of Vox Machina S4 | 12 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 未知 | - | 0 |
 | 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/c0/655560_u3N3e.jpg) | [政略結婚なのにどうして執着するのですか？](https://bangumi.tv/subject/655560) |  | 11 | - | 0 |
-| 2026-06-03 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_55bIn.jpg) | [为何朝圣者去而不返](https://bangumi.tv/subject/646612) | 순례자들은 왜 돌아오지 않는가 | 未知 | - | 0 |
-| 2026-06-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/3c/660115_v9Ev2.jpg) | [「動物探偵ミア」シリーズ PV](https://bangumi.tv/subject/660115) |  | 未知 | - | 10 |
 | 2026-06-02 | ![](https://lain.bgm.tv/r/400/pic/cover/l/13/3c/660115_v9Ev2.jpg) | [「動物探偵ミア」シリーズ PV](https://bangumi.tv/subject/660115) |  | 未知 | - | 10 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 未知 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ad/25/655559_w8uWa.jpg) | [公女様は未来を見通す](https://bangumi.tv/subject/655559) |  | 11 | - | 0 |
 | 2026-06-01 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/03/661193_7y2F3.jpg) | [守护少年时](https://bangumi.tv/subject/661193) |  | 1 | - | 0 |
-| 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f5/8c/639563_uc5n9.jpg) | [君を紡ぐ](https://bangumi.tv/subject/639563) |  | 未知 | - | 0 |
 | 2026-06 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c4/a5/659149_B1U3O.jpg) | [The Sunrise File](https://bangumi.tv/subject/659149) |  | 1 | - | 0 |
 | 2026-05-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dd/c9/401552_N92P3.jpg) | [钟馗](https://bangumi.tv/subject/401552) | 钟馗 | 1 | - | 0 |
 | 2026-05-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/36/64/505562_HEZ2g.jpg) | [剧场版 物怪 蛇神](https://bangumi.tv/subject/505562) | 劇場版 モノノ怪 蛇神 | 1 | - | 0 |
