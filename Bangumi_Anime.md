@@ -128,6 +128,7 @@
 | 2026-06-30 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg) | [无自觉圣女今天也无意识地释放力量](https://bangumi.tv/subject/571910) | 無自覚聖女は今日も無意識に力を垂れ流す | 未知 | - | 10 |
 | 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
 | 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg) | [探险时光：支线任务](https://bangumi.tv/subject/653289) | Adventure Time: Side Quests | 未知 | - | 0 |
+| 2026-06-29 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8a/7d/664702_ZDZnl.jpg) | [パッチワーク・ヒーロー/緋八マナ](https://bangumi.tv/subject/664702) |  | 未知 | - | 0 |
 | 2026-06-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/97/f2/663884_E779d.jpg) | [ホーミー・タイッ!!](https://bangumi.tv/subject/663884) |  | 未知 | - | 0 |
 | 2026-06-28 | ![](https://lain.bgm.tv/r/400/pic/cover/l/97/f2/663884_E779d.jpg) | [ホーミー・タイッ!!](https://bangumi.tv/subject/663884) |  | 1 | - | 10 |
 | 2026-06-27 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0b/f0/663886_222Qt.jpg) | [起死開戦](https://bangumi.tv/subject/663886) |  | 未知 | - | 0 |
