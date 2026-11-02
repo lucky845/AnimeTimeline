@@ -200,7 +200,7 @@ class BangumiScraper:
         self, start_year: int, end_year: int, start_month: int = None, end_month: int = None
     ) -> List[Dict]:
         all_data: List[Dict] = []
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(trust_env=True) as session:
             for year in range(start_year, end_year + 1):
                 if start_year != end_year:
                     months = range(1, 13)
