@@ -1,5 +1,7 @@
+#!/usr/bin/env python3
 import argparse
 import asyncio
+import json
 import logging
 import os
 import re
@@ -7,221 +9,90 @@ import time
 import glob
 from collections import defaultdict
 from typing import Dict, List, Tuple
-
-import aiohttp
-from bs4 import BeautifulSoup
+from datetime import datetime
+import urllib.request
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# 请求头配置
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 '
-                  'Safari/537.36',
-    'Referer': 'https://bangumi.tv/'
-}
-
-# 正则表达式预编译
-EPS_PATTERN = re.compile(r'(\d+)话')
-FULL_DATE_PATTERN = re.compile(r'(\d{4})年(\d{1,2})月(\d{1,2})日')
-YEAR_MONTH_PATTERN = re.compile(r'(\d{4})年(\d{1,2})月')
-YEAR_PATTERN = re.compile(r'(\d{4})年')
-# 新增的正则表达式，用于匹配格式化的日期
-FORMATTED_DATE_PATTERN = re.compile(r'(\d{4})-(\d{1,2})-(\d{1,2})(?:\(.*?\))?')
-FORMATTED_YEAR_MONTH_PATTERN = re.compile(r'(\d{4})-(\d{1,2})(?:\(.*?\))?')
-
-# 并发控制配置
-DEFAULT_CONCURRENT = 3
-MAX_CONCURRENT = int(os.environ.get('CONCURRENT_REQUESTS', DEFAULT_CONCURRENT))
-
-
 class BangumiScraper:
     def __init__(self):
-        self.semaphore = None
-        self.connector = None
         self.current_year = time.localtime().tm_year
         self.current_month = time.localtime().tm_mon
 
     async def __aenter__(self):
-        """异步上下文管理器入口"""
-        self.semaphore = asyncio.Semaphore(MAX_CONCURRENT)
-        self.connector = aiohttp.TCPConnector(limit=MAX_CONCURRENT, ssl=False)
         return self
 
     async def __aexit__(self, exc_type, exc, tb):
-        """异步上下文管理器出口"""
-        await self.connector.close()
+        pass
 
-    async def fetch_pages(self, session: aiohttp.ClientSession, url: str) -> int:
-        """获取总页数"""
-        retries = 3
-        while retries > 0:
-            try:
-                async with session.get(url, headers=HEADERS, timeout=20) as resp:
-                    if resp.status != 200:
-                        raise aiohttp.ClientResponseError(
-                            resp.request_info, resp.history, status=resp.status)
-
-                    soup = BeautifulSoup(await resp.text(), 'lxml')
-                    pagination = soup.select_one('.page_inner')
-
-                    if not pagination:
-                        return 1
-
-                    last_page = 1
-                    for page in pagination.select('a.p'):
-                        if page.text.isdigit():
-                            last_page = max(last_page, int(page.text))
-                    return last_page
-
-            except (aiohttp.ClientError, asyncio.TimeoutError) as e:
-                retries -= 1
-                logging.info(f"获取页数失败: {str(e)}，剩余重试次数: {retries}")
-                await asyncio.sleep(2 + retries * 3)
-        return 0
-
-    async def scrape_page(self, session: aiohttp.ClientSession, base_url: str, page: int, year: int,
-                          month: int = None) -> List[Dict]:
-        """爬取单个页面"""
-        url = f"{base_url}&page={page}"
-        logging.info(f"正在爬取: {url}")
-
-        try:
-            async with self.semaphore:
-                async with session.get(url, headers=HEADERS, timeout=20) as resp:
-                    resp.raise_for_status()
-                    soup = BeautifulSoup(await resp.text(), 'lxml')
-                    return self.parse_page(soup, year, month)
-        except Exception as e:
-            logging.info(f"页面爬取失败: {url}，错误: {str(e)}")
-            return []
-
-    def parse_page(self, soup: BeautifulSoup, base_year: int, base_month: int = None) -> List[Dict]:
-        """解析页面内容（修复标题和封面问题）"""
-        results = []
-        for item in soup.select('#browserItemList > li.item'):
-            anime = defaultdict(str)
-
-            # 标题信息处理
-            title_tag = item.select_one('h3 > a.l')
-            if title_tag:
-                # 提取中文标题（主标题）
-                anime['title'] = title_tag.text.strip()
-                anime['url'] = f"https://bangumi.tv{title_tag['href']}"
-
-                # 提取日文标题（副标题）
-                if jp_title := title_tag.find_next_sibling('small', class_='grey'):
-                    anime['jp_title'] = jp_title.text.strip()
-
-            # 封面图片处理
-            if img := item.select_one('a.subjectCover img.cover'):
-                # 修复封面URL协议问题
-                cover_url = img.get('src') or img.get('data-cfsrc', '')
-                if cover_url.startswith('//'):
-                    cover_url = f"https:{cover_url}"
-                anime['cover'] = cover_url
-
-            # 元数据解析
-            self.parse_metadata(item.select_one('p.info.tip'), anime, base_year, base_month)
-            self.parse_rating(item.select_one('p.rateInfo'), anime)
-
-            results.append(anime)
-        return results
-
-    def parse_metadata(self, elem: BeautifulSoup, anime: Dict, base_year: int, base_month: int = None):
-        """解析元数据"""
-        if not elem:
-            return
-
-        text = elem.text.strip()
-
-        # 初始化默认值
-        anime.update({
-            'year': base_year,
-            'month': base_month or 0,
-            'day': 0
-        })
-
-        # 话数提取
-        if eps := EPS_PATTERN.search(text):
-            anime['episodes'] = eps.group(1)
-
-        # 日期解析 - 按优先顺序尝试不同格式
-        if formatted_date := FORMATTED_DATE_PATTERN.search(text):
-            anime.update({
-                'year': int(formatted_date.group(1)),
-                'month': int(formatted_date.group(2)),
-                'day': int(formatted_date.group(3))
-            })
-        elif full_date := FULL_DATE_PATTERN.search(text):
-            anime.update({
-                'year': int(full_date.group(1)),
-                'month': int(full_date.group(2)),
-                'day': int(full_date.group(3))
-            })
-        elif formatted_ym := FORMATTED_YEAR_MONTH_PATTERN.search(text):
-            anime.update({
-                'year': int(formatted_ym.group(1)),
-                'month': int(formatted_ym.group(2)),
-                'day': 0
-            })
-        elif ym_date := YEAR_MONTH_PATTERN.search(text):
-            anime.update({
-                'year': int(ym_date.group(1)),
-                'month': int(ym_date.group(2)),
-                'day': 0
-            })
-        elif year_only := YEAR_PATTERN.search(text):
-            anime['year'] = int(year_only.group(1))
-            anime['month'] = 0
-            anime['day'] = 0
-        elif direct_year := re.search(r'\b(\d{4})\b', text):
-            anime['year'] = int(direct_year.group(1))
-            anime['month'] = 0
-            anime['day'] = 0
-
-    @staticmethod
-    def parse_rating(elem: BeautifulSoup, anime: Dict):
-        """解析评分信息"""
-        if not elem:
-            return
-
-        if score := elem.select_one('span.number'):
-            anime['score'] = score.text.strip()
-
-        if count := elem.select_one('span.tip_j'):
-            anime['votes'] = count.text.strip('()')
-
-    async def scrape_time_range(self, session: aiohttp.ClientSession, start_year: int, end_year: int,
+    async def scrape_time_range(self, start_year: int, end_year: int,
                                 start_month: int = None, end_month: int = None) -> List[Dict]:
-        """处理时间范围爬取"""
+        """从 bangumi-data 获取数据"""
         all_data = []
-
+        
         for year in range(start_year, end_year + 1):
             if start_year != end_year:
-                months = [None]
+                months = list(range(1, 13))
             else:
-                months = range(start_month, end_month + 1) if start_month else [None]
-
-            for month in months:
-                if month:
-                    url = f"https://bangumi.tv/anime/browser/airtime/{year}-{month:02d}?sort=date"
+                if start_month and end_month:
+                    months = range(start_month, end_month + 1)
+                elif start_month:
+                    months = [start_month]
                 else:
-                    url = f"https://bangumi.tv/anime/browser/airtime/{year}?sort=date"
-
-                if year == self.current_year and month and month > self.current_month:
-                    logging.info(f"跳过未来月份: {year}-{month}")
+                    months = list(range(1, 13))
+            
+            for month in months:
+                if year == self.current_year and month > self.current_month + 1:
+                    logging.info(f"跳过未来月份: {year}-{month:02d}")
                     continue
-
-                total_pages = await self.fetch_pages(session, url)
-                if total_pages == 0:
+                
+                try:
+                    url = f'https://raw.githubusercontent.com/bangumi-data/bangumi-data/master/data/items/{year}/{month:02d}.json'
+                    logging.info(f"正在获取: {url}")
+                    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                    with urllib.request.urlopen(req, timeout=30) as resp:
+                        data = json.load(resp)
+                    
+                    for item in data:
+                        title = item.get('title', '')
+                        title_cn_list = item.get('titleTranslate', {}).get('zh-Hans', [])
+                        title_cn = title_cn_list[0] if title_cn_list else title
+                        sites = item.get('sites', [])
+                        bangumi_url = ''
+                        for site in sites:
+                            if site.get('site') == 'bangumi':
+                                bangumi_url = f"https://bangumi.tv/subject/{site.get('id')}"
+                                break
+                        begin = item.get('begin', '')
+                        if begin and len(begin) >= 10:
+                            date_str = begin[:10]
+                            date_parts = date_str.split('-')
+                            item_year = int(date_parts[0])
+                            item_month = int(date_parts[1])
+                            item_day = int(date_parts[2])
+                        else:
+                            date_str = f'{year}-{month:02d}-01'
+                            item_year = year
+                            item_month = month
+                            item_day = 1
+                        
+                        all_data.append({
+                            'year': item_year,
+                            'month': item_month,
+                            'day': item_day,
+                            'cover': '',
+                            'title': title_cn,
+                            'url': bangumi_url,
+                            'jp_title': title if title_cn != title else '',
+                            'episodes': str(item.get('eps', '未知')) if item.get('eps') else '未知',
+                            'score': '-',
+                            'votes': '0'
+                        })
+                    logging.info(f"✅ {year}-{month:02d}: 获取 {len(data)} 条数据")
+                except Exception as e:
+                    logging.info(f"跳过 {year}-{month:02d}: {str(e)}")
                     continue
-
-                tasks = [self.scrape_page(session, url, p, year, month)
-                         for p in range(1, total_pages + 1)]
-                results = await asyncio.gather(*tasks)
-                all_data.extend(
-                    [item for sublist in results for item in sublist])
-
+        
         return all_data
 
     def generate_markdown(self, new_data: List[Dict], filename: str = "Bangumi_Anime.md"):
@@ -452,10 +323,9 @@ class BangumiScraper:
             args = parser.parse_args()
 
             if args.mode == 'auto':
-                os.environ['CONCURRENT_REQUESTS'] = str(args.concurrent)
                 start_year = end_year = args.year
                 start_month = end_month = args.month
-                logging.info(f"🏃 自动模式启动 | 年份: {args.year} | 月份: {args.month or '全年'}")
+                logging.info(f"🏃 自动模式启动 | 年份: {args.year} | 月份: {args.month or '全年'}（使用 bangumi-data 数据源）")
             else:
                 year_input = input("请输入要爬取的年份（支持范围，如2010-2023）: ").strip()
                 start_year, end_year = self.process_year_input(year_input)
@@ -474,9 +344,8 @@ class BangumiScraper:
 
             logging.info(f"📝 输出文件路径: {output_file}")
 
-            async with aiohttp.ClientSession(connector=self.connector) as session:
-                data = await self.scrape_time_range(session, start_year, end_year, start_month, end_month)
-                self.generate_markdown(data, output_file)
+            data = await self.scrape_time_range(start_year, end_year, start_month, end_month)
+            self.generate_markdown(data, output_file)
 
     @staticmethod
     def process_year_input(input_str: str) -> Tuple[int, int]:
@@ -512,16 +381,12 @@ class BangumiScraper:
             raise ValueError("无效的月份输入")
         return (int(input_str), int(input_str))
 
-
 async def run():
     try:
         async with BangumiScraper() as scraper:
             await scraper.main()
-    except aiohttp.ClientError as e:
-        logging.error(f"网络请求错误: {str(e)}")
     except Exception as e:
         logging.error(f"未知错误: {str(e)}", exc_info=True)
-
 
 if __name__ == "__main__":
     asyncio.run(run())
