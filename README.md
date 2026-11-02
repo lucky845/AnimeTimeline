@@ -10,10 +10,33 @@ A Python tool for crawling and organizing anime broadcast information, supportin
 - ⚡ Smart updates: automatically synchronizes the latest anime data daily (8:00 AM Beijing time)
 - 📈 Incremental updates: automatically merges new and old data with intelligent deduplication
 - 🕰️ Time range: supports year ranges (e.g., 2010-2024) and month ranges (e.g., 4-7)
-- 📦 Data export: generates structured Markdown documents with complete metadata
+- 📦 Data export: split by year to avoid GitHub preview size limits
 - 🔁 Failure retry: automatically handles network exceptions with 3 retry attempts
 - 🤖 Automatic archiving: creates versioned Pull Requests through GitHub Actions
 - 🛡️ Security control: configurable concurrent request limit (default: 3 concurrent requests)
+
+## Data Source
+
+> ⚠️ **Important change**: Bangumi.tv now requires login to browse `/anime/browser/airtime/*` pages, so HTML scraping no longer works in CI environments without authentication.
+
+Since Nov 2026, this project uses [bangumi-data](https://github.com/bangumi-data/bangumi-data) as the data source:
+
+- Source: `https://raw.githubusercontent.com/bangumi-data/bangumi-data/master/data/items/{year}/{month}.json`
+- Publicly accessible, no login/cookies/proxy needed
+- Includes air dates, Chinese/Japanese titles, episode counts, and Bangumi subject links
+
+### Field differences vs old scraper
+
+| Field | Old scraper | New (bangumi-data) |
+| --- | --- | --- |
+| Air date | ✅ | ✅ |
+| Chinese title | ✅ | ✅ (`titleTranslate.zh-Hans`) |
+| Japanese title | ✅ | ✅ |
+| Episode count | ✅ | ✅ (`eps`) |
+| Rating / votes | ✅ | ❌ (kept as `-` / `0`) |
+| Cover image | ✅ | ❌ (kept empty) |
+
+Historical data with ratings/covers is preserved in year-split files.
 
 ## Installation
 
