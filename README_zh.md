@@ -189,6 +189,27 @@ AnimeTimeline/
    ```
 5. 创建 Pull Request
 
+### main 分支受保护
+
+`main` 不允许直接推送，所有改动必须走 Pull Request，且需等到检查通过：
+
+| 检查项 | 说明 |
+| --- | --- |
+| `quick-check` | `.github/workflows/pr-check.yml`：编译检查 + pytest + 数据守卫 |
+| `CommitCheck` | 仓库 ruleset 要求的提交检查 |
+
+合并前本地自检（与 CI 等价）：
+
+```bash
+pip install -e ".[dev]"
+python -m pytest -q
+python scripts/check_data.py
+python scripts/health.py
+```
+
+自动化数据更新由 GitHub Actions 机器人提交 PR 并自动合并，该身份保留
+ruleset 绕过权限；人工提交没有。
+
 ### 数据维护
 
 - 通过 Review Pull Request 参与数据校验
