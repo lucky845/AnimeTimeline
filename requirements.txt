@@ -1,3 +1,3 @@
 # 运行时只依赖 aiohttp：bs4/lxml/pandas/requests 从未被 import，
 # 留着只会把它们的 CVE 引进 Dependabot 告警面。
-aiohttp==3.14.4
+aiohttp==3.14.5
