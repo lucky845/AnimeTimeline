@@ -1,7 +1,13 @@
-.venv/
 __pycache__/
-*.pyc
-.idea/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
 data/.subject_cache.json
-.venv_test/
+.DS_Store
+.idea/
 .vscode/
+/2024.md
+/None.md
+docs/calendar/calendar/

@@ -20,7 +20,7 @@ jobs:
         run: pip install -r requirements-dev.txt
 
       - name: Compile check
-        run: python -m compileall -q pull.py scripts/
+        run: python -m compileall -q animetimeline scripts/
 
       - name: Unit tests
         run: python -m pytest -q

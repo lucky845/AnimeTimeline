@@ -21,7 +21,7 @@ from datetime import datetime, timedelta, timezone
 import aiohttp
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import pull  # noqa: E402
+from animetimeline import scraper as pull  # noqa: E402
 
 ITEMS_URL = "https://raw.githubusercontent.com/bangumi-data/bangumi-data/master/data/items/{y}/{m:02d}.json"
 EPISODES_API = "https://api.bgm.tv/v0/episodes?subject_id={sid}&type=0&limit=50"

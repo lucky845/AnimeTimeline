@@ -80,10 +80,14 @@ Both run in `pr-check.yml` and `update-anime.yml`; a failing guard blocks the au
    .venv\Scripts\activate  # Windows
    ```
 
-3. Install dependencies
+3. Install (either way)
    ```bash
-   pip install -r requirements.txt
+   pip install -e "[dev]"   # development: editable install with pytest
+   pip install animetimeline # once published: ready-to-use CLI
    ```
+
+   The data directory defaults to the current working directory; override it with
+   `--data-dir` or `ANIMETIMELINE_DATA_DIR`. No path is hard-coded inside the package.
 
 ## Usage
 

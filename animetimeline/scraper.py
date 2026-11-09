@@ -24,13 +24,17 @@ JST = timezone(timedelta(hours=9))
 
 DEFAULT_CONCURRENT = 3
 MAX_CONCURRENT = int(os.environ.get("CONCURRENT_REQUESTS", DEFAULT_CONCURRENT))
-CACHE_FILE = os.path.join("data", ".subject_cache.json")
+# 数据目录：由 --data-dir 或构造参数注入，默认当前工作目录（不在包内部写死路径）
+def resolve_data_dir(explicit: Optional[str] = None) -> str:
+    return os.path.abspath(explicit or os.environ.get("ANIMETIMELINE_DATA_DIR") or os.getcwd())
 # 缓存有效期（秒）。评分/话数会变化，缓存只是省请求，不是永久快照。
 CACHE_TTL = int(os.environ.get("CACHE_TTL_DAYS", "7")) * 86400
 
 
 class BangumiScraper:
-    def __init__(self):
+    def __init__(self, data_dir: Optional[str] = None):
+        self.data_dir = resolve_data_dir(data_dir)
+        self.cache_file = os.path.join(self.data_dir, ".subject_cache.json")
         self.current_year = time.localtime().tm_year
         self.current_month = time.localtime().tm_mon
         self.semaphore = None
@@ -50,9 +54,9 @@ class BangumiScraper:
         self._save_cache()
 
     def _load_cache(self):
-        if os.path.exists(CACHE_FILE):
+        if os.path.exists(self.cache_file):
             try:
-                with open(CACHE_FILE, "r", encoding="utf-8") as f:
+                with open(self.cache_file, "r", encoding="utf-8") as f:
                     raw = json.load(f)
                 if "__ts__" in raw:
                     self.cache = {k: v for k, v in raw.items() if k != "__ts__"}
@@ -68,9 +72,9 @@ class BangumiScraper:
     def _save_cache(self):
         if not self.cache_dirty:
             return
-        os.makedirs("data", exist_ok=True)
+        os.makedirs(self.data_dir, exist_ok=True)
         try:
-            with open(CACHE_FILE, "w", encoding="utf-8") as f:
+            with open(self.cache_file, "w", encoding="utf-8") as f:
                 payload = dict(self.cache)
                 payload["__ts__"] = self.cache_ts
                 json.dump(payload, f, ensure_ascii=False, sort_keys=True)
@@ -294,9 +298,11 @@ class BangumiScraper:
             restored = True
         return restored
 
-    @staticmethod
-    def assert_no_duplicates(data_dir: str = "data"):
+    def assert_no_duplicates(self, data_dir: Optional[str] = None):
         """全库扫描：同一 subject 在某个年份文件里出现多次即失败（exit 2）。"""
+        data_dir = data_dir or self.data_dir
+        if not os.path.isdir(data_dir):
+            return
         dup_total = 0
         for name in sorted(os.listdir(data_dir)):
             if not re.fullmatch(r"\d{4}\.md", name):
@@ -366,7 +372,7 @@ class BangumiScraper:
                 continue
             year_dict[year].append(item)
 
-        os.makedirs("data", exist_ok=True)
+        os.makedirs(self.data_dir, exist_ok=True)
         sorted_years = sorted(
             year_dict.keys(), key=lambda y: int(y) if str(y).isdigit() else 0, reverse=True
         )
@@ -401,7 +407,7 @@ class BangumiScraper:
                 logging.error(f"❌ {year}年 存在 {dup} 个重复 subject，已中止写入")
                 raise SystemExit(2)
 
-            with open(os.path.join("data", f"{year}.md"), "w", encoding="utf-8") as f:
+            with open(os.path.join(self.data_dir, f"{year}.md"), "w", encoding="utf-8") as f:
                 f.write(md_content)
 
         index = "# Bangumi番剧数据报告\n\n"
@@ -430,7 +436,7 @@ class BangumiScraper:
         existing_data = []
         parsed_count = 0
 
-        data_files = sorted(glob.glob(os.path.join("data", "*.md")))
+        data_files = sorted(glob.glob(os.path.join(self.data_dir, "*.md")))
         if not data_files:
             if not os.path.exists(filename):
                 return []
@@ -509,7 +515,7 @@ class BangumiScraper:
         logging.info(f"✅ 解析旧数据完成 | 文件数: {len(data_files)} | 条目: {parsed_count}")
         return existing_data
 
-    async def main(self):
+    async def main(self, argv: Optional[List[str]] = None):
         async with self:
             parser = argparse.ArgumentParser(description="Bangumi Scraper")
             subparsers = parser.add_subparsers(dest="mode", required=True)
@@ -521,9 +527,18 @@ class BangumiScraper:
             auto_parser.add_argument("--month", type=int)
             auto_parser.add_argument("--concurrent", type=int, default=3)
 
-            args = parser.parse_args()
+            auto_parser.add_argument("--data-dir", help="数据目录，默认当前工作目录")
+            auto_parser.add_argument(
+                "--no-interactive", action="store_true",
+                help="非交互模式：年份/月份未给出时按所有年份处理（CI 用）",
+            )
+
+            args = parser.parse_args(argv)
 
             if args.mode == "auto":
+                if getattr(args, "data_dir", None):
+                    self.data_dir = resolve_data_dir(args.data_dir)
+                    self.cache_file = os.path.join(self.data_dir, ".subject_cache.json")
                 os.environ["CONCURRENT_REQUESTS"] = str(args.concurrent)
                 start_year = end_year = args.year
                 start_month = end_month = args.month
@@ -545,7 +560,7 @@ class BangumiScraper:
                     self.process_month_input(month_input) if month_input else (None, None)
                 )
 
-            output_file = os.path.abspath("Bangumi_Anime.md")
+            output_file = os.path.join(self.data_dir, "Bangumi_Anime.md")
             logging.info(f"📝 输出文件: {output_file}")
 
             data = await self.scrape_time_range(
@@ -604,16 +619,13 @@ class BangumiScraper:
         return (int(input_str), int(input_str))
 
 
-async def run():
+def run(argv: Optional[List[str]] = None) -> int:
+    """控制台入口（animetimeline 命令）。返回进程退出码，不吞异常。"""
     try:
-        async with BangumiScraper() as scraper:
-            await scraper.main()
-    except SystemExit:
-        raise
+        asyncio.run(BangumiScraper().main(argv))
+    except SystemExit as e:
+        return int(e.code or 0) if not isinstance(e.code, str) else 1
     except Exception as e:
         logging.error(f"未知错误: {e}", exc_info=True)
-        raise SystemExit(1)
-
-
-if __name__ == "__main__":
-    asyncio.run(run())
+        return 1
+    return 0

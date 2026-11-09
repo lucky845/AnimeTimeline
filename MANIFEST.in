@@ -1,0 +1,4 @@
+include README.md README_zh.md LICENSE
+prune data
+prune docs
+global-exclude .subject_cache.json *.pyc

@@ -37,7 +37,7 @@ jobs:
         env:
           CONCURRENT_REQUESTS: 3
         run: |
-          python pull.py auto \
+          python -m animetimeline auto \
             --year ${{ env.CURRENT_YEAR }} \
             --month ${{ env.CURRENT_MONTH }}
 
