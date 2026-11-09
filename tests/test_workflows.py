@@ -27,6 +27,8 @@ def test_update_workflow_keeps_guards():
     assert "scripts/check_data.py" in text, "数据腐化守卫被删了"
     assert "scripts/health.py" in text, "健康报告步骤被删了"
     assert "python -m animetimeline auto" in text, "仍在调用已删除的 pull.py 入口"
+    assert os.path.exists(os.path.join(ROOT, "animetimeline", "__main__.py")), \
+        "python -m animetimeline 需要 animetimeline/__main__.py"
     assert "pull.py" not in text
 
 
