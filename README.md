@@ -59,6 +59,7 @@ python scripts/build_site.py                       # render docs/index.html
 
 ```bash
 python scripts/check_data.py    # table shape, duplicate subjects, score format
+python scripts/health.py        # health report: month gaps, stale current year, calendar coverage
 python -m pytest -q             # unit tests
 ```
 

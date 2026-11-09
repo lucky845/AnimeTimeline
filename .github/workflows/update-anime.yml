@@ -45,6 +45,10 @@ jobs:
         # 守卫失败 -> job 红，create-pull-request 不执行，坏数据进不了 main
         run: python scripts/check_data.py
 
+      - name: Health report
+        # 体检表写进 job summary；严重项让 job 红，避免"全绿但其实没数据"
+        run: python scripts/health.py | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Create Pull Request
         id: create-pr
         uses: peter-evans/create-pull-request@v5

@@ -59,6 +59,7 @@ python scripts/build_site.py                       # 渲染 docs/index.html
 
 ```bash
 python scripts/check_data.py    # 表头、重复 subject、评分格式
+python scripts/health.py        # 健康报告：月份断档、当年停更、日历覆盖不足
 python -m pytest -q             # 单元测试
 ```
 

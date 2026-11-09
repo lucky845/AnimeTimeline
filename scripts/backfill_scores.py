@@ -14,7 +14,7 @@ import sys
 import aiohttp
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import pull  # noqa: E402
+from animetimeline import scraper as pull  # noqa: E402
 
 SUBJECT_RE = re.compile(r"subject/(\d+)")
 # 按 " | " 切单元格：标题里可能有转义的竖线，但单元格分隔一定是 " | "
@@ -52,6 +52,7 @@ def patch_row(line, info):
 
 async def main(years):
     async with pull.BangumiScraper() as scraper:
+        # 连接池自己开自己关：scraper 的 __aexit__ 不负责 session
         async with aiohttp.ClientSession(trust_env=True) as session:
             for year in years:
                 path = os.path.join("data", f"{year}.md")
