@@ -59,6 +59,7 @@ def render(rows):
         f'<a class="ics" href="calendar/{y}.ics">订阅 {y} 年日历 (.ics)</a>' for y in years
     )
     body = "".join(cards) or '<p class="empty">最近一周没有排播</p>'
+    built = datetime.now().strftime("%Y-%m-%d %H:%M")
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -95,9 +96,13 @@ a:hover {{ color:var(--accent); text-decoration:underline; }}
 </head>
 <body><main>
 <h1>番剧播出日历</h1>
-<p class="sub">数据来源 bangumi-data + bgm.tv，按 JST 显示，每日自动更新。</p>
+<p class="sub">数据来源 bangumi-data + bgm.tv，按 JST 显示，每日自动更新 · 构建于 {built}</p>
 {links}
 {body}
+<footer class="sub" style="margin-top:2rem">
+  订阅：<a href="{SITE}/calendar/2026.ics">{SITE}/calendar/2026.ics</a> ·
+  <a href="https://github.com/lucky845/AnimeTimeline">源码</a>
+</footer>
 </main></body></html>
 """
 

@@ -10,6 +10,8 @@ on:
       - "scripts/build_calendar.py"
       - "scripts/build_site.py"
       - ".github/workflows/pages.yml"
+      # 数据更新往往不改脚本：不加这块，每日同步后页面永远是旧的
+      - "data/calendar/**"
 
 permissions:
   contents: read
