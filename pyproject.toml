@@ -31,4 +31,3 @@ animetimeline = "animetimeline.cli:main"
 
 [tool.setuptools]
 packages = ["animetimeline"]
-license-files = ["LICENSE"]
