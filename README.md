@@ -33,10 +33,36 @@ Since Nov 2026, this project uses [bangumi-data](https://github.com/bangumi-data
 | Chinese title | ✅ | ✅ (`titleTranslate.zh-Hans`) |
 | Japanese title | ✅ | ✅ |
 | Episode count | ✅ | ✅ (`eps`) |
-| Rating / votes | ✅ | ❌ (kept as `-` / `0`) |
-| Cover image | ✅ | ❌ (kept empty) |
+| Rating / votes | ✅ | ✅ (backfilled via `api.bgm.tv/v0/subjects/{id}`) |
+| Cover image | ✅ | ✅ (backfilled via `api.bgm.tv`) |
+| Weekly broadcast time | ❌ | ✅ (`broadcast` ISO-8601 repeat rule) |
 
-Historical data with ratings/covers is preserved in year-split files.
+Missing values are **never written over existing real data** — if the metadata API fails, the merge layer keeps the previous value instead of overwriting it with `-`.
+
+## 📅 Calendar Subscription (new)
+
+Beyond the Markdown tables, the project generates a real **weekly broadcast calendar**:
+
+- Weekly schedule derived from bangumi-data's `broadcast` rule (`R/2026-10-07T15:00:00.000Z/P7D`), corrected by per-episode `airdate` from bgm.tv
+- `data/calendar/{year}.ics` — subscribe it in any calendar app
+- `docs/index.html` — static 7-day schedule page, deployed to GitHub Pages
+- Live: **https://animetimeline.lucky845.top**
+- Subscribe: **https://animetimeline.lucky845.top/calendar/2026.ics**
+
+```bash
+python scripts/build_calendar.py 2026 --weeks 16   # generate ICS + JSON
+python scripts/check_calendar.py                   # validate structure / UID / RFC 5545 folding
+python scripts/build_site.py                       # render docs/index.html
+```
+
+## ✅ Data quality guards
+
+```bash
+python scripts/check_data.py    # table shape, duplicate subjects, score format
+python -m pytest -q             # unit tests
+```
+
+Both run in `pr-check.yml` and `update-anime.yml`; a failing guard blocks the auto-merge PR.
 
 ## Installation
 

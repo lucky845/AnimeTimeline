@@ -1,0 +1,58 @@
+name: Build Calendar Site
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 每天 UTC 09:00（JST 18:00）刷新
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/build_calendar.py"
+      - "scripts/build_site.py"
+      - ".github/workflows/pages.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
+
+      - name: Build calendar
+        run: |
+          python scripts/build_calendar.py $(date +%Y) --weeks 16
+          python scripts/check_calendar.py
+
+      - name: Build static site
+        run: |
+          python scripts/build_site.py
+          cp -r data/calendar docs/calendar
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -33,10 +33,36 @@
 | 中文标题 | ✅ | ✅（`titleTranslate.zh-Hans`） |
 | 日文标题 | ✅ | ✅ |
 | 话数 | ✅ | ✅（`eps`） |
-| 评分 / 评分人数 | ✅ | ❌ 不提供 |
-| 封面图 | ✅ | ❌ 不提供 |
+| 评分 / 评分人数 | ✅ | ✅（通过 `api.bgm.tv/v0/subjects/{id}` 回填） |
+| 封面图 | ✅ | ✅（通过 `api.bgm.tv` 回填） |
+| 每周播出时间 | ❌ | ✅（`broadcast` ISO-8601 重复规则） |
 
-> 评分、评分人数与封面图字段在新方案下保持空值（`-` / `0` / 空），历史数据中的已有内容不受影响，会继续保留在按年份拆分的文件中。
+> 空值**绝不覆盖**已有真值：元数据接口失败时，合并层会保留旧数据，而不是把它改写成 `-`。
+
+## 📅 日历订阅（新增）
+
+除了 Markdown 表格，项目还会生成真正的**每周播出日历**：
+
+- 每周排播由 bangumi-data 的 `broadcast` 规则（`R/2026-10-07T15:00:00.000Z/P7D`）推算，并用 bgm.tv 的逐话 `airdate` 校正
+- `data/calendar/{year}.ics` —— 可直接导入任意日历应用订阅
+- `docs/index.html` —— 未来 7 天排播静态页，部署到 GitHub Pages
+- 线上地址：**https://animetimeline.lucky845.top**
+- 订阅地址：**https://animetimeline.lucky845.top/calendar/2026.ics**
+
+```bash
+python scripts/build_calendar.py 2026 --weeks 16   # 生成 ICS + JSON
+python scripts/check_calendar.py                   # 校验结构 / UID / RFC 5545 折行
+python scripts/build_site.py                       # 渲染 docs/index.html
+```
+
+## ✅ 数据质量守卫
+
+```bash
+python scripts/check_data.py    # 表头、重复 subject、评分格式
+python -m pytest -q             # 单元测试
+```
+
+两个守卫都已接入 `pr-check.yml` 与 `update-anime.yml`，校验失败会直接阻断自动合并的 PR。
 
 ## 安装说明
 
