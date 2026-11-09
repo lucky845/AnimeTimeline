@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements-dev.txt
 
       - name: Generate timestamps
         run: |
@@ -40,6 +40,10 @@ jobs:
           python pull.py auto \
             --year ${{ env.CURRENT_YEAR }} \
             --month ${{ env.CURRENT_MONTH }}
+
+      - name: Data corruption guard
+        # 守卫失败 -> job 红，create-pull-request 不执行，坏数据进不了 main
+        run: python scripts/check_data.py
 
       - name: Create Pull Request
         id: create-pr

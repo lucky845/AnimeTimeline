@@ -25,6 +25,8 @@ JST = timezone(timedelta(hours=9))
 DEFAULT_CONCURRENT = 3
 MAX_CONCURRENT = int(os.environ.get("CONCURRENT_REQUESTS", DEFAULT_CONCURRENT))
 CACHE_FILE = os.path.join("data", ".subject_cache.json")
+# 缓存有效期（秒）。评分/话数会变化，缓存只是省请求，不是永久快照。
+CACHE_TTL = int(os.environ.get("CACHE_TTL_DAYS", "7")) * 86400
 
 
 class BangumiScraper:
@@ -33,7 +35,11 @@ class BangumiScraper:
         self.current_month = time.localtime().tm_mon
         self.semaphore = None
         self.cache: Dict[str, Dict] = {}
+        # 缓存时间戳：用于 TTL，避免评分/话数永久冻结在首次抓取时的快照
+        self.cache_ts: Dict[str, float] = {}
         self.cache_dirty = False
+        # (year, month, reason)：数据源取不到月份时记录，供 auto 模式判定"没数据"而非"没 diff"
+        self.fetch_failures: List[Tuple[int, int, str]] = []
 
     async def __aenter__(self):
         self.semaphore = asyncio.Semaphore(MAX_CONCURRENT)
@@ -47,7 +53,13 @@ class BangumiScraper:
         if os.path.exists(CACHE_FILE):
             try:
                 with open(CACHE_FILE, "r", encoding="utf-8") as f:
-                    self.cache = json.load(f)
+                    raw = json.load(f)
+                if "__ts__" in raw:
+                    self.cache = {k: v for k, v in raw.items() if k != "__ts__"}
+                    self.cache_ts = raw["__ts__"]
+                else:
+                    # 旧格式：无时间戳，视为全部过期，下次访问时刷新
+                    self.cache = raw
                 logging.info(f"📦 已加载 subject 缓存: {len(self.cache)} 条")
             except Exception as e:
                 logging.info(f"缓存读取失败，忽略: {e}")
@@ -59,7 +71,9 @@ class BangumiScraper:
         os.makedirs("data", exist_ok=True)
         try:
             with open(CACHE_FILE, "w", encoding="utf-8") as f:
-                json.dump(self.cache, f, ensure_ascii=False, sort_keys=True)
+                payload = dict(self.cache)
+                payload["__ts__"] = self.cache_ts
+                json.dump(payload, f, ensure_ascii=False, sort_keys=True)
             logging.info(f"💾 已保存 subject 缓存: {len(self.cache)} 条")
         except Exception as e:
             logging.warning(f"缓存保存失败: {e}")
@@ -77,8 +91,11 @@ class BangumiScraper:
             return None
 
     async def _fetch_subject(self, session: aiohttp.ClientSession, subject_id: str) -> Optional[Dict]:
+        # 缓存命中也要看是否过期：评分会涨、话数会补全，永久缓存等于冻结数据
         if subject_id in self.cache:
-            return self.cache[subject_id]
+            age = time.time() - self.cache_ts.get(subject_id, 0)
+            if age < CACHE_TTL:
+                return self.cache[subject_id]
         async with self.semaphore:
             for attempt in range(3):
                 try:
@@ -89,6 +106,7 @@ class BangumiScraper:
                     ) as resp:
                         if resp.status == 404:
                             self.cache[subject_id] = {}
+                            self.cache_ts[subject_id] = time.time()
                             self.cache_dirty = True
                             return {}
                         if resp.status != 200:
@@ -107,6 +125,7 @@ class BangumiScraper:
                             "title_jp": data.get("name") or "",
                         }
                         self.cache[subject_id] = info
+                        self.cache_ts[subject_id] = time.time()
                         self.cache_dirty = True
                         return info
                 except Exception as e:
@@ -124,12 +143,14 @@ class BangumiScraper:
                 url, headers={"User-Agent": USER_AGENT}, timeout=aiohttp.ClientTimeout(total=30)
             ) as resp:
                 if resp.status == 404:
-                    logging.info(f"跳过 {year}-{month:02d}: 数据不存在（未发布）")
+                    logging.warning(f"跳过 {year}-{month:02d}: 数据不存在（未发布）")
+                    self.fetch_failures.append((year, month, "404"))
                     return []
                 resp.raise_for_status()
                 raw = await resp.json(content_type=None)
         except Exception as e:
-            logging.info(f"跳过 {year}-{month:02d}: {e}")
+            logging.warning(f"跳过 {year}-{month:02d}: {e}")
+            self.fetch_failures.append((year, month, str(e)[:120]))
             return []
 
         entries = []
@@ -175,10 +196,10 @@ class BangumiScraper:
         for e in entries:
             sid = e.pop("_subject_id", "")
             info = self.cache.get(sid) if sid else None
+            # 关键：info 缺失（网络失败 None / 404 空 {}）时绝不写占位值，
+            # 否则会把 md 里已有的真实评分覆盖成 "-"（不可重建）。留空由合并层保留旧值。
             if not info:
-                e["episodes"] = "未知"
-                e["score"] = "-"
-                e["votes"] = "0"
+                e["unresolved"] = True
                 continue
             if info.get("eps"):
                 e["episodes"] = str(info["eps"])
@@ -218,35 +239,125 @@ class BangumiScraper:
                     all_data.extend(await self.fetch_month(session, year, month))
         return all_data
 
+    @staticmethod
+    def _fmt_md_row(item: Dict) -> str:
+        date_parts = []
+        if item.get("year"):
+            date_parts.append(f"{item['year']}")
+            if item.get("month") and int(item["month"]) > 0:
+                date_parts.append(f"{int(item['month']):02d}")
+                if item.get("day") and int(item["day"]) > 0:
+                    date_parts.append(f"{int(item['day']):02d}")
+        date_str = "-".join(date_parts) if date_parts else "未知"
+
+        cover = f"![]({item['cover']})" if item.get("cover") else ""
+        ch_title = (item.get("title") or "未知标题").strip()
+        title_link = f"[{ch_title}]({item.get('url', '')})" if item.get("url") else ch_title
+        jp_title = (item.get("jp_title") or "").strip()
+        votes = re.sub(r"\D", "", str(item.get("votes", "0"))) or "0"
+        score = item.get("score", "-") or "-"
+        episodes = item.get("episodes", "未知") or "未知"
+
+        return (
+            f"| {date_str} | {cover} | {title_link} | {jp_title} | "
+            f"{episodes} | {score} | {votes} |\n"
+        )
+
+    @staticmethod
+    def _info_score(item: Dict) -> int:
+        s = 0
+        if str(item.get("score") or "") not in ("", "-"):
+            s += 100
+        if str(item.get("votes") or "") not in ("", "0"):
+            s += 10
+        if str(item.get("episodes") or "") not in ("", "未知"):
+            s += 20
+        if item.get("cover"):
+            s += 5
+        if item.get("jp_title"):
+            s += 2
+        return s
+
+    @staticmethod
+    def _merge_old_into_new(new: Dict, old: Optional[Dict]) -> bool:
+        """空值不覆盖已有值。返回 True 表示有字段被恢复。"""
+        if not old:
+            return False
+        restored = False
+        for key, empty in (("score", ("", "-")), ("cover", ("",)),
+                           ("episodes", ("", "未知")), ("votes", ("", "0"))):
+            if str(new.get(key) or "") in empty and str(old.get(key) or "") not in empty:
+                new[key] = old[key]
+                restored = True
+        if not new.get("jp_title") and old.get("jp_title"):
+            new["jp_title"] = old["jp_title"]
+            restored = True
+        return restored
+
+    @staticmethod
+    def assert_no_duplicates(data_dir: str = "data"):
+        """全库扫描：同一 subject 在某个年份文件里出现多次即失败（exit 2）。"""
+        dup_total = 0
+        for name in sorted(os.listdir(data_dir)):
+            if not re.fullmatch(r"\d{4}\.md", name):
+                continue
+            seen, dup = set(), 0
+            with open(os.path.join(data_dir, name), encoding="utf-8") as f:
+                for line in f:
+                    m = re.search(r"/subject/(\d+)", line)
+                    if not m:
+                        continue
+                    if m.group(1) in seen:
+                        dup += 1
+                    seen.add(m.group(1))
+            if dup:
+                logging.error(f"❌ {name} 存在 {dup} 个重复 subject")
+                dup_total += dup
+        if dup_total:
+            raise SystemExit(2)
+
     def generate_markdown(self, new_data: List[Dict], filename: str = "Bangumi_Anime.md"):
         existing_data = self.parse_existing_markdown(filename) if os.path.exists(filename) else []
 
         new_items_count = 0
         new_years_data = defaultdict(int)
         merged_data = []
-        seen = set()
 
         def ident(item):
-            return (
-                item.get("year"),
-                item.get("title"),
-                item.get("episodes"),
-                (item.get("url") or "").split("/")[-1],
-            )
+            # 唯一键 = subject id。旧实现把 episodes 并入 key，导致同一番剧
+            # "未知" 与 "12" 两行并存（2026.md 曾有 101 组重复）。
+            sid = (item.get("url") or "").rstrip("/").split("/")[-1]
+            if sid.isdigit():
+                return ("sid", sid)
+            return ("raw", item.get("year"), item.get("title"), item.get("episodes"))
 
+        by_key: Dict[Tuple, Dict] = {}
         for item in existing_data:
             key = ident(item)
-            if key not in seen:
-                seen.add(key)
-                merged_data.append(item)
+            cur = by_key.get(key)
+            if cur is None:
+                by_key[key] = item
+                continue
+            # 旧数据内部也可能重复：保留信息最全的一行，空壳行让位
+            keep, drop = (
+                (item, cur) if self._info_score(item) > self._info_score(cur) else (cur, item)
+            )
+            self._merge_old_into_new(keep, drop)
+            by_key[key] = keep
 
         for item in new_data:
             key = ident(item)
-            if key not in seen:
-                seen.add(key)
+            old = by_key.get(key)
+            if old is None:
+                by_key[key] = item
                 new_items_count += 1
                 new_years_data[item.get("year")] += 1
-                merged_data.append(item)
+                continue
+            # 同一条目：新数据空值不得覆盖旧值（评分不可重建）
+            self._merge_old_into_new(item, old)
+            by_key[key] = item
+
+        merged_data = list(by_key.values())
 
         year_dict = defaultdict(list)
         for item in merged_data:
@@ -276,28 +387,19 @@ class BangumiScraper:
             )
 
             for item in sorted_items:
-                date_parts = []
-                if item.get("year"):
-                    date_parts.append(f"{item['year']}")
-                    if item.get("month") and int(item["month"]) > 0:
-                        date_parts.append(f"{int(item['month']):02d}")
-                        if item.get("day") and int(item["day"]) > 0:
-                            date_parts.append(f"{int(item['day']):02d}")
-                date_str = "-".join(date_parts) if date_parts else "未知"
-
-                cover = f"![]({item['cover']})" if item.get("cover") else ""
-                ch_title = (item.get("title") or "未知标题").strip()
-                title_link = f"[{ch_title}]({item.get('url', '')})" if item.get("url") else ch_title
-                jp_title = (item.get("jp_title") or "").strip()
-                votes = re.sub(r"\D", "", str(item.get("votes", "0"))) or "0"
-                score = item.get("score", "-") or "-"
-                episodes = item.get("episodes", "未知") or "未知"
-
-                md_content += (
-                    f"| {date_str} | {cover} | {title_link} | {jp_title} | "
-                    f"{episodes} | {score} | {votes} |\n"
-                )
+                md_content += self._fmt_md_row(item)
             md_content += "\n"
+            # 渲染前自检：同一 subject 只允许出现一次
+            sids = [
+                (it.get("url") or "").rstrip("/").split("/")[-1]
+                for it in sorted_items
+                if (it.get("url") or "")
+            ]
+            sids = [s for s in sids if s.isdigit()]
+            dup = len(sids) - len(set(sids))
+            if dup:
+                logging.error(f"❌ {year}年 存在 {dup} 个重复 subject，已中止写入")
+                raise SystemExit(2)
 
             with open(os.path.join("data", f"{year}.md"), "w", encoding="utf-8") as f:
                 f.write(md_content)
@@ -450,6 +552,26 @@ class BangumiScraper:
                 start_year, end_year, start_month, end_month
             )
             self.generate_markdown(data, output_file)
+            # 全库重复 subject 自检：单年自检只在"该年有渲染"时生效，这里兜底兜住历史文件
+            self.assert_no_duplicates()
+
+            # 区分"没 diff"与"没数据"：应有数据的月份一条没取到 = 数据源故障，必须红。
+            expected = [
+                (y, m)
+                for y in range(start_year, end_year + 1)
+                for m in (
+                    range(start_month, (end_month or start_month) + 1)
+                    if start_month
+                    else range(1, 13)
+                )
+                if (y, m) <= (self.current_year, self.current_month)
+            ]
+            failed = [(y, m) for (y, m, _) in self.fetch_failures if (y, m) in expected]
+            if args.mode == "auto" and failed and not data:
+                logging.error(f"❌ 期望区间内无任何数据: 失败月份 {failed}")
+                raise SystemExit(3)
+            if failed:
+                logging.warning(f"⚠️ 部分月份取数失败（已保留旧数据）: {failed}")
 
     @staticmethod
     def process_year_input(input_str: str) -> Tuple[int, int]:
@@ -486,8 +608,11 @@ async def run():
     try:
         async with BangumiScraper() as scraper:
             await scraper.main()
+    except SystemExit:
+        raise
     except Exception as e:
         logging.error(f"未知错误: {e}", exc_info=True)
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

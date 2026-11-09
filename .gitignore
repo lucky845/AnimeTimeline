@@ -1,4 +1,7 @@
-.venv
-.vscode
-.idea
-__pycache__
+.venv/
+__pycache__/
+*.pyc
+.idea/
+data/.subject_cache.json
+.venv_test/
+.vscode/
