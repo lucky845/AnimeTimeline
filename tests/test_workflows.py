@@ -59,3 +59,58 @@ def test_no_reference_to_removed_dependencies():
         text = read(name)
         for dep in ("lxml", "pandas", "beautifulsoup4", "bs4"):
             assert dep not in text, f"{name} 又引入未使用的依赖 {dep}"
+
+def test_sync_workflow_pins_data_dir_and_index():
+    """年份文件必须写到 data/，索引单独落仓库根。
+
+    回归事故：不传 --data-dir 时默认值漂到仓库根，年份文件写进根目录，
+    与 data/ 里的历史形成两条互不相让的历史，自动合并 PR 必然冲突。
+    """
+    text = read("update-anime.yml")
+    assert "--data-dir data" in text, "缺少 --data-dir，年份文件会写回仓库根"
+    assert "--index-file" in text, "索引落点必须显式声明"
+
+
+def test_sync_workflow_uses_stable_branch():
+    """每天新建一个分支 -> 旧 PR 必然 CONFLICTING -> auto-merge 永远等不到。"""
+    text = read("update-anime.yml")
+    m = re.search(r"^\s*branch:\s*(.+)$", text, re.M)
+    assert m, "未找到 branch 配置"
+    assert m.group(1).strip() == "auto-update", f"分支名必须固定为 auto-update，当前 {m.group(1)!r}"
+
+
+def test_sync_workflow_limits_committed_paths():
+    """运行态缓存与根目录杂项绝不能进 PR：它们每天都在制造无关冲突。"""
+    text = read("update-anime.yml")
+    assert "add-paths:" in text, "必须限定提交范围"
+    assert ".subject_cache.json" not in text.split("add-paths:")[1].split("\n\n")[0], \
+        "缓存文件不得进入提交清单"
+
+
+def test_sync_workflow_serialises_runs():
+    """两条同步流水线并行 = 两个互相冲突的数据分支。"""
+    text = read("update-anime.yml")
+    assert "concurrency:" in text, "缺少并发约束"
+    assert "anime-data-sync" in text
+
+def test_index_links_match_stored_years(tmp_path):
+    """索引与 data/ 必须一一对应：旧索引长期只剩 3 年还挂着 None 年，守卫却全绿。"""
+    import sys
+    sys.path.insert(0, os.path.join(ROOT, "scripts"))
+    import check_data
+
+    idx = tmp_path / "Bangumi_Anime.md"
+    idx.write_text("- [2026年](data/2026.md)\n- [None年](None.md)\n", encoding="utf-8")
+    problems = check_data.check_index(str(idx), {"2026", "2025"})
+    assert any("漏了" in p for p in problems), problems
+    assert any("None" in p for p in problems), problems
+
+    idx.write_text("- [2026年](data/2026.md)\n- [2025年](data/2025.md)\n", encoding="utf-8")
+    assert check_data.check_index(str(idx), {"2026", "2025"}) == []
+
+
+def test_pages_workflow_does_not_nest_calendar_copy():
+    """cp -r data/calendar docs/calendar 会拷成 docs/calendar/calendar，链接全 404。"""
+    text = read("pages.yml")
+    assert "cp -r data/calendar docs/calendar" not in text, "日历又会被套一层目录"
+    assert "cp -a data/calendar/. docs/calendar/" in text

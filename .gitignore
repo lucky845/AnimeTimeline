@@ -1,14 +1,25 @@
 __pycache__/
 *.py[cod]
 .venv/
+.venv_test/
 build/
 dist/
 *.egg-info/
-data/.subject_cache.json
 .DS_Store
 .idea/
 .vscode/
-/2024.md
-/None.md
-docs/calendar/calendar/
+.pytest_cache/
+
+# 运行态缓存：可重建，绝不进仓库（进了就是每天 PR 冲突的燃料）
 .subject_cache.json
+data/.subject_cache.json
+*.subject_cache.json
+
+# 年份数据只允许存在于 data/ 下；仓库根只放索引 Bangumi_Anime.md
+/*.md
+!/README.md
+!/README_zh.md
+!/SECURITY.md
+!/Bangumi_Anime.md
+
+docs/calendar/calendar/

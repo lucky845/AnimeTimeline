@@ -39,6 +39,25 @@ def scan(path):
     return rows
 
 
+def check_index(path, years):
+    """索引链接的年份集合必须与 data/*.md 完全一致，且链接目标真实存在。"""
+    if not os.path.exists(path):
+        return [f"索引文件不存在: {path}"]
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    linked = set(re.findall(r"\]\(\s*(?:data/)?(\d{4})\.md\s*\)", text))
+    problems = []
+    missing = sorted(years - linked)
+    extra = sorted(linked - years)
+    if missing:
+        problems.append(f"{path}: 索引漏了 {len(missing)} 年: {', '.join(missing[:10])}")
+    if extra:
+        problems.append(f"{path}: 索引里有 {len(extra)} 年没有数据文件: {', '.join(extra[:10])}")
+    if "None年" in text or "None.md" in text:
+        problems.append(f"{path}: 索引里出现 None 年（无法解析年份的脏数据）")
+    return problems
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data-dir", default="data")
@@ -47,6 +66,10 @@ def main():
                     help="评分行数相对基线的下限比例")
     ap.add_argument("--baseline", default=".data-baseline.json")
     ap.add_argument("--today", default=None)
+    ap.add_argument("--repo-root", default=".",
+                    help="仓库根，用于检查散落的年份 md；传空可跳过")
+    ap.add_argument("--index", default="Bangumi_Anime.md",
+                    help="年份索引 md；传空字符串可跳过索引一致性检查")
     args = ap.parse_args()
 
     files = sorted(glob.glob(os.path.join(args.data_dir, "*.md")))
@@ -93,6 +116,22 @@ def main():
         if stale > args.max_stale_days:
             errors.append(
                 f"数据过期: 最新放送日 {last} 距今 {stale} 天 > {args.max_stale_days} 天")
+
+    # 规则 5：仓库根不许出现年份 md
+    # 2026-11 事故：CI 未传 --data-dir，年份文件全写进仓库根，与 data/ 打架。
+    if args.repo_root:
+        stray = sorted(
+            n for n in os.listdir(args.repo_root)
+            if re.fullmatch(r"\d{4}\.md", n) or n == "None.md"
+        )
+        if stray:
+            errors.append(
+                f"仓库根存在散落的年份文件 {stray}：年份数据只允许放在 {args.data_dir}/")
+
+    # 规则 4：索引必须与 data/ 里的年份文件一一对应
+    # 旧索引长期只剩 2024/2026/None 三年，却没人发现——索引和真实数据早就脱钩了。
+    if args.index:
+        errors.extend(check_index(args.index, {os.path.basename(p)[:-3] for p in files}))
 
     # 规则 2：评分行数不得大幅下降（相对基线）
     if os.path.exists(args.baseline):

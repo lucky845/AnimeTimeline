@@ -91,17 +91,17 @@ python -m pytest -q             # 单元测试
 ### 交互模式（手动运行）
 
 ```bash
-python pull.py interactive
+python -m animetimeline interactive
 ```
 
 - 根据提示输入年份范围（如 2010-2024）
 - 输入月份范围（可选，仅限单个年份时）
-- 数据将保存至 [Bangumi_Anime.md](Bangumi_Anime.md)
+- 年份数据保存至 `data/<年份>.md`，索引 [Bangumi_Anime.md](Bangumi_Anime.md) 落在仓库根
 
 ### 自动模式（脚本调用）
 
 ```bash
-python pull.py auto --year 2024 --month 3
+python -m animetimeline auto --year 2024 --month 3 --data-dir data --index-file Bangumi_Anime.md
 ```
 
 | 参数 | 说明 | 示例 |
@@ -109,6 +109,8 @@ python pull.py auto --year 2024 --month 3
 | --year | 目标年份（必填） | 2024 |
 | --month | 目标月份（可选） | 3 |
 | --concurrent | 并发数（默认 3） | 5 |
+| --data-dir | 年份文件目录（默认 `<cwd>/data`） | data |
+| --index-file | 索引 md 落点（默认由数据目录推导） | Bangumi_Anime.md |
 
 ### 自动化工作流
 
@@ -116,7 +118,7 @@ python pull.py auto --year 2024 --month 3
 # 定时任务：
 - 每日自动运行，更新当月数据
 - 每月 1 日补充更新上月数据
-- 自动生成版本化 Pull Request
+- 固定分支 auto-update 上续写同一个 PR，启用 auto-merge 后自动合并
 
 # 手动触发：
 - 支持通过 GitHub 界面手动触发更新
@@ -124,7 +126,8 @@ python pull.py auto --year 2024 --month 3
 
 ## 数据存储
 
-- 📂 数据文件：[Bangumi_Anime.md](Bangumi_Anime.md) - 包含完整的动漫时间线数据
+- 📂 索引文件：[Bangumi_Anime.md](Bangumi_Anime.md) - 按年份跳转的总目录
+- 📁 年份数据：`data/<年份>.md` - 每年一个文件，避免单文件过大无法预览
 - 🗂️ 版本控制：通过 Git 分支管理历史版本
 - 📊 数据结构：
 
@@ -141,9 +144,11 @@ AnimeTimeline/
 ├── .github/          # 自动化配置
 │   └── workflows/
 │       └── update-anime.yml  # 每日更新工作流
-├── pull.py           # 主程序（支持双模式）
+├── animetimeline/    # 可安装包（python -m animetimeline）
+├── data/             # 按年份拆分的数据文件
+├── scripts/          # 日历/站点构建与数据守卫
 ├── requirements.txt  # 依赖配置
-├── Bangumi_Anime.md  # 生成的数据文件
+├── Bangumi_Anime.md  # 生成的年份索引
 ├── SECURITY.md       # 安全政策
 └── README.md         # 本说明文档
 ```

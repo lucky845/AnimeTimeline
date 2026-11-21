@@ -24,9 +24,31 @@ JST = timezone(timedelta(hours=9))
 
 DEFAULT_CONCURRENT = 3
 MAX_CONCURRENT = int(os.environ.get("CONCURRENT_REQUESTS", DEFAULT_CONCURRENT))
-# 数据目录：由 --data-dir 或构造参数注入，默认当前工作目录（不在包内部写死路径）
+# 数据目录名：年份文件只落在这里，绝不落在仓库根（根目录只放索引 Bangumi_Anime.md）
+DATA_DIRNAME = "data"
+INDEX_FILENAME = "Bangumi_Anime.md"
+
+
 def resolve_data_dir(explicit: Optional[str] = None) -> str:
-    return os.path.abspath(explicit or os.environ.get("ANIMETIMELINE_DATA_DIR") or os.getcwd())
+    """数据目录优先级：显式参数 > 环境变量 > <cwd>/data。
+
+    默认不再用 cwd 本身：cwd 是仓库根，年份文件写进去就会和 data/ 里的旧文件
+    产生两条互不相让的历史，PR 必然冲突。
+    """
+    chosen = explicit or os.environ.get("ANIMETIMELINE_DATA_DIR")
+    if chosen:
+        return os.path.abspath(chosen)
+    return os.path.abspath(os.path.join(os.getcwd(), DATA_DIRNAME))
+
+
+def default_index_path(data_dir: str) -> str:
+    """索引文件位置：数据目录叫 data 时放它的上一级（仓库根），否则放在数据目录内。"""
+    data_dir = os.path.abspath(data_dir)
+    if os.path.basename(data_dir) == DATA_DIRNAME:
+        return os.path.join(os.path.dirname(data_dir), INDEX_FILENAME)
+    return os.path.join(data_dir, INDEX_FILENAME)
+
+
 # 缓存有效期（秒）。评分/话数会变化，缓存只是省请求，不是永久快照。
 CACHE_TTL = int(os.environ.get("CACHE_TTL_DAYS", "7")) * 86400
 
@@ -322,8 +344,12 @@ class BangumiScraper:
         if dup_total:
             raise SystemExit(2)
 
-    def generate_markdown(self, new_data: List[Dict], filename: str = "Bangumi_Anime.md"):
-        existing_data = self.parse_existing_markdown(filename) if os.path.exists(filename) else []
+    def generate_markdown(self, new_data: List[Dict], filename: Optional[str] = None):
+        # 索引默认写到数据目录的上一级（data/ 时即仓库根）
+        filename = filename or default_index_path(self.data_dir)
+        # 无条件回读：数据源是 data/*.md，与索引文件存不存在无关。
+        # 旧写法把"要不要保留历史"绑在索引文件上，索引一缺，历史数据就会被静默丢弃。
+        existing_data = self.parse_existing_markdown(filename)
 
         new_items_count = 0
         new_years_data = defaultdict(int)
@@ -367,8 +393,10 @@ class BangumiScraper:
 
         year_dict = defaultdict(list)
         for item in merged_data:
-            year = item.get("year", "未知")
-            if year in (0, "未知"):
+            year = item.get("year")
+            # None/0/空/"未知" 一律不落盘：旧实现只挡了 (0, "未知")，
+            # 解析失败时 year=None 会生成一个 "None.md"，索引里就会多出一个 None 年。
+            if not isinstance(year, int) or year <= 0:
                 continue
             year_dict[year].append(item)
 
@@ -410,17 +438,23 @@ class BangumiScraper:
             with open(os.path.join(self.data_dir, f"{year}.md"), "w", encoding="utf-8") as f:
                 f.write(md_content)
 
+        index_path = os.path.abspath(filename)
+        # 索引里的相对链接要看索引文件相对数据目录的位置：索引在仓库根时是 data/YYYY.md，
+        # 索引就地放在数据目录里时只需 YYYY.md（否则会裂出 data/data/）。
+        in_place = os.path.dirname(index_path) == os.path.abspath(self.data_dir)
+        link_prefix = "" if in_place else f"{DATA_DIRNAME}/"
+
         index = "# Bangumi番剧数据报告\n\n"
         index += "> 由于原始文件过大，GitHub 无法正常预览，现已按年份拆分存档。\n\n"
         index += "## 年份索引\n\n"
         for year in sorted_years:
-            index += f"- [{year}年](data/{year}.md)\n"
+            index += f"- [{year}年]({link_prefix}{year}.md)\n"
         index += "\n## 说明\n\n"
         index += "- 数据来源：[bangumi-data](https://github.com/bangumi-data/bangumi-data) + [Bangumi API](https://api.bgm.tv)\n"
         index += "- Bangumi.tv 番剧浏览页现已要求登录，故改用上述公开数据源\n"
         index += "- 每日自动更新（GitHub Actions）\n"
 
-        index_path = os.path.abspath(filename)
+        os.makedirs(os.path.dirname(index_path) or ".", exist_ok=True)
         with open(index_path, "w", encoding="utf-8") as f:
             f.write(index)
 
@@ -436,7 +470,12 @@ class BangumiScraper:
         existing_data = []
         parsed_count = 0
 
-        data_files = sorted(glob.glob(os.path.join(self.data_dir, "*.md")))
+        # 只认 YYYY.md：索引文件（Bangumi_Anime.md）与其它杂项 md 不是数据源，
+        # 读进来只会把历史脏数据再灌回合并层。
+        data_files = sorted(
+            path for path in glob.glob(os.path.join(self.data_dir, "*.md"))
+            if re.fullmatch(r"\d{4}\.md", os.path.basename(path))
+        )
         if not data_files:
             if not os.path.exists(filename):
                 return []
@@ -527,7 +566,8 @@ class BangumiScraper:
             auto_parser.add_argument("--month", type=int)
             auto_parser.add_argument("--concurrent", type=int, default=3)
 
-            auto_parser.add_argument("--data-dir", help="数据目录，默认当前工作目录")
+            auto_parser.add_argument("--data-dir", help="数据目录，默认 <cwd>/data")
+            auto_parser.add_argument("--index-file", help="年份索引 md 的落点，默认由数据目录推导")
             auto_parser.add_argument(
                 "--no-interactive", action="store_true",
                 help="非交互模式：年份/月份未给出时按所有年份处理（CI 用）",
@@ -560,8 +600,9 @@ class BangumiScraper:
                     self.process_month_input(month_input) if month_input else (None, None)
                 )
 
-            output_file = os.path.join(self.data_dir, "Bangumi_Anime.md")
-            logging.info(f"📝 输出文件: {output_file}")
+            output_file = getattr(args, "index_file", None) or default_index_path(self.data_dir)
+            output_file = os.path.abspath(output_file)
+            logging.info(f"📝 数据目录: {self.data_dir} | 索引文件: {output_file}")
 
             data = await self.scrape_time_range(
                 start_year, end_year, start_month, end_month

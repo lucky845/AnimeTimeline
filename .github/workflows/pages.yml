@@ -43,7 +43,12 @@ jobs:
       - name: Build static site
         run: |
           python scripts/build_site.py
-          cp -r data/calendar docs/calendar
+          # 用 data/calendar/. + -a：直接 cp -r 会把 data/calendar 拷成 docs/calendar/calendar，
+          # 每跑一次就多套一层，站点里的 calendar/<year>.ics 链接会 404
+          rm -rf docs/calendar
+          mkdir -p docs/calendar
+          cp -a data/calendar/. docs/calendar/
+          python scripts/check_calendar.py
 
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -95,17 +95,17 @@ Both run in `pr-check.yml` and `update-anime.yml`; a failing guard blocks the au
 ### Interactive Mode (Manual Operation)
 
 ```bash
-python pull.py interactive
+python -m animetimeline interactive
 ```
 
 - Enter year range as prompted (e.g., 2010-2024)
 - Enter month range (optional, only for single year)
-- Data will be saved to [Bangumi_Anime.md](Bangumi_Anime.md)
+- Year files go to `data/<year>.md`; the index [Bangumi_Anime.md](Bangumi_Anime.md) stays at the repo root
 
 ### Automatic Mode (Script Call)
 
 ```bash
-python pull.py auto --year 2024 --month 3
+python -m animetimeline auto --year 2024 --month 3 --data-dir data --index-file Bangumi_Anime.md
 ```
 
 | Parameter | Description | Example |
@@ -113,6 +113,8 @@ python pull.py auto --year 2024 --month 3
 | --year | Target year (required) | 2024 |
 | --month | Target month (optional) | 3 |
 | --concurrent | Concurrency (default 3) | 5 |
+| --data-dir | Directory for year files (default `<cwd>/data`) | data |
+| --index-file | Where the index markdown goes (default derived) | Bangumi_Anime.md |
 
 ### Automated Workflow
 
@@ -120,7 +122,7 @@ python pull.py auto --year 2024 --month 3
 # Scheduled tasks:
 - Daily automatic updates for current month data
 - Monthly supplementary updates for previous month on the 1st day
-- Automatic generation of versioned Pull Requests
+- One long-lived PR on the `auto-update` branch, squashed automatically once checks pass
 
 # Manual triggers:
 - Support for manual updates through GitHub interface
@@ -128,7 +130,8 @@ python pull.py auto --year 2024 --month 3
 
 ## Data Storage
 
-- 📂 Data file: [Bangumi_Anime.md](Bangumi_Anime.md) - Contains the complete anime timeline data
+- 📂 Index: [Bangumi_Anime.md](Bangumi_Anime.md) - Year-by-year table of contents
+- 📁 Year files: `data/<year>.md` - One file per year so GitHub can preview them
 - 🗂️ Version control: Historical versions managed through Git branches
 - 📊 Data structure:
 
@@ -145,9 +148,11 @@ AnimeTimeline/
 ├── .github/          # Automation configuration
 │   └── workflows/
 │       └── update-anime.yml  # Daily update workflow
-├── pull.py           # Main program (supports dual mode)
+├── animetimeline/    # Installable package (python -m animetimeline)
+├── data/             # Year-split data files
+├── scripts/          # Calendar/site builders and data guards
 ├── requirements.txt  # Dependency configuration
-├── Bangumi_Anime.md  # Generated data file
+├── Bangumi_Anime.md  # Generated year index
 ├── SECURITY.md       # Security policy
 └── README.md         # This documentation
 ```
