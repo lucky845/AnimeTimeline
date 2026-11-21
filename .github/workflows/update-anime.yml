@@ -9,13 +9,43 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  # 同一时刻只允许一条同步流水线：上一条还没合并就再跑一条，只会制造互相冲突的 PR
+  group: anime-data-sync
+  cancel-in-progress: false
+
 jobs:
   update-anime:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Shanghai
     steps:
+      - name: Preflight — 检查自动合并所需令牌
+        # 静默停摆比报错更贵：2026-11-15 起连续 6 个 PR 卡死，就是因为没人发现
+        # bot 建的 PR 触发的 workflow 一直停在 action_required。
+        env:
+          SYNC_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          if [ -z "$SYNC_TOKEN" ]; then
+            echo "::error::缺少 secrets.GH_TOKEN。GITHUB_TOKEN 创建的 PR 会触发 action_required（需人工批准），"
+            echo "::error::main 的分支保护又要求 quick-check，auto-merge 将永远等不到。"
+            echo "::error::请配置一个带 repo 权限的 PAT 到 secrets.GH_TOKEN。"
+            exit 1
+          fi
+          me=$(curl -sS -H "Authorization: Bearer $SYNC_TOKEN" https://api.github.com/user | python -c "import json,sys;print(json.load(sys.stdin).get('login',''))")
+          if [ -z "$me" ]; then
+            echo "::error::secrets.GH_TOKEN 无效或已过期，请重新生成 PAT。"
+            exit 1
+          fi
+          echo "✅ 同步令牌身份: $me（建出的 PR 会正常触发 pull_request workflow）"
+
       - uses: actions/checkout@v4
+        with:
+          # 用 PAT 建分支/建 PR：GITHUB_TOKEN 创建的 PR 触发的 pull_request 工作流
+          # 处于 action_required（需人工批准），quick-check 永远不跑，
+          # 而 main 的分支保护要求 quick-check -> auto-merge 永远等不到。
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -37,9 +67,13 @@ jobs:
         env:
           CONCURRENT_REQUESTS: 3
         run: |
+          # --data-dir / --index-file 必须显式给：默认值一旦漂移，
+          # 年份文件会写回仓库根，和 data/ 里的历史形成永久冲突（2026-11 事故）
           python -m animetimeline auto \
             --year ${{ env.CURRENT_YEAR }} \
-            --month ${{ env.CURRENT_MONTH }}
+            --month ${{ env.CURRENT_MONTH }} \
+            --data-dir data \
+            --index-file Bangumi_Anime.md
 
       - name: Data corruption guard
         # 守卫失败 -> job 红，create-pull-request 不执行，坏数据进不了 main
@@ -51,24 +85,30 @@ jobs:
 
       - name: Create Pull Request
         id: create-pr
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 固定分支名：每天一个 auto-update/YYYY-MM-DD 会让旧 PR 全部失去意义，
+          # 主分支一动它们就 CONFLICTING，auto-merge 永远等不到。固定分支 = 每日续写同一个 PR。
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           commit-message: "chore: Auto update anime data (${{ env.CURRENT_DATE }})"
           title: "🤖 Auto Update (${{ env.CURRENT_YEAR }}-${{ env.CURRENT_MONTH }})"
           body: |
             ### 自动更新详情
             - 更新时间: ${{ env.CURRENT_DATE }}
             - 触发方式: ${{ github.event_name || 'schedule' }}
-          branch: "auto-update/${{ env.CURRENT_DATE }}"
+          branch: auto-update
           base: main
-          delete-branch: true
+          delete-branch: false
+          # 只提交数据与索引，运行态缓存和仓库根杂项绝不进 PR
+          add-paths: |
+            data
+            Bangumi_Anime.md
           labels: automerge
 
       - name: Enable Auto-Merge
         if: steps.create-pr.outputs.pull-request-number != ''
-        uses: peter-evans/enable-pull-request-automerge@v2
+        uses: peter-evans/enable-pull-request-automerge@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
           merge-method: squash
