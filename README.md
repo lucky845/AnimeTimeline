@@ -1,8 +1,17 @@
 # AnimeTimeline
 
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](#installation)
+[![Update](https://img.shields.io/github/actions/workflow/status/lucky845/AnimeTimeline/update-anime.yml?style=flat-square&label=auto-update)](https://github.com/lucky845/AnimeTimeline/actions/workflows/update-anime.yml)
+[![Live](https://img.shields.io/badge/live-animetimeline.lucky845.top-4EC2C6?style=flat-square)](https://animetimeline.lucky845.top)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](#contributing)
+
 [中文版](README_zh.md)
 
 A Python tool for crawling and organizing anime broadcast information, supporting retrieval of anime information by year and month, and saving in Markdown format. Includes automated update workflows for daily synchronization of the latest anime data.
+
+> [!NOTE]
+> **Public data source, no login required.** Since Nov 2026 this project reads from [bangumi-data](https://github.com/bangumi-data/bangumi-data) instead of scraping Bangumi.tv — no cookies, no proxy, works in CI.
 
 ## Features
 
@@ -17,7 +26,8 @@ A Python tool for crawling and organizing anime broadcast information, supportin
 
 ## Data Source
 
-> ⚠️ **Important change**: Bangumi.tv now requires login to browse `/anime/browser/airtime/*` pages, so HTML scraping no longer works in CI environments without authentication.
+> [!IMPORTANT]
+> **Important change**: Bangumi.tv now requires login to browse `/anime/browser/airtime/*` pages, so HTML scraping no longer works in CI environments without authentication.
 
 Since Nov 2026, this project uses [bangumi-data](https://github.com/bangumi-data/bangumi-data) as the data source:
 
@@ -39,7 +49,7 @@ Since Nov 2026, this project uses [bangumi-data](https://github.com/bangumi-data
 
 Missing values are **never written over existing real data** — if the metadata API fails, the merge layer keeps the previous value instead of overwriting it with `-`.
 
-## 📅 Calendar Subscription (new)
+## Calendar Subscription (new)
 
 Beyond the Markdown tables, the project generates a real **weekly broadcast calendar**:
 
@@ -55,7 +65,7 @@ python scripts/check_calendar.py                   # validate structure / UID / 
 python scripts/build_site.py                       # render docs/index.html
 ```
 
-## ✅ Data quality guards
+## Data quality guards
 
 ```bash
 python scripts/check_data.py    # table shape, duplicate subjects, score format

@@ -1,8 +1,17 @@
 # AnimeTimeline 动漫时间线
 
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](#安装说明)
+[![Auto Update](https://img.shields.io/github/actions/workflow/status/lucky845/AnimeTimeline/update-anime.yml?style=flat-square&label=自动更新)](https://github.com/lucky845/AnimeTimeline/actions/workflows/update-anime.yml)
+[![Live](https://img.shields.io/badge/live-animetimeline.lucky845.top-4EC2C6?style=flat-square)](https://animetimeline.lucky845.top)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](#贡献指南)
+
 [English Version](README.md)
 
 一个用于爬取和整理番剧放送信息的 Python 工具，支持按年份和月份获取动漫信息，并以 Markdown 格式保存。包含自动化更新工作流，支持每日自动同步最新番剧数据。
+
+> [!NOTE]
+> **公开数据源、无需登录。** 自 2026-11 起改用 [bangumi-data](https://github.com/bangumi-data/bangumi-data) 作为数据源，不再爬取 Bangumi.tv —— 无需 Cookie / 代理，CI 里也能稳定运行。
 
 ## 功能特点
 
@@ -17,7 +26,8 @@
 
 ## 数据源说明
 
-> ⚠️ **重要变更**：Bangumi.tv 现已要求登录后才能查看番剧浏览页面（`/anime/browser/airtime/*`），导致原有的 HTML 爬取方案在 GitHub Actions 等无登录环境下无法获取数据。
+> [!IMPORTANT]
+> **重要变更**：Bangumi.tv 现已要求登录后才能查看番剧浏览页面（`/anime/browser/airtime/*`），导致原有的 HTML 爬取方案在 GitHub Actions 等无登录环境下无法获取数据。
 
 因此自 2026-11 起，本项目数据源切换为 [bangumi-data](https://github.com/bangumi-data/bangumi-data)：
 
@@ -37,9 +47,10 @@
 | 封面图 | ✅ | ✅（通过 `api.bgm.tv` 回填） |
 | 每周播出时间 | ❌ | ✅（`broadcast` ISO-8601 重复规则） |
 
+> [!TIP]
 > 空值**绝不覆盖**已有真值：元数据接口失败时，合并层会保留旧数据，而不是把它改写成 `-`。
 
-## 📅 日历订阅（新增）
+## 日历订阅（新增）
 
 除了 Markdown 表格，项目还会生成真正的**每周播出日历**：
 
@@ -55,7 +66,7 @@ python scripts/check_calendar.py                   # 校验结构 / UID / RFC 55
 python scripts/build_site.py                       # 渲染 docs/index.html
 ```
 
-## ✅ 数据质量守卫
+## 数据质量守卫
 
 ```bash
 python scripts/check_data.py    # 表头、重复 subject、评分格式
